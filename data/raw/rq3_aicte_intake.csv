@@ -1,0 +1,7 @@
+_sl__no_,academic_year,number_of_government_engineering_institutes,approved_seats_in_government_engineering_institutes,dataset_label,_year,intake,enrollment,ph_enrollment,data_source,retrieval_date
+1.0,2019-20,506.0,170177.0,aicte_inst,,,,,AICTE_datagov_api,2026-04-26
+2.0,2020-21,522.0,173932.0,aicte_inst,,,,,AICTE_datagov_api,2026-04-26
+3.0,2021-22,534.0,177553.0,aicte_inst,,,,,AICTE_datagov_api,2026-04-26
+,,,,aicte_enrol,2014-15,3961662.0,2138023.0,3647.0,AICTE_datagov_api,2026-04-26
+,,,,aicte_enrol,2015-16,3835795.0,2076395.0,3711.0,AICTE_datagov_api,2026-04-26
+,,,,aicte_enrol,2016-17,3701674.0,1932644.0,3115.0,AICTE_datagov_api,2026-04-26

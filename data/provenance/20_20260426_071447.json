@@ -1,0 +1,104 @@
+{
+  "script_name": 20,
+  "research_question": "IEA_Electricity",
+  "data_source": "RQ4",
+  "extraction_start": "2026-04-26T07:13:39.601449+00:00",
+  "extraction_end": "2026-04-26T07:14:47.890868+00:00",
+  "total_api_calls": 4,
+  "total_errors": 2,
+  "entries": [
+    {
+      "timestamp": "2026-04-26T07:13:41.171159+00:00",
+      "type": "api_call",
+      "url": "https://api.data.gov.in/resource/948ebec1-52eb-44d3-a97c-1761f8ad4c54",
+      "params": {
+        "resource": "948ebec1-52eb-44d3-a97c-1761f8ad4c54"
+      },
+      "http_status": 200,
+      "rows_returned": 59,
+      "notes": "Thermal Power Station Tariff"
+    },
+    {
+      "timestamp": "2026-04-26T07:13:42.323194+00:00",
+      "type": "api_call",
+      "url": "https://api.data.gov.in/resource/97d10fda-6480-4895-8754-2e041021f848",
+      "params": {
+        "resource": "97d10fda-6480-4895-8754-2e041021f848"
+      },
+      "http_status": 200,
+      "rows_returned": 11,
+      "notes": "Central Power Station Tariff"
+    },
+    {
+      "timestamp": "2026-04-26T07:13:43.421011+00:00",
+      "type": "api_call",
+      "url": "https://api.data.gov.in/resource/9a0d4b8a-3581-4676-a834-da0b837385b4",
+      "params": {
+        "resource": "9a0d4b8a-3581-4676-a834-da0b837385b4"
+      },
+      "http_status": 200,
+      "rows_returned": 23,
+      "notes": "Generating Station Tariff Statement"
+    },
+    {
+      "timestamp": "2026-04-26T07:14:17.805249+00:00",
+      "type": "api_call",
+      "url": "https://api.worldbank.org/v2/country/IND;KOR;MYS;VNM;CHN;USA;JPN;DEU/indicator/EG.ELC.COAL.ZS",
+      "params": {
+        "format": "json",
+        "per_page": 200,
+        "date": "2015:2023"
+      },
+      "http_status": 200,
+      "rows_returned": 72,
+      "notes": "electricity_from_coal_pct"
+    },
+    {
+      "timestamp": "2026-04-26T07:14:47.859686+00:00",
+      "type": "transform",
+      "operation": "compile_wb_electricity",
+      "input_rows": 0,
+      "output_rows": 72,
+      "columns": [
+        "country",
+        "iso3",
+        "year",
+        "indicator",
+        "value"
+      ],
+      "notes": "World Bank Live API"
+    }
+  ],
+  "errors": [
+    {
+      "timestamp": "2026-04-26T07:14:13.496085+00:00",
+      "error": "HTTPSConnectionPool(host='api.worldbank.org', port=443): Read timed out. (read timeout=30)",
+      "context": "World Bank electricity_consumption_kwh_per_capita"
+    },
+    {
+      "timestamp": "2026-04-26T07:14:47.858293+00:00",
+      "error": "HTTPSConnectionPool(host='api.worldbank.org', port=443): Read timed out. (read timeout=30)",
+      "context": "World Bank electricity_from_renewables_pct"
+    }
+  ],
+  "output": {
+    "csv_path": "nsemi_data/raw/rq4_worldbank_electricity_indicators.csv",
+    "total_rows": 72,
+    "total_columns": 7,
+    "null_cell_count": 0,
+    "null_percentage": 0.0,
+    "column_names": [
+      "country",
+      "iso3",
+      "year",
+      "indicator",
+      "value",
+      "data_source",
+      "retrieval_date"
+    ]
+  },
+  "environment": {
+    "python_version": "3.12.13 (main, Mar  4 2026, 09:23:07) [GCC 11.4.0]",
+    "platform": "Linux-6.6.113+-x86_64-with-glibc2.35"
+  }
+}

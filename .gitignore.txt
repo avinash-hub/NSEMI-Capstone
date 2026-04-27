@@ -1,0 +1,21 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.ipynb_checkpoints/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Editors
+.vscode/
+.idea/
+
+# Large files we won't track
+*.tmp
+*.log
+
+# Sensitive data (just in case)
+*.env
+api_keys.txt

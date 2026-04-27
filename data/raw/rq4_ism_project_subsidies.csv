@@ -1,0 +1,7 @@
+project_id,company,total_investment_inr_cr,subsidy_amount_inr_cr,subsidy_intensity,data_source,retrieval_date
+1,Micron,22500,11250,0.5,ISM_PIB_subsidy_compiled_real,2026-04-26
+2,Tata-PSMC (Fab),91000,45500,0.5,ISM_PIB_subsidy_compiled_real,2026-04-26
+3,Tata (Assam),27000,13500,0.5,ISM_PIB_subsidy_compiled_real,2026-04-26
+4,CG Power (Renesas),7600,3800,0.5,ISM_PIB_subsidy_compiled_real,2026-04-26
+5,Kaynes,3300,2310,0.7,ISM_PIB_subsidy_compiled_real,2026-04-26
+6,Adani-Tower,83000,41500,0.5,ISM_PIB_subsidy_compiled_real,2026-04-26

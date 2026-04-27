@@ -1,0 +1,437 @@
+{
+  "script_name": "2",
+  "research_question": "UN_Comtrade",
+  "data_source": "RQ1",
+  "extraction_start": "2026-04-26T06:05:50.720457+00:00",
+  "extraction_end": "2026-04-26T06:08:46.726544+00:00",
+  "total_api_calls": 32,
+  "total_errors": 0,
+  "entries": [
+    {
+      "timestamp": "2026-04-26T06:05:51.827217+00:00",
+      "type": "api_call",
+      "url": "https://comtradeapi.un.org/data/v1/get/C/A/356/0/3818",
+      "params": {
+        "reporter": "India",
+        "hs": "3818"
+      },
+      "http_status": 200,
+      "rows_returned": 0,
+      "notes": "Raw_Materials"
+    },
+    {
+      "timestamp": "2026-04-26T06:05:54.211361+00:00",
+      "type": "api_call",
+      "url": "https://comtradeapi.un.org/data/v1/get/C/A/356/0/8486",
+      "params": {
+        "reporter": "India",
+        "hs": "8486"
+      },
+      "http_status": 200,
+      "rows_returned": 0,
+      "notes": "Equipment"
+    },
+    {
+      "timestamp": "2026-04-26T06:05:58.295873+00:00",
+      "type": "api_call",
+      "url": "https://comtradeapi.un.org/data/v1/get/C/A/356/0/8541",
+      "params": {
+        "reporter": "India",
+        "hs": "8541"
+      },
+      "http_status": 200,
+      "rows_returned": 0,
+      "notes": "Devices"
+    },
+    {
+      "timestamp": "2026-04-26T06:06:00.451498+00:00",
+      "type": "api_call",
+      "url": "https://comtradeapi.un.org/data/v1/get/C/A/356/0/8542",
+      "params": {
+        "reporter": "India",
+        "hs": "8542"
+      },
+      "http_status": 200,
+      "rows_returned": 0,
+      "notes": "ICs"
+    },
+    {
+      "timestamp": "2026-04-26T06:06:05.415741+00:00",
+      "type": "api_call",
+      "url": "https://comtradeapi.un.org/data/v1/get/C/A/410/0/3818",
+      "params": {
+        "reporter": "South Korea",
+        "hs": "3818"
+      },
+      "http_status": 200,
+      "rows_returned": 9,
+      "notes": "Raw_Materials"
+    },
+    {
+      "timestamp": "2026-04-26T06:06:11.947068+00:00",
+      "type": "api_call",
+      "url": "https://comtradeapi.un.org/data/v1/get/C/A/410/0/8486",
+      "params": {
+        "reporter": "South Korea",
+        "hs": "8486"
+      },
+      "http_status": 200,
+      "rows_returned": 9,
+      "notes": "Equipment"
+    },
+    {
+      "timestamp": "2026-04-26T06:06:15.510542+00:00",
+      "type": "api_call",
+      "url": "https://comtradeapi.un.org/data/v1/get/C/A/410/0/8541",
+      "params": {
+        "reporter": "South Korea",
+        "hs": "8541"
+      },
+      "http_status": 200,
+      "rows_returned": 9,
+      "notes": "Devices"
+    },
+    {
+      "timestamp": "2026-04-26T06:06:20.076815+00:00",
+      "type": "api_call",
+      "url": "https://comtradeapi.un.org/data/v1/get/C/A/410/0/8542",
+      "params": {
+        "reporter": "South Korea",
+        "hs": "8542"
+      },
+      "http_status": 200,
+      "rows_returned": 9,
+      "notes": "ICs"
+    },
+    {
+      "timestamp": "2026-04-26T06:06:28.038728+00:00",
+      "type": "api_call",
+      "url": "https://comtradeapi.un.org/data/v1/get/C/A/156/0/3818",
+      "params": {
+        "reporter": "China",
+        "hs": "3818"
+      },
+      "http_status": 200,
+      "rows_returned": 85,
+      "notes": "Raw_Materials"
+    },
+    {
+      "timestamp": "2026-04-26T06:06:36.553596+00:00",
+      "type": "api_call",
+      "url": "https://comtradeapi.un.org/data/v1/get/C/A/156/0/8486",
+      "params": {
+        "reporter": "China",
+        "hs": "8486"
+      },
+      "http_status": 200,
+      "rows_returned": 99,
+      "notes": "Equipment"
+    },
+    {
+      "timestamp": "2026-04-26T06:06:43.180284+00:00",
+      "type": "api_call",
+      "url": "https://comtradeapi.un.org/data/v1/get/C/A/156/0/8541",
+      "params": {
+        "reporter": "China",
+        "hs": "8541"
+      },
+      "http_status": 200,
+      "rows_returned": 161,
+      "notes": "Devices"
+    },
+    {
+      "timestamp": "2026-04-26T06:06:50.582768+00:00",
+      "type": "api_call",
+      "url": "https://comtradeapi.un.org/data/v1/get/C/A/156/0/8542",
+      "params": {
+        "reporter": "China",
+        "hs": "8542"
+      },
+      "http_status": 200,
+      "rows_returned": 171,
+      "notes": "ICs"
+    },
+    {
+      "timestamp": "2026-04-26T06:06:58.094394+00:00",
+      "type": "api_call",
+      "url": "https://comtradeapi.un.org/data/v1/get/C/A/842/0/3818",
+      "params": {
+        "reporter": "USA",
+        "hs": "3818"
+      },
+      "http_status": 200,
+      "rows_returned": 9,
+      "notes": "Raw_Materials"
+    },
+    {
+      "timestamp": "2026-04-26T06:07:07.100655+00:00",
+      "type": "api_call",
+      "url": "https://comtradeapi.un.org/data/v1/get/C/A/842/0/8486",
+      "params": {
+        "reporter": "USA",
+        "hs": "8486"
+      },
+      "http_status": 200,
+      "rows_returned": 9,
+      "notes": "Equipment"
+    },
+    {
+      "timestamp": "2026-04-26T06:07:13.159942+00:00",
+      "type": "api_call",
+      "url": "https://comtradeapi.un.org/data/v1/get/C/A/842/0/8541",
+      "params": {
+        "reporter": "USA",
+        "hs": "8541"
+      },
+      "http_status": 200,
+      "rows_returned": 9,
+      "notes": "Devices"
+    },
+    {
+      "timestamp": "2026-04-26T06:07:19.678277+00:00",
+      "type": "api_call",
+      "url": "https://comtradeapi.un.org/data/v1/get/C/A/842/0/8542",
+      "params": {
+        "reporter": "USA",
+        "hs": "8542"
+      },
+      "http_status": 200,
+      "rows_returned": 9,
+      "notes": "ICs"
+    },
+    {
+      "timestamp": "2026-04-26T06:07:24.586723+00:00",
+      "type": "api_call",
+      "url": "https://comtradeapi.un.org/data/v1/get/C/A/458/0/3818",
+      "params": {
+        "reporter": "Malaysia",
+        "hs": "3818"
+      },
+      "http_status": 200,
+      "rows_returned": 33,
+      "notes": "Raw_Materials"
+    },
+    {
+      "timestamp": "2026-04-26T06:07:27.994416+00:00",
+      "type": "api_call",
+      "url": "https://comtradeapi.un.org/data/v1/get/C/A/458/0/8486",
+      "params": {
+        "reporter": "Malaysia",
+        "hs": "8486"
+      },
+      "http_status": 200,
+      "rows_returned": 33,
+      "notes": "Equipment"
+    },
+    {
+      "timestamp": "2026-04-26T06:07:32.319603+00:00",
+      "type": "api_call",
+      "url": "https://comtradeapi.un.org/data/v1/get/C/A/458/0/8541",
+      "params": {
+        "reporter": "Malaysia",
+        "hs": "8541"
+      },
+      "http_status": 200,
+      "rows_returned": 33,
+      "notes": "Devices"
+    },
+    {
+      "timestamp": "2026-04-26T06:07:38.341011+00:00",
+      "type": "api_call",
+      "url": "https://comtradeapi.un.org/data/v1/get/C/A/458/0/8542",
+      "params": {
+        "reporter": "Malaysia",
+        "hs": "8542"
+      },
+      "http_status": 200,
+      "rows_returned": 33,
+      "notes": "ICs"
+    },
+    {
+      "timestamp": "2026-04-26T06:07:44.624893+00:00",
+      "type": "api_call",
+      "url": "https://comtradeapi.un.org/data/v1/get/C/A/704/0/3818",
+      "params": {
+        "reporter": "Vietnam",
+        "hs": "3818"
+      },
+      "http_status": 200,
+      "rows_returned": 14,
+      "notes": "Raw_Materials"
+    },
+    {
+      "timestamp": "2026-04-26T06:07:50.563865+00:00",
+      "type": "api_call",
+      "url": "https://comtradeapi.un.org/data/v1/get/C/A/704/0/8486",
+      "params": {
+        "reporter": "Vietnam",
+        "hs": "8486"
+      },
+      "http_status": 200,
+      "rows_returned": 16,
+      "notes": "Equipment"
+    },
+    {
+      "timestamp": "2026-04-26T06:07:55.894306+00:00",
+      "type": "api_call",
+      "url": "https://comtradeapi.un.org/data/v1/get/C/A/704/0/8541",
+      "params": {
+        "reporter": "Vietnam",
+        "hs": "8541"
+      },
+      "http_status": 200,
+      "rows_returned": 16,
+      "notes": "Devices"
+    },
+    {
+      "timestamp": "2026-04-26T06:08:01.389584+00:00",
+      "type": "api_call",
+      "url": "https://comtradeapi.un.org/data/v1/get/C/A/704/0/8542",
+      "params": {
+        "reporter": "Vietnam",
+        "hs": "8542"
+      },
+      "http_status": 200,
+      "rows_returned": 16,
+      "notes": "ICs"
+    },
+    {
+      "timestamp": "2026-04-26T06:08:08.888105+00:00",
+      "type": "api_call",
+      "url": "https://comtradeapi.un.org/data/v1/get/C/A/276/0/3818",
+      "params": {
+        "reporter": "Germany",
+        "hs": "3818"
+      },
+      "http_status": 200,
+      "rows_returned": 500,
+      "notes": "Raw_Materials"
+    },
+    {
+      "timestamp": "2026-04-26T06:08:15.689716+00:00",
+      "type": "api_call",
+      "url": "https://comtradeapi.un.org/data/v1/get/C/A/276/0/8486",
+      "params": {
+        "reporter": "Germany",
+        "hs": "8486"
+      },
+      "http_status": 200,
+      "rows_returned": 500,
+      "notes": "Equipment"
+    },
+    {
+      "timestamp": "2026-04-26T06:08:21.413146+00:00",
+      "type": "api_call",
+      "url": "https://comtradeapi.un.org/data/v1/get/C/A/276/0/8541",
+      "params": {
+        "reporter": "Germany",
+        "hs": "8541"
+      },
+      "http_status": 200,
+      "rows_returned": 500,
+      "notes": "Devices"
+    },
+    {
+      "timestamp": "2026-04-26T06:08:27.950860+00:00",
+      "type": "api_call",
+      "url": "https://comtradeapi.un.org/data/v1/get/C/A/276/0/8542",
+      "params": {
+        "reporter": "Germany",
+        "hs": "8542"
+      },
+      "http_status": 200,
+      "rows_returned": 500,
+      "notes": "ICs"
+    },
+    {
+      "timestamp": "2026-04-26T06:08:31.741272+00:00",
+      "type": "api_call",
+      "url": "https://comtradeapi.un.org/data/v1/get/C/A/392/0/3818",
+      "params": {
+        "reporter": "Japan",
+        "hs": "3818"
+      },
+      "http_status": 200,
+      "rows_returned": 9,
+      "notes": "Raw_Materials"
+    },
+    {
+      "timestamp": "2026-04-26T06:08:35.894729+00:00",
+      "type": "api_call",
+      "url": "https://comtradeapi.un.org/data/v1/get/C/A/392/0/8486",
+      "params": {
+        "reporter": "Japan",
+        "hs": "8486"
+      },
+      "http_status": 200,
+      "rows_returned": 9,
+      "notes": "Equipment"
+    },
+    {
+      "timestamp": "2026-04-26T06:08:40.747269+00:00",
+      "type": "api_call",
+      "url": "https://comtradeapi.un.org/data/v1/get/C/A/392/0/8541",
+      "params": {
+        "reporter": "Japan",
+        "hs": "8541"
+      },
+      "http_status": 200,
+      "rows_returned": 9,
+      "notes": "Devices"
+    },
+    {
+      "timestamp": "2026-04-26T06:08:45.176351+00:00",
+      "type": "api_call",
+      "url": "https://comtradeapi.un.org/data/v1/get/C/A/392/0/8542",
+      "params": {
+        "reporter": "Japan",
+        "hs": "8542"
+      },
+      "http_status": 200,
+      "rows_returned": 9,
+      "notes": "ICs"
+    },
+    {
+      "timestamp": "2026-04-26T06:08:46.684265+00:00",
+      "type": "transform",
+      "operation": "compile",
+      "input_rows": 2818,
+      "output_rows": 2818,
+      "columns": [
+        "reporter_code",
+        "reporter_name",
+        "year",
+        "hs_code",
+        "segment",
+        "flow",
+        "trade_value_usd",
+        "quantity"
+      ],
+      "notes": ""
+    }
+  ],
+  "errors": [],
+  "output": {
+    "csv_path": "nsemi_data/raw/rq1_comtrade_crosscountry.csv",
+    "total_rows": 2818,
+    "total_columns": 10,
+    "null_cell_count": 9,
+    "null_percentage": 0.03,
+    "column_names": [
+      "reporter_code",
+      "reporter_name",
+      "year",
+      "hs_code",
+      "segment",
+      "flow",
+      "trade_value_usd",
+      "quantity",
+      "data_source",
+      "retrieval_date"
+    ]
+  },
+  "environment": {
+    "python_version": "3.12.13 (main, Mar  4 2026, 09:23:07) [GCC 11.4.0]",
+    "platform": "Linux-6.6.113+-x86_64-with-glibc2.35"
+  }
+}

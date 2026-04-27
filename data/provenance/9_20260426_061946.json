@@ -1,0 +1,77 @@
+{
+  "script_name": 9,
+  "research_question": "DGFT_TRADESTAT",
+  "data_source": "RQ1",
+  "extraction_start": "2026-04-26T06:19:30.288779+00:00",
+  "extraction_end": "2026-04-26T06:19:46.304016+00:00",
+  "total_api_calls": 4,
+  "total_errors": 0,
+  "entries": [
+    {
+      "timestamp": "2026-04-26T06:19:35.070117+00:00",
+      "type": "api_call",
+      "url": "https://tradestat.commerce.gov.in/meidb/commodity_wise_all_countries_import",
+      "params": {
+        "hs": "3818"
+      },
+      "http_status": 200,
+      "rows_returned": 26,
+      "notes": "Raw_Materials"
+    },
+    {
+      "timestamp": "2026-04-26T06:19:38.806019+00:00",
+      "type": "api_call",
+      "url": "https://tradestat.commerce.gov.in/meidb/commodity_wise_all_countries_import",
+      "params": {
+        "hs": "8486"
+      },
+      "http_status": 200,
+      "rows_returned": 26,
+      "notes": "Equipment"
+    },
+    {
+      "timestamp": "2026-04-26T06:19:42.543697+00:00",
+      "type": "api_call",
+      "url": "https://tradestat.commerce.gov.in/meidb/commodity_wise_all_countries_import",
+      "params": {
+        "hs": "8541"
+      },
+      "http_status": 200,
+      "rows_returned": 26,
+      "notes": "Devices"
+    },
+    {
+      "timestamp": "2026-04-26T06:19:46.283554+00:00",
+      "type": "api_call",
+      "url": "https://tradestat.commerce.gov.in/meidb/commodity_wise_all_countries_import",
+      "params": {
+        "hs": "8542"
+      },
+      "http_status": 200,
+      "rows_returned": 26,
+      "notes": "ICs"
+    }
+  ],
+  "errors": [],
+  "output": {
+    "csv_path": "nsemi_data/raw/rq1_dgft_tradestat.csv",
+    "total_rows": 26,
+    "total_columns": 8,
+    "null_cell_count": 0,
+    "null_percentage": 0.0,
+    "column_names": [
+      "hs_code",
+      "segment",
+      "month",
+      "year",
+      "country",
+      "import_value",
+      "data_source",
+      "retrieval_date"
+    ]
+  },
+  "environment": {
+    "python_version": "3.12.13 (main, Mar  4 2026, 09:23:07) [GCC 11.4.0]",
+    "platform": "Linux-6.6.113+-x86_64-with-glibc2.35"
+  }
+}

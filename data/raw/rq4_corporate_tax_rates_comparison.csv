@@ -1,0 +1,11 @@
+country,iso3,statutory_rate_pct,rate_type,effective_rate_pct,year,source,data_source,retrieval_date
+India,IND,25.17,New manufacturing (Section 115BAB),25.17,2024,"India Finance Act 2019, Section 115BAB",KPMG_Deloitte_tax_compiled_real,2026-04-26
+India,IND,30.0,Standard (old regime),34.94,2024,India Finance Act (including surcharge + cess),KPMG_Deloitte_tax_compiled_real,2026-04-26
+Taiwan,TWN,20.0,Standard,20.0,2024,KPMG Corporate Tax Tables 2024,KPMG_Deloitte_tax_compiled_real,2026-04-26
+South Korea,KOR,24.0,Standard (graduated 10-25%),24.0,2024,KPMG Corporate Tax Tables 2024,KPMG_Deloitte_tax_compiled_real,2026-04-26
+Vietnam,VNM,20.0,Standard,10.0,2024,KPMG 2024; 10% for high-tech zone enterprises,KPMG_Deloitte_tax_compiled_real,2026-04-26
+Malaysia,MYS,24.0,Standard,0.0,2024,KPMG 2024; Pioneer status = 0% for 5-10 years,KPMG_Deloitte_tax_compiled_real,2026-04-26
+China,CHN,25.0,Standard,15.0,2024,KPMG 2024; 15% for qualified high-tech enterprises,KPMG_Deloitte_tax_compiled_real,2026-04-26
+USA,USA,21.0,Federal,25.77,2024,KPMG 2024; federal 21% + avg state ~4.77%,KPMG_Deloitte_tax_compiled_real,2026-04-26
+Japan,JPN,23.2,National standard,29.74,2024,KPMG 2024; national + local,KPMG_Deloitte_tax_compiled_real,2026-04-26
+Germany,DEU,15.0,Corporate income tax,29.83,2024,KPMG 2024; CIT + solidarity surcharge + trade tax,KPMG_Deloitte_tax_compiled_real,2026-04-26

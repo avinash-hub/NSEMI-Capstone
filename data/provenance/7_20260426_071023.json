@@ -1,0 +1,81 @@
+{
+  "script_name": 7,
+  "research_question": "DPIIT_FDI_API",
+  "data_source": "RQ4",
+  "extraction_start": "2026-04-26T07:10:20.993211+00:00",
+  "extraction_end": "2026-04-26T07:10:23.390806+00:00",
+  "total_api_calls": 2,
+  "total_errors": 0,
+  "entries": [
+    {
+      "timestamp": "2026-04-26T07:10:22.320788+00:00",
+      "type": "api_call",
+      "url": "https://api.data.gov.in/resource/d1b4a4ea-a051-4b44-a16a-c2f1f75a9d32",
+      "params": {
+        "resource": "d1b4a4ea-a051-4b44-a16a-c2f1f75a9d32"
+      },
+      "http_status": 200,
+      "rows_returned": 0,
+      "notes": "fdi_sector_2018_23"
+    },
+    {
+      "timestamp": "2026-04-26T07:10:23.374113+00:00",
+      "type": "api_call",
+      "url": "https://api.data.gov.in/resource/rfjmjlcblsl9133zumc9pqlnpi4ee8xy",
+      "params": {
+        "resource": "rfjmjlcblsl9133zumc9pqlnpi4ee8xy"
+      },
+      "http_status": 200,
+      "rows_returned": 0,
+      "notes": "fdi_cumulative"
+    },
+    {
+      "timestamp": "2026-04-26T07:10:23.377545+00:00",
+      "type": "transform",
+      "operation": "concat_api_datasets",
+      "input_rows": 122,
+      "output_rows": 122,
+      "columns": [
+        "sl__no_",
+        "sector",
+        "_2018_19",
+        "_2019_20",
+        "_2020_21",
+        "_2021_22",
+        "_2022_23",
+        "dataset_label",
+        "sector_name",
+        "amount_in_rs",
+        "amount_in_usd"
+      ],
+      "notes": ""
+    }
+  ],
+  "errors": [],
+  "output": {
+    "csv_path": "nsemi_data/raw/source07_fdi_sectorwise_api.csv",
+    "total_rows": 122,
+    "total_columns": 13,
+    "null_cell_count": 618,
+    "null_percentage": 38.97,
+    "column_names": [
+      "sl__no_",
+      "sector",
+      "_2018_19",
+      "_2019_20",
+      "_2020_21",
+      "_2021_22",
+      "_2022_23",
+      "dataset_label",
+      "sector_name",
+      "amount_in_rs",
+      "amount_in_usd",
+      "data_source",
+      "retrieval_date"
+    ]
+  },
+  "environment": {
+    "python_version": "3.12.13 (main, Mar  4 2026, 09:23:07) [GCC 11.4.0]",
+    "platform": "Linux-6.6.113+-x86_64-with-glibc2.35"
+  }
+}

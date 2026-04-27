@@ -1,0 +1,148 @@
+{
+  "script_name": 11,
+  "research_question": "SERC_Tariffs",
+  "data_source": "RQ2",
+  "extraction_start": "2026-04-26T06:29:45.890881+00:00",
+  "extraction_end": "2026-04-26T06:30:23.523864+00:00",
+  "total_api_calls": 5,
+  "total_errors": 1,
+  "entries": [
+    {
+      "timestamp": "2026-04-26T06:30:18.667124+00:00",
+      "type": "api_call",
+      "url": "https://api.data.gov.in/resource/ba48b0e9-029c-484a-8134-f8a976ea7fa0",
+      "params": {
+        "resource": "ba48b0e9-029c-484a-8134-f8a976ea7fa0"
+      },
+      "http_status": 200,
+      "rows_returned": 0,
+      "notes": "acs_arr_gap_2015_23"
+    },
+    {
+      "timestamp": "2026-04-26T06:30:19.793680+00:00",
+      "type": "api_call",
+      "url": "https://api.data.gov.in/resource/86246891-b3d7-43c8-8627-16994da5c1e3",
+      "params": {
+        "resource": "86246891-b3d7-43c8-8627-16994da5c1e3"
+      },
+      "http_status": 200,
+      "rows_returned": 0,
+      "notes": "acs_arr_gap_uday"
+    },
+    {
+      "timestamp": "2026-04-26T06:30:21.148186+00:00",
+      "type": "api_call",
+      "url": "https://api.data.gov.in/resource/69eea1dc-66a0-430e-92d6-1629936e7e7f",
+      "params": {
+        "resource": "69eea1dc-66a0-430e-92d6-1629936e7e7f"
+      },
+      "http_status": 200,
+      "rows_returned": 0,
+      "notes": "avg_tariff_national_2019_24"
+    },
+    {
+      "timestamp": "2026-04-26T06:30:22.223825+00:00",
+      "type": "api_call",
+      "url": "https://api.data.gov.in/resource/5d9e6e6b-62e7-48ed-9899-a1654c567c02",
+      "params": {
+        "resource": "5d9e6e6b-62e7-48ed-9899-a1654c567c02"
+      },
+      "http_status": 200,
+      "rows_returned": 0,
+      "notes": "acs_arr_metro_cities"
+    },
+    {
+      "timestamp": "2026-04-26T06:30:23.504419+00:00",
+      "type": "api_call",
+      "url": "https://api.data.gov.in/resource/948ebec1-52eb-44d3-a97c-1761f8ad4c54",
+      "params": {
+        "resource": "948ebec1-52eb-44d3-a97c-1761f8ad4c54"
+      },
+      "http_status": 200,
+      "rows_returned": 0,
+      "notes": "thermal_station_tariff_2021"
+    },
+    {
+      "timestamp": "2026-04-26T06:30:23.509403+00:00",
+      "type": "transform",
+      "operation": "datagov_api_combine",
+      "input_rows": 203,
+      "output_rows": 203,
+      "columns": [
+        "sl__no_",
+        "states__discoms",
+        "category",
+        "sector",
+        "__2015_16",
+        "_2022_23",
+        "dataset_label",
+        "_sl__no_",
+        "states_ut",
+        "base_year_data_31_march__2016_gap__rs__kwh_",
+        "gap_for_2018_19__rs__kwh_",
+        "_year",
+        "generation__million_units_",
+        "revenue_from_operations__rs__in_crore_",
+        "average_tariff__rs__per_unit_",
+        "city",
+        "sl_no",
+        "utility",
+        "average_cost_of_supply__rs_kwh_",
+        "average_revenue_realization__rs_kwh_",
+        "surplus__gap___rs_kwh_",
+        "name_of_the_station",
+        "normative_fixed_charges__rs_kwh____85__sg",
+        "energy_charge_rate__rs__kwh_",
+        "total_tariff__rs__kwh_"
+      ],
+      "notes": ""
+    }
+  ],
+  "errors": [
+    {
+      "timestamp": "2026-04-26T06:30:16.958787+00:00",
+      "error": "HTTPSConnectionPool(host='api.data.gov.in', port=443): Read timed out. (read timeout=30)",
+      "context": "acs_statewise_2023_24"
+    }
+  ],
+  "output": {
+    "csv_path": "nsemi_data/raw/rq2_serc_tariffs.csv",
+    "total_rows": 203,
+    "total_columns": 27,
+    "null_cell_count": 3704,
+    "null_percentage": 67.58,
+    "column_names": [
+      "sl__no_",
+      "states__discoms",
+      "category",
+      "sector",
+      "__2015_16",
+      "_2022_23",
+      "dataset_label",
+      "_sl__no_",
+      "states_ut",
+      "base_year_data_31_march__2016_gap__rs__kwh_",
+      "gap_for_2018_19__rs__kwh_",
+      "_year",
+      "generation__million_units_",
+      "revenue_from_operations__rs__in_crore_",
+      "average_tariff__rs__per_unit_",
+      "city",
+      "sl_no",
+      "utility",
+      "average_cost_of_supply__rs_kwh_",
+      "average_revenue_realization__rs_kwh_",
+      "surplus__gap___rs_kwh_",
+      "name_of_the_station",
+      "normative_fixed_charges__rs_kwh____85__sg",
+      "energy_charge_rate__rs__kwh_",
+      "total_tariff__rs__kwh_",
+      "data_source",
+      "retrieval_date"
+    ]
+  },
+  "environment": {
+    "python_version": "3.12.13 (main, Mar  4 2026, 09:23:07) [GCC 11.4.0]",
+    "platform": "Linux-6.6.113+-x86_64-with-glibc2.35"
+  }
+}

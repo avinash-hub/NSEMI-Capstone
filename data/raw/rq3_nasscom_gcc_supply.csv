@@ -1,0 +1,9 @@
+_year,volume__quantity_in_bn_,value__usd_bn_,value__rs__in_lakh_crore_,dataset,key_component,value_addition_in_percentage_,data_source,retrieval_date
+2021-22,17.89,13.6,1.071,Year-wise Semiconductor Chips Volume & Value,,,MeitY_DataGov_API_Real,2026-04-26
+2022-23,14.64,16.14,1.297,Year-wise Semiconductor Chips Volume & Value,,,MeitY_DataGov_API_Real,2026-04-26
+2023-24,18.43,20.7,1.714,Year-wise Semiconductor Chips Volume & Value,,,MeitY_DataGov_API_Real,2026-04-26
+,,,,Semiconductor Component Value-Addition,Design,50.0,MeitY_DataGov_API_Real,2026-04-26
+,,,,Semiconductor Component Value-Addition,"Wafer fabrication and Assembly, Testing, Marking and Packaging",30.0,MeitY_DataGov_API_Real,2026-04-26
+,,,,Semiconductor Component Value-Addition,Electronic Design Automation (EDA) and Intellectual Property (IP) cores,4.0,MeitY_DataGov_API_Real,2026-04-26
+,,,,Semiconductor Component Value-Addition,Equipment and tools,11.0,MeitY_DataGov_API_Real,2026-04-26
+,,,,Semiconductor Component Value-Addition,Materials,5.0,MeitY_DataGov_API_Real,2026-04-26

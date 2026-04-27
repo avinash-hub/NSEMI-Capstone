@@ -1,0 +1,7 @@
+country,iso3,scheme,max_subsidy_pct_capex,total_program_usd_bn,year_announced,data_source,retrieval_date
+India,IND,ISM 2.0,50,10.0,2021,compiled_reference_BownWang_Goldberg,2026-04-26
+United States,USA,CHIPS and Science Act,25,52.7,2022,compiled_reference_BownWang_Goldberg,2026-04-26
+European Union,EUR,European Chips Act,40,47.0,2023,compiled_reference_BownWang_Goldberg,2026-04-26
+South Korea,KOR,K-Chips Act,25,19.0,2023,compiled_reference_BownWang_Goldberg,2026-04-26
+Japan,JPN,METI Semiconductor Initiative,50,13.0,2022,compiled_reference_BownWang_Goldberg,2026-04-26
+Taiwan,TWN,Taiwan Chip Innovation Act,25,4.5,2023,compiled_reference_BownWang_Goldberg,2026-04-26

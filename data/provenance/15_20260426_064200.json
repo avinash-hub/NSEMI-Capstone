@@ -1,0 +1,95 @@
+{
+  "script_name": 15,
+  "research_question": "IMD_Weather",
+  "data_source": "RQ2",
+  "extraction_start": "2026-04-26T06:41:55.985145+00:00",
+  "extraction_end": "2026-04-26T06:42:00.174751+00:00",
+  "total_api_calls": 5,
+  "total_errors": 0,
+  "entries": [
+    {
+      "timestamp": "2026-04-26T06:41:56.764215+00:00",
+      "type": "api_call",
+      "url": "https://archive-api.open-meteo.com/v1/archive",
+      "params": {
+        "loc": "Dholera_SIR_Gujarat",
+        "range": "2020-2024"
+      },
+      "http_status": 200,
+      "rows_returned": 0,
+      "notes": "Dholera_SIR_Gujarat"
+    },
+    {
+      "timestamp": "2026-04-26T06:41:57.605270+00:00",
+      "type": "api_call",
+      "url": "https://archive-api.open-meteo.com/v1/archive",
+      "params": {
+        "loc": "Sanand_GIDC_Gujarat",
+        "range": "2020-2024"
+      },
+      "http_status": 200,
+      "rows_returned": 0,
+      "notes": "Sanand_GIDC_Gujarat"
+    },
+    {
+      "timestamp": "2026-04-26T06:41:58.372232+00:00",
+      "type": "api_call",
+      "url": "https://archive-api.open-meteo.com/v1/archive",
+      "params": {
+        "loc": "Mohali_SCL_Punjab",
+        "range": "2020-2024"
+      },
+      "http_status": 200,
+      "rows_returned": 0,
+      "notes": "Mohali_SCL_Punjab"
+    },
+    {
+      "timestamp": "2026-04-26T06:41:59.139376+00:00",
+      "type": "api_call",
+      "url": "https://archive-api.open-meteo.com/v1/archive",
+      "params": {
+        "loc": "Jagiroad_Assam",
+        "range": "2020-2024"
+      },
+      "http_status": 200,
+      "rows_returned": 0,
+      "notes": "Jagiroad_Assam"
+    },
+    {
+      "timestamp": "2026-04-26T06:41:59.943336+00:00",
+      "type": "api_call",
+      "url": "https://archive-api.open-meteo.com/v1/archive",
+      "params": {
+        "loc": "Panvel_Maharashtra",
+        "range": "2020-2024"
+      },
+      "http_status": 200,
+      "rows_returned": 0,
+      "notes": "Panvel_Maharashtra"
+    }
+  ],
+  "errors": [],
+  "output": {
+    "csv_path": "nsemi_data/raw/rq2_imd_weather_2020_2025.csv",
+    "total_rows": 9135,
+    "total_columns": 10,
+    "null_cell_count": 0,
+    "null_percentage": 0.0,
+    "column_names": [
+      "date",
+      "temperature_2m_max",
+      "temperature_2m_min",
+      "precipitation_sum",
+      "relative_humidity_2m_max",
+      "location",
+      "latitude",
+      "longitude",
+      "data_source",
+      "retrieval_date"
+    ]
+  },
+  "environment": {
+    "python_version": "3.12.13 (main, Mar  4 2026, 09:23:07) [GCC 11.4.0]",
+    "platform": "Linux-6.6.113+-x86_64-with-glibc2.35"
+  }
+}

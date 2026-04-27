@@ -1,0 +1,62 @@
+{
+  "script_name": 6,
+  "research_question": "RBI_DBIE",
+  "data_source": "RQ4",
+  "extraction_start": "2026-04-26T07:08:31.160995+00:00",
+  "extraction_end": "2026-04-26T07:08:32.372111+00:00",
+  "total_api_calls": 1,
+  "total_errors": 1,
+  "entries": [
+    {
+      "timestamp": "2026-04-26T07:08:32.358966+00:00",
+      "type": "api_call",
+      "url": "https://api.data.gov.in/resource/fbc6c424-c841-4804-84ce-63effa215165",
+      "params": {
+        "resource": "fbc6c424-c841-4804-84ce-63effa215165"
+      },
+      "http_status": 200,
+      "rows_returned": 0,
+      "notes": "repo"
+    },
+    {
+      "timestamp": "2026-04-26T07:08:32.360739+00:00",
+      "type": "transform",
+      "operation": "api_concat",
+      "input_rows": 3,
+      "output_rows": 3,
+      "columns": [
+        "date",
+        "amount_of_increase_in_repo_rate__in_bps_",
+        "repo_rate__in_percent_",
+        "dataset_label"
+      ],
+      "notes": ""
+    }
+  ],
+  "errors": [
+    {
+      "timestamp": "2026-04-26T07:08:31.260981+00:00",
+      "error": "Message: session not created: Chrome instance exited. Examine ChromeDriver verbose log to determine the cause.; For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#sessionnotcreatedexception\nStacktrace:\n#0 0x5ae93ece731a <unknown>\n#1 0x5ae93e6dfb39 <unknown>\n#2 0x5ae93e71e0cb <unknown>\n#3 0x5ae93e718d99 <unknown>\n#4 0x5ae93e7685ae <unknown>\n#5 0x5ae93e767c9c <unknown>\n#6 0x5ae93e72773f <unknown>\n#7 0x5ae93e728501 <unknown>\n#8 0x5ae93ecaa7bb <unknown>\n#9 0x5ae93ecad6bd <unknown>\n#10 0x5ae93ec97608 <unknown>\n#11 0x5ae93ecae250 <unknown>\n#12 0x5ae93ec7e030 <unknown>\n#13 0x5ae93ecd3c78 <unknown>\n#14 0x5ae93ecd3e15 <unknown>\n#15 0x5ae93ece5d4e <unknown>\n#16 0x7d0971535ac3 <unknown>\n",
+      "context": "RBI Scrape"
+    }
+  ],
+  "output": {
+    "csv_path": "nsemi_data/processed/rq4_rbi_lending.csv",
+    "total_rows": 3,
+    "total_columns": 6,
+    "null_cell_count": 0,
+    "null_percentage": 0.0,
+    "column_names": [
+      "date",
+      "amount_of_increase_in_repo_rate__in_bps_",
+      "repo_rate__in_percent_",
+      "dataset_label",
+      "data_source",
+      "retrieval_date"
+    ]
+  },
+  "environment": {
+    "python_version": "3.12.13 (main, Mar  4 2026, 09:23:07) [GCC 11.4.0]",
+    "platform": "Linux-6.6.113+-x86_64-with-glibc2.35"
+  }
+}

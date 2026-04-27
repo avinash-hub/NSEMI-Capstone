@@ -1,0 +1,201 @@
+country,iso3,year,indicator,value,data_source,retrieval_date
+China,CHN,2023,electricity_consumption_kwh_per_capita,6523.71926193193,WorldBank_electricity_API_real,2026-04-26
+China,CHN,2022,electricity_consumption_kwh_per_capita,6112.13553560996,WorldBank_electricity_API_real,2026-04-26
+China,CHN,2021,electricity_consumption_kwh_per_capita,5847.80226004701,WorldBank_electricity_API_real,2026-04-26
+China,CHN,2020,electricity_consumption_kwh_per_capita,5261.94103890582,WorldBank_electricity_API_real,2026-04-26
+China,CHN,2019,electricity_consumption_kwh_per_capita,5082.38779040238,WorldBank_electricity_API_real,2026-04-26
+China,CHN,2018,electricity_consumption_kwh_per_capita,4842.2067923237,WorldBank_electricity_API_real,2026-04-26
+China,CHN,2017,electricity_consumption_kwh_per_capita,4571.04242541442,WorldBank_electricity_API_real,2026-04-26
+China,CHN,2016,electricity_consumption_kwh_per_capita,4237.54530584599,WorldBank_electricity_API_real,2026-04-26
+China,CHN,2015,electricity_consumption_kwh_per_capita,4017.07781948893,WorldBank_electricity_API_real,2026-04-26
+Germany,DEU,2023,electricity_consumption_kwh_per_capita,5947.27119952649,WorldBank_electricity_API_real,2026-04-26
+Germany,DEU,2022,electricity_consumption_kwh_per_capita,6316.27571164921,WorldBank_electricity_API_real,2026-04-26
+Germany,DEU,2021,electricity_consumption_kwh_per_capita,6582.54587433797,WorldBank_electricity_API_real,2026-04-26
+Germany,DEU,2020,electricity_consumption_kwh_per_capita,6367.10502947955,WorldBank_electricity_API_real,2026-04-26
+Germany,DEU,2019,electricity_consumption_kwh_per_capita,6580.29256436905,WorldBank_electricity_API_real,2026-04-26
+Germany,DEU,2018,electricity_consumption_kwh_per_capita,6815.82136213371,WorldBank_electricity_API_real,2026-04-26
+Germany,DEU,2017,electricity_consumption_kwh_per_capita,6947.26382648139,WorldBank_electricity_API_real,2026-04-26
+Germany,DEU,2016,electricity_consumption_kwh_per_capita,6972.36527283762,WorldBank_electricity_API_real,2026-04-26
+Germany,DEU,2015,electricity_consumption_kwh_per_capita,7032.02144106578,WorldBank_electricity_API_real,2026-04-26
+India,IND,2023,electricity_consumption_kwh_per_capita,1181.63126786529,WorldBank_electricity_API_real,2026-04-26
+India,IND,2022,electricity_consumption_kwh_per_capita,1085.33520920382,WorldBank_electricity_API_real,2026-04-26
+India,IND,2021,electricity_consumption_kwh_per_capita,963.363913685612,WorldBank_electricity_API_real,2026-04-26
+India,IND,2020,electricity_consumption_kwh_per_capita,901.399579163301,WorldBank_electricity_API_real,2026-04-26
+India,IND,2019,electricity_consumption_kwh_per_capita,988.272169542114,WorldBank_electricity_API_real,2026-04-26
+India,IND,2018,electricity_consumption_kwh_per_capita,970.834176233242,WorldBank_electricity_API_real,2026-04-26
+India,IND,2017,electricity_consumption_kwh_per_capita,918.313686962613,WorldBank_electricity_API_real,2026-04-26
+India,IND,2016,electricity_consumption_kwh_per_capita,879.945696796945,WorldBank_electricity_API_real,2026-04-26
+India,IND,2015,electricity_consumption_kwh_per_capita,841.085387869102,WorldBank_electricity_API_real,2026-04-26
+Japan,JPN,2023,electricity_consumption_kwh_per_capita,7655.01641748312,WorldBank_electricity_API_real,2026-04-26
+Japan,JPN,2022,electricity_consumption_kwh_per_capita,7800.08060580129,WorldBank_electricity_API_real,2026-04-26
+Japan,JPN,2021,electricity_consumption_kwh_per_capita,7960.01209182637,WorldBank_electricity_API_real,2026-04-26
+Japan,JPN,2020,electricity_consumption_kwh_per_capita,7687.25893189504,WorldBank_electricity_API_real,2026-04-26
+Japan,JPN,2019,electricity_consumption_kwh_per_capita,7853.03988691731,WorldBank_electricity_API_real,2026-04-26
+Japan,JPN,2018,electricity_consumption_kwh_per_capita,8058.01547184393,WorldBank_electricity_API_real,2026-04-26
+Japan,JPN,2017,electricity_consumption_kwh_per_capita,8190.60107740289,WorldBank_electricity_API_real,2026-04-26
+Japan,JPN,2016,electricity_consumption_kwh_per_capita,8066.01561270421,WorldBank_electricity_API_real,2026-04-26
+Japan,JPN,2015,electricity_consumption_kwh_per_capita,8007.09448564979,WorldBank_electricity_API_real,2026-04-26
+"Korea, Rep.",KOR,2023,electricity_consumption_kwh_per_capita,11426.0699114852,WorldBank_electricity_API_real,2026-04-26
+"Korea, Rep.",KOR,2022,electricity_consumption_kwh_per_capita,11705.6305058105,WorldBank_electricity_API_real,2026-04-26
+"Korea, Rep.",KOR,2021,electricity_consumption_kwh_per_capita,11726.219930218,WorldBank_electricity_API_real,2026-04-26
+"Korea, Rep.",KOR,2020,electricity_consumption_kwh_per_capita,11104.6636697543,WorldBank_electricity_API_real,2026-04-26
+"Korea, Rep.",KOR,2019,electricity_consumption_kwh_per_capita,10943.203861495,WorldBank_electricity_API_real,2026-04-26
+"Korea, Rep.",KOR,2018,electricity_consumption_kwh_per_capita,11161.8174394609,WorldBank_electricity_API_real,2026-04-26
+"Korea, Rep.",KOR,2017,electricity_consumption_kwh_per_capita,10811.7667195054,WorldBank_electricity_API_real,2026-04-26
+"Korea, Rep.",KOR,2016,electricity_consumption_kwh_per_capita,10609.8069063993,WorldBank_electricity_API_real,2026-04-26
+"Korea, Rep.",KOR,2015,electricity_consumption_kwh_per_capita,10429.080716285,WorldBank_electricity_API_real,2026-04-26
+Malaysia,MYS,2023,electricity_consumption_kwh_per_capita,5083.71249369916,WorldBank_electricity_API_real,2026-04-26
+Malaysia,MYS,2022,electricity_consumption_kwh_per_capita,5240.96890624958,WorldBank_electricity_API_real,2026-04-26
+Malaysia,MYS,2021,electricity_consumption_kwh_per_capita,4860.54082737909,WorldBank_electricity_API_real,2026-04-26
+Malaysia,MYS,2020,electricity_consumption_kwh_per_capita,4738.24415178268,WorldBank_electricity_API_real,2026-04-26
+Malaysia,MYS,2019,electricity_consumption_kwh_per_capita,4916.27003298625,WorldBank_electricity_API_real,2026-04-26
+Malaysia,MYS,2018,electricity_consumption_kwh_per_capita,4778.80215430923,WorldBank_electricity_API_real,2026-04-26
+Malaysia,MYS,2017,electricity_consumption_kwh_per_capita,4699.08742969233,WorldBank_electricity_API_real,2026-04-26
+Malaysia,MYS,2016,electricity_consumption_kwh_per_capita,4567.39347999202,WorldBank_electricity_API_real,2026-04-26
+Malaysia,MYS,2015,electricity_consumption_kwh_per_capita,4475.45557717884,WorldBank_electricity_API_real,2026-04-26
+United States,USA,2023,electricity_consumption_kwh_per_capita,12551.2256333524,WorldBank_electricity_API_real,2026-04-26
+United States,USA,2022,electricity_consumption_kwh_per_capita,12968.1628097364,WorldBank_electricity_API_real,2026-04-26
+United States,USA,2021,electricity_consumption_kwh_per_capita,12556.0915792291,WorldBank_electricity_API_real,2026-04-26
+United States,USA,2020,electricity_consumption_kwh_per_capita,12393.4382563461,WorldBank_electricity_API_real,2026-04-26
+United States,USA,2019,electricity_consumption_kwh_per_capita,12678.2540503665,WorldBank_electricity_API_real,2026-04-26
+United States,USA,2018,electricity_consumption_kwh_per_capita,13054.4045353944,WorldBank_electricity_API_real,2026-04-26
+United States,USA,2017,electricity_consumption_kwh_per_capita,12604.1625559233,WorldBank_electricity_API_real,2026-04-26
+United States,USA,2016,electricity_consumption_kwh_per_capita,12806.1977101885,WorldBank_electricity_API_real,2026-04-26
+United States,USA,2015,electricity_consumption_kwh_per_capita,12828.8160828838,WorldBank_electricity_API_real,2026-04-26
+Viet Nam,VNM,2023,electricity_consumption_kwh_per_capita,2585.49409663119,WorldBank_electricity_API_real,2026-04-26
+Viet Nam,VNM,2022,electricity_consumption_kwh_per_capita,2624.40089303185,WorldBank_electricity_API_real,2026-04-26
+Viet Nam,VNM,2021,electricity_consumption_kwh_per_capita,2403.54540306818,WorldBank_electricity_API_real,2026-04-26
+Viet Nam,VNM,2020,electricity_consumption_kwh_per_capita,2303.70986644863,WorldBank_electricity_API_real,2026-04-26
+Viet Nam,VNM,2019,electricity_consumption_kwh_per_capita,2290.2681069016,WorldBank_electricity_API_real,2026-04-26
+Viet Nam,VNM,2018,electricity_consumption_kwh_per_capita,2115.35402394159,WorldBank_electricity_API_real,2026-04-26
+Viet Nam,VNM,2017,electricity_consumption_kwh_per_capita,1918.19498532718,WorldBank_electricity_API_real,2026-04-26
+Viet Nam,VNM,2016,electricity_consumption_kwh_per_capita,1788.72117786832,WorldBank_electricity_API_real,2026-04-26
+Viet Nam,VNM,2015,electricity_consumption_kwh_per_capita,1615.48958410788,WorldBank_electricity_API_real,2026-04-26
+China,CHN,2023,electricity_from_coal_pct,61.3408061134072,WorldBank_electricity_API_real,2026-04-26
+China,CHN,2022,electricity_from_coal_pct,61.7186608827991,WorldBank_electricity_API_real,2026-04-26
+China,CHN,2021,electricity_from_coal_pct,63.0009520818053,WorldBank_electricity_API_real,2026-04-26
+China,CHN,2020,electricity_from_coal_pct,63.4550187592194,WorldBank_electricity_API_real,2026-04-26
+China,CHN,2019,electricity_from_coal_pct,64.9686795132476,WorldBank_electricity_API_real,2026-04-26
+China,CHN,2018,electricity_from_coal_pct,66.5294477283065,WorldBank_electricity_API_real,2026-04-26
+China,CHN,2017,electricity_from_coal_pct,68.0264961455224,WorldBank_electricity_API_real,2026-04-26
+China,CHN,2016,electricity_from_coal_pct,68.4176909138594,WorldBank_electricity_API_real,2026-04-26
+China,CHN,2015,electricity_from_coal_pct,70.188402071321,WorldBank_electricity_API_real,2026-04-26
+Germany,DEU,2023,electricity_from_coal_pct,26.3522185820533,WorldBank_electricity_API_real,2026-04-26
+Germany,DEU,2022,electricity_from_coal_pct,32.7317259378633,WorldBank_electricity_API_real,2026-04-26
+Germany,DEU,2021,electricity_from_coal_pct,29.4980254690038,WorldBank_electricity_API_real,2026-04-26
+Germany,DEU,2020,electricity_from_coal_pct,24.9710667255179,WorldBank_electricity_API_real,2026-04-26
+Germany,DEU,2019,electricity_from_coal_pct,29.9558259201835,WorldBank_electricity_API_real,2026-04-26
+Germany,DEU,2018,electricity_from_coal_pct,37.3124028054485,WorldBank_electricity_API_real,2026-04-26
+Germany,DEU,2017,electricity_from_coal_pct,38.6743314829064,WorldBank_electricity_API_real,2026-04-26
+Germany,DEU,2016,electricity_from_coal_pct,42.0011407504662,WorldBank_electricity_API_real,2026-04-26
+Germany,DEU,2015,electricity_from_coal_pct,43.761539636192,WorldBank_electricity_API_real,2026-04-26
+India,IND,2023,electricity_from_coal_pct,74.4262564073655,WorldBank_electricity_API_real,2026-04-26
+India,IND,2022,electricity_from_coal_pct,71.739704380177,WorldBank_electricity_API_real,2026-04-26
+India,IND,2021,electricity_from_coal_pct,71.4858907657204,WorldBank_electricity_API_real,2026-04-26
+India,IND,2020,electricity_from_coal_pct,71.3633580245628,WorldBank_electricity_API_real,2026-04-26
+India,IND,2019,electricity_from_coal_pct,72.8626165369332,WorldBank_electricity_API_real,2026-04-26
+India,IND,2018,electricity_from_coal_pct,74.9944368680873,WorldBank_electricity_API_real,2026-04-26
+India,IND,2017,electricity_from_coal_pct,74.8600089000964,WorldBank_electricity_API_real,2026-04-26
+India,IND,2016,electricity_from_coal_pct,75.4844932161528,WorldBank_electricity_API_real,2026-04-26
+India,IND,2015,electricity_from_coal_pct,76.0124264133462,WorldBank_electricity_API_real,2026-04-26
+Japan,JPN,2023,electricity_from_coal_pct,28.3087384605564,WorldBank_electricity_API_real,2026-04-26
+Japan,JPN,2022,electricity_from_coal_pct,30.2823385370043,WorldBank_electricity_API_real,2026-04-26
+Japan,JPN,2021,electricity_from_coal_pct,30.6095541850287,WorldBank_electricity_API_real,2026-04-26
+Japan,JPN,2020,electricity_from_coal_pct,30.5727898983641,WorldBank_electricity_API_real,2026-04-26
+Japan,JPN,2019,electricity_from_coal_pct,31.4513807244531,WorldBank_electricity_API_real,2026-04-26
+Japan,JPN,2018,electricity_from_coal_pct,31.1481878980742,WorldBank_electricity_API_real,2026-04-26
+Japan,JPN,2017,electricity_from_coal_pct,32.2833487103225,WorldBank_electricity_API_real,2026-04-26
+Japan,JPN,2016,electricity_from_coal_pct,32.2460272165904,WorldBank_electricity_API_real,2026-04-26
+Japan,JPN,2015,electricity_from_coal_pct,33.3652618135377,WorldBank_electricity_API_real,2026-04-26
+"Korea, Rep.",KOR,2023,electricity_from_coal_pct,33.6310864029737,WorldBank_electricity_API_real,2026-04-26
+"Korea, Rep.",KOR,2022,electricity_from_coal_pct,34.7264030316269,WorldBank_electricity_API_real,2026-04-26
+"Korea, Rep.",KOR,2021,electricity_from_coal_pct,35.407072795039,WorldBank_electricity_API_real,2026-04-26
+"Korea, Rep.",KOR,2020,electricity_from_coal_pct,37.002993775169,WorldBank_electricity_API_real,2026-04-26
+"Korea, Rep.",KOR,2019,electricity_from_coal_pct,42.6555964152062,WorldBank_electricity_API_real,2026-04-26
+"Korea, Rep.",KOR,2018,electricity_from_coal_pct,44.2897404901964,WorldBank_electricity_API_real,2026-04-26
+"Korea, Rep.",KOR,2017,electricity_from_coal_pct,45.8433417000085,WorldBank_electricity_API_real,2026-04-26
+"Korea, Rep.",KOR,2016,electricity_from_coal_pct,41.4878489370601,WorldBank_electricity_API_real,2026-04-26
+"Korea, Rep.",KOR,2015,electricity_from_coal_pct,42.4711554894567,WorldBank_electricity_API_real,2026-04-26
+Malaysia,MYS,2023,electricity_from_coal_pct,45.0198459991917,WorldBank_electricity_API_real,2026-04-26
+Malaysia,MYS,2022,electricity_from_coal_pct,44.6440313380874,WorldBank_electricity_API_real,2026-04-26
+Malaysia,MYS,2021,electricity_from_coal_pct,47.8812358670348,WorldBank_electricity_API_real,2026-04-26
+Malaysia,MYS,2020,electricity_from_coal_pct,51.1008257628832,WorldBank_electricity_API_real,2026-04-26
+Malaysia,MYS,2019,electricity_from_coal_pct,42.8396023839025,WorldBank_electricity_API_real,2026-04-26
+Malaysia,MYS,2018,electricity_from_coal_pct,45.3218551900872,WorldBank_electricity_API_real,2026-04-26
+Malaysia,MYS,2017,electricity_from_coal_pct,43.7427433816601,WorldBank_electricity_API_real,2026-04-26
+Malaysia,MYS,2016,electricity_from_coal_pct,44.1412458589456,WorldBank_electricity_API_real,2026-04-26
+Malaysia,MYS,2015,electricity_from_coal_pct,42.2804843931098,WorldBank_electricity_API_real,2026-04-26
+United States,USA,2023,electricity_from_coal_pct,16.6638854819688,WorldBank_electricity_API_real,2026-04-26
+United States,USA,2022,electricity_from_coal_pct,20.3164902183759,WorldBank_electricity_API_real,2026-04-26
+United States,USA,2021,electricity_from_coal_pct,22.6659071437519,WorldBank_electricity_API_real,2026-04-26
+United States,USA,2020,electricity_from_coal_pct,20.0882948834085,WorldBank_electricity_API_real,2026-04-26
+United States,USA,2019,electricity_from_coal_pct,24.3530384173999,WorldBank_electricity_API_real,2026-04-26
+United States,USA,2018,electricity_from_coal_pct,28.5527483493205,WorldBank_electricity_API_real,2026-04-26
+United States,USA,2017,electricity_from_coal_pct,30.827999443826,WorldBank_electricity_API_real,2026-04-26
+United States,USA,2016,electricity_from_coal_pct,31.3286000724658,WorldBank_electricity_API_real,2026-04-26
+United States,USA,2015,electricity_from_coal_pct,34.0732643852126,WorldBank_electricity_API_real,2026-04-26
+Viet Nam,VNM,2023,electricity_from_coal_pct,44.7587002218849,WorldBank_electricity_API_real,2026-04-26
+Viet Nam,VNM,2022,electricity_from_coal_pct,40.1977454271822,WorldBank_electricity_API_real,2026-04-26
+Viet Nam,VNM,2021,electricity_from_coal_pct,45.3896147456564,WorldBank_electricity_API_real,2026-04-26
+Viet Nam,VNM,2020,electricity_from_coal_pct,49.6195668017375,WorldBank_electricity_API_real,2026-04-26
+Viet Nam,VNM,2019,electricity_from_coal_pct,50.1744205689574,WorldBank_electricity_API_real,2026-04-26
+Viet Nam,VNM,2018,electricity_from_coal_pct,41.7654257374726,WorldBank_electricity_API_real,2026-04-26
+Viet Nam,VNM,2017,electricity_from_coal_pct,34.5514848453924,WorldBank_electricity_API_real,2026-04-26
+Viet Nam,VNM,2016,electricity_from_coal_pct,37.8757737128798,WorldBank_electricity_API_real,2026-04-26
+Viet Nam,VNM,2015,electricity_from_coal_pct,34.8763525865903,WorldBank_electricity_API_real,2026-04-26
+China,CHN,2021,electricity_from_renewables_pct,12.856523818733,WorldBank_electricity_API_real,2026-04-26
+China,CHN,2020,electricity_from_renewables_pct,10.6602772642896,WorldBank_electricity_API_real,2026-04-26
+China,CHN,2019,electricity_from_renewables_pct,9.50765506036168,WorldBank_electricity_API_real,2026-04-26
+China,CHN,2018,electricity_from_renewables_pct,8.56768880402383,WorldBank_electricity_API_real,2026-04-26
+China,CHN,2017,electricity_from_renewables_pct,7.19946452516446,WorldBank_electricity_API_real,2026-04-26
+China,CHN,2016,electricity_from_renewables_pct,5.9539883138882,WorldBank_electricity_API_real,2026-04-26
+China,CHN,2015,electricity_from_renewables_pct,4.55807103746262,WorldBank_electricity_API_real,2026-04-26
+Germany,DEU,2021,electricity_from_renewables_pct,35.618008802309,WorldBank_electricity_API_real,2026-04-26
+Germany,DEU,2020,electricity_from_renewables_pct,40.4475013119893,WorldBank_electricity_API_real,2026-04-26
+Germany,DEU,2019,electricity_from_renewables_pct,36.3478037359309,WorldBank_electricity_API_real,2026-04-26
+Germany,DEU,2018,electricity_from_renewables_pct,31.9113523236134,WorldBank_electricity_API_real,2026-04-26
+Germany,DEU,2017,electricity_from_renewables_pct,30.0085816163727,WorldBank_electricity_API_real,2026-04-26
+Germany,DEU,2016,electricity_from_renewables_pct,26.0014236319834,WorldBank_electricity_API_real,2026-04-26
+Germany,DEU,2015,electricity_from_renewables_pct,26.1924483541027,WorldBank_electricity_API_real,2026-04-26
+India,IND,2021,electricity_from_renewables_pct,9.20447543029223,WorldBank_electricity_API_real,2026-04-26
+India,IND,2020,electricity_from_renewables_pct,9.28554258342319,WorldBank_electricity_API_real,2026-04-26
+India,IND,2019,electricity_from_renewables_pct,6.35327384440851,WorldBank_electricity_API_real,2026-04-26
+India,IND,2018,electricity_from_renewables_pct,5.60539679737644,WorldBank_electricity_API_real,2026-04-26
+India,IND,2017,electricity_from_renewables_pct,4.77156485415497,WorldBank_electricity_API_real,2026-04-26
+India,IND,2016,electricity_from_renewables_pct,3.9832387575032,WorldBank_electricity_API_real,2026-04-26
+India,IND,2015,electricity_from_renewables_pct,4.84184605005476,WorldBank_electricity_API_real,2026-04-26
+Japan,JPN,2021,electricity_from_renewables_pct,12.6418714359476,WorldBank_electricity_API_real,2026-04-26
+Japan,JPN,2020,electricity_from_renewables_pct,11.6827700825577,WorldBank_electricity_API_real,2026-04-26
+Japan,JPN,2019,electricity_from_renewables_pct,10.1388571940274,WorldBank_electricity_API_real,2026-04-26
+Japan,JPN,2018,electricity_from_renewables_pct,8.7805746797831,WorldBank_electricity_API_real,2026-04-26
+Japan,JPN,2017,electricity_from_renewables_pct,7.76675220406082,WorldBank_electricity_API_real,2026-04-26
+Japan,JPN,2016,electricity_from_renewables_pct,6.69775835351678,WorldBank_electricity_API_real,2026-04-26
+Japan,JPN,2015,electricity_from_renewables_pct,5.55725588882088,WorldBank_electricity_API_real,2026-04-26
+"Korea, Rep.",KOR,2021,electricity_from_renewables_pct,5.51298275297892,WorldBank_electricity_API_real,2026-04-26
+"Korea, Rep.",KOR,2020,electricity_from_renewables_pct,5.02715264887679,WorldBank_electricity_API_real,2026-04-26
+"Korea, Rep.",KOR,2019,electricity_from_renewables_pct,4.20412213714381,WorldBank_electricity_API_real,2026-04-26
+"Korea, Rep.",KOR,2018,electricity_from_renewables_pct,3.31399440372008,WorldBank_electricity_API_real,2026-04-26
+"Korea, Rep.",KOR,2017,electricity_from_renewables_pct,2.75473216478576,WorldBank_electricity_API_real,2026-04-26
+"Korea, Rep.",KOR,2016,electricity_from_renewables_pct,2.33748898796017,WorldBank_electricity_API_real,2026-04-26
+"Korea, Rep.",KOR,2015,electricity_from_renewables_pct,1.54467671967099,WorldBank_electricity_API_real,2026-04-26
+Malaysia,MYS,2021,electricity_from_renewables_pct,-0.280070227294193,WorldBank_electricity_API_real,2026-04-26
+Malaysia,MYS,2020,electricity_from_renewables_pct,1.89665330592275,WorldBank_electricity_API_real,2026-04-26
+Malaysia,MYS,2019,electricity_from_renewables_pct,1.51020671327574,WorldBank_electricity_API_real,2026-04-26
+Malaysia,MYS,2018,electricity_from_renewables_pct,1.27171650237206,WorldBank_electricity_API_real,2026-04-26
+Malaysia,MYS,2017,electricity_from_renewables_pct,0.888957782438224,WorldBank_electricity_API_real,2026-04-26
+Malaysia,MYS,2016,electricity_from_renewables_pct,0.892476206889948,WorldBank_electricity_API_real,2026-04-26
+Malaysia,MYS,2015,electricity_from_renewables_pct,1.86509332160985,WorldBank_electricity_API_real,2026-04-26
+United States,USA,2021,electricity_from_renewables_pct,14.0077934914494,WorldBank_electricity_API_real,2026-04-26
+United States,USA,2020,electricity_from_renewables_pct,12.6817482828225,WorldBank_electricity_API_real,2026-04-26
+United States,USA,2019,electricity_from_renewables_pct,10.8666213545367,WorldBank_electricity_API_real,2026-04-26
+United States,USA,2018,electricity_from_renewables_pct,10.0478956277699,WorldBank_electricity_API_real,2026-04-26
+United States,USA,2017,electricity_from_renewables_pct,9.700691811457,WorldBank_electricity_API_real,2026-04-26
+United States,USA,2016,electricity_from_renewables_pct,8.50075843849591,WorldBank_electricity_API_real,2026-04-26
+United States,USA,2015,electricity_from_renewables_pct,7.35254388360494,WorldBank_electricity_API_real,2026-04-26
+Viet Nam,VNM,2021,electricity_from_renewables_pct,10.1722062845034,WorldBank_electricity_API_real,2026-04-26
+Viet Nam,VNM,2020,electricity_from_renewables_pct,5.37810936985936,WorldBank_electricity_API_real,2026-04-26
+Viet Nam,VNM,2019,electricity_from_renewables_pct,2.94445992972498,WorldBank_electricity_API_real,2026-04-26
+Viet Nam,VNM,2018,electricity_from_renewables_pct,1.30389576930863,WorldBank_electricity_API_real,2026-04-26
+Viet Nam,VNM,2017,electricity_from_renewables_pct,1.32019593836106,WorldBank_electricity_API_real,2026-04-26
+Viet Nam,VNM,2016,electricity_from_renewables_pct,0.597059752522706,WorldBank_electricity_API_real,2026-04-26
+Viet Nam,VNM,2015,electricity_from_renewables_pct,0.733762784722565,WorldBank_electricity_API_real,2026-04-26

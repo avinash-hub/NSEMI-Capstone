@@ -1,0 +1,103 @@
+{
+  "script_name": 12,
+  "research_question": "AICTE_RealTime",
+  "data_source": "RQ3",
+  "extraction_start": "2026-04-26T06:58:52.294443+00:00",
+  "extraction_end": "2026-04-26T06:58:55.837935+00:00",
+  "total_api_calls": 2,
+  "total_errors": 0,
+  "entries": [
+    {
+      "timestamp": "2026-04-26T06:58:53.662949+00:00",
+      "type": "api_call",
+      "url": "https://api.data.gov.in/resource/57cf415f-00d7-4ef0-94d5-62b7e5743b1c",
+      "params": {
+        "api-key": "579b464db66ec23bdd00000117a323734c7d481766cb3caf8c927b46",
+        "format": "json",
+        "limit": 1000
+      },
+      "http_status": 200,
+      "rows_returned": 0,
+      "notes": "state_wise_engineering_2022_23"
+    },
+    {
+      "timestamp": "2026-04-26T06:58:55.011859+00:00",
+      "type": "api_call",
+      "url": "https://api.data.gov.in/resource/114656f1-5d25-4f0c-8289-00028bd0b9ea",
+      "params": {
+        "api-key": "579b464db66ec23bdd00000117a323734c7d481766cb3caf8c927b46",
+        "format": "json",
+        "limit": 1000
+      },
+      "http_status": 200,
+      "rows_returned": 0,
+      "notes": "electronics_vlsi_specializations"
+    },
+    {
+      "timestamp": "2026-04-26T06:58:55.826792+00:00",
+      "type": "transform",
+      "operation": "combine_aicte_sources",
+      "input_rows": 39,
+      "output_rows": 39,
+      "columns": [
+        "state__ut_name",
+        "_2016_17___institutions",
+        "_2016_17___approved_intake",
+        "_2015_16___institutions",
+        "_2015_16___approved_intake",
+        "_2015_16___enrollment",
+        "_2015_16___vacancy_",
+        "_2014_15___institutions",
+        "_2014_15___approved_intake",
+        "_2014_15___enrollment",
+        "_2014_15___vacancy_",
+        "_2013_14___institutions",
+        "_2013_14___approved_intake",
+        "_2013_14___enrollment",
+        "_2013_14___vacancy_",
+        "source_dataset",
+        "_sl__no_",
+        "academic_year",
+        "number_of_government_engineering_institutes",
+        "approved_seats_in_government_engineering_institutes"
+      ],
+      "notes": ""
+    }
+  ],
+  "errors": [],
+  "output": {
+    "csv_path": "nsemi_data/raw/rq3_aicte_electronics_skilled_talent.csv",
+    "total_rows": 39,
+    "total_columns": 22,
+    "null_cell_count": 189,
+    "null_percentage": 22.03,
+    "column_names": [
+      "state__ut_name",
+      "_2016_17___institutions",
+      "_2016_17___approved_intake",
+      "_2015_16___institutions",
+      "_2015_16___approved_intake",
+      "_2015_16___enrollment",
+      "_2015_16___vacancy_",
+      "_2014_15___institutions",
+      "_2014_15___approved_intake",
+      "_2014_15___enrollment",
+      "_2014_15___vacancy_",
+      "_2013_14___institutions",
+      "_2013_14___approved_intake",
+      "_2013_14___enrollment",
+      "_2013_14___vacancy_",
+      "source_dataset",
+      "_sl__no_",
+      "academic_year",
+      "number_of_government_engineering_institutes",
+      "approved_seats_in_government_engineering_institutes",
+      "data_source",
+      "retrieval_date"
+    ]
+  },
+  "environment": {
+    "python_version": "3.12.13 (main, Mar  4 2026, 09:23:07) [GCC 11.4.0]",
+    "platform": "Linux-6.6.113+-x86_64-with-glibc2.35"
+  }
+}

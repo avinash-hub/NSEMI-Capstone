@@ -1,0 +1,123 @@
+{
+  "script_name": "16",
+  "research_question": "NASSCOM_Workforce",
+  "data_source": "RQ3",
+  "extraction_start": "2026-04-26T07:02:08.144174+00:00",
+  "extraction_end": "2026-04-26T07:02:16.182661+00:00",
+  "total_api_calls": 6,
+  "total_errors": 0,
+  "entries": [
+    {
+      "timestamp": "2026-04-26T07:02:09.230351+00:00",
+      "type": "api_call",
+      "url": "https://api.data.gov.in/resource/84b0c530-78e2-4f1b-a642-f80312026c86",
+      "params": {
+        "resource": "84b0c530-78e2-4f1b-a642-f80312026c86",
+        "limit": 500
+      },
+      "http_status": 200,
+      "rows_returned": 0,
+      "notes": "Year-wise Semiconductor Chips Volume & Value"
+    },
+    {
+      "timestamp": "2026-04-26T07:02:10.320003+00:00",
+      "type": "api_call",
+      "url": "https://api.data.gov.in/resource/bc8caa85-087d-4df1-aadc-1b56280c1d9a",
+      "params": {
+        "resource": "bc8caa85-087d-4df1-aadc-1b56280c1d9a",
+        "limit": 500
+      },
+      "http_status": 200,
+      "rows_returned": 0,
+      "notes": "Semiconductor Component Value-Addition"
+    },
+    {
+      "timestamp": "2026-04-26T07:02:12.367741+00:00",
+      "type": "api_call",
+      "url": "https://api.worldbank.org/v2/country/IND;KOR;MYS;VNM;CHN;USA;JPN;DEU/indicator/GB.XPD.RSDV.GD.ZS",
+      "params": {
+        "format": "json",
+        "per_page": 200,
+        "date": "2015:2024"
+      },
+      "http_status": 200,
+      "rows_returned": 0,
+      "notes": "World Bank RnD_expenditure_pct_GDP"
+    },
+    {
+      "timestamp": "2026-04-26T07:02:13.559898+00:00",
+      "type": "api_call",
+      "url": "https://api.worldbank.org/v2/country/IND;KOR;MYS;VNM;CHN;USA;JPN;DEU/indicator/IP.PAT.RESD",
+      "params": {
+        "format": "json",
+        "per_page": 200,
+        "date": "2015:2024"
+      },
+      "http_status": 200,
+      "rows_returned": 0,
+      "notes": "World Bank patent_applications_residents"
+    },
+    {
+      "timestamp": "2026-04-26T07:02:14.562251+00:00",
+      "type": "api_call",
+      "url": "https://api.worldbank.org/v2/country/IND;KOR;MYS;VNM;CHN;USA;JPN;DEU/indicator/SE.TER.ENRR",
+      "params": {
+        "format": "json",
+        "per_page": 200,
+        "date": "2015:2024"
+      },
+      "http_status": 200,
+      "rows_returned": 0,
+      "notes": "World Bank tertiary_enrollment_ratio"
+    },
+    {
+      "timestamp": "2026-04-26T07:02:16.154741+00:00",
+      "type": "api_call",
+      "url": "https://api.worldbank.org/v2/country/IND;KOR;MYS;VNM;CHN;USA;JPN;DEU/indicator/TX.VAL.TECH.MF.ZS",
+      "params": {
+        "format": "json",
+        "per_page": 200,
+        "date": "2015:2024"
+      },
+      "http_status": 200,
+      "rows_returned": 0,
+      "notes": "World Bank hightech_exports_pct_manufactured"
+    },
+    {
+      "timestamp": "2026-04-26T07:02:16.156868+00:00",
+      "type": "transform",
+      "operation": "compile_wb_workforce",
+      "input_rows": 0,
+      "output_rows": 271,
+      "columns": [
+        "country",
+        "iso3",
+        "year",
+        "indicator",
+        "value"
+      ],
+      "notes": "World Bank workforce indicators API"
+    }
+  ],
+  "errors": [],
+  "output": {
+    "csv_path": "nsemi_data/raw/rq3_worldbank_workforce_indicators.csv",
+    "total_rows": 271,
+    "total_columns": 7,
+    "null_cell_count": 0,
+    "null_percentage": 0.0,
+    "column_names": [
+      "country",
+      "iso3",
+      "year",
+      "indicator",
+      "value",
+      "data_source",
+      "retrieval_date"
+    ]
+  },
+  "environment": {
+    "python_version": "3.12.13 (main, Mar  4 2026, 09:23:07) [GCC 11.4.0]",
+    "platform": "Linux-6.6.113+-x86_64-with-glibc2.35"
+  }
+}

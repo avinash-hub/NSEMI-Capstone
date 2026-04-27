@@ -1,0 +1,573 @@
+{
+  "script_name": 3,
+  "research_question": "UNESCO_UIS",
+  "data_source": "RQ3",
+  "extraction_start": "2026-04-26T06:46:16.640212+00:00",
+  "extraction_end": "2026-04-26T06:46:34.013026+00:00",
+  "total_api_calls": 46,
+  "total_errors": 0,
+  "entries": [
+    {
+      "timestamp": "2026-04-26T06:46:17.045918+00:00",
+      "type": "api_call",
+      "url": "https://databrowser.uis.unesco.org/api/rest/data/v1/sdmx/data/UNESCO,EDU_NON_FINANCE/IND..L6T8._T._T._T._T._T._T._T._T._T.GRAD_5T8_F0714?startPeriod=2015&endPeriod=2024&format=csv",
+      "params": {
+        "country": "IND",
+        "indicator": "GRAD_5T8_F0714"
+      },
+      "http_status": 404,
+      "rows_returned": 0,
+      "notes": "UIS CSV"
+    },
+    {
+      "timestamp": "2026-04-26T06:46:17.135007+00:00",
+      "type": "api_call",
+      "url": "https://databrowser.uis.unesco.org/api/rest/data/v1/sdmx/data/UNESCO,SDG4/IND.GRAD_5T8_F0714?startPeriod=2015&endPeriod=2024&format=csv",
+      "params": {
+        "country": "IND",
+        "indicator": "GRAD_5T8_F0714"
+      },
+      "http_status": 404,
+      "rows_returned": 0,
+      "notes": "UIS CSV"
+    },
+    {
+      "timestamp": "2026-04-26T06:46:17.709908+00:00",
+      "type": "api_call",
+      "url": "https://databrowser.uis.unesco.org/api/rest/data/v1/sdmx/data/UNESCO,EDU_NON_FINANCE/TWN..L6T8._T._T._T._T._T._T._T._T._T.GRAD_5T8_F0714?startPeriod=2015&endPeriod=2024&format=csv",
+      "params": {
+        "country": "TWN",
+        "indicator": "GRAD_5T8_F0714"
+      },
+      "http_status": 404,
+      "rows_returned": 0,
+      "notes": "UIS CSV"
+    },
+    {
+      "timestamp": "2026-04-26T06:46:17.773002+00:00",
+      "type": "api_call",
+      "url": "https://databrowser.uis.unesco.org/api/rest/data/v1/sdmx/data/UNESCO,SDG4/TWN.GRAD_5T8_F0714?startPeriod=2015&endPeriod=2024&format=csv",
+      "params": {
+        "country": "TWN",
+        "indicator": "GRAD_5T8_F0714"
+      },
+      "http_status": 404,
+      "rows_returned": 0,
+      "notes": "UIS CSV"
+    },
+    {
+      "timestamp": "2026-04-26T06:46:18.346649+00:00",
+      "type": "api_call",
+      "url": "https://databrowser.uis.unesco.org/api/rest/data/v1/sdmx/data/UNESCO,EDU_NON_FINANCE/KOR..L6T8._T._T._T._T._T._T._T._T._T.GRAD_5T8_F0714?startPeriod=2015&endPeriod=2024&format=csv",
+      "params": {
+        "country": "KOR",
+        "indicator": "GRAD_5T8_F0714"
+      },
+      "http_status": 404,
+      "rows_returned": 0,
+      "notes": "UIS CSV"
+    },
+    {
+      "timestamp": "2026-04-26T06:46:18.416974+00:00",
+      "type": "api_call",
+      "url": "https://databrowser.uis.unesco.org/api/rest/data/v1/sdmx/data/UNESCO,SDG4/KOR.GRAD_5T8_F0714?startPeriod=2015&endPeriod=2024&format=csv",
+      "params": {
+        "country": "KOR",
+        "indicator": "GRAD_5T8_F0714"
+      },
+      "http_status": 404,
+      "rows_returned": 0,
+      "notes": "UIS CSV"
+    },
+    {
+      "timestamp": "2026-04-26T06:46:18.978774+00:00",
+      "type": "api_call",
+      "url": "https://databrowser.uis.unesco.org/api/rest/data/v1/sdmx/data/UNESCO,EDU_NON_FINANCE/MYS..L6T8._T._T._T._T._T._T._T._T._T.GRAD_5T8_F0714?startPeriod=2015&endPeriod=2024&format=csv",
+      "params": {
+        "country": "MYS",
+        "indicator": "GRAD_5T8_F0714"
+      },
+      "http_status": 404,
+      "rows_returned": 0,
+      "notes": "UIS CSV"
+    },
+    {
+      "timestamp": "2026-04-26T06:46:19.042689+00:00",
+      "type": "api_call",
+      "url": "https://databrowser.uis.unesco.org/api/rest/data/v1/sdmx/data/UNESCO,SDG4/MYS.GRAD_5T8_F0714?startPeriod=2015&endPeriod=2024&format=csv",
+      "params": {
+        "country": "MYS",
+        "indicator": "GRAD_5T8_F0714"
+      },
+      "http_status": 404,
+      "rows_returned": 0,
+      "notes": "UIS CSV"
+    },
+    {
+      "timestamp": "2026-04-26T06:46:19.602617+00:00",
+      "type": "api_call",
+      "url": "https://databrowser.uis.unesco.org/api/rest/data/v1/sdmx/data/UNESCO,EDU_NON_FINANCE/VNM..L6T8._T._T._T._T._T._T._T._T._T.GRAD_5T8_F0714?startPeriod=2015&endPeriod=2024&format=csv",
+      "params": {
+        "country": "VNM",
+        "indicator": "GRAD_5T8_F0714"
+      },
+      "http_status": 404,
+      "rows_returned": 0,
+      "notes": "UIS CSV"
+    },
+    {
+      "timestamp": "2026-04-26T06:46:19.661027+00:00",
+      "type": "api_call",
+      "url": "https://databrowser.uis.unesco.org/api/rest/data/v1/sdmx/data/UNESCO,SDG4/VNM.GRAD_5T8_F0714?startPeriod=2015&endPeriod=2024&format=csv",
+      "params": {
+        "country": "VNM",
+        "indicator": "GRAD_5T8_F0714"
+      },
+      "http_status": 404,
+      "rows_returned": 0,
+      "notes": "UIS CSV"
+    },
+    {
+      "timestamp": "2026-04-26T06:46:20.217955+00:00",
+      "type": "api_call",
+      "url": "https://databrowser.uis.unesco.org/api/rest/data/v1/sdmx/data/UNESCO,EDU_NON_FINANCE/CHN..L6T8._T._T._T._T._T._T._T._T._T.GRAD_5T8_F0714?startPeriod=2015&endPeriod=2024&format=csv",
+      "params": {
+        "country": "CHN",
+        "indicator": "GRAD_5T8_F0714"
+      },
+      "http_status": 404,
+      "rows_returned": 0,
+      "notes": "UIS CSV"
+    },
+    {
+      "timestamp": "2026-04-26T06:46:20.282876+00:00",
+      "type": "api_call",
+      "url": "https://databrowser.uis.unesco.org/api/rest/data/v1/sdmx/data/UNESCO,SDG4/CHN.GRAD_5T8_F0714?startPeriod=2015&endPeriod=2024&format=csv",
+      "params": {
+        "country": "CHN",
+        "indicator": "GRAD_5T8_F0714"
+      },
+      "http_status": 404,
+      "rows_returned": 0,
+      "notes": "UIS CSV"
+    },
+    {
+      "timestamp": "2026-04-26T06:46:20.841921+00:00",
+      "type": "api_call",
+      "url": "https://databrowser.uis.unesco.org/api/rest/data/v1/sdmx/data/UNESCO,EDU_NON_FINANCE/IND..L6T8._T._T._T._T._T._T._T._T._T.GRAD_5T8_F0715?startPeriod=2015&endPeriod=2024&format=csv",
+      "params": {
+        "country": "IND",
+        "indicator": "GRAD_5T8_F0715"
+      },
+      "http_status": 404,
+      "rows_returned": 0,
+      "notes": "UIS CSV"
+    },
+    {
+      "timestamp": "2026-04-26T06:46:20.905752+00:00",
+      "type": "api_call",
+      "url": "https://databrowser.uis.unesco.org/api/rest/data/v1/sdmx/data/UNESCO,SDG4/IND.GRAD_5T8_F0715?startPeriod=2015&endPeriod=2024&format=csv",
+      "params": {
+        "country": "IND",
+        "indicator": "GRAD_5T8_F0715"
+      },
+      "http_status": 404,
+      "rows_returned": 0,
+      "notes": "UIS CSV"
+    },
+    {
+      "timestamp": "2026-04-26T06:46:21.468446+00:00",
+      "type": "api_call",
+      "url": "https://databrowser.uis.unesco.org/api/rest/data/v1/sdmx/data/UNESCO,EDU_NON_FINANCE/TWN..L6T8._T._T._T._T._T._T._T._T._T.GRAD_5T8_F0715?startPeriod=2015&endPeriod=2024&format=csv",
+      "params": {
+        "country": "TWN",
+        "indicator": "GRAD_5T8_F0715"
+      },
+      "http_status": 404,
+      "rows_returned": 0,
+      "notes": "UIS CSV"
+    },
+    {
+      "timestamp": "2026-04-26T06:46:21.526484+00:00",
+      "type": "api_call",
+      "url": "https://databrowser.uis.unesco.org/api/rest/data/v1/sdmx/data/UNESCO,SDG4/TWN.GRAD_5T8_F0715?startPeriod=2015&endPeriod=2024&format=csv",
+      "params": {
+        "country": "TWN",
+        "indicator": "GRAD_5T8_F0715"
+      },
+      "http_status": 404,
+      "rows_returned": 0,
+      "notes": "UIS CSV"
+    },
+    {
+      "timestamp": "2026-04-26T06:46:22.087946+00:00",
+      "type": "api_call",
+      "url": "https://databrowser.uis.unesco.org/api/rest/data/v1/sdmx/data/UNESCO,EDU_NON_FINANCE/KOR..L6T8._T._T._T._T._T._T._T._T._T.GRAD_5T8_F0715?startPeriod=2015&endPeriod=2024&format=csv",
+      "params": {
+        "country": "KOR",
+        "indicator": "GRAD_5T8_F0715"
+      },
+      "http_status": 404,
+      "rows_returned": 0,
+      "notes": "UIS CSV"
+    },
+    {
+      "timestamp": "2026-04-26T06:46:22.150816+00:00",
+      "type": "api_call",
+      "url": "https://databrowser.uis.unesco.org/api/rest/data/v1/sdmx/data/UNESCO,SDG4/KOR.GRAD_5T8_F0715?startPeriod=2015&endPeriod=2024&format=csv",
+      "params": {
+        "country": "KOR",
+        "indicator": "GRAD_5T8_F0715"
+      },
+      "http_status": 404,
+      "rows_returned": 0,
+      "notes": "UIS CSV"
+    },
+    {
+      "timestamp": "2026-04-26T06:46:22.720313+00:00",
+      "type": "api_call",
+      "url": "https://databrowser.uis.unesco.org/api/rest/data/v1/sdmx/data/UNESCO,EDU_NON_FINANCE/MYS..L6T8._T._T._T._T._T._T._T._T._T.GRAD_5T8_F0715?startPeriod=2015&endPeriod=2024&format=csv",
+      "params": {
+        "country": "MYS",
+        "indicator": "GRAD_5T8_F0715"
+      },
+      "http_status": 404,
+      "rows_returned": 0,
+      "notes": "UIS CSV"
+    },
+    {
+      "timestamp": "2026-04-26T06:46:22.783118+00:00",
+      "type": "api_call",
+      "url": "https://databrowser.uis.unesco.org/api/rest/data/v1/sdmx/data/UNESCO,SDG4/MYS.GRAD_5T8_F0715?startPeriod=2015&endPeriod=2024&format=csv",
+      "params": {
+        "country": "MYS",
+        "indicator": "GRAD_5T8_F0715"
+      },
+      "http_status": 404,
+      "rows_returned": 0,
+      "notes": "UIS CSV"
+    },
+    {
+      "timestamp": "2026-04-26T06:46:23.341998+00:00",
+      "type": "api_call",
+      "url": "https://databrowser.uis.unesco.org/api/rest/data/v1/sdmx/data/UNESCO,EDU_NON_FINANCE/VNM..L6T8._T._T._T._T._T._T._T._T._T.GRAD_5T8_F0715?startPeriod=2015&endPeriod=2024&format=csv",
+      "params": {
+        "country": "VNM",
+        "indicator": "GRAD_5T8_F0715"
+      },
+      "http_status": 404,
+      "rows_returned": 0,
+      "notes": "UIS CSV"
+    },
+    {
+      "timestamp": "2026-04-26T06:46:23.415060+00:00",
+      "type": "api_call",
+      "url": "https://databrowser.uis.unesco.org/api/rest/data/v1/sdmx/data/UNESCO,SDG4/VNM.GRAD_5T8_F0715?startPeriod=2015&endPeriod=2024&format=csv",
+      "params": {
+        "country": "VNM",
+        "indicator": "GRAD_5T8_F0715"
+      },
+      "http_status": 404,
+      "rows_returned": 0,
+      "notes": "UIS CSV"
+    },
+    {
+      "timestamp": "2026-04-26T06:46:23.976290+00:00",
+      "type": "api_call",
+      "url": "https://databrowser.uis.unesco.org/api/rest/data/v1/sdmx/data/UNESCO,EDU_NON_FINANCE/CHN..L6T8._T._T._T._T._T._T._T._T._T.GRAD_5T8_F0715?startPeriod=2015&endPeriod=2024&format=csv",
+      "params": {
+        "country": "CHN",
+        "indicator": "GRAD_5T8_F0715"
+      },
+      "http_status": 404,
+      "rows_returned": 0,
+      "notes": "UIS CSV"
+    },
+    {
+      "timestamp": "2026-04-26T06:46:24.041338+00:00",
+      "type": "api_call",
+      "url": "https://databrowser.uis.unesco.org/api/rest/data/v1/sdmx/data/UNESCO,SDG4/CHN.GRAD_5T8_F0715?startPeriod=2015&endPeriod=2024&format=csv",
+      "params": {
+        "country": "CHN",
+        "indicator": "GRAD_5T8_F0715"
+      },
+      "http_status": 404,
+      "rows_returned": 0,
+      "notes": "UIS CSV"
+    },
+    {
+      "timestamp": "2026-04-26T06:46:24.601786+00:00",
+      "type": "api_call",
+      "url": "https://databrowser.uis.unesco.org/api/rest/data/v1/sdmx/data/UNESCO,EDU_NON_FINANCE/IND..L6T8._T._T._T._T._T._T._T._T._T.GRAD_5T8_F071?startPeriod=2015&endPeriod=2024&format=csv",
+      "params": {
+        "country": "IND",
+        "indicator": "GRAD_5T8_F071"
+      },
+      "http_status": 404,
+      "rows_returned": 0,
+      "notes": "UIS CSV"
+    },
+    {
+      "timestamp": "2026-04-26T06:46:24.667373+00:00",
+      "type": "api_call",
+      "url": "https://databrowser.uis.unesco.org/api/rest/data/v1/sdmx/data/UNESCO,SDG4/IND.GRAD_5T8_F071?startPeriod=2015&endPeriod=2024&format=csv",
+      "params": {
+        "country": "IND",
+        "indicator": "GRAD_5T8_F071"
+      },
+      "http_status": 404,
+      "rows_returned": 0,
+      "notes": "UIS CSV"
+    },
+    {
+      "timestamp": "2026-04-26T06:46:25.225678+00:00",
+      "type": "api_call",
+      "url": "https://databrowser.uis.unesco.org/api/rest/data/v1/sdmx/data/UNESCO,EDU_NON_FINANCE/TWN..L6T8._T._T._T._T._T._T._T._T._T.GRAD_5T8_F071?startPeriod=2015&endPeriod=2024&format=csv",
+      "params": {
+        "country": "TWN",
+        "indicator": "GRAD_5T8_F071"
+      },
+      "http_status": 404,
+      "rows_returned": 0,
+      "notes": "UIS CSV"
+    },
+    {
+      "timestamp": "2026-04-26T06:46:25.284376+00:00",
+      "type": "api_call",
+      "url": "https://databrowser.uis.unesco.org/api/rest/data/v1/sdmx/data/UNESCO,SDG4/TWN.GRAD_5T8_F071?startPeriod=2015&endPeriod=2024&format=csv",
+      "params": {
+        "country": "TWN",
+        "indicator": "GRAD_5T8_F071"
+      },
+      "http_status": 404,
+      "rows_returned": 0,
+      "notes": "UIS CSV"
+    },
+    {
+      "timestamp": "2026-04-26T06:46:25.845557+00:00",
+      "type": "api_call",
+      "url": "https://databrowser.uis.unesco.org/api/rest/data/v1/sdmx/data/UNESCO,EDU_NON_FINANCE/KOR..L6T8._T._T._T._T._T._T._T._T._T.GRAD_5T8_F071?startPeriod=2015&endPeriod=2024&format=csv",
+      "params": {
+        "country": "KOR",
+        "indicator": "GRAD_5T8_F071"
+      },
+      "http_status": 404,
+      "rows_returned": 0,
+      "notes": "UIS CSV"
+    },
+    {
+      "timestamp": "2026-04-26T06:46:25.908120+00:00",
+      "type": "api_call",
+      "url": "https://databrowser.uis.unesco.org/api/rest/data/v1/sdmx/data/UNESCO,SDG4/KOR.GRAD_5T8_F071?startPeriod=2015&endPeriod=2024&format=csv",
+      "params": {
+        "country": "KOR",
+        "indicator": "GRAD_5T8_F071"
+      },
+      "http_status": 404,
+      "rows_returned": 0,
+      "notes": "UIS CSV"
+    },
+    {
+      "timestamp": "2026-04-26T06:46:26.462554+00:00",
+      "type": "api_call",
+      "url": "https://databrowser.uis.unesco.org/api/rest/data/v1/sdmx/data/UNESCO,EDU_NON_FINANCE/MYS..L6T8._T._T._T._T._T._T._T._T._T.GRAD_5T8_F071?startPeriod=2015&endPeriod=2024&format=csv",
+      "params": {
+        "country": "MYS",
+        "indicator": "GRAD_5T8_F071"
+      },
+      "http_status": 404,
+      "rows_returned": 0,
+      "notes": "UIS CSV"
+    },
+    {
+      "timestamp": "2026-04-26T06:46:26.519296+00:00",
+      "type": "api_call",
+      "url": "https://databrowser.uis.unesco.org/api/rest/data/v1/sdmx/data/UNESCO,SDG4/MYS.GRAD_5T8_F071?startPeriod=2015&endPeriod=2024&format=csv",
+      "params": {
+        "country": "MYS",
+        "indicator": "GRAD_5T8_F071"
+      },
+      "http_status": 404,
+      "rows_returned": 0,
+      "notes": "UIS CSV"
+    },
+    {
+      "timestamp": "2026-04-26T06:46:27.084956+00:00",
+      "type": "api_call",
+      "url": "https://databrowser.uis.unesco.org/api/rest/data/v1/sdmx/data/UNESCO,EDU_NON_FINANCE/VNM..L6T8._T._T._T._T._T._T._T._T._T.GRAD_5T8_F071?startPeriod=2015&endPeriod=2024&format=csv",
+      "params": {
+        "country": "VNM",
+        "indicator": "GRAD_5T8_F071"
+      },
+      "http_status": 404,
+      "rows_returned": 0,
+      "notes": "UIS CSV"
+    },
+    {
+      "timestamp": "2026-04-26T06:46:27.144738+00:00",
+      "type": "api_call",
+      "url": "https://databrowser.uis.unesco.org/api/rest/data/v1/sdmx/data/UNESCO,SDG4/VNM.GRAD_5T8_F071?startPeriod=2015&endPeriod=2024&format=csv",
+      "params": {
+        "country": "VNM",
+        "indicator": "GRAD_5T8_F071"
+      },
+      "http_status": 404,
+      "rows_returned": 0,
+      "notes": "UIS CSV"
+    },
+    {
+      "timestamp": "2026-04-26T06:46:27.708296+00:00",
+      "type": "api_call",
+      "url": "https://databrowser.uis.unesco.org/api/rest/data/v1/sdmx/data/UNESCO,EDU_NON_FINANCE/CHN..L6T8._T._T._T._T._T._T._T._T._T.GRAD_5T8_F071?startPeriod=2015&endPeriod=2024&format=csv",
+      "params": {
+        "country": "CHN",
+        "indicator": "GRAD_5T8_F071"
+      },
+      "http_status": 404,
+      "rows_returned": 0,
+      "notes": "UIS CSV"
+    },
+    {
+      "timestamp": "2026-04-26T06:46:27.761425+00:00",
+      "type": "api_call",
+      "url": "https://databrowser.uis.unesco.org/api/rest/data/v1/sdmx/data/UNESCO,SDG4/CHN.GRAD_5T8_F071?startPeriod=2015&endPeriod=2024&format=csv",
+      "params": {
+        "country": "CHN",
+        "indicator": "GRAD_5T8_F071"
+      },
+      "http_status": 404,
+      "rows_returned": 0,
+      "notes": "UIS CSV"
+    },
+    {
+      "timestamp": "2026-04-26T06:46:28.559562+00:00",
+      "type": "api_call",
+      "url": "https://api.worldbank.org/v2/country/IND/indicator/SE.TER.GRAD.FE.ZS?date=2015:2024&format=json",
+      "params": {
+        "country": "IND"
+      },
+      "http_status": 200,
+      "rows_returned": 0,
+      "notes": "tertiary_grad_female"
+    },
+    {
+      "timestamp": "2026-04-26T06:46:28.860758+00:00",
+      "type": "api_call",
+      "url": "https://api.worldbank.org/v2/country/KOR/indicator/SE.TER.GRAD.FE.ZS?date=2015:2024&format=json",
+      "params": {
+        "country": "KOR"
+      },
+      "http_status": 200,
+      "rows_returned": 0,
+      "notes": "tertiary_grad_female"
+    },
+    {
+      "timestamp": "2026-04-26T06:46:29.208153+00:00",
+      "type": "api_call",
+      "url": "https://api.worldbank.org/v2/country/MYS/indicator/SE.TER.GRAD.FE.ZS?date=2015:2024&format=json",
+      "params": {
+        "country": "MYS"
+      },
+      "http_status": 200,
+      "rows_returned": 0,
+      "notes": "tertiary_grad_female"
+    },
+    {
+      "timestamp": "2026-04-26T06:46:29.468366+00:00",
+      "type": "api_call",
+      "url": "https://api.worldbank.org/v2/country/VNM/indicator/SE.TER.GRAD.FE.ZS?date=2015:2024&format=json",
+      "params": {
+        "country": "VNM"
+      },
+      "http_status": 200,
+      "rows_returned": 0,
+      "notes": "tertiary_grad_female"
+    },
+    {
+      "timestamp": "2026-04-26T06:46:29.731442+00:00",
+      "type": "api_call",
+      "url": "https://api.worldbank.org/v2/country/CHN/indicator/SE.TER.GRAD.FE.ZS?date=2015:2024&format=json",
+      "params": {
+        "country": "CHN"
+      },
+      "http_status": 200,
+      "rows_returned": 0,
+      "notes": "tertiary_grad_female"
+    },
+    {
+      "timestamp": "2026-04-26T06:46:30.430051+00:00",
+      "type": "api_call",
+      "url": "https://api.worldbank.org/v2/country/IND/indicator/SE.TER.ENRR?date=2015:2024&format=json",
+      "params": {
+        "country": "IND"
+      },
+      "http_status": 200,
+      "rows_returned": 0,
+      "notes": "enrollment_ratio"
+    },
+    {
+      "timestamp": "2026-04-26T06:46:31.553342+00:00",
+      "type": "api_call",
+      "url": "https://api.worldbank.org/v2/country/KOR/indicator/SE.TER.ENRR?date=2015:2024&format=json",
+      "params": {
+        "country": "KOR"
+      },
+      "http_status": 200,
+      "rows_returned": 0,
+      "notes": "enrollment_ratio"
+    },
+    {
+      "timestamp": "2026-04-26T06:46:32.299760+00:00",
+      "type": "api_call",
+      "url": "https://api.worldbank.org/v2/country/MYS/indicator/SE.TER.ENRR?date=2015:2024&format=json",
+      "params": {
+        "country": "MYS"
+      },
+      "http_status": 200,
+      "rows_returned": 0,
+      "notes": "enrollment_ratio"
+    },
+    {
+      "timestamp": "2026-04-26T06:46:33.125188+00:00",
+      "type": "api_call",
+      "url": "https://api.worldbank.org/v2/country/VNM/indicator/SE.TER.ENRR?date=2015:2024&format=json",
+      "params": {
+        "country": "VNM"
+      },
+      "http_status": 200,
+      "rows_returned": 0,
+      "notes": "enrollment_ratio"
+    },
+    {
+      "timestamp": "2026-04-26T06:46:33.995658+00:00",
+      "type": "api_call",
+      "url": "https://api.worldbank.org/v2/country/CHN/indicator/SE.TER.ENRR?date=2015:2024&format=json",
+      "params": {
+        "country": "CHN"
+      },
+      "http_status": 200,
+      "rows_returned": 0,
+      "notes": "enrollment_ratio"
+    }
+  ],
+  "errors": [],
+  "output": {
+    "csv_path": "nsemi_data/raw/rq3_unesco_graduates.csv",
+    "total_rows": 48,
+    "total_columns": 6,
+    "null_cell_count": 0,
+    "null_percentage": 0.0,
+    "column_names": [
+      "country_iso3",
+      "year",
+      "value",
+      "indicator",
+      "data_source",
+      "retrieval_date"
+    ]
+  },
+  "environment": {
+    "python_version": "3.12.13 (main, Mar  4 2026, 09:23:07) [GCC 11.4.0]",
+    "platform": "Linux-6.6.113+-x86_64-with-glibc2.35"
+  }
+}

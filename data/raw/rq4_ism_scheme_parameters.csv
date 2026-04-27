@@ -1,0 +1,7 @@
+scheme,facility_type,subsidy_pct_capex,incentive_type,tenure_years,approval_date,data_source,retrieval_date
+ISM Original (2021),Fab >=28nm,50,Fiscal support,6,2021-12-15,compiled_reference_PIB_releases,2026-04-26
+ISM Original (2021),Compound semi (CG/SiC),70,Fiscal support,6,2021-12-15,compiled_reference_PIB_releases,2026-04-26
+ISM Original (2021),ATMP/OSAT,50,Fiscal support,6,2021-12-15,compiled_reference_PIB_releases,2026-04-26
+ISM Original (2021),Display Fab,50,Fiscal support,6,2021-12-15,compiled_reference_PIB_releases,2026-04-26
+ISM 2.0 (2026),Fab Greenfield,50,Fiscal support + state benefit,6,2026-02-07,compiled_reference_PIB_releases,2026-04-26
+ISM 2.0 (2026),ATMP/OSAT,50,Fiscal support + state benefit,6,2026-02-07,compiled_reference_PIB_releases,2026-04-26

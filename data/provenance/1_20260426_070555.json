@@ -1,0 +1,185 @@
+{
+  "script_name": 1,
+  "research_question": "WorldBank",
+  "data_source": "RQ4",
+  "extraction_start": "2026-04-26T07:05:02.426728+00:00",
+  "extraction_end": "2026-04-26T07:05:55.430367+00:00",
+  "total_api_calls": 4,
+  "total_errors": 1,
+  "entries": [
+    {
+      "timestamp": "2026-04-26T07:05:02.622853+00:00",
+      "type": "api_call",
+      "url": "https://api.worldbank.org/v2/country/IND;KOR;MYS;VNM;CHN;USA;DEU;JPN/indicator/IC.TAX.TOTL.CP.ZS?date=2015:2024&format=json&per_page=500",
+      "params": {
+        "economies": [
+          "IND",
+          "KOR",
+          "MYS",
+          "VNM",
+          "CHN",
+          "USA",
+          "DEU",
+          "JPN"
+        ],
+        "years": [
+          2015,
+          2016,
+          2017,
+          2018,
+          2019,
+          2020,
+          2021,
+          2022,
+          2023,
+          2024
+        ]
+      },
+      "http_status": 200,
+      "rows_returned": 0,
+      "notes": "total_tax_rate_pct"
+    },
+    {
+      "timestamp": "2026-04-26T07:05:43.547662+00:00",
+      "type": "api_call",
+      "url": "https://api.worldbank.org/v2/country/IND;KOR;MYS;VNM;CHN;USA;DEU;JPN/indicator/BX.KLT.DINV.CD.WD?date=2015:2024&format=json&per_page=500",
+      "params": {
+        "economies": [
+          "IND",
+          "KOR",
+          "MYS",
+          "VNM",
+          "CHN",
+          "USA",
+          "DEU",
+          "JPN"
+        ],
+        "years": [
+          2015,
+          2016,
+          2017,
+          2018,
+          2019,
+          2020,
+          2021,
+          2022,
+          2023,
+          2024
+        ]
+      },
+      "http_status": 200,
+      "rows_returned": 0,
+      "notes": "fdi_inflows_usd"
+    },
+    {
+      "timestamp": "2026-04-26T07:05:51.163748+00:00",
+      "type": "api_call",
+      "url": "https://api.worldbank.org/v2/country/IND;KOR;MYS;VNM;CHN;USA;DEU;JPN/indicator/NY.GDP.PCAP.CD?date=2015:2024&format=json&per_page=500",
+      "params": {
+        "economies": [
+          "IND",
+          "KOR",
+          "MYS",
+          "VNM",
+          "CHN",
+          "USA",
+          "DEU",
+          "JPN"
+        ],
+        "years": [
+          2015,
+          2016,
+          2017,
+          2018,
+          2019,
+          2020,
+          2021,
+          2022,
+          2023,
+          2024
+        ]
+      },
+      "http_status": 200,
+      "rows_returned": 0,
+      "notes": "gdp_per_capita_usd"
+    },
+    {
+      "timestamp": "2026-04-26T07:05:55.406852+00:00",
+      "type": "api_call",
+      "url": "https://api.worldbank.org/v2/country/IND;KOR;MYS;VNM;CHN;USA;DEU;JPN/indicator/EG.ELC.LOSS.ZS?date=2015:2024&format=json&per_page=500",
+      "params": {
+        "economies": [
+          "IND",
+          "KOR",
+          "MYS",
+          "VNM",
+          "CHN",
+          "USA",
+          "DEU",
+          "JPN"
+        ],
+        "years": [
+          2015,
+          2016,
+          2017,
+          2018,
+          2019,
+          2020,
+          2021,
+          2022,
+          2023,
+          2024
+        ]
+      },
+      "http_status": 200,
+      "rows_returned": 0,
+      "notes": "td_losses_pct"
+    },
+    {
+      "timestamp": "2026-04-26T07:05:55.417347+00:00",
+      "type": "transform",
+      "operation": "merge_indicators",
+      "input_rows": 236,
+      "output_rows": 80,
+      "columns": [
+        "economy",
+        "Country",
+        "year",
+        "fdi_inflows_usd",
+        "gdp_per_capita_usd",
+        "td_losses_pct",
+        "fdi_inflows_usd_mn"
+      ],
+      "notes": "3 indicators merged"
+    }
+  ],
+  "errors": [
+    {
+      "timestamp": "2026-04-26T07:05:32.688958+00:00",
+      "error": "HTTPSConnectionPool(host='api.worldbank.org', port=443): Read timed out. (read timeout=30)",
+      "context": "FR.INR.LEND REST API"
+    }
+  ],
+  "output": {
+    "csv_path": "nsemi_data/raw/rq4_worldbank_cost.csv",
+    "total_rows": 80,
+    "total_columns": 9,
+    "null_cell_count": 4,
+    "null_percentage": 0.56,
+    "column_names": [
+      "economy",
+      "Country",
+      "year",
+      "fdi_inflows_usd",
+      "gdp_per_capita_usd",
+      "td_losses_pct",
+      "fdi_inflows_usd_mn",
+      "data_source",
+      "retrieval_date"
+    ]
+  },
+  "environment": {
+    "python_version": "3.12.13 (main, Mar  4 2026, 09:23:07) [GCC 11.4.0]",
+    "platform": "Linux-6.6.113+-x86_64-with-glibc2.35"
+  }
+}

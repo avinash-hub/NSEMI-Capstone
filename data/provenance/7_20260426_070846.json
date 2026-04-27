@@ -1,0 +1,87 @@
+{
+  "script_name": 7,
+  "research_question": "DPIIT_FDI",
+  "data_source": "RQ4",
+  "extraction_start": "2026-04-26T07:08:43.956951+00:00",
+  "extraction_end": "2026-04-26T07:08:46.787500+00:00",
+  "total_api_calls": 2,
+  "total_errors": 1,
+  "entries": [
+    {
+      "timestamp": "2026-04-26T07:08:45.590865+00:00",
+      "type": "api_call",
+      "url": "https://api.data.gov.in/resource/d1b4a4ea-a051-4b44-a16a-c2f1f75a9d32",
+      "params": {
+        "resource": "d1b4a4ea-a051-4b44-a16a-c2f1f75a9d32"
+      },
+      "http_status": 200,
+      "rows_returned": 0,
+      "notes": "fdi_sector_2018_23"
+    },
+    {
+      "timestamp": "2026-04-26T07:08:46.683371+00:00",
+      "type": "api_call",
+      "url": "https://api.data.gov.in/resource/rfjmjlcblsl9133zumc9pqlnpi4ee8xy",
+      "params": {
+        "resource": "rfjmjlcblsl9133zumc9pqlnpi4ee8xy"
+      },
+      "http_status": 200,
+      "rows_returned": 0,
+      "notes": "fdi_cumulative"
+    },
+    {
+      "timestamp": "2026-04-26T07:08:46.686390+00:00",
+      "type": "transform",
+      "operation": "concat_api_datasets",
+      "input_rows": 122,
+      "output_rows": 122,
+      "columns": [
+        "sl__no_",
+        "sector",
+        "_2018_19",
+        "_2019_20",
+        "_2020_21",
+        "_2021_22",
+        "_2022_23",
+        "dataset_label",
+        "sector_name",
+        "amount_in_rs",
+        "amount_in_usd"
+      ],
+      "notes": ""
+    }
+  ],
+  "errors": [
+    {
+      "timestamp": "2026-04-26T07:08:46.787322+00:00",
+      "error": "Message: session not created: Chrome instance exited. Examine ChromeDriver verbose log to determine the cause.; For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#sessionnotcreatedexception\nStacktrace:\n#0 0x5b59ea79831a <unknown>\n#1 0x5b59ea190b39 <unknown>\n#2 0x5b59ea1cf0cb <unknown>\n#3 0x5b59ea1c9d99 <unknown>\n#4 0x5b59ea2195ae <unknown>\n#5 0x5b59ea218c9c <unknown>\n#6 0x5b59ea1d873f <unknown>\n#7 0x5b59ea1d9501 <unknown>\n#8 0x5b59ea75b7bb <unknown>\n#9 0x5b59ea75e6bd <unknown>\n#10 0x5b59ea748608 <unknown>\n#11 0x5b59ea75f250 <unknown>\n#12 0x5b59ea72f030 <unknown>\n#13 0x5b59ea784c78 <unknown>\n#14 0x5b59ea784e15 <unknown>\n#15 0x5b59ea796d4e <unknown>\n#16 0x79516b067ac3 <unknown>\n",
+      "context": "DPIIT/RBI Scrape"
+    }
+  ],
+  "output": {
+    "csv_path": "nsemi_data/raw/source07_fdi_sectorwise_api.csv",
+    "total_rows": 122,
+    "total_columns": 13,
+    "null_cell_count": 618,
+    "null_percentage": 38.97,
+    "column_names": [
+      "sl__no_",
+      "sector",
+      "_2018_19",
+      "_2019_20",
+      "_2020_21",
+      "_2021_22",
+      "_2022_23",
+      "dataset_label",
+      "sector_name",
+      "amount_in_rs",
+      "amount_in_usd",
+      "data_source",
+      "retrieval_date"
+    ]
+  },
+  "environment": {
+    "python_version": "3.12.13 (main, Mar  4 2026, 09:23:07) [GCC 11.4.0]",
+    "platform": "Linux-6.6.113+-x86_64-with-glibc2.35"
+  }
+}

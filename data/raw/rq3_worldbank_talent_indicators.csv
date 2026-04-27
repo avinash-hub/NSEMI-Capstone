@@ -1,0 +1,272 @@
+country,iso3,year,indicator,value,data_source,retrieval_date
+Germany,DEU,2023,labor_force_advanced_education_pct,73.015,WorldBank_talent_API_real,2026-04-26
+Germany,DEU,2022,labor_force_advanced_education_pct,72.721,WorldBank_talent_API_real,2026-04-26
+Germany,DEU,2021,labor_force_advanced_education_pct,73.013,WorldBank_talent_API_real,2026-04-26
+Germany,DEU,2020,labor_force_advanced_education_pct,72.689,WorldBank_talent_API_real,2026-04-26
+Germany,DEU,2019,labor_force_advanced_education_pct,74.372,WorldBank_talent_API_real,2026-04-26
+Germany,DEU,2018,labor_force_advanced_education_pct,73.74,WorldBank_talent_API_real,2026-04-26
+Germany,DEU,2017,labor_force_advanced_education_pct,74.072,WorldBank_talent_API_real,2026-04-26
+Germany,DEU,2016,labor_force_advanced_education_pct,74.031,WorldBank_talent_API_real,2026-04-26
+Germany,DEU,2015,labor_force_advanced_education_pct,73.63,WorldBank_talent_API_real,2026-04-26
+India,IND,2023,labor_force_advanced_education_pct,65.269,WorldBank_talent_API_real,2026-04-26
+India,IND,2022,labor_force_advanced_education_pct,63.462,WorldBank_talent_API_real,2026-04-26
+India,IND,2021,labor_force_advanced_education_pct,61.889,WorldBank_talent_API_real,2026-04-26
+India,IND,2020,labor_force_advanced_education_pct,61.103,WorldBank_talent_API_real,2026-04-26
+India,IND,2019,labor_force_advanced_education_pct,61.446,WorldBank_talent_API_real,2026-04-26
+India,IND,2018,labor_force_advanced_education_pct,60.646,WorldBank_talent_API_real,2026-04-26
+Japan,JPN,2020,labor_force_advanced_education_pct,78.627,WorldBank_talent_API_real,2026-04-26
+Japan,JPN,2019,labor_force_advanced_education_pct,79.094,WorldBank_talent_API_real,2026-04-26
+Japan,JPN,2018,labor_force_advanced_education_pct,78.325,WorldBank_talent_API_real,2026-04-26
+Japan,JPN,2017,labor_force_advanced_education_pct,78.102,WorldBank_talent_API_real,2026-04-26
+Japan,JPN,2016,labor_force_advanced_education_pct,77.724,WorldBank_talent_API_real,2026-04-26
+Japan,JPN,2015,labor_force_advanced_education_pct,77.561,WorldBank_talent_API_real,2026-04-26
+"Korea, Rep.",KOR,2023,labor_force_advanced_education_pct,74.068,WorldBank_talent_API_real,2026-04-26
+"Korea, Rep.",KOR,2022,labor_force_advanced_education_pct,73.532,WorldBank_talent_API_real,2026-04-26
+"Korea, Rep.",KOR,2021,labor_force_advanced_education_pct,72.177,WorldBank_talent_API_real,2026-04-26
+"Korea, Rep.",KOR,2020,labor_force_advanced_education_pct,71.36,WorldBank_talent_API_real,2026-04-26
+"Korea, Rep.",KOR,2019,labor_force_advanced_education_pct,72.296,WorldBank_talent_API_real,2026-04-26
+"Korea, Rep.",KOR,2018,labor_force_advanced_education_pct,72.237,WorldBank_talent_API_real,2026-04-26
+"Korea, Rep.",KOR,2017,labor_force_advanced_education_pct,72.299,WorldBank_talent_API_real,2026-04-26
+"Korea, Rep.",KOR,2016,labor_force_advanced_education_pct,72.108,WorldBank_talent_API_real,2026-04-26
+"Korea, Rep.",KOR,2015,labor_force_advanced_education_pct,71.942,WorldBank_talent_API_real,2026-04-26
+Malaysia,MYS,2022,labor_force_advanced_education_pct,77.915,WorldBank_talent_API_real,2026-04-26
+Malaysia,MYS,2021,labor_force_advanced_education_pct,69.99,WorldBank_talent_API_real,2026-04-26
+Malaysia,MYS,2020,labor_force_advanced_education_pct,76.617,WorldBank_talent_API_real,2026-04-26
+Malaysia,MYS,2018,labor_force_advanced_education_pct,70.459,WorldBank_talent_API_real,2026-04-26
+Malaysia,MYS,2017,labor_force_advanced_education_pct,69.644,WorldBank_talent_API_real,2026-04-26
+Malaysia,MYS,2016,labor_force_advanced_education_pct,69.248,WorldBank_talent_API_real,2026-04-26
+Malaysia,MYS,2015,labor_force_advanced_education_pct,69.331,WorldBank_talent_API_real,2026-04-26
+United States,USA,2023,labor_force_advanced_education_pct,71.866,WorldBank_talent_API_real,2026-04-26
+United States,USA,2022,labor_force_advanced_education_pct,71.78,WorldBank_talent_API_real,2026-04-26
+United States,USA,2021,labor_force_advanced_education_pct,71.375,WorldBank_talent_API_real,2026-04-26
+United States,USA,2020,labor_force_advanced_education_pct,71.64,WorldBank_talent_API_real,2026-04-26
+United States,USA,2019,labor_force_advanced_education_pct,73.125,WorldBank_talent_API_real,2026-04-26
+United States,USA,2018,labor_force_advanced_education_pct,73.175,WorldBank_talent_API_real,2026-04-26
+United States,USA,2017,labor_force_advanced_education_pct,73.25,WorldBank_talent_API_real,2026-04-26
+United States,USA,2016,labor_force_advanced_education_pct,73.56,WorldBank_talent_API_real,2026-04-26
+United States,USA,2015,labor_force_advanced_education_pct,73.844,WorldBank_talent_API_real,2026-04-26
+Viet Nam,VNM,2023,labor_force_advanced_education_pct,87.263,WorldBank_talent_API_real,2026-04-26
+Viet Nam,VNM,2022,labor_force_advanced_education_pct,87.632,WorldBank_talent_API_real,2026-04-26
+Viet Nam,VNM,2021,labor_force_advanced_education_pct,85.487,WorldBank_talent_API_real,2026-04-26
+Viet Nam,VNM,2020,labor_force_advanced_education_pct,88.117,WorldBank_talent_API_real,2026-04-26
+Viet Nam,VNM,2019,labor_force_advanced_education_pct,87.716,WorldBank_talent_API_real,2026-04-26
+Viet Nam,VNM,2018,labor_force_advanced_education_pct,87.65,WorldBank_talent_API_real,2026-04-26
+Viet Nam,VNM,2017,labor_force_advanced_education_pct,87.644,WorldBank_talent_API_real,2026-04-26
+Viet Nam,VNM,2016,labor_force_advanced_education_pct,87.531,WorldBank_talent_API_real,2026-04-26
+Viet Nam,VNM,2015,labor_force_advanced_education_pct,87.743,WorldBank_talent_API_real,2026-04-26
+China,CHN,2020,population_STEM_tertiary_pct,16.1218109130859,WorldBank_talent_API_real,2026-04-26
+Germany,DEU,2022,population_STEM_tertiary_pct,30.2490310190636,WorldBank_talent_API_real,2026-04-26
+Germany,DEU,2021,population_STEM_tertiary_pct,30.0148589424064,WorldBank_talent_API_real,2026-04-26
+Germany,DEU,2020,population_STEM_tertiary_pct,28.90452003479,WorldBank_talent_API_real,2026-04-26
+Germany,DEU,2019,population_STEM_tertiary_pct,27.8391136593667,WorldBank_talent_API_real,2026-04-26
+Germany,DEU,2018,population_STEM_tertiary_pct,25.7418899536133,WorldBank_talent_API_real,2026-04-26
+Germany,DEU,2017,population_STEM_tertiary_pct,26.6459857256822,WorldBank_talent_API_real,2026-04-26
+Germany,DEU,2016,population_STEM_tertiary_pct,26.1768093109131,WorldBank_talent_API_real,2026-04-26
+Germany,DEU,2015,population_STEM_tertiary_pct,25.4261207580566,WorldBank_talent_API_real,2026-04-26
+India,IND,2021,population_STEM_tertiary_pct,12.3699246623116,WorldBank_talent_API_real,2026-04-26
+India,IND,2019,population_STEM_tertiary_pct,11.8733481311439,WorldBank_talent_API_real,2026-04-26
+"Korea, Rep.",KOR,2023,population_STEM_tertiary_pct,48.6515113220861,WorldBank_talent_API_real,2026-04-26
+"Korea, Rep.",KOR,2022,population_STEM_tertiary_pct,47.5099167162514,WorldBank_talent_API_real,2026-04-26
+"Korea, Rep.",KOR,2021,population_STEM_tertiary_pct,46.9363236351046,WorldBank_talent_API_real,2026-04-26
+"Korea, Rep.",KOR,2020,population_STEM_tertiary_pct,46.4535750453089,WorldBank_talent_API_real,2026-04-26
+"Korea, Rep.",KOR,2019,population_STEM_tertiary_pct,46.0058004727794,WorldBank_talent_API_real,2026-04-26
+"Korea, Rep.",KOR,2018,population_STEM_tertiary_pct,45.3113742089373,WorldBank_talent_API_real,2026-04-26
+"Korea, Rep.",KOR,2017,population_STEM_tertiary_pct,44.3815791101734,WorldBank_talent_API_real,2026-04-26
+"Korea, Rep.",KOR,2016,population_STEM_tertiary_pct,43.6879936737268,WorldBank_talent_API_real,2026-04-26
+"Korea, Rep.",KOR,2015,population_STEM_tertiary_pct,40.3022689819336,WorldBank_talent_API_real,2026-04-26
+Malaysia,MYS,2022,population_STEM_tertiary_pct,23.3401699066162,WorldBank_talent_API_real,2026-04-26
+Malaysia,MYS,2019,population_STEM_tertiary_pct,20.2880592346191,WorldBank_talent_API_real,2026-04-26
+Malaysia,MYS,2016,population_STEM_tertiary_pct,18.8380794525146,WorldBank_talent_API_real,2026-04-26
+United States,USA,2023,population_STEM_tertiary_pct,49.1423604728753,WorldBank_talent_API_real,2026-04-26
+United States,USA,2022,population_STEM_tertiary_pct,48.1234016418457,WorldBank_talent_API_real,2026-04-26
+United States,USA,2021,population_STEM_tertiary_pct,47.9144197512147,WorldBank_talent_API_real,2026-04-26
+United States,USA,2020,population_STEM_tertiary_pct,48.089168548584,WorldBank_talent_API_real,2026-04-26
+United States,USA,2019,population_STEM_tertiary_pct,46.3481183056035,WorldBank_talent_API_real,2026-04-26
+United States,USA,2018,population_STEM_tertiary_pct,45.167911529541,WorldBank_talent_API_real,2026-04-26
+United States,USA,2017,population_STEM_tertiary_pct,44.6631667831651,WorldBank_talent_API_real,2026-04-26
+United States,USA,2016,population_STEM_tertiary_pct,43.5118789672852,WorldBank_talent_API_real,2026-04-26
+United States,USA,2015,population_STEM_tertiary_pct,42.3375091552734,WorldBank_talent_API_real,2026-04-26
+Viet Nam,VNM,2023,population_STEM_tertiary_pct,14.847107507825,WorldBank_talent_API_real,2026-04-26
+Viet Nam,VNM,2022,population_STEM_tertiary_pct,13.6453872287959,WorldBank_talent_API_real,2026-04-26
+Viet Nam,VNM,2021,population_STEM_tertiary_pct,13.3732328433503,WorldBank_talent_API_real,2026-04-26
+Viet Nam,VNM,2020,population_STEM_tertiary_pct,13.68091165921,WorldBank_talent_API_real,2026-04-26
+Viet Nam,VNM,2019,population_STEM_tertiary_pct,13.5181303024292,WorldBank_talent_API_real,2026-04-26
+Viet Nam,VNM,2018,population_STEM_tertiary_pct,12.0348956584879,WorldBank_talent_API_real,2026-04-26
+Viet Nam,VNM,2017,population_STEM_tertiary_pct,11.7225687327882,WorldBank_talent_API_real,2026-04-26
+Viet Nam,VNM,2016,population_STEM_tertiary_pct,11.2153894844858,WorldBank_talent_API_real,2026-04-26
+Viet Nam,VNM,2015,population_STEM_tertiary_pct,10.4668633050632,WorldBank_talent_API_real,2026-04-26
+China,CHN,2023,ICT_service_exports_pct,17.6348809089749,WorldBank_talent_API_real,2026-04-26
+China,CHN,2022,ICT_service_exports_pct,15.0052134014711,WorldBank_talent_API_real,2026-04-26
+China,CHN,2021,ICT_service_exports_pct,14.9436992366028,WorldBank_talent_API_real,2026-04-26
+China,CHN,2020,ICT_service_exports_pct,17.0321611541755,WorldBank_talent_API_real,2026-04-26
+China,CHN,2019,ICT_service_exports_pct,14.301697198836,WorldBank_talent_API_real,2026-04-26
+China,CHN,2018,ICT_service_exports_pct,12.8542282709365,WorldBank_talent_API_real,2026-04-26
+China,CHN,2017,ICT_service_exports_pct,12.6067554934971,WorldBank_talent_API_real,2026-04-26
+China,CHN,2016,ICT_service_exports_pct,12.2034646075309,WorldBank_talent_API_real,2026-04-26
+China,CHN,2015,ICT_service_exports_pct,11.2921105625466,WorldBank_talent_API_real,2026-04-26
+Germany,DEU,2023,ICT_service_exports_pct,11.0217257925332,WorldBank_talent_API_real,2026-04-26
+Germany,DEU,2022,ICT_service_exports_pct,9.81289802513948,WorldBank_talent_API_real,2026-04-26
+Germany,DEU,2021,ICT_service_exports_pct,10.3615375526681,WorldBank_talent_API_real,2026-04-26
+Germany,DEU,2020,ICT_service_exports_pct,10.7433868234345,WorldBank_talent_API_real,2026-04-26
+Germany,DEU,2019,ICT_service_exports_pct,9.13282868187376,WorldBank_talent_API_real,2026-04-26
+Germany,DEU,2018,ICT_service_exports_pct,9.23094018156375,WorldBank_talent_API_real,2026-04-26
+Germany,DEU,2017,ICT_service_exports_pct,8.97652232797755,WorldBank_talent_API_real,2026-04-26
+Germany,DEU,2016,ICT_service_exports_pct,8.54119625243336,WorldBank_talent_API_real,2026-04-26
+Germany,DEU,2015,ICT_service_exports_pct,7.90651226650454,WorldBank_talent_API_real,2026-04-26
+India,IND,2023,ICT_service_exports_pct,48.1688192762241,WorldBank_talent_API_real,2026-04-26
+India,IND,2022,ICT_service_exports_pct,46.8040630285381,WorldBank_talent_API_real,2026-04-26
+India,IND,2021,ICT_service_exports_pct,49.6661074598785,WorldBank_talent_API_real,2026-04-26
+India,IND,2020,ICT_service_exports_pct,48.9656874345531,WorldBank_talent_API_real,2026-04-26
+India,IND,2019,ICT_service_exports_pct,43.95814821332,WorldBank_talent_API_real,2026-04-26
+India,IND,2018,ICT_service_exports_pct,41.3042841946734,WorldBank_talent_API_real,2026-04-26
+India,IND,2017,ICT_service_exports_pct,42.3751022077091,WorldBank_talent_API_real,2026-04-26
+India,IND,2016,ICT_service_exports_pct,47.300749949433,WorldBank_talent_API_real,2026-04-26
+India,IND,2015,ICT_service_exports_pct,48.8670014249962,WorldBank_talent_API_real,2026-04-26
+Japan,JPN,2023,ICT_service_exports_pct,5.63535631404314,WorldBank_talent_API_real,2026-04-26
+Japan,JPN,2022,ICT_service_exports_pct,6.57426471119376,WorldBank_talent_API_real,2026-04-26
+Japan,JPN,2021,ICT_service_exports_pct,6.1414834752509,WorldBank_talent_API_real,2026-04-26
+Japan,JPN,2020,ICT_service_exports_pct,6.23382531768652,WorldBank_talent_API_real,2026-04-26
+Japan,JPN,2019,ICT_service_exports_pct,3.55938118314782,WorldBank_talent_API_real,2026-04-26
+Japan,JPN,2018,ICT_service_exports_pct,2.51864696560354,WorldBank_talent_API_real,2026-04-26
+Japan,JPN,2017,ICT_service_exports_pct,2.70981928379376,WorldBank_talent_API_real,2026-04-26
+Japan,JPN,2016,ICT_service_exports_pct,2.19612409842727,WorldBank_talent_API_real,2026-04-26
+Japan,JPN,2015,ICT_service_exports_pct,1.99904019843307,WorldBank_talent_API_real,2026-04-26
+"Korea, Rep.",KOR,2023,ICT_service_exports_pct,11.8969785463805,WorldBank_talent_API_real,2026-04-26
+"Korea, Rep.",KOR,2022,ICT_service_exports_pct,10.9135787581539,WorldBank_talent_API_real,2026-04-26
+"Korea, Rep.",KOR,2021,ICT_service_exports_pct,12.3007370140488,WorldBank_talent_API_real,2026-04-26
+"Korea, Rep.",KOR,2020,ICT_service_exports_pct,10.1487956594415,WorldBank_talent_API_real,2026-04-26
+"Korea, Rep.",KOR,2019,ICT_service_exports_pct,7.38567145838409,WorldBank_talent_API_real,2026-04-26
+"Korea, Rep.",KOR,2018,ICT_service_exports_pct,6.37563598659304,WorldBank_talent_API_real,2026-04-26
+"Korea, Rep.",KOR,2017,ICT_service_exports_pct,5.1052771810442,WorldBank_talent_API_real,2026-04-26
+"Korea, Rep.",KOR,2016,ICT_service_exports_pct,3.92251376713839,WorldBank_talent_API_real,2026-04-26
+"Korea, Rep.",KOR,2015,ICT_service_exports_pct,3.5916413158753,WorldBank_talent_API_real,2026-04-26
+Malaysia,MYS,2023,ICT_service_exports_pct,9.44804679894627,WorldBank_talent_API_real,2026-04-26
+Malaysia,MYS,2022,ICT_service_exports_pct,11.4134438785672,WorldBank_talent_API_real,2026-04-26
+Malaysia,MYS,2021,ICT_service_exports_pct,15.8604588851962,WorldBank_talent_API_real,2026-04-26
+Malaysia,MYS,2020,ICT_service_exports_pct,14.3449051224118,WorldBank_talent_API_real,2026-04-26
+Malaysia,MYS,2019,ICT_service_exports_pct,7.29165008840823,WorldBank_talent_API_real,2026-04-26
+Malaysia,MYS,2018,ICT_service_exports_pct,7.04103889445774,WorldBank_talent_API_real,2026-04-26
+Malaysia,MYS,2017,ICT_service_exports_pct,7.22150714777401,WorldBank_talent_API_real,2026-04-26
+Malaysia,MYS,2016,ICT_service_exports_pct,7.23565668041784,WorldBank_talent_API_real,2026-04-26
+Malaysia,MYS,2015,ICT_service_exports_pct,7.60329674929031,WorldBank_talent_API_real,2026-04-26
+United States,USA,2023,ICT_service_exports_pct,7.50979594765926,WorldBank_talent_API_real,2026-04-26
+United States,USA,2022,ICT_service_exports_pct,7.41605824254572,WorldBank_talent_API_real,2026-04-26
+United States,USA,2021,ICT_service_exports_pct,7.80759603820996,WorldBank_talent_API_real,2026-04-26
+United States,USA,2020,ICT_service_exports_pct,8.15583930543226,WorldBank_talent_API_real,2026-04-26
+United States,USA,2019,ICT_service_exports_pct,6.72149072800021,WorldBank_talent_API_real,2026-04-26
+United States,USA,2018,ICT_service_exports_pct,5.7758266986912,WorldBank_talent_API_real,2026-04-26
+United States,USA,2017,ICT_service_exports_pct,5.69057151693249,WorldBank_talent_API_real,2026-04-26
+United States,USA,2016,ICT_service_exports_pct,5.50438456530896,WorldBank_talent_API_real,2026-04-26
+United States,USA,2015,ICT_service_exports_pct,5.3843044542327,WorldBank_talent_API_real,2026-04-26
+China,CHN,2021,patent_applications_residents,1426644.0,WorldBank_talent_API_real,2026-04-26
+China,CHN,2020,patent_applications_residents,1344817.0,WorldBank_talent_API_real,2026-04-26
+China,CHN,2019,patent_applications_residents,1243568.0,WorldBank_talent_API_real,2026-04-26
+China,CHN,2018,patent_applications_residents,1393815.0,WorldBank_talent_API_real,2026-04-26
+China,CHN,2017,patent_applications_residents,1245709.0,WorldBank_talent_API_real,2026-04-26
+China,CHN,2016,patent_applications_residents,1204981.0,WorldBank_talent_API_real,2026-04-26
+China,CHN,2015,patent_applications_residents,968252.0,WorldBank_talent_API_real,2026-04-26
+Germany,DEU,2021,patent_applications_residents,39822.0,WorldBank_talent_API_real,2026-04-26
+Germany,DEU,2020,patent_applications_residents,42260.0,WorldBank_talent_API_real,2026-04-26
+Germany,DEU,2019,patent_applications_residents,46632.0,WorldBank_talent_API_real,2026-04-26
+Germany,DEU,2018,patent_applications_residents,46617.0,WorldBank_talent_API_real,2026-04-26
+Germany,DEU,2017,patent_applications_residents,47785.0,WorldBank_talent_API_real,2026-04-26
+Germany,DEU,2016,patent_applications_residents,48480.0,WorldBank_talent_API_real,2026-04-26
+Germany,DEU,2015,patent_applications_residents,47384.0,WorldBank_talent_API_real,2026-04-26
+India,IND,2021,patent_applications_residents,26267.0,WorldBank_talent_API_real,2026-04-26
+India,IND,2020,patent_applications_residents,23141.0,WorldBank_talent_API_real,2026-04-26
+India,IND,2019,patent_applications_residents,19454.0,WorldBank_talent_API_real,2026-04-26
+India,IND,2018,patent_applications_residents,16289.0,WorldBank_talent_API_real,2026-04-26
+India,IND,2017,patent_applications_residents,14961.0,WorldBank_talent_API_real,2026-04-26
+India,IND,2016,patent_applications_residents,13199.0,WorldBank_talent_API_real,2026-04-26
+India,IND,2015,patent_applications_residents,12579.0,WorldBank_talent_API_real,2026-04-26
+Japan,JPN,2021,patent_applications_residents,222452.0,WorldBank_talent_API_real,2026-04-26
+Japan,JPN,2020,patent_applications_residents,227348.0,WorldBank_talent_API_real,2026-04-26
+Japan,JPN,2019,patent_applications_residents,245372.0,WorldBank_talent_API_real,2026-04-26
+Japan,JPN,2018,patent_applications_residents,253630.0,WorldBank_talent_API_real,2026-04-26
+Japan,JPN,2017,patent_applications_residents,260292.0,WorldBank_talent_API_real,2026-04-26
+Japan,JPN,2016,patent_applications_residents,260244.0,WorldBank_talent_API_real,2026-04-26
+Japan,JPN,2015,patent_applications_residents,258839.0,WorldBank_talent_API_real,2026-04-26
+"Korea, Rep.",KOR,2021,patent_applications_residents,186245.0,WorldBank_talent_API_real,2026-04-26
+"Korea, Rep.",KOR,2020,patent_applications_residents,180477.0,WorldBank_talent_API_real,2026-04-26
+"Korea, Rep.",KOR,2019,patent_applications_residents,171603.0,WorldBank_talent_API_real,2026-04-26
+"Korea, Rep.",KOR,2018,patent_applications_residents,162561.0,WorldBank_talent_API_real,2026-04-26
+"Korea, Rep.",KOR,2017,patent_applications_residents,159084.0,WorldBank_talent_API_real,2026-04-26
+"Korea, Rep.",KOR,2016,patent_applications_residents,163424.0,WorldBank_talent_API_real,2026-04-26
+"Korea, Rep.",KOR,2015,patent_applications_residents,167275.0,WorldBank_talent_API_real,2026-04-26
+Malaysia,MYS,2021,patent_applications_residents,883.0,WorldBank_talent_API_real,2026-04-26
+Malaysia,MYS,2020,patent_applications_residents,989.0,WorldBank_talent_API_real,2026-04-26
+Malaysia,MYS,2019,patent_applications_residents,1071.0,WorldBank_talent_API_real,2026-04-26
+Malaysia,MYS,2018,patent_applications_residents,1116.0,WorldBank_talent_API_real,2026-04-26
+Malaysia,MYS,2017,patent_applications_residents,1166.0,WorldBank_talent_API_real,2026-04-26
+Malaysia,MYS,2016,patent_applications_residents,1109.0,WorldBank_talent_API_real,2026-04-26
+Malaysia,MYS,2015,patent_applications_residents,1272.0,WorldBank_talent_API_real,2026-04-26
+United States,USA,2021,patent_applications_residents,262244.0,WorldBank_talent_API_real,2026-04-26
+United States,USA,2020,patent_applications_residents,269586.0,WorldBank_talent_API_real,2026-04-26
+United States,USA,2019,patent_applications_residents,285113.0,WorldBank_talent_API_real,2026-04-26
+United States,USA,2018,patent_applications_residents,285095.0,WorldBank_talent_API_real,2026-04-26
+United States,USA,2017,patent_applications_residents,293904.0,WorldBank_talent_API_real,2026-04-26
+United States,USA,2016,patent_applications_residents,295327.0,WorldBank_talent_API_real,2026-04-26
+United States,USA,2015,patent_applications_residents,288335.0,WorldBank_talent_API_real,2026-04-26
+Viet Nam,VNM,2021,patent_applications_residents,1066.0,WorldBank_talent_API_real,2026-04-26
+Viet Nam,VNM,2020,patent_applications_residents,1021.0,WorldBank_talent_API_real,2026-04-26
+Viet Nam,VNM,2019,patent_applications_residents,720.0,WorldBank_talent_API_real,2026-04-26
+Viet Nam,VNM,2018,patent_applications_residents,646.0,WorldBank_talent_API_real,2026-04-26
+Viet Nam,VNM,2017,patent_applications_residents,592.0,WorldBank_talent_API_real,2026-04-26
+Viet Nam,VNM,2016,patent_applications_residents,560.0,WorldBank_talent_API_real,2026-04-26
+Viet Nam,VNM,2015,patent_applications_residents,582.0,WorldBank_talent_API_real,2026-04-26
+China,CHN,2021,patent_applications_nonresidents,159019.0,WorldBank_talent_API_real,2026-04-26
+China,CHN,2020,patent_applications_nonresidents,152342.0,WorldBank_talent_API_real,2026-04-26
+China,CHN,2019,patent_applications_nonresidents,157093.0,WorldBank_talent_API_real,2026-04-26
+China,CHN,2018,patent_applications_nonresidents,148187.0,WorldBank_talent_API_real,2026-04-26
+China,CHN,2017,patent_applications_nonresidents,135885.0,WorldBank_talent_API_real,2026-04-26
+China,CHN,2016,patent_applications_nonresidents,133522.0,WorldBank_talent_API_real,2026-04-26
+China,CHN,2015,patent_applications_nonresidents,133612.0,WorldBank_talent_API_real,2026-04-26
+Germany,DEU,2021,patent_applications_nonresidents,18747.0,WorldBank_talent_API_real,2026-04-26
+Germany,DEU,2020,patent_applications_nonresidents,19845.0,WorldBank_talent_API_real,2026-04-26
+Germany,DEU,2019,patent_applications_nonresidents,20802.0,WorldBank_talent_API_real,2026-04-26
+Germany,DEU,2018,patent_applications_nonresidents,21281.0,WorldBank_talent_API_real,2026-04-26
+Germany,DEU,2017,patent_applications_nonresidents,19927.0,WorldBank_talent_API_real,2026-04-26
+Germany,DEU,2016,patent_applications_nonresidents,19419.0,WorldBank_talent_API_real,2026-04-26
+Germany,DEU,2015,patent_applications_nonresidents,19509.0,WorldBank_talent_API_real,2026-04-26
+India,IND,2021,patent_applications_nonresidents,35306.0,WorldBank_talent_API_real,2026-04-26
+India,IND,2020,patent_applications_nonresidents,33630.0,WorldBank_talent_API_real,2026-04-26
+India,IND,2019,patent_applications_nonresidents,34173.0,WorldBank_talent_API_real,2026-04-26
+India,IND,2018,patent_applications_nonresidents,33766.0,WorldBank_talent_API_real,2026-04-26
+India,IND,2017,patent_applications_nonresidents,31621.0,WorldBank_talent_API_real,2026-04-26
+India,IND,2016,patent_applications_nonresidents,31858.0,WorldBank_talent_API_real,2026-04-26
+India,IND,2015,patent_applications_nonresidents,33079.0,WorldBank_talent_API_real,2026-04-26
+Japan,JPN,2021,patent_applications_nonresidents,66748.0,WorldBank_talent_API_real,2026-04-26
+Japan,JPN,2020,patent_applications_nonresidents,61124.0,WorldBank_talent_API_real,2026-04-26
+Japan,JPN,2019,patent_applications_nonresidents,62597.0,WorldBank_talent_API_real,2026-04-26
+Japan,JPN,2018,patent_applications_nonresidents,59937.0,WorldBank_talent_API_real,2026-04-26
+Japan,JPN,2017,patent_applications_nonresidents,58189.0,WorldBank_talent_API_real,2026-04-26
+Japan,JPN,2016,patent_applications_nonresidents,58137.0,WorldBank_talent_API_real,2026-04-26
+Japan,JPN,2015,patent_applications_nonresidents,59882.0,WorldBank_talent_API_real,2026-04-26
+"Korea, Rep.",KOR,2021,patent_applications_nonresidents,51753.0,WorldBank_talent_API_real,2026-04-26
+"Korea, Rep.",KOR,2020,patent_applications_nonresidents,46282.0,WorldBank_talent_API_real,2026-04-26
+"Korea, Rep.",KOR,2019,patent_applications_nonresidents,47372.0,WorldBank_talent_API_real,2026-04-26
+"Korea, Rep.",KOR,2018,patent_applications_nonresidents,47431.0,WorldBank_talent_API_real,2026-04-26
+"Korea, Rep.",KOR,2017,patent_applications_nonresidents,45691.0,WorldBank_talent_API_real,2026-04-26
+"Korea, Rep.",KOR,2016,patent_applications_nonresidents,45406.0,WorldBank_talent_API_real,2026-04-26
+"Korea, Rep.",KOR,2015,patent_applications_nonresidents,46419.0,WorldBank_talent_API_real,2026-04-26
+Malaysia,MYS,2021,patent_applications_nonresidents,6651.0,WorldBank_talent_API_real,2026-04-26
+Malaysia,MYS,2020,patent_applications_nonresidents,5839.0,WorldBank_talent_API_real,2026-04-26
+Malaysia,MYS,2019,patent_applications_nonresidents,6480.0,WorldBank_talent_API_real,2026-04-26
+Malaysia,MYS,2018,patent_applications_nonresidents,6179.0,WorldBank_talent_API_real,2026-04-26
+Malaysia,MYS,2017,patent_applications_nonresidents,5906.0,WorldBank_talent_API_real,2026-04-26
+Malaysia,MYS,2016,patent_applications_nonresidents,6127.0,WorldBank_talent_API_real,2026-04-26
+Malaysia,MYS,2015,patent_applications_nonresidents,6455.0,WorldBank_talent_API_real,2026-04-26
+United States,USA,2021,patent_applications_nonresidents,329229.0,WorldBank_talent_API_real,2026-04-26
+United States,USA,2020,patent_applications_nonresidents,327586.0,WorldBank_talent_API_real,2026-04-26
+United States,USA,2019,patent_applications_nonresidents,336340.0,WorldBank_talent_API_real,2026-04-26
+United States,USA,2018,patent_applications_nonresidents,312046.0,WorldBank_talent_API_real,2026-04-26
+United States,USA,2017,patent_applications_nonresidents,313052.0,WorldBank_talent_API_real,2026-04-26
+United States,USA,2016,patent_applications_nonresidents,310244.0,WorldBank_talent_API_real,2026-04-26
+United States,USA,2015,patent_applications_nonresidents,301075.0,WorldBank_talent_API_real,2026-04-26
+Viet Nam,VNM,2021,patent_applications_nonresidents,7468.0,WorldBank_talent_API_real,2026-04-26
+Viet Nam,VNM,2020,patent_applications_nonresidents,6674.0,WorldBank_talent_API_real,2026-04-26
+Viet Nam,VNM,2019,patent_applications_nonresidents,6800.0,WorldBank_talent_API_real,2026-04-26
+Viet Nam,VNM,2018,patent_applications_nonresidents,5425.0,WorldBank_talent_API_real,2026-04-26
+Viet Nam,VNM,2017,patent_applications_nonresidents,4790.0,WorldBank_talent_API_real,2026-04-26
+Viet Nam,VNM,2016,patent_applications_nonresidents,4668.0,WorldBank_talent_API_real,2026-04-26
+Viet Nam,VNM,2015,patent_applications_nonresidents,4451.0,WorldBank_talent_API_real,2026-04-26

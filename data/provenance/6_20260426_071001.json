@@ -1,0 +1,83 @@
+{
+  "script_name": 6,
+  "research_question": "RBI_API",
+  "data_source": "RQ4",
+  "extraction_start": "2026-04-26T07:09:59.383267+00:00",
+  "extraction_end": "2026-04-26T07:10:01.837946+00:00",
+  "total_api_calls": 2,
+  "total_errors": 0,
+  "entries": [
+    {
+      "timestamp": "2026-04-26T07:10:00.676742+00:00",
+      "type": "api_call",
+      "url": "https://api.data.gov.in/resource/fbc6c424-c841-4804-84ce-63effa215165",
+      "params": {
+        "resource": "fbc6c424-c841-4804-84ce-63effa215165"
+      },
+      "http_status": 200,
+      "rows_returned": 0,
+      "notes": "repo_rates"
+    },
+    {
+      "timestamp": "2026-04-26T07:10:01.825262+00:00",
+      "type": "api_call",
+      "url": "https://api.data.gov.in/resource/ee46b80b-d59e-4d98-aafa-237a3bb89e63",
+      "params": {
+        "resource": "ee46b80b-d59e-4d98-aafa-237a3bb89e63"
+      },
+      "http_status": 200,
+      "rows_returned": 0,
+      "notes": "savings_deposit_rates"
+    },
+    {
+      "timestamp": "2026-04-26T07:10:01.828381+00:00",
+      "type": "transform",
+      "operation": "api_concat",
+      "input_rows": 8,
+      "output_rows": 8,
+      "columns": [
+        "date",
+        "amount_of_increase_in_repo_rate__in_bps_",
+        "repo_rate__in_percent_",
+        "dataset_label",
+        "quarter_ended",
+        "savings_account",
+        "_5_year_time_deposit",
+        "_5_year_recurring_deposit",
+        "_5_year_senior_citizen_savings_scheme",
+        "_5_year_national_savings_certificate",
+        "public_provident_fund",
+        "kisan_vikas_patra"
+      ],
+      "notes": ""
+    }
+  ],
+  "errors": [],
+  "output": {
+    "csv_path": "nsemi_data/processed/rq4_rbi_lending.csv",
+    "total_rows": 8,
+    "total_columns": 14,
+    "null_cell_count": 39,
+    "null_percentage": 34.82,
+    "column_names": [
+      "date",
+      "amount_of_increase_in_repo_rate__in_bps_",
+      "repo_rate__in_percent_",
+      "dataset_label",
+      "quarter_ended",
+      "savings_account",
+      "_5_year_time_deposit",
+      "_5_year_recurring_deposit",
+      "_5_year_senior_citizen_savings_scheme",
+      "_5_year_national_savings_certificate",
+      "public_provident_fund",
+      "kisan_vikas_patra",
+      "data_source",
+      "retrieval_date"
+    ]
+  },
+  "environment": {
+    "python_version": "3.12.13 (main, Mar  4 2026, 09:23:07) [GCC 11.4.0]",
+    "platform": "Linux-6.6.113+-x86_64-with-glibc2.35"
+  }
+}

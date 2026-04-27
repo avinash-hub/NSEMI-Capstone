@@ -1,0 +1,148 @@
+{
+  "script_name": "17",
+  "research_question": "LinkedIn_DataWorld",
+  "data_source": "RQ3",
+  "extraction_start": "2026-04-26T07:03:45.267098+00:00",
+  "extraction_end": "2026-04-26T07:03:53.413908+00:00",
+  "total_api_calls": 8,
+  "total_errors": 0,
+  "entries": [
+    {
+      "timestamp": "2026-04-26T07:03:46.580991+00:00",
+      "type": "api_call",
+      "url": "https://api.data.gov.in/resource/b1dee42e-e6f1-4edd-8db1-fb85a3a62918",
+      "params": {
+        "resource": "b1dee42e-e6f1-4edd-8db1-fb85a3a62918",
+        "limit": 500
+      },
+      "http_status": 200,
+      "rows_returned": 0,
+      "notes": "All India Electronics IT Production 2000-2016"
+    },
+    {
+      "timestamp": "2026-04-26T07:03:47.748322+00:00",
+      "type": "api_call",
+      "url": "https://api.data.gov.in/resource/5c46ee14-da66-4881-8693-d10dea02d460",
+      "params": {
+        "resource": "5c46ee14-da66-4881-8693-d10dea02d460",
+        "limit": 500
+      },
+      "http_status": 200,
+      "rows_returned": 0,
+      "notes": "Electronics and IT Exports"
+    },
+    {
+      "timestamp": "2026-04-26T07:03:48.886855+00:00",
+      "type": "api_call",
+      "url": "https://api.data.gov.in/resource/ab3735f3-a756-4a7d-943b-cd465014a2fe",
+      "params": {
+        "resource": "ab3735f3-a756-4a7d-943b-cd465014a2fe",
+        "limit": 500
+      },
+      "http_status": 200,
+      "rows_returned": 0,
+      "notes": "Electronics IT Production 2011-12"
+    },
+    {
+      "timestamp": "2026-04-26T07:03:49.637735+00:00",
+      "type": "api_call",
+      "url": "https://api.worldbank.org/v2/country/IND;KOR;MYS;VNM;CHN;USA;JPN;DEU/indicator/SL.TLF.ADVN.ZS",
+      "params": {
+        "format": "json",
+        "per_page": 200,
+        "date": "2015:2023"
+      },
+      "http_status": 200,
+      "rows_returned": 0,
+      "notes": "World Bank labor_force_advanced_education_pct"
+    },
+    {
+      "timestamp": "2026-04-26T07:03:50.760644+00:00",
+      "type": "api_call",
+      "url": "https://api.worldbank.org/v2/country/IND;KOR;MYS;VNM;CHN;USA;JPN;DEU/indicator/SE.TER.CUAT.ST.ZS",
+      "params": {
+        "format": "json",
+        "per_page": 200,
+        "date": "2015:2023"
+      },
+      "http_status": 200,
+      "rows_returned": 0,
+      "notes": "World Bank population_STEM_tertiary_pct"
+    },
+    {
+      "timestamp": "2026-04-26T07:03:51.667571+00:00",
+      "type": "api_call",
+      "url": "https://api.worldbank.org/v2/country/IND;KOR;MYS;VNM;CHN;USA;JPN;DEU/indicator/BX.GSR.CCIS.ZS",
+      "params": {
+        "format": "json",
+        "per_page": 200,
+        "date": "2015:2023"
+      },
+      "http_status": 200,
+      "rows_returned": 0,
+      "notes": "World Bank ICT_service_exports_pct"
+    },
+    {
+      "timestamp": "2026-04-26T07:03:52.334609+00:00",
+      "type": "api_call",
+      "url": "https://api.worldbank.org/v2/country/IND;KOR;MYS;VNM;CHN;USA;JPN;DEU/indicator/IP.PAT.RESD",
+      "params": {
+        "format": "json",
+        "per_page": 200,
+        "date": "2015:2023"
+      },
+      "http_status": 200,
+      "rows_returned": 0,
+      "notes": "World Bank patent_applications_residents"
+    },
+    {
+      "timestamp": "2026-04-26T07:03:53.380854+00:00",
+      "type": "api_call",
+      "url": "https://api.worldbank.org/v2/country/IND;KOR;MYS;VNM;CHN;USA;JPN;DEU/indicator/IP.PAT.NRES",
+      "params": {
+        "format": "json",
+        "per_page": 200,
+        "date": "2015:2023"
+      },
+      "http_status": 200,
+      "rows_returned": 0,
+      "notes": "World Bank patent_applications_nonresidents"
+    },
+    {
+      "timestamp": "2026-04-26T07:03:53.382983+00:00",
+      "type": "transform",
+      "operation": "compile_wb_talent",
+      "input_rows": 0,
+      "output_rows": 271,
+      "columns": [
+        "country",
+        "iso3",
+        "year",
+        "indicator",
+        "value"
+      ],
+      "notes": "World Bank talent indicators API"
+    }
+  ],
+  "errors": [],
+  "output": {
+    "csv_path": "nsemi_data/raw/rq3_worldbank_talent_indicators.csv",
+    "total_rows": 271,
+    "total_columns": 7,
+    "null_cell_count": 0,
+    "null_percentage": 0.0,
+    "column_names": [
+      "country",
+      "iso3",
+      "year",
+      "indicator",
+      "value",
+      "data_source",
+      "retrieval_date"
+    ]
+  },
+  "environment": {
+    "python_version": "3.12.13 (main, Mar  4 2026, 09:23:07) [GCC 11.4.0]",
+    "platform": "Linux-6.6.113+-x86_64-with-glibc2.35"
+  }
+}

@@ -1,0 +1,134 @@
+{
+  "script_name": 4,
+  "research_question": "MeitY_datagovin",
+  "data_source": "RQ1",
+  "extraction_start": "2026-04-26T06:14:24.479786+00:00",
+  "extraction_end": "2026-04-26T06:14:29.040422+00:00",
+  "total_api_calls": 3,
+  "total_errors": 0,
+  "entries": [
+    {
+      "timestamp": "2026-04-26T06:14:26.521458+00:00",
+      "type": "api_call",
+      "url": "https://api.data.gov.in/resource/d40171a0-6d34-4c62-9b24-5825ea3dd4ed",
+      "params": {
+        "limit": 500,
+        "resource": "d40171a0-6d34-4c62-9b24-5825ea3dd4ed"
+      },
+      "http_status": 200,
+      "rows_returned": 0,
+      "notes": "d40171a0-6d34-4c62-9b24-5825ea3dd4ed"
+    },
+    {
+      "timestamp": "2026-04-26T06:14:26.522620+00:00",
+      "type": "transform",
+      "operation": "parse_json",
+      "input_rows": 8,
+      "output_rows": 8,
+      "columns": [
+        "_sl__no_",
+        "item_vertical",
+        "__2013_14",
+        "_2014_15_",
+        "__2015_16",
+        "__2016_17",
+        "_2017_18",
+        "_2018_19",
+        "_2019_20",
+        "_2020_21_",
+        "resource_id"
+      ],
+      "notes": "d40171a0-6d34-4c62-9b24-5825ea3dd4ed"
+    },
+    {
+      "timestamp": "2026-04-26T06:14:27.968948+00:00",
+      "type": "api_call",
+      "url": "https://api.data.gov.in/resource/b5c39c71-8bda-458d-9e85-0b05a83ba46f",
+      "params": {
+        "limit": 500,
+        "resource": "b5c39c71-8bda-458d-9e85-0b05a83ba46f"
+      },
+      "http_status": 200,
+      "rows_returned": 0,
+      "notes": "b5c39c71-8bda-458d-9e85-0b05a83ba46f"
+    },
+    {
+      "timestamp": "2026-04-26T06:14:27.970320+00:00",
+      "type": "transform",
+      "operation": "parse_json",
+      "input_rows": 5,
+      "output_rows": 5,
+      "columns": [
+        "_year",
+        "production_",
+        "import",
+        "export",
+        "resource_id"
+      ],
+      "notes": "b5c39c71-8bda-458d-9e85-0b05a83ba46f"
+    },
+    {
+      "timestamp": "2026-04-26T06:14:29.018769+00:00",
+      "type": "api_call",
+      "url": "https://api.data.gov.in/resource/e6fab187-3cfa-48a8-915c-b5598da6f379",
+      "params": {
+        "limit": 500,
+        "resource": "e6fab187-3cfa-48a8-915c-b5598da6f379"
+      },
+      "http_status": 200,
+      "rows_returned": 0,
+      "notes": "e6fab187-3cfa-48a8-915c-b5598da6f379"
+    },
+    {
+      "timestamp": "2026-04-26T06:14:29.021259+00:00",
+      "type": "transform",
+      "operation": "parse_json",
+      "input_rows": 1,
+      "output_rows": 1,
+      "columns": [
+        "__2014_15",
+        "__2015_16",
+        "__2016_17",
+        "_2017_18",
+        "_2018_19",
+        "_2019_20",
+        "_2020_21",
+        "resource_id"
+      ],
+      "notes": "e6fab187-3cfa-48a8-915c-b5598da6f379"
+    }
+  ],
+  "errors": [],
+  "output": {
+    "csv_path": "nsemi_data/raw/rq1_meity_electronics.csv",
+    "total_rows": 14,
+    "total_columns": 19,
+    "null_cell_count": 117,
+    "null_percentage": 43.98,
+    "column_names": [
+      "_sl__no_",
+      "item_vertical",
+      "__2013_14",
+      "_2014_15_",
+      "__2015_16",
+      "__2016_17",
+      "_2017_18",
+      "_2018_19",
+      "_2019_20",
+      "_2020_21_",
+      "resource_id",
+      "_year",
+      "production_",
+      "import",
+      "export",
+      "__2014_15",
+      "_2020_21",
+      "data_source",
+      "retrieval_date"
+    ]
+  },
+  "environment": {
+    "python_version": "3.12.13 (main, Mar  4 2026, 09:23:07) [GCC 11.4.0]",
+    "platform": "Linux-6.6.113+-x86_64-with-glibc2.35"
+  }
+}
