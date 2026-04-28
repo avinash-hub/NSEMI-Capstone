@@ -15,9 +15,7 @@ This capstone constructs the National Semiconductor Ecosystem Maturity Index (NS
 - **RQ3: Workforce Readiness** — How does India's tertiary engineering enrollment compare to comparator semiconductor economies?
 - **RQ4: Cost Competitiveness** — How does India's Composite Cost Index (CCI) compare to Asian semiconductor hubs, and what subsidy rate achieves cost parity?
 
-## Methodology (Option A)
-
-Seven core methods across the four research questions:
+## Methodology (Option A — 7 core methods)
 
 | RQ | Approach | Statistical | ML |
 |----|----------|-------------|-----|
@@ -28,13 +26,14 @@ Seven core methods across the four research questions:
 
 ## Data
 
-The repository contains 32 datasets across 20 official sources:
+The repository contains 32 datasets across 20 official sources plus 1 supplementary AT&C losses extraction:
 
 - **28 API/scraped extractions** with complete provenance logs in `data/provenance/`
 - **4 compiled reference tables** drawn from cited literature, labeled `compiled_reference_*` in their `data_source` column
+- **1 supplementary dataset** (`rq2_pfc_atc_losses.csv`) extracted from the PFC *Report on Performance of Power Utilities 2024-25*, providing state-level AT&C (Aggregate Technical & Commercial) loss percentages for RQ2 hypothesis testing
 
 API domains: api.worldbank.org, comtradeapi.un.org, api.data.gov.in, archive-api.open-meteo.com, data.uis.unesco.org, databrowser.uis.unesco.org, powermin.gov.in, tradestat.commerce.gov.in, www.rbi.org.in
 
-See `data/FILE_INVENTORY.csv` for a complete file-by-file breakdown.
+See `data/cleaned/cleaning_report.csv` for the full cleaning operations log across all 32 files.
 
 ## Repository Structure
