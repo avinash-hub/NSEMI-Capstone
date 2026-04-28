@@ -1,0 +1,211 @@
+country,country_iso3,year,indicator,value,data_source,retrieval_date
+China,CHN,2021,patent_applications_residents,1426644.0,WorldBank_API_Real,2026-04-26
+China,CHN,2020,patent_applications_residents,1344817.0,WorldBank_API_Real,2026-04-26
+China,CHN,2019,patent_applications_residents,1243568.0,WorldBank_API_Real,2026-04-26
+China,CHN,2018,patent_applications_residents,1393815.0,WorldBank_API_Real,2026-04-26
+China,CHN,2017,patent_applications_residents,1245709.0,WorldBank_API_Real,2026-04-26
+China,CHN,2016,patent_applications_residents,1204981.0,WorldBank_API_Real,2026-04-26
+China,CHN,2015,patent_applications_residents,968252.0,WorldBank_API_Real,2026-04-26
+Germany,DEU,2021,patent_applications_residents,39822.0,WorldBank_API_Real,2026-04-26
+Germany,DEU,2020,patent_applications_residents,42260.0,WorldBank_API_Real,2026-04-26
+Germany,DEU,2019,patent_applications_residents,46632.0,WorldBank_API_Real,2026-04-26
+Germany,DEU,2018,patent_applications_residents,46617.0,WorldBank_API_Real,2026-04-26
+Germany,DEU,2017,patent_applications_residents,47785.0,WorldBank_API_Real,2026-04-26
+Germany,DEU,2016,patent_applications_residents,48480.0,WorldBank_API_Real,2026-04-26
+Germany,DEU,2015,patent_applications_residents,47384.0,WorldBank_API_Real,2026-04-26
+India,IND,2021,patent_applications_residents,26267.0,WorldBank_API_Real,2026-04-26
+India,IND,2020,patent_applications_residents,23141.0,WorldBank_API_Real,2026-04-26
+India,IND,2019,patent_applications_residents,19454.0,WorldBank_API_Real,2026-04-26
+India,IND,2018,patent_applications_residents,16289.0,WorldBank_API_Real,2026-04-26
+India,IND,2017,patent_applications_residents,14961.0,WorldBank_API_Real,2026-04-26
+India,IND,2016,patent_applications_residents,13199.0,WorldBank_API_Real,2026-04-26
+India,IND,2015,patent_applications_residents,12579.0,WorldBank_API_Real,2026-04-26
+Japan,JPN,2021,patent_applications_residents,222452.0,WorldBank_API_Real,2026-04-26
+Japan,JPN,2020,patent_applications_residents,227348.0,WorldBank_API_Real,2026-04-26
+Japan,JPN,2019,patent_applications_residents,245372.0,WorldBank_API_Real,2026-04-26
+Japan,JPN,2018,patent_applications_residents,253630.0,WorldBank_API_Real,2026-04-26
+Japan,JPN,2017,patent_applications_residents,260292.0,WorldBank_API_Real,2026-04-26
+Japan,JPN,2016,patent_applications_residents,260244.0,WorldBank_API_Real,2026-04-26
+Japan,JPN,2015,patent_applications_residents,258839.0,WorldBank_API_Real,2026-04-26
+"Korea, Rep.",KOR,2021,patent_applications_residents,186245.0,WorldBank_API_Real,2026-04-26
+"Korea, Rep.",KOR,2020,patent_applications_residents,180477.0,WorldBank_API_Real,2026-04-26
+"Korea, Rep.",KOR,2019,patent_applications_residents,171603.0,WorldBank_API_Real,2026-04-26
+"Korea, Rep.",KOR,2018,patent_applications_residents,162561.0,WorldBank_API_Real,2026-04-26
+"Korea, Rep.",KOR,2017,patent_applications_residents,159084.0,WorldBank_API_Real,2026-04-26
+"Korea, Rep.",KOR,2016,patent_applications_residents,163424.0,WorldBank_API_Real,2026-04-26
+"Korea, Rep.",KOR,2015,patent_applications_residents,167275.0,WorldBank_API_Real,2026-04-26
+Malaysia,MYS,2021,patent_applications_residents,883.0,WorldBank_API_Real,2026-04-26
+Malaysia,MYS,2020,patent_applications_residents,989.0,WorldBank_API_Real,2026-04-26
+Malaysia,MYS,2019,patent_applications_residents,1071.0,WorldBank_API_Real,2026-04-26
+Malaysia,MYS,2018,patent_applications_residents,1116.0,WorldBank_API_Real,2026-04-26
+Malaysia,MYS,2017,patent_applications_residents,1166.0,WorldBank_API_Real,2026-04-26
+Malaysia,MYS,2016,patent_applications_residents,1109.0,WorldBank_API_Real,2026-04-26
+Malaysia,MYS,2015,patent_applications_residents,1272.0,WorldBank_API_Real,2026-04-26
+United States,USA,2021,patent_applications_residents,262244.0,WorldBank_API_Real,2026-04-26
+United States,USA,2020,patent_applications_residents,269586.0,WorldBank_API_Real,2026-04-26
+United States,USA,2019,patent_applications_residents,285113.0,WorldBank_API_Real,2026-04-26
+United States,USA,2018,patent_applications_residents,285095.0,WorldBank_API_Real,2026-04-26
+United States,USA,2017,patent_applications_residents,293904.0,WorldBank_API_Real,2026-04-26
+United States,USA,2016,patent_applications_residents,295327.0,WorldBank_API_Real,2026-04-26
+United States,USA,2015,patent_applications_residents,288335.0,WorldBank_API_Real,2026-04-26
+Viet Nam,VNM,2021,patent_applications_residents,1066.0,WorldBank_API_Real,2026-04-26
+Viet Nam,VNM,2020,patent_applications_residents,1021.0,WorldBank_API_Real,2026-04-26
+Viet Nam,VNM,2019,patent_applications_residents,720.0,WorldBank_API_Real,2026-04-26
+Viet Nam,VNM,2018,patent_applications_residents,646.0,WorldBank_API_Real,2026-04-26
+Viet Nam,VNM,2017,patent_applications_residents,592.0,WorldBank_API_Real,2026-04-26
+Viet Nam,VNM,2016,patent_applications_residents,560.0,WorldBank_API_Real,2026-04-26
+Viet Nam,VNM,2015,patent_applications_residents,582.0,WorldBank_API_Real,2026-04-26
+China,CHN,2024,tertiary_enrollment_ratio,76.8757843123403,WorldBank_API_Real,2026-04-26
+China,CHN,2023,tertiary_enrollment_ratio,74.5933014618366,WorldBank_API_Real,2026-04-26
+China,CHN,2022,tertiary_enrollment_ratio,71.5799465086024,WorldBank_API_Real,2026-04-26
+China,CHN,2021,tertiary_enrollment_ratio,66.8186077597542,WorldBank_API_Real,2026-04-26
+China,CHN,2020,tertiary_enrollment_ratio,61.6124675996947,WorldBank_API_Real,2026-04-26
+China,CHN,2019,tertiary_enrollment_ratio,56.6050917923292,WorldBank_API_Real,2026-04-26
+China,CHN,2018,tertiary_enrollment_ratio,53.3987984572814,WorldBank_API_Real,2026-04-26
+China,CHN,2017,tertiary_enrollment_ratio,51.0678812273407,WorldBank_API_Real,2026-04-26
+China,CHN,2016,tertiary_enrollment_ratio,49.309077375597,WorldBank_API_Real,2026-04-26
+China,CHN,2015,tertiary_enrollment_ratio,47.1192619330726,WorldBank_API_Real,2026-04-26
+Germany,DEU,2024,tertiary_enrollment_ratio,76.7096862792969,WorldBank_API_Real,2026-04-26
+Germany,DEU,2023,tertiary_enrollment_ratio,78.5947494506836,WorldBank_API_Real,2026-04-26
+Germany,DEU,2022,tertiary_enrollment_ratio,77.3656997680664,WorldBank_API_Real,2026-04-26
+Germany,DEU,2021,tertiary_enrollment_ratio,75.6655426025391,WorldBank_API_Real,2026-04-26
+Germany,DEU,2020,tertiary_enrollment_ratio,72.3894195556641,WorldBank_API_Real,2026-04-26
+Germany,DEU,2019,tertiary_enrollment_ratio,72.705078125,WorldBank_API_Real,2026-04-26
+Germany,DEU,2018,tertiary_enrollment_ratio,69.1634292602539,WorldBank_API_Real,2026-04-26
+Germany,DEU,2017,tertiary_enrollment_ratio,68.4692306518555,WorldBank_API_Real,2026-04-26
+Germany,DEU,2016,tertiary_enrollment_ratio,67.9464111328125,WorldBank_API_Real,2026-04-26
+Germany,DEU,2015,tertiary_enrollment_ratio,68.23291015625,WorldBank_API_Real,2026-04-26
+India,IND,2024,tertiary_enrollment_ratio,34.4184659748952,WorldBank_API_Real,2026-04-26
+India,IND,2023,tertiary_enrollment_ratio,34.2394344991225,WorldBank_API_Real,2026-04-26
+India,IND,2022,tertiary_enrollment_ratio,32.6703053423023,WorldBank_API_Real,2026-04-26
+India,IND,2021,tertiary_enrollment_ratio,31.5741765984501,WorldBank_API_Real,2026-04-26
+India,IND,2020,tertiary_enrollment_ratio,29.8196397708424,WorldBank_API_Real,2026-04-26
+India,IND,2019,tertiary_enrollment_ratio,29.0233593907143,WorldBank_API_Real,2026-04-26
+India,IND,2018,tertiary_enrollment_ratio,28.5316865291946,WorldBank_API_Real,2026-04-26
+India,IND,2017,tertiary_enrollment_ratio,27.9090519049334,WorldBank_API_Real,2026-04-26
+India,IND,2016,tertiary_enrollment_ratio,27.3043573857643,WorldBank_API_Real,2026-04-26
+India,IND,2015,tertiary_enrollment_ratio,27.2845677075978,WorldBank_API_Real,2026-04-26
+Japan,JPN,2023,tertiary_enrollment_ratio,64.4907608032227,WorldBank_API_Real,2026-04-26
+Japan,JPN,2022,tertiary_enrollment_ratio,63.3752288818359,WorldBank_API_Real,2026-04-26
+Japan,JPN,2021,tertiary_enrollment_ratio,62.0412483215332,WorldBank_API_Real,2026-04-26
+Japan,JPN,2020,tertiary_enrollment_ratio,62.2987403869629,WorldBank_API_Real,2026-04-26
+Japan,JPN,2019,tertiary_enrollment_ratio,62.4008407592773,WorldBank_API_Real,2026-04-26
+Japan,JPN,2018,tertiary_enrollment_ratio,62.6058502197266,WorldBank_API_Real,2026-04-26
+Japan,JPN,2017,tertiary_enrollment_ratio,63.287540435791,WorldBank_API_Real,2026-04-26
+Japan,JPN,2016,tertiary_enrollment_ratio,62.4975395202637,WorldBank_API_Real,2026-04-26
+Japan,JPN,2015,tertiary_enrollment_ratio,62.4498481750488,WorldBank_API_Real,2026-04-26
+"Korea, Rep.",KOR,2024,tertiary_enrollment_ratio,111.853302001953,WorldBank_API_Real,2026-04-26
+"Korea, Rep.",KOR,2023,tertiary_enrollment_ratio,106.709167480469,WorldBank_API_Real,2026-04-26
+"Korea, Rep.",KOR,2022,tertiary_enrollment_ratio,102.813056945801,WorldBank_API_Real,2026-04-26
+"Korea, Rep.",KOR,2021,tertiary_enrollment_ratio,100.359878540039,WorldBank_API_Real,2026-04-26
+"Korea, Rep.",KOR,2020,tertiary_enrollment_ratio,96.8767700195312,WorldBank_API_Real,2026-04-26
+"Korea, Rep.",KOR,2019,tertiary_enrollment_ratio,93.9989166259766,WorldBank_API_Real,2026-04-26
+"Korea, Rep.",KOR,2018,tertiary_enrollment_ratio,93.3281784057617,WorldBank_API_Real,2026-04-26
+"Korea, Rep.",KOR,2017,tertiary_enrollment_ratio,93.7230224609375,WorldBank_API_Real,2026-04-26
+"Korea, Rep.",KOR,2016,tertiary_enrollment_ratio,93.6577224731445,WorldBank_API_Real,2026-04-26
+"Korea, Rep.",KOR,2015,tertiary_enrollment_ratio,93.9676513671875,WorldBank_API_Real,2026-04-26
+Malaysia,MYS,2024,tertiary_enrollment_ratio,38.5013945445142,WorldBank_API_Real,2026-04-26
+Malaysia,MYS,2023,tertiary_enrollment_ratio,37.2745812491757,WorldBank_API_Real,2026-04-26
+Malaysia,MYS,2022,tertiary_enrollment_ratio,36.9853099297291,WorldBank_API_Real,2026-04-26
+Malaysia,MYS,2021,tertiary_enrollment_ratio,38.1899993008367,WorldBank_API_Real,2026-04-26
+Malaysia,MYS,2020,tertiary_enrollment_ratio,39.7445667367633,WorldBank_API_Real,2026-04-26
+Malaysia,MYS,2019,tertiary_enrollment_ratio,40.8082966813944,WorldBank_API_Real,2026-04-26
+Malaysia,MYS,2018,tertiary_enrollment_ratio,43.3100279300797,WorldBank_API_Real,2026-04-26
+Malaysia,MYS,2017,tertiary_enrollment_ratio,42.293211695146,WorldBank_API_Real,2026-04-26
+Malaysia,MYS,2016,tertiary_enrollment_ratio,45.4034659569972,WorldBank_API_Real,2026-04-26
+Malaysia,MYS,2015,tertiary_enrollment_ratio,44.289909239243,WorldBank_API_Real,2026-04-26
+United States,USA,2022,tertiary_enrollment_ratio,79.361930847168,WorldBank_API_Real,2026-04-26
+United States,USA,2021,tertiary_enrollment_ratio,84.8550872802734,WorldBank_API_Real,2026-04-26
+United States,USA,2020,tertiary_enrollment_ratio,87.5676574707031,WorldBank_API_Real,2026-04-26
+United States,USA,2019,tertiary_enrollment_ratio,87.8887100219727,WorldBank_API_Real,2026-04-26
+United States,USA,2018,tertiary_enrollment_ratio,88.2991790771484,WorldBank_API_Real,2026-04-26
+United States,USA,2017,tertiary_enrollment_ratio,88.1673889160156,WorldBank_API_Real,2026-04-26
+United States,USA,2016,tertiary_enrollment_ratio,88.8350524902344,WorldBank_API_Real,2026-04-26
+United States,USA,2015,tertiary_enrollment_ratio,88.8894119262695,WorldBank_API_Real,2026-04-26
+Viet Nam,VNM,2024,tertiary_enrollment_ratio,37.5923642016718,WorldBank_API_Real,2026-04-26
+Viet Nam,VNM,2023,tertiary_enrollment_ratio,32.8415128147815,WorldBank_API_Real,2026-04-26
+Viet Nam,VNM,2022,tertiary_enrollment_ratio,44.7536854027422,WorldBank_API_Real,2026-04-26
+Viet Nam,VNM,2021,tertiary_enrollment_ratio,41.9554971195048,WorldBank_API_Real,2026-04-26
+Viet Nam,VNM,2019,tertiary_enrollment_ratio,30.2241191864014,WorldBank_API_Real,2026-04-26
+Viet Nam,VNM,2017,tertiary_enrollment_ratio,25.9526307046456,WorldBank_API_Real,2026-04-26
+Viet Nam,VNM,2016,tertiary_enrollment_ratio,29.0811980839409,WorldBank_API_Real,2026-04-26
+Viet Nam,VNM,2015,tertiary_enrollment_ratio,29.7250797402999,WorldBank_API_Real,2026-04-26
+China,CHN,2024,hightech_exports_pct_manufactured,26.2777380479223,WorldBank_API_Real,2026-04-26
+China,CHN,2023,hightech_exports_pct_manufactured,26.5682136542881,WorldBank_API_Real,2026-04-26
+China,CHN,2022,hightech_exports_pct_manufactured,27.7650612563156,WorldBank_API_Real,2026-04-26
+China,CHN,2021,hightech_exports_pct_manufactured,30.2190732796596,WorldBank_API_Real,2026-04-26
+China,CHN,2020,hightech_exports_pct_manufactured,31.2766154241293,WorldBank_API_Real,2026-04-26
+China,CHN,2019,hightech_exports_pct_manufactured,30.8186302968419,WorldBank_API_Real,2026-04-26
+China,CHN,2018,hightech_exports_pct_manufactured,31.5481478595353,WorldBank_API_Real,2026-04-26
+China,CHN,2017,hightech_exports_pct_manufactured,30.9118639785891,WorldBank_API_Real,2026-04-26
+China,CHN,2016,hightech_exports_pct_manufactured,30.2545232296357,WorldBank_API_Real,2026-04-26
+China,CHN,2015,hightech_exports_pct_manufactured,30.4312672747562,WorldBank_API_Real,2026-04-26
+Germany,DEU,2024,hightech_exports_pct_manufactured,17.9772990379432,WorldBank_API_Real,2026-04-26
+Germany,DEU,2023,hightech_exports_pct_manufactured,17.7818374796623,WorldBank_API_Real,2026-04-26
+Germany,DEU,2022,hightech_exports_pct_manufactured,17.4981505573659,WorldBank_API_Real,2026-04-26
+Germany,DEU,2021,hightech_exports_pct_manufactured,15.3851048227765,WorldBank_API_Real,2026-04-26
+Germany,DEU,2020,hightech_exports_pct_manufactured,15.5031959869375,WorldBank_API_Real,2026-04-26
+Germany,DEU,2019,hightech_exports_pct_manufactured,16.3869405629417,WorldBank_API_Real,2026-04-26
+Germany,DEU,2018,hightech_exports_pct_manufactured,15.7474335584013,WorldBank_API_Real,2026-04-26
+Germany,DEU,2017,hightech_exports_pct_manufactured,15.850578794452,WorldBank_API_Real,2026-04-26
+Germany,DEU,2016,hightech_exports_pct_manufactured,18.0827014214761,WorldBank_API_Real,2026-04-26
+Germany,DEU,2015,hightech_exports_pct_manufactured,17.8243752766447,WorldBank_API_Real,2026-04-26
+India,IND,2024,hightech_exports_pct_manufactured,18.5723946411049,WorldBank_API_Real,2026-04-26
+India,IND,2023,hightech_exports_pct_manufactured,14.9343472986716,WorldBank_API_Real,2026-04-26
+India,IND,2022,hightech_exports_pct_manufactured,12.6822794807287,WorldBank_API_Real,2026-04-26
+India,IND,2021,hightech_exports_pct_manufactured,10.2125596625118,WorldBank_API_Real,2026-04-26
+India,IND,2020,hightech_exports_pct_manufactured,11.0325638466576,WorldBank_API_Real,2026-04-26
+India,IND,2019,hightech_exports_pct_manufactured,10.2237396907979,WorldBank_API_Real,2026-04-26
+India,IND,2018,hightech_exports_pct_manufactured,9.04145168835151,WorldBank_API_Real,2026-04-26
+India,IND,2017,hightech_exports_pct_manufactured,7.36208114076572,WorldBank_API_Real,2026-04-26
+India,IND,2016,hightech_exports_pct_manufactured,7.66325704378624,WorldBank_API_Real,2026-04-26
+India,IND,2015,hightech_exports_pct_manufactured,8.02476917234515,WorldBank_API_Real,2026-04-26
+Japan,JPN,2024,hightech_exports_pct_manufactured,17.5547415163067,WorldBank_API_Real,2026-04-26
+Japan,JPN,2023,hightech_exports_pct_manufactured,17.1028060703212,WorldBank_API_Real,2026-04-26
+Japan,JPN,2022,hightech_exports_pct_manufactured,18.2592615351902,WorldBank_API_Real,2026-04-26
+Japan,JPN,2021,hightech_exports_pct_manufactured,18.0039913482614,WorldBank_API_Real,2026-04-26
+Japan,JPN,2020,hightech_exports_pct_manufactured,18.6333487896777,WorldBank_API_Real,2026-04-26
+Japan,JPN,2019,hightech_exports_pct_manufactured,17.0303844450023,WorldBank_API_Real,2026-04-26
+Japan,JPN,2018,hightech_exports_pct_manufactured,17.2970528139362,WorldBank_API_Real,2026-04-26
+Japan,JPN,2017,hightech_exports_pct_manufactured,17.5942774665502,WorldBank_API_Real,2026-04-26
+Japan,JPN,2016,hightech_exports_pct_manufactured,17.620423854837,WorldBank_API_Real,2026-04-26
+Japan,JPN,2015,hightech_exports_pct_manufactured,18.0454889300336,WorldBank_API_Real,2026-04-26
+"Korea, Rep.",KOR,2024,hightech_exports_pct_manufactured,36.2582559366674,WorldBank_API_Real,2026-04-26
+"Korea, Rep.",KOR,2023,hightech_exports_pct_manufactured,30.2762799912651,WorldBank_API_Real,2026-04-26
+"Korea, Rep.",KOR,2022,hightech_exports_pct_manufactured,36.118278931217,WorldBank_API_Real,2026-04-26
+"Korea, Rep.",KOR,2021,hightech_exports_pct_manufactured,36.014503674486,WorldBank_API_Real,2026-04-26
+"Korea, Rep.",KOR,2020,hightech_exports_pct_manufactured,35.6022265413283,WorldBank_API_Real,2026-04-26
+"Korea, Rep.",KOR,2019,hightech_exports_pct_manufactured,32.4050621736765,WorldBank_API_Real,2026-04-26
+"Korea, Rep.",KOR,2018,hightech_exports_pct_manufactured,36.3912233579129,WorldBank_API_Real,2026-04-26
+"Korea, Rep.",KOR,2017,hightech_exports_pct_manufactured,32.546316460744,WorldBank_API_Real,2026-04-26
+"Korea, Rep.",KOR,2016,hightech_exports_pct_manufactured,30.5250266717443,WorldBank_API_Real,2026-04-26
+"Korea, Rep.",KOR,2015,hightech_exports_pct_manufactured,31.2119270912605,WorldBank_API_Real,2026-04-26
+Malaysia,MYS,2024,hightech_exports_pct_manufactured,58.6276748543331,WorldBank_API_Real,2026-04-26
+Malaysia,MYS,2023,hightech_exports_pct_manufactured,59.4155074421789,WorldBank_API_Real,2026-04-26
+Malaysia,MYS,2022,hightech_exports_pct_manufactured,58.2818244031486,WorldBank_API_Real,2026-04-26
+Malaysia,MYS,2021,hightech_exports_pct_manufactured,51.6786836379514,WorldBank_API_Real,2026-04-26
+Malaysia,MYS,2020,hightech_exports_pct_manufactured,53.8128736631656,WorldBank_API_Real,2026-04-26
+Malaysia,MYS,2019,hightech_exports_pct_manufactured,51.5927774360365,WorldBank_API_Real,2026-04-26
+Malaysia,MYS,2018,hightech_exports_pct_manufactured,53.1812872322082,WorldBank_API_Real,2026-04-26
+Malaysia,MYS,2017,hightech_exports_pct_manufactured,51.124071112731,WorldBank_API_Real,2026-04-26
+Malaysia,MYS,2016,hightech_exports_pct_manufactured,49.058669616671,WorldBank_API_Real,2026-04-26
+Malaysia,MYS,2015,hightech_exports_pct_manufactured,48.4853806485296,WorldBank_API_Real,2026-04-26
+United States,USA,2024,hightech_exports_pct_manufactured,24.322982844202,WorldBank_API_Real,2026-04-26
+United States,USA,2023,hightech_exports_pct_manufactured,21.8459878355521,WorldBank_API_Real,2026-04-26
+United States,USA,2022,hightech_exports_pct_manufactured,20.5789833007379,WorldBank_API_Real,2026-04-26
+United States,USA,2021,hightech_exports_pct_manufactured,19.9014614131792,WorldBank_API_Real,2026-04-26
+United States,USA,2020,hightech_exports_pct_manufactured,19.4939761609452,WorldBank_API_Real,2026-04-26
+United States,USA,2019,hightech_exports_pct_manufactured,18.6853939276571,WorldBank_API_Real,2026-04-26
+United States,USA,2018,hightech_exports_pct_manufactured,18.4842699258676,WorldBank_API_Real,2026-04-26
+United States,USA,2017,hightech_exports_pct_manufactured,19.2659699620243,WorldBank_API_Real,2026-04-26
+United States,USA,2016,hightech_exports_pct_manufactured,22.4192942002286,WorldBank_API_Real,2026-04-26
+United States,USA,2015,hightech_exports_pct_manufactured,21.3904480368657,WorldBank_API_Real,2026-04-26
+Viet Nam,VNM,2023,hightech_exports_pct_manufactured,44.256885251682,WorldBank_API_Real,2026-04-26
+Viet Nam,VNM,2022,hightech_exports_pct_manufactured,42.689178907016,WorldBank_API_Real,2026-04-26
+Viet Nam,VNM,2021,hightech_exports_pct_manufactured,41.5396346544198,WorldBank_API_Real,2026-04-26
+Viet Nam,VNM,2020,hightech_exports_pct_manufactured,41.7401040421189,WorldBank_API_Real,2026-04-26
+Viet Nam,VNM,2019,hightech_exports_pct_manufactured,40.4334300320093,WorldBank_API_Real,2026-04-26
+Viet Nam,VNM,2018,hightech_exports_pct_manufactured,40.7501595675465,WorldBank_API_Real,2026-04-26
+Viet Nam,VNM,2017,hightech_exports_pct_manufactured,41.7381332957129,WorldBank_API_Real,2026-04-26
+Viet Nam,VNM,2016,hightech_exports_pct_manufactured,38.0569617054575,WorldBank_API_Real,2026-04-26
+Viet Nam,VNM,2015,hightech_exports_pct_manufactured,36.3691117529912,WorldBank_API_Real,2026-04-26

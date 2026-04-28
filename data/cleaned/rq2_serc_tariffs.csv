@@ -1,0 +1,43 @@
+sl_no,state,average_cost_of_supply,dataset_label,data_source,retrieval_date
+1.0,Andaman and Nicobar Islands,30.16,acs_23_24,SERC_datagov_api,2026-04-26
+2.0,Andhra Pradesh,8.32,acs_23_24,SERC_datagov_api,2026-04-26
+3.0,Arunachal Pradesh,6.08,acs_23_24,SERC_datagov_api,2026-04-26
+4.0,Assam,7.81,acs_23_24,SERC_datagov_api,2026-04-26
+5.0,Bihar,6.82,acs_23_24,SERC_datagov_api,2026-04-26
+6.0,Chandigarh,,acs_23_24,SERC_datagov_api,2026-04-26
+7.0,Chhattisgarh,5.2,acs_23_24,SERC_datagov_api,2026-04-26
+8.0,Dadra and Nagar Haveli and Daman and Diu,,acs_23_24,SERC_datagov_api,2026-04-26
+9.0,Delhi,7.61,acs_23_24,SERC_datagov_api,2026-04-26
+10.0,Goa,6.35,acs_23_24,SERC_datagov_api,2026-04-26
+11.0,Gujarat,6.17,acs_23_24,SERC_datagov_api,2026-04-26
+12.0,Haryana,6.2,acs_23_24,SERC_datagov_api,2026-04-26
+13.0,Himachal Pradesh,5.23,acs_23_24,SERC_datagov_api,2026-04-26
+14.0,Jammu and Kashmir,,acs_23_24,SERC_datagov_api,2026-04-26
+15.0,Jharkhand,7.8,acs_23_24,SERC_datagov_api,2026-04-26
+16.0,Karnataka,8.39,acs_23_24,SERC_datagov_api,2026-04-26
+17.0,Kerala,6.85,acs_23_24,SERC_datagov_api,2026-04-26
+18.0,Ladakh,7.14,acs_23_24,SERC_datagov_api,2026-04-26
+19.0,Lakshadweep,,acs_23_24,SERC_datagov_api,2026-04-26
+20.0,Madhya Pradesh,6.11,acs_23_24,SERC_datagov_api,2026-04-26
+21.0,Maharashtra,7.29,acs_23_24,SERC_datagov_api,2026-04-26
+22.0,Manipur,8.04,acs_23_24,SERC_datagov_api,2026-04-26
+23.0,Meghalaya,7.23,acs_23_24,SERC_datagov_api,2026-04-26
+24.0,Mizoram,8.75,acs_23_24,SERC_datagov_api,2026-04-26
+25.0,Nagaland,8.03,acs_23_24,SERC_datagov_api,2026-04-26
+26.0,Odisha,5.24,acs_23_24,SERC_datagov_api,2026-04-26
+27.0,Puducherry,5.27,acs_23_24,SERC_datagov_api,2026-04-26
+28.0,Punjab,6.01,acs_23_24,SERC_datagov_api,2026-04-26
+29.0,Rajasthan,6.8,acs_23_24,SERC_datagov_api,2026-04-26
+30.0,Sikkim,4.92,acs_23_24,SERC_datagov_api,2026-04-26
+31.0,Tamil Nadu,9.04,acs_23_24,SERC_datagov_api,2026-04-26
+32.0,Telangana,7.62,acs_23_24,SERC_datagov_api,2026-04-26
+33.0,Tripura,6.53,acs_23_24,SERC_datagov_api,2026-04-26
+34.0,Uttar Pradesh,7.73,acs_23_24,SERC_datagov_api,2026-04-26
+35.0,Uttarakhand,5.95,acs_23_24,SERC_datagov_api,2026-04-26
+36.0,West Bengal,6.36,acs_23_24,SERC_datagov_api,2026-04-26
+37.0,National Level,7.09,acs_23_24,SERC_datagov_api,2026-04-26
+,,,tariff_trend,SERC_datagov_api,2026-04-26
+,,,tariff_trend,SERC_datagov_api,2026-04-26
+,,,tariff_trend,SERC_datagov_api,2026-04-26
+,,,tariff_trend,SERC_datagov_api,2026-04-26
+,,,tariff_trend,SERC_datagov_api,2026-04-26

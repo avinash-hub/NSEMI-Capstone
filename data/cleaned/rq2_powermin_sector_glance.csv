@@ -1,0 +1,54 @@
+state_u_ts,thermal,nuclear,hydro,r_e_s,total,source_metric,data_source,retrieval_date
+Haryana,7087.82,109.16,1456.83,138.6,8792.41,installed_capacity_statewise,PowerMinistry_API_v2_renamed,2026-04-26
+Himachal Pradesh,213.9,34.08,3421.51,754.8,4424.29,installed_capacity_statewise,PowerMinistry_API_v2_renamed,2026-04-26
+Jammu & Kashmir,633.46,77.0,2255.21,156.53,3122.2,installed_capacity_statewise,PowerMinistry_API_v2_renamed,2026-04-26
+Punjab,7393.8,208.04,3145.13,508.47,11255.44,installed_capacity_statewise,PowerMinistry_API_v2_renamed,2026-04-26
+Rajasthan,10225.75,573.0,1719.3,5016.8,17534.85,installed_capacity_statewise,PowerMinistry_API_v2_renamed,2026-04-26
+Uttar Pradesh,12227.92,335.72,2168.3,989.86,15721.8,installed_capacity_statewise,PowerMinistry_API_v2_renamed,2026-04-26
+Uttarakhand,468.85,22.28,2441.82,244.33,3177.28,installed_capacity_statewise,PowerMinistry_API_v2_renamed,2026-04-26
+Chandigarh,47.86,8.84,62.32,5.04,124.06,installed_capacity_statewise,PowerMinistry_API_v2_renamed,2026-04-26
+Delhi,7367.88,122.08,822.05,34.71,8346.72,installed_capacity_statewise,PowerMinistry_API_v2_renamed,2026-04-26
+Central Sector(UA)NR,1267.54,129.8,754.3,0.0,2151.64,installed_capacity_statewise,PowerMinistry_API_v2_renamed,2026-04-26
+Sub-Total (NR),46934.76,1620.0,18246.77,7849.14,74650.67,installed_capacity_statewise,PowerMinistry_API_v2_renamed,2026-04-26
+Gujarat,23159.81,559.32,772.0,4940.0,29431.13,installed_capacity_statewise,PowerMinistry_API_v2_renamed,2026-04-26
+Madhya Pradesh,11511.43,273.24,3223.66,1805.34,16813.67,installed_capacity_statewise,PowerMinistry_API_v2_renamed,2026-04-26
+Chhattisgarh,13593.69,47.52,120.0,390.08,14151.29,installed_capacity_statewise,PowerMinistry_API_v2_renamed,2026-04-26
+Maharashtra,28294.09,690.14,3331.84,6235.2,38551.27,installed_capacity_statewise,PowerMinistry_API_v2_renamed,2026-04-26
+Goa,379.35,25.8,0.0,0.05,405.2,installed_capacity_statewise,PowerMinistry_API_v2_renamed,2026-04-26
+D. & N. Haveli,77.02,8.46,0.0,0.0,85.48,installed_capacity_statewise,PowerMinistry_API_v2_renamed,2026-04-26
+Daman & Diu,44.78,7.38,0.0,0.0,54.66,installed_capacity_statewise,PowerMinistry_API_v2_renamed,2026-04-26
+Central Sector(UA) WR,1894.26,228.14,0.0,0.0,2122.4,installed_capacity_statewise,PowerMinistry_API_v2_renamed,2026-04-26
+Sub-Total (WR),78954.42,1840.0,7447.5,13370.67,101615.1,installed_capacity_statewise,PowerMinistry_API_v2_renamed,2026-04-26
+Andhra Pradesh,9708.83,127.16,1758.87,2093.93,13688.8,installed_capacity_statewise,PowerMinistry_API_v2_renamed,2026-04-26
+Telangana,7316.05,148.62,2055.66,72.25,9592.58,installed_capacity_statewise,PowerMinistry_API_v2_renamed,2026-04-26
+Karnataka,6642.88,475.86,3599.8,4606.5,15325.04,installed_capacity_statewise,PowerMinistry_API_v2_renamed,2026-04-26
+Kerala,1806.87,228.6,1881.5,216.05,4133.02,installed_capacity_statewise,PowerMinistry_API_v2_renamed,2026-04-26
+Tamil Nadu,12214.11,986.5,2182.2,8471.2,23854.01,installed_capacity_statewise,PowerMinistry_API_v2_renamed,2026-04-26
+Lakshadweep,0.0,0.0,0.0,0.75,0.75,installed_capacity_statewise,PowerMinistry_API_v2_renamed,2026-04-26
+Puducherry,281.82,52.78,0.0,0.03,334.63,installed_capacity_statewise,PowerMinistry_API_v2_renamed,2026-04-26
+Central Sector(UA) SR,1523.08,300.48,0.0,0.0,1823.56,installed_capacity_statewise,PowerMinistry_API_v2_renamed,2026-04-26
+Sub-Total (SR),39493.64,2320.0,11478.03,15460.71,68752.38,installed_capacity_statewise,PowerMinistry_API_v2_renamed,2026-04-26
+Bihar,2516.24,0.0,129.43,114.12,2759.79,installed_capacity_statewise,PowerMinistry_API_v2_renamed,2026-04-26
+Jharkhand,2404.93,0.0,200.93,20.05,2625.91,installed_capacity_statewise,PowerMinistry_API_v2_renamed,2026-04-26
+Odisha,6753.04,0.0,2166.93,141.55,9061.52,installed_capacity_statewise,PowerMinistry_API_v2_renamed,2026-04-26
+West Bengal,8183.83,0.0,1248.3,131.71,9563.84,installed_capacity_statewise,PowerMinistry_API_v2_renamed,2026-04-26
+D.V.C.,7250.66,0.0,193.26,0.0,7443.92,installed_capacity_statewise,PowerMinistry_API_v2_renamed,2026-04-26
+Andaman and Nicobar Islands,40.05,0.0,0.0,10.35,50.4,installed_capacity_statewise,PowerMinistry_API_v2_renamed,2026-04-26
+Sikkim,92.1,0.0,270.27,52.11,414.48,installed_capacity_statewise,PowerMinistry_API_v2_renamed,2026-04-26
+Central Sector(UA) ER,1572.07,0.0,0.0,0.0,1572.07,installed_capacity_statewise,PowerMinistry_API_v2_renamed,2026-04-26
+Sub-Total (ER),28812.92,0.0,4209.12,469.89,33491.93,installed_capacity_statewise,PowerMinistry_API_v2_renamed,2026-04-26
+Assam,905.62,0.0,429.72,34.11,1369.45,installed_capacity_statewise,PowerMinistry_API_v2_renamed,2026-04-26
+Manipur,119.68,0.0,80.98,5.45,206.11,installed_capacity_statewise,PowerMinistry_API_v2_renamed,2026-04-26
+Meghalaya,122.84,0.0,356.58,31.03,510.45,installed_capacity_statewise,PowerMinistry_API_v2_renamed,2026-04-26
+Nagaland,57.05,0.0,53.32,29.67,140.04,installed_capacity_statewise,PowerMinistry_API_v2_renamed,2026-04-26
+Tripura,557.52,0.0,62.37,21.01,640.9,installed_capacity_statewise,PowerMinistry_API_v2_renamed,2026-04-26
+Arunachal Pradesh,55.41,0.0,97.57,104.88,257.86,installed_capacity_statewise,PowerMinistry_API_v2_renamed,2026-04-26
+Mizoram,48.64,0.0,34.31,36.47,119.42,installed_capacity_statewise,PowerMinistry_API_v2_renamed,2026-04-26
+Central Sector(UA) NER,141.94,0.0,127.15,0.0,269.09,installed_capacity_statewise,PowerMinistry_API_v2_renamed,2026-04-26
+Sub-Total (NER),2008.7,0.0,1242.0,262.62,3513.32,installed_capacity_statewise,PowerMinistry_API_v2_renamed,2026-04-26
+All India(CS),6398.89,658.42,881.45,0.0,7938.76,installed_capacity_statewise,PowerMinistry_API_v2_renamed,2026-04-26
+Total All India,196204.4,5780.0,42623.42,37413.03,282023.4,installed_capacity_statewise,PowerMinistry_API_v2_renamed,2026-04-26
+,,,,,,all_india_generation_mix,PowerMinistry_API_v2_renamed,2026-04-26
+,,,,,,all_india_generation_mix,PowerMinistry_API_v2_renamed,2026-04-26
+,,,,,,all_india_generation_mix,PowerMinistry_API_v2_renamed,2026-04-26
+,,,,,,all_india_generation_mix,PowerMinistry_API_v2_renamed,2026-04-26

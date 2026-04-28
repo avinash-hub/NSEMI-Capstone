@@ -1,0 +1,7 @@
+s_no,nic_2008_5_digit,item_groups,unit,use_based_classification,weights_in,data_source,retrieval_date
+104,18200,Digital media for electronic media players,Th.Nos.,Consumer durables,0.015,MOSPI_IIP_API_real,2026-04-26
+290,26204,Computers & peripherals,Rs.Crore,Consumer durables,0.1676,MOSPI_IIP_API_real,2026-04-26
+315,27310,Fiber optics/ optical fiber cables,TH. KILO METERS,Infrastructure/ construction goods,0.0467,MOSPI_IIP_API_real,2026-04-26
+316,27320,Electronic/ electrical conductor wires (single or multiple strands),Tonnes,Capital goods,0.1733,MOSPI_IIP_API_real,2026-04-26
+321,27339,End facing connector for optical fibres and cables,Rs.Crore,Capital goods,0.0726,MOSPI_IIP_API_real,2026-04-26
+342,28132,"Industrial Valves of different types- safety, relief and control valves(non-electronic, non-electrical)",Rs.Crore,Intermediate goods,0.5349,MOSPI_IIP_API_real,2026-04-26

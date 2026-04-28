@@ -1,0 +1,19 @@
+* text=auto
+
+# CSV/JSON should keep their original line endings
+*.csv text eol=lf
+*.json text eol=lf
+
+# Notebooks
+*.ipynb text eol=lf
+
+# Python files
+*.py text eol=lf
+
+# Documents (binary, don't touch)
+*.docx binary
+*.pdf binary
+*.pptx binary
+*.xlsx binary
+*.png binary
+*.jpg binary

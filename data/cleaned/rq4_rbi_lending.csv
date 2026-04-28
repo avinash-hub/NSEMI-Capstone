@@ -1,0 +1,9 @@
+date,amount_of_increase_in_repo_rate_in_bps,repo_rate_in_percent,dataset_label,quarter_ended,savings_account,5_year_time_deposit,5_year_recurring_deposit,5_year_senior_citizen_savings_scheme,5_year_national_savings_certificate,public_provident_fund,kisan_vikas_patra,data_source,retrieval_date,date_int,retrieval_date_int
+30th September 2022,50.0,5.9,repo_rates,,,,,,,,,RBI_API_Live,2026-04-26,2022.0,2026
+7th December 2022,35.0,6.25,repo_rates,,,,,,,,,RBI_API_Live,2026-04-26,2022.0,2026
+8th February 2023,25.0,6.5,repo_rates,,,,,,,,,RBI_API_Live,2026-04-26,2023.0,2026
+,,,savings_deposit_rates,Sep-18,4.0,7.4,6.9,8.3,7.6,7.6,7.3,RBI_API_Live,2026-04-26,,2026
+,,,savings_deposit_rates,Jun-19,4.0,7.8,7.3,8.7,8.0,8.0,7.7,RBI_API_Live,2026-04-26,,2026
+,,,savings_deposit_rates,Mar-20,4.0,7.7,7.2,8.6,7.9,7.9,7.6,RBI_API_Live,2026-04-26,,2026
+,,,savings_deposit_rates,Jun-20,4.0,6.7,5.8,7.4,6.8,7.1,6.9,RBI_API_Live,2026-04-26,,2026
+,,,savings_deposit_rates,Dec-22,4.0,6.7,5.8,7.6,6.8,7.1,7.0,RBI_API_Live,2026-04-26,,2026

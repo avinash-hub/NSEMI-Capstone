@@ -1,0 +1,33 @@
+state,atc_loss_pct_2024_25,atc_loss_pct_2023_24,net_input_energy_mu_2024_25,net_energy_sold_mu_2024_25,billing_efficiency_pct_2024_25,collection_efficiency_pct_2024_25,data_source,retrieval_date,ism_approved
+Andaman & Nicobar Islands,24.14,20.76,410.0,315.0,76.7,98.91,PFC_Performance_Report_2024_25,2026-04-28,0
+Andhra Pradesh,7.87,12.05,75076.0,69680.0,92.81,99.26,PFC_Performance_Report_2024_25,2026-04-28,0
+Arunachal Pradesh,46.2,42.86,1209.0,728.0,60.24,89.31,PFC_Performance_Report_2024_25,2026-04-28,0
+Assam,15.44,14.03,12396.0,10482.0,84.56,100.0,PFC_Performance_Report_2024_25,2026-04-28,1
+Bihar,15.51,20.32,41839.0,36170.0,86.45,97.73,PFC_Performance_Report_2024_25,2026-04-28,0
+Chhattisgarh,14.25,15.88,40230.0,34496.0,85.75,100.0,PFC_Performance_Report_2024_25,2026-04-28,0
+Delhi,8.36,12.82,1481.0,1357.0,91.64,100.0,PFC_Performance_Report_2024_25,2026-04-28,0
+Goa,10.39,9.09,5388.0,4970.0,92.25,97.14,PFC_Performance_Report_2024_25,2026-04-28,0
+Gujarat,8.25,8.97,122544.0,112616.0,91.9,99.84,PFC_Performance_Report_2024_25,2026-04-28,1
+Haryana,11.76,11.3,67663.0,60978.0,90.12,97.92,PFC_Performance_Report_2024_25,2026-04-28,0
+Himachal Pradesh,19.44,10.88,13156.0,11882.0,90.32,89.2,PFC_Performance_Report_2024_25,2026-04-28,0
+Jharkhand,28.19,30.51,15466.0,11106.0,71.81,100.0,PFC_Performance_Report_2024_25,2026-04-28,0
+Karnataka,11.92,11.89,83555.0,75643.0,90.53,97.3,PFC_Performance_Report_2024_25,2026-04-28,0
+Kerala,6.61,7.44,31112.0,29055.0,93.39,100.0,PFC_Performance_Report_2024_25,2026-04-28,0
+Ladakh,26.82,42.46,295.0,239.0,81.1,90.23,PFC_Performance_Report_2024_25,2026-04-28,0
+Madhya Pradesh,22.76,22.89,97000.0,75812.0,78.16,98.83,PFC_Performance_Report_2024_25,2026-04-28,0
+Maharashtra,17.69,23.86,166063.0,140419.0,84.56,97.34,PFC_Performance_Report_2024_25,2026-04-28,0
+Manipur,12.9,13.41,1050.0,939.0,89.41,97.41,PFC_Performance_Report_2024_25,2026-04-28,0
+Meghalaya,17.52,17.51,1683.0,1404.0,83.4,98.89,PFC_Performance_Report_2024_25,2026-04-28,0
+Mizoram,32.31,28.01,745.0,515.0,69.16,97.88,PFC_Performance_Report_2024_25,2026-04-28,0
+Nagaland,48.86,47.11,860.0,463.0,53.77,95.11,PFC_Performance_Report_2024_25,2026-04-28,0
+Odisha,17.81,19.59,35778.0,29579.0,82.67,99.42,PFC_Performance_Report_2024_25,2026-04-28,0
+Puducherry,14.72,17.75,3461.0,3128.0,90.38,94.36,PFC_Performance_Report_2024_25,2026-04-28,0
+Punjab,19.21,10.96,74528.0,65449.0,87.82,92.0,PFC_Performance_Report_2024_25,2026-04-28,0
+Rajasthan,15.18,22.13,107356.0,92008.0,85.7,98.96,PFC_Performance_Report_2024_25,2026-04-28,0
+Sikkim,21.84,27.84,683.0,534.0,78.16,100.0,PFC_Performance_Report_2024_25,2026-04-28,0
+Tamil Nadu,10.96,11.39,104647.0,94522.0,90.32,98.58,PFC_Performance_Report_2024_25,2026-04-28,0
+Telangana,19.84,19.01,85473.0,78246.0,91.54,87.56,PFC_Performance_Report_2024_25,2026-04-28,0
+Tripura,29.61,69.01,1722.0,1324.0,76.89,91.54,PFC_Performance_Report_2024_25,2026-04-28,0
+Uttar Pradesh,19.54,16.39,147650.0,127404.0,86.29,93.24,PFC_Performance_Report_2024_25,2026-04-28,1
+Uttarakhand,15.08,14.69,17192.0,14838.0,86.31,98.39,PFC_Performance_Report_2024_25,2026-04-28,0
+West Bengal,17.17,17.13,54584.0,46194.0,84.63,97.87,PFC_Performance_Report_2024_25,2026-04-28,0

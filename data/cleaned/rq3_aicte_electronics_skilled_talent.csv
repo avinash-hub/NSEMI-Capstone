@@ -1,0 +1,40 @@
+state_ut_name,2016_17_institutions,2016_17_approved_intake,2015_16_institutions,2015_16_approved_intake,2015_16_enrollment,2015_16_vacancy,2014_15_institutions,2014_15_approved_intake,2014_15_enrollment,2014_15_vacancy,2013_14_institutions,2013_14_approved_intake,2013_14_enrollment,2013_14_vacancy,source_dataset,data_source,retrieval_date
+Andaman and Nicobar Islands,1.0,360.0,1.0,360.0,391.0,0.0,1.0,360.0,383.0,0.0,1.0,360.0,398.0,0.0,state_wise_engineering_2022_23,AICTE_API_Dashboard_Real,2026-04-26
+Andhra Pradesh,485.0,284472.0,498.0,294548.0,163188.0,44.6,492.0,299486.0,155651.0,48.03,486.0,268925.0,154669.0,42.49,state_wise_engineering_2022_23,AICTE_API_Dashboard_Real,2026-04-26
+Arunachal Pradesh,8.0,978.0,2.0,420.0,198.0,52.86,7.0,1320.0,595.0,54.93,3.0,636.0,297.0,53.31,state_wise_engineering_2022_23,AICTE_API_Dashboard_Real,2026-04-26
+Assam,33.0,7921.0,31.0,7931.0,4464.0,43.72,31.0,7967.0,4540.0,43.02,31.0,7489.0,4769.0,36.32,state_wise_engineering_2022_23,AICTE_API_Dashboard_Real,2026-04-26
+Bihar,85.0,27604.0,65.0,23044.0,14087.0,38.87,55.0,20839.0,10821.0,48.08,47.0,17391.0,7724.0,55.59,state_wise_engineering_2022_23,AICTE_API_Dashboard_Real,2026-04-26
+Chandigarh,9.0,2310.0,10.0,3117.0,1556.0,50.09,9.0,2391.0,2024.0,15.35,9.0,2271.0,1931.0,14.98,state_wise_engineering_2022_23,AICTE_API_Dashboard_Real,2026-04-26
+Chhattisgarh,92.0,36294.0,91.0,35154.0,17035.0,51.55,90.0,42425.0,18578.0,56.21,76.0,36125.0,20258.0,43.93,state_wise_engineering_2022_23,AICTE_API_Dashboard_Real,2026-04-26
+Dadra and Nagar Haveli,1.0,330.0,1.0,330.0,280.0,15.16,1.0,330.0,295.0,10.61,1.0,330.0,321.0,2.73,state_wise_engineering_2022_23,AICTE_API_Dashboard_Real,2026-04-26
+Daman and Diu,2.0,540.0,2.0,540.0,523.0,3.15,1.0,360.0,347.0,3.62,1.0,360.0,360.0,0.0,state_wise_engineering_2022_23,AICTE_API_Dashboard_Real,2026-04-26
+Delhi,33.0,14624.0,36.0,16071.0,9854.0,38.69,34.0,15743.0,13692.0,13.03,36.0,15917.0,12717.0,20.11,state_wise_engineering_2022_23,AICTE_API_Dashboard_Real,2026-04-26
+Goa,11.0,4229.0,11.0,4211.0,3702.0,12.09,11.0,4193.0,3759.0,10.36,11.0,3293.0,2956.0,10.24,state_wise_engineering_2022_23,AICTE_API_Dashboard_Real,2026-04-26
+Gujarat,233.0,144988.0,232.0,148264.0,89152.0,39.87,230.0,149546.0,94354.0,36.91,208.0,133881.0,108640.0,18.86,state_wise_engineering_2022_23,AICTE_API_Dashboard_Real,2026-04-26
+Haryana,293.0,126834.0,323.0,144937.0,69885.0,51.79,337.0,156802.0,66831.0,57.38,341.0,152718.0,97124.0,36.41,state_wise_engineering_2022_23,AICTE_API_Dashboard_Real,2026-04-26
+Himachal Pradesh,49.0,17224.0,53.0,20824.0,10254.0,50.76,55.0,22264.0,11023.0,50.49,54.0,22180.0,12054.0,45.66,state_wise_engineering_2022_23,AICTE_API_Dashboard_Real,2026-04-26
+Jammu and Kashmir,40.0,9193.0,41.0,9553.0,4306.0,54.93,38.0,8834.0,5510.0,37.63,34.0,7817.0,5427.0,30.58,state_wise_engineering_2022_23,AICTE_API_Dashboard_Real,2026-04-26
+Jharkhand,49.0,17494.0,45.0,16834.0,10510.0,37.57,45.0,17119.0,12190.0,28.8,41.0,14233.0,10146.0,28.72,state_wise_engineering_2022_23,AICTE_API_Dashboard_Real,2026-04-26
+Karnataka,509.0,211844.0,506.0,214217.0,143021.0,33.24,504.0,215795.0,152800.0,29.2,500.0,205887.0,156505.0,23.99,state_wise_engineering_2022_23,AICTE_API_Dashboard_Real,2026-04-26
+Kerala,248.0,94872.0,241.0,94054.0,58204.0,38.12,235.0,94368.0,63999.0,32.19,230.0,85573.0,62981.0,26.41,state_wise_engineering_2022_23,AICTE_API_Dashboard_Real,2026-04-26
+Madhya Pradesh,307.0,146639.0,299.0,149796.0,81610.0,45.52,298.0,153030.0,81111.0,47.0,294.0,144888.0,85200.0,41.2,state_wise_engineering_2022_23,AICTE_API_Dashboard_Real,2026-04-26
+Maharashtra,790.0,343699.0,799.0,364386.0,190540.0,47.71,804.0,372273.0,215616.0,42.09,790.0,355735.0,238156.0,33.06,state_wise_engineering_2022_23,AICTE_API_Dashboard_Real,2026-04-26
+Manipur,4.0,525.0,2.0,255.0,229.0,10.2,2.0,255.0,230.0,9.81,3.0,405.0,359.0,11.36,state_wise_engineering_2022_23,AICTE_API_Dashboard_Real,2026-04-26
+Meghalaya,4.0,740.0,4.0,800.0,369.0,53.88,4.0,800.0,449.0,43.88,4.0,800.0,348.0,56.5,state_wise_engineering_2022_23,AICTE_API_Dashboard_Real,2026-04-26
+Mizoram,3.0,200.0,2.0,140.0,110.0,21.43,2.0,140.0,124.0,11.43,3.0,200.0,153.0,23.5,state_wise_engineering_2022_23,AICTE_API_Dashboard_Real,2026-04-26
+Nagaland,4.0,480.0,3.0,360.0,198.0,45.0,2.0,300.0,169.0,43.67,1.0,240.0,189.0,21.25,state_wise_engineering_2022_23,AICTE_API_Dashboard_Real,2026-04-26
+Odisha,223.0,96733.0,221.0,97590.0,45962.0,52.91,209.0,96781.0,43254.0,55.31,197.0,85451.0,39842.0,53.38,state_wise_engineering_2022_23,AICTE_API_Dashboard_Real,2026-04-26
+Puducherry,26.0,12153.0,26.0,12598.0,5778.0,54.14,26.0,12682.0,6404.0,49.51,23.0,11200.0,7051.0,37.05,state_wise_engineering_2022_23,AICTE_API_Dashboard_Real,2026-04-26
+Punjab,240.0,111677.0,243.0,116246.0,49106.0,57.76,246.0,119718.0,56881.0,52.49,239.0,112713.0,55756.0,50.54,state_wise_engineering_2022_23,AICTE_API_Dashboard_Real,2026-04-26
+Rajasthan,303.0,117253.0,325.0,127632.0,80987.0,36.55,331.0,133926.0,82365.0,38.5,317.0,123899.0,65470.0,47.16,state_wise_engineering_2022_23,AICTE_API_Dashboard_Real,2026-04-26
+Sikkim,4.0,1299.0,3.0,1299.0,705.0,45.73,3.0,1299.0,858.0,33.95,3.0,1179.0,922.0,21.8,state_wise_engineering_2022_23,AICTE_API_Dashboard_Real,2026-04-26
+Tamil Nadu,1025.0,526042.0,1027.0,534870.0,277631.0,48.1,1009.0,538297.0,288268.0,46.45,998.0,515362.0,316767.0,38.54,state_wise_engineering_2022_23,AICTE_API_Dashboard_Real,2026-04-26
+Telangana,377.0,231380.0,394.0,253632.0,124546.0,50.9,404.0,292302.0,144235.0,50.66,405.0,257352.0,145196.0,43.59,state_wise_engineering_2022_23,AICTE_API_Dashboard_Real,2026-04-26
+Tripura,9.0,1712.0,9.0,1592.0,1151.0,27.71,7.0,1430.0,1089.0,23.85,4.0,770.0,634.0,17.67,state_wise_engineering_2022_23,AICTE_API_Dashboard_Real,2026-04-26
+Uttar Pradesh,636.0,291195.0,594.0,289338.0,150835.0,47.87,578.0,289481.0,165966.0,42.67,563.0,270731.0,149670.0,44.72,state_wise_engineering_2022_23,AICTE_API_Dashboard_Real,2026-04-26
+Uttarakhand,115.0,32467.0,99.0,32085.0,13934.0,56.58,97.0,32085.0,15177.0,52.7,98.0,31553.0,14525.0,53.97,state_wise_engineering_2022_23,AICTE_API_Dashboard_Real,2026-04-26
+West Bengal,215.0,79852.0,192.0,76716.0,43637.0,43.12,181.0,74840.0,45480.0,39.24,168.0,64646.0,44157.0,31.7,state_wise_engineering_2022_23,AICTE_API_Dashboard_Real,2026-04-26
+Grand Total,6466.0,2996157.0,6431.0,3093744.0,1596469.0,48.4,6379.0,3179781.0,1721604.0,45.86,6220.0,2952510.0,1782160.0,39.64,state_wise_engineering_2022_23,AICTE_API_Dashboard_Real,2026-04-26
+,,,,,,,,,,,,,,,electronics_vlsi_specializations,AICTE_API_Dashboard_Real,2026-04-26
+,,,,,,,,,,,,,,,electronics_vlsi_specializations,AICTE_API_Dashboard_Real,2026-04-26
+,,,,,,,,,,,,,,,electronics_vlsi_specializations,AICTE_API_Dashboard_Real,2026-04-26

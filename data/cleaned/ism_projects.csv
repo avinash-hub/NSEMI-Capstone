@@ -1,0 +1,8 @@
+id,company,type,state,city,investment_inr_cr,subsidy_pct,approval,operational_est,status,partner,data_source,retrieval_date
+1,Micron Technology,ATMP,Gujarat,Sanand,22500,50,2023-06-22,2025-01-01,Under Construction,,ISM_PIB_compiled_real,2026-04-26
+2,Tata Electronics,Fab (Power/Logic),Gujarat,Dholera,91000,50,2024-02-29,,Under Construction,PSMC,ISM_PIB_compiled_real,2026-04-26
+3,Tata Electronics,OSAT,Assam,Jagiroad,27000,50,2024-02-29,,Under Construction,,ISM_PIB_compiled_real,2026-04-26
+4,CG Power (Murugappa Group),OSAT,Gujarat,Sanand,7600,50,2024-02-29,,Under Construction,Renesas & Stars Micro,ISM_PIB_compiled_real,2026-04-26
+5,Kaynes Semicon,OSAT,Gujarat,Sanand,3300,70,2024-09-02,,Under Construction,,ISM_PIB_compiled_real,2026-04-26
+6,Adani-Tower (JV),Fab,Maharashtra,Panvel,83000,50,2024-09-05,,Approved,,ISM_PIB_compiled_real,2026-04-26
+7,SCL (Semi-Conductor Laboratory),Modernization,Punjab,Mohali,10000,100,2024-03-01,,In-Progress,,ISM_PIB_compiled_real,2026-04-26

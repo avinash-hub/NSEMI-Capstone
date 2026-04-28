@@ -1,0 +1,8 @@
+location,state,facility,facility_type,data_source,retrieval_date
+Sanand,Gujarat,Micron Technology,ATMP,ISM_facility_locations_derived,2026-04-26
+Dholera,Gujarat,Tata Electronics,Fab (Power/Logic),ISM_facility_locations_derived,2026-04-26
+Jagiroad,Assam,Tata Electronics,OSAT,ISM_facility_locations_derived,2026-04-26
+Sanand,Gujarat,CG Power (Murugappa Group),OSAT,ISM_facility_locations_derived,2026-04-26
+Sanand,Gujarat,Kaynes Semicon,OSAT,ISM_facility_locations_derived,2026-04-26
+Panvel,Maharashtra,Adani-Tower (JV),Fab,ISM_facility_locations_derived,2026-04-26
+Mohali,Punjab,SCL (Semi-Conductor Laboratory),Modernization,ISM_facility_locations_derived,2026-04-26
