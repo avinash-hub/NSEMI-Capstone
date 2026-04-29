@@ -1,0 +1,381 @@
+country_iso3,country,year,indicator_code,indicator,value,data_source,retrieval_date
+CHN,China,2024,FR.INR.LEND,lending_rate_pct,4.35,WorldBank_API_real_supplementary,2026-04-29
+CHN,China,2023,FR.INR.LEND,lending_rate_pct,4.35,WorldBank_API_real_supplementary,2026-04-29
+CHN,China,2022,FR.INR.LEND,lending_rate_pct,4.35,WorldBank_API_real_supplementary,2026-04-29
+CHN,China,2021,FR.INR.LEND,lending_rate_pct,4.35,WorldBank_API_real_supplementary,2026-04-29
+CHN,China,2020,FR.INR.LEND,lending_rate_pct,4.35,WorldBank_API_real_supplementary,2026-04-29
+CHN,China,2019,FR.INR.LEND,lending_rate_pct,4.35,WorldBank_API_real_supplementary,2026-04-29
+CHN,China,2018,FR.INR.LEND,lending_rate_pct,4.35,WorldBank_API_real_supplementary,2026-04-29
+CHN,China,2017,FR.INR.LEND,lending_rate_pct,4.35,WorldBank_API_real_supplementary,2026-04-29
+CHN,China,2016,FR.INR.LEND,lending_rate_pct,4.35,WorldBank_API_real_supplementary,2026-04-29
+CHN,China,2015,FR.INR.LEND,lending_rate_pct,4.35,WorldBank_API_real_supplementary,2026-04-29
+CHN,China,2014,FR.INR.LEND,lending_rate_pct,5.6,WorldBank_API_real_supplementary,2026-04-29
+IND,India,2022,FR.INR.LEND,lending_rate_pct,8.56714285714286,WorldBank_API_real_supplementary,2026-04-29
+IND,India,2021,FR.INR.LEND,lending_rate_pct,8.69833333333333,WorldBank_API_real_supplementary,2026-04-29
+IND,India,2020,FR.INR.LEND,lending_rate_pct,9.15,WorldBank_API_real_supplementary,2026-04-29
+IND,India,2019,FR.INR.LEND,lending_rate_pct,9.46625,WorldBank_API_real_supplementary,2026-04-29
+IND,India,2018,FR.INR.LEND,lending_rate_pct,9.45416666666667,WorldBank_API_real_supplementary,2026-04-29
+IND,India,2017,FR.INR.LEND,lending_rate_pct,9.50833333333333,WorldBank_API_real_supplementary,2026-04-29
+IND,India,2016,FR.INR.LEND,lending_rate_pct,9.6725,WorldBank_API_real_supplementary,2026-04-29
+IND,India,2015,FR.INR.LEND,lending_rate_pct,10.0083333333333,WorldBank_API_real_supplementary,2026-04-29
+IND,India,2014,FR.INR.LEND,lending_rate_pct,10.25,WorldBank_API_real_supplementary,2026-04-29
+JPN,Japan,2017,FR.INR.LEND,lending_rate_pct,0.994,WorldBank_API_real_supplementary,2026-04-29
+JPN,Japan,2016,FR.INR.LEND,lending_rate_pct,1.04475,WorldBank_API_real_supplementary,2026-04-29
+JPN,Japan,2015,FR.INR.LEND,lending_rate_pct,1.14283333333333,WorldBank_API_real_supplementary,2026-04-29
+JPN,Japan,2014,FR.INR.LEND,lending_rate_pct,1.21916666666667,WorldBank_API_real_supplementary,2026-04-29
+KOR,"Korea, Rep.",2024,FR.INR.LEND,lending_rate_pct,4.72666666666667,WorldBank_API_real_supplementary,2026-04-29
+KOR,"Korea, Rep.",2023,FR.INR.LEND,lending_rate_pct,5.18916666666667,WorldBank_API_real_supplementary,2026-04-29
+KOR,"Korea, Rep.",2022,FR.INR.LEND,lending_rate_pct,4.2925,WorldBank_API_real_supplementary,2026-04-29
+KOR,"Korea, Rep.",2021,FR.INR.LEND,lending_rate_pct,2.88416666666667,WorldBank_API_real_supplementary,2026-04-29
+KOR,"Korea, Rep.",2020,FR.INR.LEND,lending_rate_pct,2.80166666666667,WorldBank_API_real_supplementary,2026-04-29
+KOR,"Korea, Rep.",2019,FR.INR.LEND,lending_rate_pct,3.44583333333333,WorldBank_API_real_supplementary,2026-04-29
+KOR,"Korea, Rep.",2018,FR.INR.LEND,lending_rate_pct,3.6625,WorldBank_API_real_supplementary,2026-04-29
+KOR,"Korea, Rep.",2017,FR.INR.LEND,lending_rate_pct,3.47666666666666,WorldBank_API_real_supplementary,2026-04-29
+KOR,"Korea, Rep.",2016,FR.INR.LEND,lending_rate_pct,3.3675,WorldBank_API_real_supplementary,2026-04-29
+KOR,"Korea, Rep.",2015,FR.INR.LEND,lending_rate_pct,3.53333333333333,WorldBank_API_real_supplementary,2026-04-29
+KOR,"Korea, Rep.",2014,FR.INR.LEND,lending_rate_pct,4.26333333333333,WorldBank_API_real_supplementary,2026-04-29
+MYS,Malaysia,2024,FR.INR.LEND,lending_rate_pct,5.282681,WorldBank_API_real_supplementary,2026-04-29
+MYS,Malaysia,2023,FR.INR.LEND,lending_rate_pct,5.31737500641025,WorldBank_API_real_supplementary,2026-04-29
+MYS,Malaysia,2022,FR.INR.LEND,lending_rate_pct,3.90802666666667,WorldBank_API_real_supplementary,2026-04-29
+MYS,Malaysia,2021,FR.INR.LEND,lending_rate_pct,3.44410640384615,WorldBank_API_real_supplementary,2026-04-29
+MYS,Malaysia,2020,FR.INR.LEND,lending_rate_pct,3.94420769234615,WorldBank_API_real_supplementary,2026-04-29
+MYS,Malaysia,2019,FR.INR.LEND,lending_rate_pct,4.87689294871795,WorldBank_API_real_supplementary,2026-04-29
+MYS,Malaysia,2018,FR.INR.LEND,lending_rate_pct,4.92844038461538,WorldBank_API_real_supplementary,2026-04-29
+MYS,Malaysia,2017,FR.INR.LEND,lending_rate_pct,4.60807808641975,WorldBank_API_real_supplementary,2026-04-29
+MYS,Malaysia,2016,FR.INR.LEND,lending_rate_pct,4.53106666666667,WorldBank_API_real_supplementary,2026-04-29
+MYS,Malaysia,2015,FR.INR.LEND,lending_rate_pct,4.565375,WorldBank_API_real_supplementary,2026-04-29
+MYS,Malaysia,2014,FR.INR.LEND,lending_rate_pct,4.587025,WorldBank_API_real_supplementary,2026-04-29
+SGP,Singapore,2021,FR.INR.LEND,lending_rate_pct,5.25,WorldBank_API_real_supplementary,2026-04-29
+SGP,Singapore,2020,FR.INR.LEND,lending_rate_pct,5.25,WorldBank_API_real_supplementary,2026-04-29
+SGP,Singapore,2019,FR.INR.LEND,lending_rate_pct,5.25,WorldBank_API_real_supplementary,2026-04-29
+SGP,Singapore,2018,FR.INR.LEND,lending_rate_pct,5.33,WorldBank_API_real_supplementary,2026-04-29
+SGP,Singapore,2017,FR.INR.LEND,lending_rate_pct,5.28,WorldBank_API_real_supplementary,2026-04-29
+SGP,Singapore,2016,FR.INR.LEND,lending_rate_pct,5.35,WorldBank_API_real_supplementary,2026-04-29
+SGP,Singapore,2015,FR.INR.LEND,lending_rate_pct,5.35,WorldBank_API_real_supplementary,2026-04-29
+SGP,Singapore,2014,FR.INR.LEND,lending_rate_pct,5.35,WorldBank_API_real_supplementary,2026-04-29
+THA,Thailand,2024,FR.INR.LEND,lending_rate_pct,4.51416666666667,WorldBank_API_real_supplementary,2026-04-29
+THA,Thailand,2023,FR.INR.LEND,lending_rate_pct,4.28583333333333,WorldBank_API_real_supplementary,2026-04-29
+THA,Thailand,2022,FR.INR.LEND,lending_rate_pct,3.13833333333333,WorldBank_API_real_supplementary,2026-04-29
+THA,Thailand,2021,FR.INR.LEND,lending_rate_pct,3.06,WorldBank_API_real_supplementary,2026-04-29
+THA,Thailand,2020,FR.INR.LEND,lending_rate_pct,3.2925,WorldBank_API_real_supplementary,2026-04-29
+THA,Thailand,2019,FR.INR.LEND,lending_rate_pct,4.08416666666666,WorldBank_API_real_supplementary,2026-04-29
+THA,Thailand,2018,FR.INR.LEND,lending_rate_pct,4.14666666666666,WorldBank_API_real_supplementary,2026-04-29
+THA,Thailand,2017,FR.INR.LEND,lending_rate_pct,4.41658283333333,WorldBank_API_real_supplementary,2026-04-29
+THA,Thailand,2016,FR.INR.LEND,lending_rate_pct,4.46834552349908,WorldBank_API_real_supplementary,2026-04-29
+THA,Thailand,2015,FR.INR.LEND,lending_rate_pct,4.73187498877014,WorldBank_API_real_supplementary,2026-04-29
+THA,Thailand,2014,FR.INR.LEND,lending_rate_pct,4.94915214812624,WorldBank_API_real_supplementary,2026-04-29
+USA,United States,2021,FR.INR.LEND,lending_rate_pct,3.25,WorldBank_API_real_supplementary,2026-04-29
+USA,United States,2020,FR.INR.LEND,lending_rate_pct,3.54416666666667,WorldBank_API_real_supplementary,2026-04-29
+USA,United States,2019,FR.INR.LEND,lending_rate_pct,5.2825,WorldBank_API_real_supplementary,2026-04-29
+USA,United States,2018,FR.INR.LEND,lending_rate_pct,4.90416666666667,WorldBank_API_real_supplementary,2026-04-29
+USA,United States,2017,FR.INR.LEND,lending_rate_pct,4.09666666666667,WorldBank_API_real_supplementary,2026-04-29
+USA,United States,2016,FR.INR.LEND,lending_rate_pct,3.51166666666667,WorldBank_API_real_supplementary,2026-04-29
+USA,United States,2015,FR.INR.LEND,lending_rate_pct,3.26,WorldBank_API_real_supplementary,2026-04-29
+USA,United States,2014,FR.INR.LEND,lending_rate_pct,3.25,WorldBank_API_real_supplementary,2026-04-29
+VNM,Viet Nam,2023,FR.INR.LEND,lending_rate_pct,9.323,WorldBank_API_real_supplementary,2026-04-29
+VNM,Viet Nam,2022,FR.INR.LEND,lending_rate_pct,8.01333333333333,WorldBank_API_real_supplementary,2026-04-29
+VNM,Viet Nam,2021,FR.INR.LEND,lending_rate_pct,7.811,WorldBank_API_real_supplementary,2026-04-29
+VNM,Viet Nam,2020,FR.INR.LEND,lending_rate_pct,7.6475,WorldBank_API_real_supplementary,2026-04-29
+VNM,Viet Nam,2019,FR.INR.LEND,lending_rate_pct,7.7075,WorldBank_API_real_supplementary,2026-04-29
+VNM,Viet Nam,2018,FR.INR.LEND,lending_rate_pct,7.371875,WorldBank_API_real_supplementary,2026-04-29
+VNM,Viet Nam,2017,FR.INR.LEND,lending_rate_pct,7.0675,WorldBank_API_real_supplementary,2026-04-29
+VNM,Viet Nam,2016,FR.INR.LEND,lending_rate_pct,6.96,WorldBank_API_real_supplementary,2026-04-29
+VNM,Viet Nam,2015,FR.INR.LEND,lending_rate_pct,7.1175,WorldBank_API_real_supplementary,2026-04-29
+VNM,Viet Nam,2014,FR.INR.LEND,lending_rate_pct,8.665,WorldBank_API_real_supplementary,2026-04-29
+CHN,China,2024,FR.INR.RINR,real_interest_rate_pct,5.09321925687914,WorldBank_API_real_supplementary,2026-04-29
+CHN,China,2023,FR.INR.RINR,real_interest_rate_pct,4.88038486696444,WorldBank_API_real_supplementary,2026-04-29
+CHN,China,2022,FR.INR.RINR,real_interest_rate_pct,2.36988583421333,WorldBank_API_real_supplementary,2026-04-29
+CHN,China,2021,FR.INR.RINR,real_interest_rate_pct,-0.118557234530241,WorldBank_API_real_supplementary,2026-04-29
+CHN,China,2020,FR.INR.RINR,real_interest_rate_pct,3.79985989492251,WorldBank_API_real_supplementary,2026-04-29
+CHN,China,2019,FR.INR.RINR,real_interest_rate_pct,2.99509285161556,WorldBank_API_real_supplementary,2026-04-29
+CHN,China,2018,FR.INR.RINR,real_interest_rate_pct,0.852537111572747,WorldBank_API_real_supplementary,2026-04-29
+CHN,China,2017,FR.INR.RINR,real_interest_rate_pct,0.19585733630837,WorldBank_API_real_supplementary,2026-04-29
+CHN,China,2016,FR.INR.RINR,real_interest_rate_pct,2.83073632160298,WorldBank_API_real_supplementary,2026-04-29
+CHN,China,2015,FR.INR.RINR,real_interest_rate_pct,4.20696426973205,WorldBank_API_real_supplementary,2026-04-29
+CHN,China,2014,FR.INR.RINR,real_interest_rate_pct,4.46024340812095,WorldBank_API_real_supplementary,2026-04-29
+IND,India,2022,FR.INR.RINR,real_interest_rate_pct,2.52131544946588,WorldBank_API_real_supplementary,2026-04-29
+IND,India,2021,FR.INR.RINR,real_interest_rate_pct,0.316945144211866,WorldBank_API_real_supplementary,2026-04-29
+IND,India,2020,FR.INR.RINR,real_interest_rate_pct,4.13599957786408,WorldBank_API_real_supplementary,2026-04-29
+IND,India,2019,FR.INR.RINR,real_interest_rate_pct,6.89487542729716,WorldBank_API_real_supplementary,2026-04-29
+IND,India,2018,FR.INR.RINR,real_interest_rate_pct,5.36166638954869,WorldBank_API_real_supplementary,2026-04-29
+IND,India,2017,FR.INR.RINR,real_interest_rate_pct,5.32760886237311,WorldBank_API_real_supplementary,2026-04-29
+IND,India,2016,FR.INR.RINR,real_interest_rate_pct,6.2327114148242,WorldBank_API_real_supplementary,2026-04-29
+IND,India,2015,FR.INR.RINR,real_interest_rate_pct,7.55648841353986,WorldBank_API_real_supplementary,2026-04-29
+IND,India,2014,FR.INR.RINR,real_interest_rate_pct,6.69517609043592,WorldBank_API_real_supplementary,2026-04-29
+JPN,Japan,2017,FR.INR.RINR,real_interest_rate_pct,1.06914440735818,WorldBank_API_real_supplementary,2026-04-29
+JPN,Japan,2016,FR.INR.RINR,real_interest_rate_pct,0.622192760322802,WorldBank_API_real_supplementary,2026-04-29
+JPN,Japan,2015,FR.INR.RINR,real_interest_rate_pct,-0.948441229747697,WorldBank_API_real_supplementary,2026-04-29
+JPN,Japan,2014,FR.INR.RINR,real_interest_rate_pct,-0.459381591769699,WorldBank_API_real_supplementary,2026-04-29
+KOR,"Korea, Rep.",2024,FR.INR.RINR,real_interest_rate_pct,0.634469260614762,WorldBank_API_real_supplementary,2026-04-29
+KOR,"Korea, Rep.",2023,FR.INR.RINR,real_interest_rate_pct,3.08772627466291,WorldBank_API_real_supplementary,2026-04-29
+KOR,"Korea, Rep.",2022,FR.INR.RINR,real_interest_rate_pct,2.44052857732634,WorldBank_API_real_supplementary,2026-04-29
+KOR,"Korea, Rep.",2021,FR.INR.RINR,real_interest_rate_pct,-0.287216232726007,WorldBank_API_real_supplementary,2026-04-29
+KOR,"Korea, Rep.",2020,FR.INR.RINR,real_interest_rate_pct,1.19550220518032,WorldBank_API_real_supplementary,2026-04-29
+KOR,"Korea, Rep.",2019,FR.INR.RINR,real_interest_rate_pct,4.09560933285802,WorldBank_API_real_supplementary,2026-04-29
+KOR,"Korea, Rep.",2018,FR.INR.RINR,real_interest_rate_pct,3.07847583379285,WorldBank_API_real_supplementary,2026-04-29
+KOR,"Korea, Rep.",2017,FR.INR.RINR,real_interest_rate_pct,1.42899755923416,WorldBank_API_real_supplementary,2026-04-29
+KOR,"Korea, Rep.",2016,FR.INR.RINR,real_interest_rate_pct,1.27867160404439,WorldBank_API_real_supplementary,2026-04-29
+KOR,"Korea, Rep.",2015,FR.INR.RINR,real_interest_rate_pct,0.295335527644416,WorldBank_API_real_supplementary,2026-04-29
+KOR,"Korea, Rep.",2014,FR.INR.RINR,real_interest_rate_pct,3.17863075274962,WorldBank_API_real_supplementary,2026-04-29
+MYS,Malaysia,2024,FR.INR.RINR,real_interest_rate_pct,4.45730372233753,WorldBank_API_real_supplementary,2026-04-29
+MYS,Malaysia,2023,FR.INR.RINR,real_interest_rate_pct,7.30135969525267,WorldBank_API_real_supplementary,2026-04-29
+MYS,Malaysia,2022,FR.INR.RINR,real_interest_rate_pct,-2.2468071304743,WorldBank_API_real_supplementary,2026-04-29
+MYS,Malaysia,2021,FR.INR.RINR,real_interest_rate_pct,-2.11195861208843,WorldBank_API_real_supplementary,2026-04-29
+MYS,Malaysia,2020,FR.INR.RINR,real_interest_rate_pct,4.80149199718223,WorldBank_API_real_supplementary,2026-04-29
+MYS,Malaysia,2019,FR.INR.RINR,real_interest_rate_pct,4.80161718618398,WorldBank_API_real_supplementary,2026-04-29
+MYS,Malaysia,2018,FR.INR.RINR,real_interest_rate_pct,4.27704807389124,WorldBank_API_real_supplementary,2026-04-29
+MYS,Malaysia,2017,FR.INR.RINR,real_interest_rate_pct,0.798926040327277,WorldBank_API_real_supplementary,2026-04-29
+MYS,Malaysia,2016,FR.INR.RINR,real_interest_rate_pct,2.82594518260627,WorldBank_API_real_supplementary,2026-04-29
+MYS,Malaysia,2015,FR.INR.RINR,real_interest_rate_pct,3.30703770408129,WorldBank_API_real_supplementary,2026-04-29
+MYS,Malaysia,2014,FR.INR.RINR,real_interest_rate_pct,2.06851821643173,WorldBank_API_real_supplementary,2026-04-29
+SGP,Singapore,2021,FR.INR.RINR,real_interest_rate_pct,-5.11973682102115,WorldBank_API_real_supplementary,2026-04-29
+SGP,Singapore,2020,FR.INR.RINR,real_interest_rate_pct,7.83027325670722,WorldBank_API_real_supplementary,2026-04-29
+SGP,Singapore,2019,FR.INR.RINR,real_interest_rate_pct,5.69911419011287,WorldBank_API_real_supplementary,2026-04-29
+SGP,Singapore,2018,FR.INR.RINR,real_interest_rate_pct,1.66275740936794,WorldBank_API_real_supplementary,2026-04-29
+SGP,Singapore,2017,FR.INR.RINR,real_interest_rate_pct,2.34944261174831,WorldBank_API_real_supplementary,2026-04-29
+SGP,Singapore,2016,FR.INR.RINR,real_interest_rate_pct,4.80290826919814,WorldBank_API_real_supplementary,2026-04-29
+SGP,Singapore,2015,FR.INR.RINR,real_interest_rate_pct,2.21015017142368,WorldBank_API_real_supplementary,2026-04-29
+SGP,Singapore,2014,FR.INR.RINR,real_interest_rate_pct,5.63232355514565,WorldBank_API_real_supplementary,2026-04-29
+THA,Thailand,2024,FR.INR.RINR,real_interest_rate_pct,3.54888514574285,WorldBank_API_real_supplementary,2026-04-29
+THA,Thailand,2023,FR.INR.RINR,real_interest_rate_pct,2.97300810942538,WorldBank_API_real_supplementary,2026-04-29
+THA,Thailand,2022,FR.INR.RINR,real_interest_rate_pct,-1.45349274915803,WorldBank_API_real_supplementary,2026-04-29
+THA,Thailand,2021,FR.INR.RINR,real_interest_rate_pct,1.2628955644913,WorldBank_API_real_supplementary,2026-04-29
+THA,Thailand,2020,FR.INR.RINR,real_interest_rate_pct,4.65169004750105,WorldBank_API_real_supplementary,2026-04-29
+THA,Thailand,2019,FR.INR.RINR,real_interest_rate_pct,3.03891578719485,WorldBank_API_real_supplementary,2026-04-29
+THA,Thailand,2018,FR.INR.RINR,real_interest_rate_pct,2.67979728915769,WorldBank_API_real_supplementary,2026-04-29
+THA,Thailand,2017,FR.INR.RINR,real_interest_rate_pct,2.46971462408852,WorldBank_API_real_supplementary,2026-04-29
+THA,Thailand,2016,FR.INR.RINR,real_interest_rate_pct,1.78511916997275,WorldBank_API_real_supplementary,2026-04-29
+THA,Thailand,2015,FR.INR.RINR,real_interest_rate_pct,3.98101397309843,WorldBank_API_real_supplementary,2026-04-29
+THA,Thailand,2014,FR.INR.RINR,real_interest_rate_pct,3.45784317114814,WorldBank_API_real_supplementary,2026-04-29
+USA,United States,2021,FR.INR.RINR,real_interest_rate_pct,-1.08716753956254,WorldBank_API_real_supplementary,2026-04-29
+USA,United States,2020,FR.INR.RINR,real_interest_rate_pct,2.84614797883625,WorldBank_API_real_supplementary,2026-04-29
+USA,United States,2019,FR.INR.RINR,real_interest_rate_pct,3.71968036171318,WorldBank_API_real_supplementary,2026-04-29
+USA,United States,2018,FR.INR.RINR,real_interest_rate_pct,2.46243186978415,WorldBank_API_real_supplementary,2026-04-29
+USA,United States,2017,FR.INR.RINR,real_interest_rate_pct,2.37161907294657,WorldBank_API_real_supplementary,2026-04-29
+USA,United States,2016,FR.INR.RINR,real_interest_rate_pct,2.63773113762977,WorldBank_API_real_supplementary,2026-04-29
+USA,United States,2015,FR.INR.RINR,real_interest_rate_pct,2.4751634842667,WorldBank_API_real_supplementary,2026-04-29
+USA,United States,2014,FR.INR.RINR,real_interest_rate_pct,1.58866664005878,WorldBank_API_real_supplementary,2026-04-29
+VNM,Viet Nam,2023,FR.INR.RINR,real_interest_rate_pct,7.08136836215213,WorldBank_API_real_supplementary,2026-04-29
+VNM,Viet Nam,2022,FR.INR.RINR,real_interest_rate_pct,3.41861684479736,WorldBank_API_real_supplementary,2026-04-29
+VNM,Viet Nam,2021,FR.INR.RINR,real_interest_rate_pct,4.79218047283212,WorldBank_API_real_supplementary,2026-04-29
+VNM,Viet Nam,2020,FR.INR.RINR,real_interest_rate_pct,6.09064299683403,WorldBank_API_real_supplementary,2026-04-29
+VNM,Viet Nam,2019,FR.INR.RINR,real_interest_rate_pct,5.15925265729481,WorldBank_API_real_supplementary,2026-04-29
+VNM,Viet Nam,2018,FR.INR.RINR,real_interest_rate_pct,3.61415504341763,WorldBank_API_real_supplementary,2026-04-29
+VNM,Viet Nam,2017,FR.INR.RINR,real_interest_rate_pct,2.59151415896465,WorldBank_API_real_supplementary,2026-04-29
+VNM,Viet Nam,2016,FR.INR.RINR,real_interest_rate_pct,5.04860292807267,WorldBank_API_real_supplementary,2026-04-29
+VNM,Viet Nam,2015,FR.INR.RINR,real_interest_rate_pct,8.98829687567201,WorldBank_API_real_supplementary,2026-04-29
+VNM,Viet Nam,2014,FR.INR.RINR,real_interest_rate_pct,4.78973116512498,WorldBank_API_real_supplementary,2026-04-29
+CHN,China,2023,EG.ELC.LOSS.ZS,td_losses_pct,3.42898799062376,WorldBank_API_real_supplementary,2026-04-29
+CHN,China,2022,EG.ELC.LOSS.ZS,td_losses_pct,3.42196644419848,WorldBank_API_real_supplementary,2026-04-29
+CHN,China,2021,EG.ELC.LOSS.ZS,td_losses_pct,3.78659226465804,WorldBank_API_real_supplementary,2026-04-29
+CHN,China,2020,EG.ELC.LOSS.ZS,td_losses_pct,4.16389640609799,WorldBank_API_real_supplementary,2026-04-29
+CHN,China,2019,EG.ELC.LOSS.ZS,td_losses_pct,4.43746316383222,WorldBank_API_real_supplementary,2026-04-29
+CHN,China,2018,EG.ELC.LOSS.ZS,td_losses_pct,4.69240329095852,WorldBank_API_real_supplementary,2026-04-29
+CHN,China,2017,EG.ELC.LOSS.ZS,td_losses_pct,4.75939076557592,WorldBank_API_real_supplementary,2026-04-29
+CHN,China,2016,EG.ELC.LOSS.ZS,td_losses_pct,4.94033876369028,WorldBank_API_real_supplementary,2026-04-29
+CHN,China,2015,EG.ELC.LOSS.ZS,td_losses_pct,5.10375821947701,WorldBank_API_real_supplementary,2026-04-29
+CHN,China,2014,EG.ELC.LOSS.ZS,td_losses_pct,5.32872821712073,WorldBank_API_real_supplementary,2026-04-29
+DEU,Germany,2024,EG.ELC.LOSS.ZS,td_losses_pct,5.11593344757408,WorldBank_API_real_supplementary,2026-04-29
+DEU,Germany,2023,EG.ELC.LOSS.ZS,td_losses_pct,5.03515465508585,WorldBank_API_real_supplementary,2026-04-29
+DEU,Germany,2022,EG.ELC.LOSS.ZS,td_losses_pct,4.54599627946503,WorldBank_API_real_supplementary,2026-04-29
+DEU,Germany,2021,EG.ELC.LOSS.ZS,td_losses_pct,4.48415061428916,WorldBank_API_real_supplementary,2026-04-29
+DEU,Germany,2020,EG.ELC.LOSS.ZS,td_losses_pct,4.68128216980444,WorldBank_API_real_supplementary,2026-04-29
+DEU,Germany,2019,EG.ELC.LOSS.ZS,td_losses_pct,4.52681338634443,WorldBank_API_real_supplementary,2026-04-29
+DEU,Germany,2018,EG.ELC.LOSS.ZS,td_losses_pct,4.16273724838712,WorldBank_API_real_supplementary,2026-04-29
+DEU,Germany,2017,EG.ELC.LOSS.ZS,td_losses_pct,4.13386097781476,WorldBank_API_real_supplementary,2026-04-29
+DEU,Germany,2016,EG.ELC.LOSS.ZS,td_losses_pct,3.96018750124914,WorldBank_API_real_supplementary,2026-04-29
+DEU,Germany,2015,EG.ELC.LOSS.ZS,td_losses_pct,3.94950555984878,WorldBank_API_real_supplementary,2026-04-29
+DEU,Germany,2014,EG.ELC.LOSS.ZS,td_losses_pct,3.84816328611068,WorldBank_API_real_supplementary,2026-04-29
+IND,India,2023,EG.ELC.LOSS.ZS,td_losses_pct,14.1614354109371,WorldBank_API_real_supplementary,2026-04-29
+IND,India,2022,EG.ELC.LOSS.ZS,td_losses_pct,14.9056434964792,WorldBank_API_real_supplementary,2026-04-29
+IND,India,2021,EG.ELC.LOSS.ZS,td_losses_pct,16.6469287712518,WorldBank_API_real_supplementary,2026-04-29
+IND,India,2020,EG.ELC.LOSS.ZS,td_losses_pct,17.7241293592232,WorldBank_API_real_supplementary,2026-04-29
+IND,India,2019,EG.ELC.LOSS.ZS,td_losses_pct,16.4401872729006,WorldBank_API_real_supplementary,2026-04-29
+IND,India,2018,EG.ELC.LOSS.ZS,td_losses_pct,16.7930129549492,WorldBank_API_real_supplementary,2026-04-29
+IND,India,2017,EG.ELC.LOSS.ZS,td_losses_pct,17.1759941089838,WorldBank_API_real_supplementary,2026-04-29
+IND,India,2016,EG.ELC.LOSS.ZS,td_losses_pct,17.3912982792107,WorldBank_API_real_supplementary,2026-04-29
+IND,India,2015,EG.ELC.LOSS.ZS,td_losses_pct,17.7399718505501,WorldBank_API_real_supplementary,2026-04-29
+IND,India,2014,EG.ELC.LOSS.ZS,td_losses_pct,17.7208361952882,WorldBank_API_real_supplementary,2026-04-29
+JPN,Japan,2024,EG.ELC.LOSS.ZS,td_losses_pct,4.93394555765672,WorldBank_API_real_supplementary,2026-04-29
+JPN,Japan,2023,EG.ELC.LOSS.ZS,td_losses_pct,4.93403467617748,WorldBank_API_real_supplementary,2026-04-29
+JPN,Japan,2022,EG.ELC.LOSS.ZS,td_losses_pct,4.09696967314841,WorldBank_API_real_supplementary,2026-04-29
+JPN,Japan,2021,EG.ELC.LOSS.ZS,td_losses_pct,4.69564206767913,WorldBank_API_real_supplementary,2026-04-29
+JPN,Japan,2020,EG.ELC.LOSS.ZS,td_losses_pct,4.54966981851082,WorldBank_API_real_supplementary,2026-04-29
+JPN,Japan,2019,EG.ELC.LOSS.ZS,td_losses_pct,4.2458275921502,WorldBank_API_real_supplementary,2026-04-29
+JPN,Japan,2018,EG.ELC.LOSS.ZS,td_losses_pct,4.21894259294843,WorldBank_API_real_supplementary,2026-04-29
+JPN,Japan,2017,EG.ELC.LOSS.ZS,td_losses_pct,3.76099254223737,WorldBank_API_real_supplementary,2026-04-29
+JPN,Japan,2016,EG.ELC.LOSS.ZS,td_losses_pct,4.25930578919986,WorldBank_API_real_supplementary,2026-04-29
+JPN,Japan,2015,EG.ELC.LOSS.ZS,td_losses_pct,3.83387366145987,WorldBank_API_real_supplementary,2026-04-29
+JPN,Japan,2014,EG.ELC.LOSS.ZS,td_losses_pct,4.02749185607205,WorldBank_API_real_supplementary,2026-04-29
+KOR,"Korea, Rep.",2024,EG.ELC.LOSS.ZS,td_losses_pct,3.28740147756891,WorldBank_API_real_supplementary,2026-04-29
+KOR,"Korea, Rep.",2023,EG.ELC.LOSS.ZS,td_losses_pct,3.24438949704021,WorldBank_API_real_supplementary,2026-04-29
+KOR,"Korea, Rep.",2022,EG.ELC.LOSS.ZS,td_losses_pct,3.20366022862026,WorldBank_API_real_supplementary,2026-04-29
+KOR,"Korea, Rep.",2021,EG.ELC.LOSS.ZS,td_losses_pct,3.10047327549742,WorldBank_API_real_supplementary,2026-04-29
+KOR,"Korea, Rep.",2020,EG.ELC.LOSS.ZS,td_losses_pct,3.13159989431755,WorldBank_API_real_supplementary,2026-04-29
+KOR,"Korea, Rep.",2019,EG.ELC.LOSS.ZS,td_losses_pct,3.24523931931959,WorldBank_API_real_supplementary,2026-04-29
+KOR,"Korea, Rep.",2018,EG.ELC.LOSS.ZS,td_losses_pct,3.06128633625494,WorldBank_API_real_supplementary,2026-04-29
+KOR,"Korea, Rep.",2017,EG.ELC.LOSS.ZS,td_losses_pct,3.27293186065915,WorldBank_API_real_supplementary,2026-04-29
+KOR,"Korea, Rep.",2016,EG.ELC.LOSS.ZS,td_losses_pct,3.28786139512534,WorldBank_API_real_supplementary,2026-04-29
+KOR,"Korea, Rep.",2015,EG.ELC.LOSS.ZS,td_losses_pct,3.26880211193088,WorldBank_API_real_supplementary,2026-04-29
+KOR,"Korea, Rep.",2014,EG.ELC.LOSS.ZS,td_losses_pct,3.38601706537774,WorldBank_API_real_supplementary,2026-04-29
+MYS,Malaysia,2023,EG.ELC.LOSS.ZS,td_losses_pct,6.89739152062844,WorldBank_API_real_supplementary,2026-04-29
+MYS,Malaysia,2022,EG.ELC.LOSS.ZS,td_losses_pct,6.89713175963259,WorldBank_API_real_supplementary,2026-04-29
+MYS,Malaysia,2021,EG.ELC.LOSS.ZS,td_losses_pct,6.89716479523521,WorldBank_API_real_supplementary,2026-04-29
+MYS,Malaysia,2020,EG.ELC.LOSS.ZS,td_losses_pct,6.89724477725075,WorldBank_API_real_supplementary,2026-04-29
+MYS,Malaysia,2019,EG.ELC.LOSS.ZS,td_losses_pct,6.89717037726434,WorldBank_API_real_supplementary,2026-04-29
+MYS,Malaysia,2018,EG.ELC.LOSS.ZS,td_losses_pct,6.89744146088303,WorldBank_API_real_supplementary,2026-04-29
+MYS,Malaysia,2017,EG.ELC.LOSS.ZS,td_losses_pct,6.89705480076593,WorldBank_API_real_supplementary,2026-04-29
+MYS,Malaysia,2016,EG.ELC.LOSS.ZS,td_losses_pct,6.89760824189502,WorldBank_API_real_supplementary,2026-04-29
+MYS,Malaysia,2015,EG.ELC.LOSS.ZS,td_losses_pct,6.89753940023713,WorldBank_API_real_supplementary,2026-04-29
+MYS,Malaysia,2014,EG.ELC.LOSS.ZS,td_losses_pct,8.66006645419407,WorldBank_API_real_supplementary,2026-04-29
+SGP,Singapore,2023,EG.ELC.LOSS.ZS,td_losses_pct,0.22997250704615,WorldBank_API_real_supplementary,2026-04-29
+SGP,Singapore,2022,EG.ELC.LOSS.ZS,td_losses_pct,0.284259356143839,WorldBank_API_real_supplementary,2026-04-29
+SGP,Singapore,2021,EG.ELC.LOSS.ZS,td_losses_pct,1.10888348739421,WorldBank_API_real_supplementary,2026-04-29
+SGP,Singapore,2020,EG.ELC.LOSS.ZS,td_losses_pct,0.904528259485374,WorldBank_API_real_supplementary,2026-04-29
+SGP,Singapore,2019,EG.ELC.LOSS.ZS,td_losses_pct,1.02810773100296,WorldBank_API_real_supplementary,2026-04-29
+SGP,Singapore,2018,EG.ELC.LOSS.ZS,td_losses_pct,1.0611277304284,WorldBank_API_real_supplementary,2026-04-29
+SGP,Singapore,2017,EG.ELC.LOSS.ZS,td_losses_pct,1.25591693388304,WorldBank_API_real_supplementary,2026-04-29
+SGP,Singapore,2016,EG.ELC.LOSS.ZS,td_losses_pct,1.90994059252666,WorldBank_API_real_supplementary,2026-04-29
+SGP,Singapore,2015,EG.ELC.LOSS.ZS,td_losses_pct,1.7631892106307,WorldBank_API_real_supplementary,2026-04-29
+SGP,Singapore,2014,EG.ELC.LOSS.ZS,td_losses_pct,2.03511329809854,WorldBank_API_real_supplementary,2026-04-29
+THA,Thailand,2023,EG.ELC.LOSS.ZS,td_losses_pct,7.16136006690191,WorldBank_API_real_supplementary,2026-04-29
+THA,Thailand,2022,EG.ELC.LOSS.ZS,td_losses_pct,7.47323772975157,WorldBank_API_real_supplementary,2026-04-29
+THA,Thailand,2021,EG.ELC.LOSS.ZS,td_losses_pct,7.92231656673391,WorldBank_API_real_supplementary,2026-04-29
+THA,Thailand,2020,EG.ELC.LOSS.ZS,td_losses_pct,7.30700341327686,WorldBank_API_real_supplementary,2026-04-29
+THA,Thailand,2019,EG.ELC.LOSS.ZS,td_losses_pct,7.02869990741965,WorldBank_API_real_supplementary,2026-04-29
+THA,Thailand,2018,EG.ELC.LOSS.ZS,td_losses_pct,7.16665926156307,WorldBank_API_real_supplementary,2026-04-29
+THA,Thailand,2017,EG.ELC.LOSS.ZS,td_losses_pct,6.62060385239164,WorldBank_API_real_supplementary,2026-04-29
+THA,Thailand,2016,EG.ELC.LOSS.ZS,td_losses_pct,6.56760197914484,WorldBank_API_real_supplementary,2026-04-29
+THA,Thailand,2015,EG.ELC.LOSS.ZS,td_losses_pct,6.72834218491234,WorldBank_API_real_supplementary,2026-04-29
+THA,Thailand,2014,EG.ELC.LOSS.ZS,td_losses_pct,6.19645312555089,WorldBank_API_real_supplementary,2026-04-29
+USA,United States,2024,EG.ELC.LOSS.ZS,td_losses_pct,5.3117248222259,WorldBank_API_real_supplementary,2026-04-29
+USA,United States,2023,EG.ELC.LOSS.ZS,td_losses_pct,5.48253479643862,WorldBank_API_real_supplementary,2026-04-29
+USA,United States,2022,EG.ELC.LOSS.ZS,td_losses_pct,4.56000487613028,WorldBank_API_real_supplementary,2026-04-29
+USA,United States,2021,EG.ELC.LOSS.ZS,td_losses_pct,5.58011610459837,WorldBank_API_real_supplementary,2026-04-29
+USA,United States,2020,EG.ELC.LOSS.ZS,td_losses_pct,4.64711271693736,WorldBank_API_real_supplementary,2026-04-29
+USA,United States,2019,EG.ELC.LOSS.ZS,td_losses_pct,5.55840938484799,WorldBank_API_real_supplementary,2026-04-29
+USA,United States,2018,EG.ELC.LOSS.ZS,td_losses_pct,4.73883824665499,WorldBank_API_real_supplementary,2026-04-29
+USA,United States,2017,EG.ELC.LOSS.ZS,td_losses_pct,5.2751148508735,WorldBank_API_real_supplementary,2026-04-29
+USA,United States,2016,EG.ELC.LOSS.ZS,td_losses_pct,5.43278425594592,WorldBank_API_real_supplementary,2026-04-29
+USA,United States,2015,EG.ELC.LOSS.ZS,td_losses_pct,5.9141208373377,WorldBank_API_real_supplementary,2026-04-29
+USA,United States,2014,EG.ELC.LOSS.ZS,td_losses_pct,5.88249253347237,WorldBank_API_real_supplementary,2026-04-29
+VNM,Viet Nam,2023,EG.ELC.LOSS.ZS,td_losses_pct,6.58319222235198,WorldBank_API_real_supplementary,2026-04-29
+VNM,Viet Nam,2022,EG.ELC.LOSS.ZS,td_losses_pct,6.19935170178282,WorldBank_API_real_supplementary,2026-04-29
+VNM,Viet Nam,2021,EG.ELC.LOSS.ZS,td_losses_pct,6.48890958380851,WorldBank_API_real_supplementary,2026-04-29
+VNM,Viet Nam,2020,EG.ELC.LOSS.ZS,td_losses_pct,6.53295630119815,WorldBank_API_real_supplementary,2026-04-29
+VNM,Viet Nam,2019,EG.ELC.LOSS.ZS,td_losses_pct,6.53718156632205,WorldBank_API_real_supplementary,2026-04-29
+VNM,Viet Nam,2018,EG.ELC.LOSS.ZS,td_losses_pct,7.08627003551646,WorldBank_API_real_supplementary,2026-04-29
+VNM,Viet Nam,2017,EG.ELC.LOSS.ZS,td_losses_pct,7.20634758648842,WorldBank_API_real_supplementary,2026-04-29
+VNM,Viet Nam,2016,EG.ELC.LOSS.ZS,td_losses_pct,7.56285291558841,WorldBank_API_real_supplementary,2026-04-29
+VNM,Viet Nam,2015,EG.ELC.LOSS.ZS,td_losses_pct,7.98828993527348,WorldBank_API_real_supplementary,2026-04-29
+VNM,Viet Nam,2014,EG.ELC.LOSS.ZS,td_losses_pct,9.30640976533422,WorldBank_API_real_supplementary,2026-04-29
+CHN,China,2024,NY.GDP.PCAP.CD,gdp_per_capita_usd,13303.1481543868,WorldBank_API_real_supplementary,2026-04-29
+CHN,China,2023,NY.GDP.PCAP.CD,gdp_per_capita_usd,12951.1782397043,WorldBank_API_real_supplementary,2026-04-29
+CHN,China,2022,NY.GDP.PCAP.CD,gdp_per_capita_usd,12970.6056414327,WorldBank_API_real_supplementary,2026-04-29
+CHN,China,2021,NY.GDP.PCAP.CD,gdp_per_capita_usd,12887.4357242941,WorldBank_API_real_supplementary,2026-04-29
+CHN,China,2020,NY.GDP.PCAP.CD,gdp_per_capita_usd,10627.4637989619,WorldBank_API_real_supplementary,2026-04-29
+CHN,China,2019,NY.GDP.PCAP.CD,gdp_per_capita_usd,10342.9009524335,WorldBank_API_real_supplementary,2026-04-29
+CHN,China,2018,NY.GDP.PCAP.CD,gdp_per_capita_usd,10085.6638148819,WorldBank_API_real_supplementary,2026-04-29
+CHN,China,2017,NY.GDP.PCAP.CD,gdp_per_capita_usd,8979.67652709856,WorldBank_API_real_supplementary,2026-04-29
+CHN,China,2016,NY.GDP.PCAP.CD,gdp_per_capita_usd,8254.86859320357,WorldBank_API_real_supplementary,2026-04-29
+CHN,China,2015,NY.GDP.PCAP.CD,gdp_per_capita_usd,8175.33285077393,WorldBank_API_real_supplementary,2026-04-29
+CHN,China,2014,NY.GDP.PCAP.CD,gdp_per_capita_usd,7781.06597484974,WorldBank_API_real_supplementary,2026-04-29
+DEU,Germany,2024,NY.GDP.PCAP.CD,gdp_per_capita_usd,56103.7323182554,WorldBank_API_real_supplementary,2026-04-29
+DEU,Germany,2023,NY.GDP.PCAP.CD,gdp_per_capita_usd,54776.7668235491,WorldBank_API_real_supplementary,2026-04-29
+DEU,Germany,2022,NY.GDP.PCAP.CD,gdp_per_capita_usd,50506.5179638543,WorldBank_API_real_supplementary,2026-04-29
+DEU,Germany,2021,NY.GDP.PCAP.CD,gdp_per_capita_usd,52349.2459994422,WorldBank_API_real_supplementary,2026-04-29
+DEU,Germany,2020,NY.GDP.PCAP.CD,gdp_per_capita_usd,47394.8734504469,WorldBank_API_real_supplementary,2026-04-29
+DEU,Germany,2019,NY.GDP.PCAP.CD,gdp_per_capita_usd,47656.199739747,WorldBank_API_real_supplementary,2026-04-29
+DEU,Germany,2018,NY.GDP.PCAP.CD,gdp_per_capita_usd,48916.1686612154,WorldBank_API_real_supplementary,2026-04-29
+DEU,Germany,2017,NY.GDP.PCAP.CD,gdp_per_capita_usd,45553.9341495339,WorldBank_API_real_supplementary,2026-04-29
+DEU,Germany,2016,NY.GDP.PCAP.CD,gdp_per_capita_usd,42948.9381932694,WorldBank_API_real_supplementary,2026-04-29
+DEU,Germany,2015,NY.GDP.PCAP.CD,gdp_per_capita_usd,41929.7549110722,WorldBank_API_real_supplementary,2026-04-29
+DEU,Germany,2014,NY.GDP.PCAP.CD,gdp_per_capita_usd,48959.5991203133,WorldBank_API_real_supplementary,2026-04-29
+IND,India,2024,NY.GDP.PCAP.CD,gdp_per_capita_usd,2694.73780859961,WorldBank_API_real_supplementary,2026-04-29
+IND,India,2023,NY.GDP.PCAP.CD,gdp_per_capita_usd,2530.12031278204,WorldBank_API_real_supplementary,2026-04-29
+IND,India,2022,NY.GDP.PCAP.CD,gdp_per_capita_usd,2347.44829434623,WorldBank_API_real_supplementary,2026-04-29
+IND,India,2021,NY.GDP.PCAP.CD,gdp_per_capita_usd,2239.61384367482,WorldBank_API_real_supplementary,2026-04-29
+IND,India,2020,NY.GDP.PCAP.CD,gdp_per_capita_usd,1907.04251637669,WorldBank_API_real_supplementary,2026-04-29
+IND,India,2019,NY.GDP.PCAP.CD,gdp_per_capita_usd,2041.42863698585,WorldBank_API_real_supplementary,2026-04-29
+IND,India,2018,NY.GDP.PCAP.CD,gdp_per_capita_usd,1966.25455171679,WorldBank_API_real_supplementary,2026-04-29
+IND,India,2017,NY.GDP.PCAP.CD,gdp_per_capita_usd,1950.10468280866,WorldBank_API_real_supplementary,2026-04-29
+IND,India,2016,NY.GDP.PCAP.CD,gdp_per_capita_usd,1707.50892912243,WorldBank_API_real_supplementary,2026-04-29
+IND,India,2015,NY.GDP.PCAP.CD,gdp_per_capita_usd,1583.99815907985,WorldBank_API_real_supplementary,2026-04-29
+IND,India,2014,NY.GDP.PCAP.CD,gdp_per_capita_usd,1553.88396075118,WorldBank_API_real_supplementary,2026-04-29
+JPN,Japan,2024,NY.GDP.PCAP.CD,gdp_per_capita_usd,32487.0778047567,WorldBank_API_real_supplementary,2026-04-29
+JPN,Japan,2023,NY.GDP.PCAP.CD,gdp_per_capita_usd,33836.1756271617,WorldBank_API_real_supplementary,2026-04-29
+JPN,Japan,2022,NY.GDP.PCAP.CD,gdp_per_capita_usd,34065.6438962526,WorldBank_API_real_supplementary,2026-04-29
+JPN,Japan,2021,NY.GDP.PCAP.CD,gdp_per_capita_usd,40094.5599795288,WorldBank_API_real_supplementary,2026-04-29
+JPN,Japan,2020,NY.GDP.PCAP.CD,gdp_per_capita_usd,40028.7341726762,WorldBank_API_real_supplementary,2026-04-29
+JPN,Japan,2019,NY.GDP.PCAP.CD,gdp_per_capita_usd,40415.9567649547,WorldBank_API_real_supplementary,2026-04-29
+JPN,Japan,2018,NY.GDP.PCAP.CD,gdp_per_capita_usd,39751.1330982711,WorldBank_API_real_supplementary,2026-04-29
+JPN,Japan,2017,NY.GDP.PCAP.CD,gdp_per_capita_usd,38834.0529341227,WorldBank_API_real_supplementary,2026-04-29
+JPN,Japan,2016,NY.GDP.PCAP.CD,gdp_per_capita_usd,39375.4731620781,WorldBank_API_real_supplementary,2026-04-29
+JPN,Japan,2015,NY.GDP.PCAP.CD,gdp_per_capita_usd,34960.6393843385,WorldBank_API_real_supplementary,2026-04-29
+JPN,Japan,2014,NY.GDP.PCAP.CD,gdp_per_capita_usd,38475.3952461838,WorldBank_API_real_supplementary,2026-04-29
+KOR,"Korea, Rep.",2024,NY.GDP.PCAP.CD,gdp_per_capita_usd,36238.639908315,WorldBank_API_real_supplementary,2026-04-29
+KOR,"Korea, Rep.",2023,NY.GDP.PCAP.CD,gdp_per_capita_usd,35674.095995632,WorldBank_API_real_supplementary,2026-04-29
+KOR,"Korea, Rep.",2022,NY.GDP.PCAP.CD,gdp_per_capita_usd,34822.4048404971,WorldBank_API_real_supplementary,2026-04-29
+KOR,"Korea, Rep.",2021,NY.GDP.PCAP.CD,gdp_per_capita_usd,37518.4635305697,WorldBank_API_real_supplementary,2026-04-29
+KOR,"Korea, Rep.",2020,NY.GDP.PCAP.CD,gdp_per_capita_usd,33645.7719545073,WorldBank_API_real_supplementary,2026-04-29
+KOR,"Korea, Rep.",2019,NY.GDP.PCAP.CD,gdp_per_capita_usd,33826.9443301597,WorldBank_API_real_supplementary,2026-04-29
+KOR,"Korea, Rep.",2018,NY.GDP.PCAP.CD,gdp_per_capita_usd,35363.9508228687,WorldBank_API_real_supplementary,2026-04-29
+KOR,"Korea, Rep.",2017,NY.GDP.PCAP.CD,gdp_per_capita_usd,33296.9845439195,WorldBank_API_real_supplementary,2026-04-29
+KOR,"Korea, Rep.",2016,NY.GDP.PCAP.CD,gdp_per_capita_usd,30832.0628072516,WorldBank_API_real_supplementary,2026-04-29
+KOR,"Korea, Rep.",2015,NY.GDP.PCAP.CD,gdp_per_capita_usd,30171.7906545222,WorldBank_API_real_supplementary,2026-04-29
+KOR,"Korea, Rep.",2014,NY.GDP.PCAP.CD,gdp_per_capita_usd,30667.0912467447,WorldBank_API_real_supplementary,2026-04-29
+MYS,Malaysia,2024,NY.GDP.PCAP.CD,gdp_per_capita_usd,11874.4273684245,WorldBank_API_real_supplementary,2026-04-29
+MYS,Malaysia,2023,NY.GDP.PCAP.CD,gdp_per_capita_usd,11386.0395636528,WorldBank_API_real_supplementary,2026-04-29
+MYS,Malaysia,2022,NY.GDP.PCAP.CD,gdp_per_capita_usd,11754.5678336248,WorldBank_API_real_supplementary,2026-04-29
+MYS,Malaysia,2021,NY.GDP.PCAP.CD,gdp_per_capita_usd,10903.1037480772,WorldBank_API_real_supplementary,2026-04-29
+MYS,Malaysia,2020,NY.GDP.PCAP.CD,gdp_per_capita_usd,9957.52626697613,WorldBank_API_real_supplementary,2026-04-29
+MYS,Malaysia,2019,NY.GDP.PCAP.CD,gdp_per_capita_usd,10920.191763972,WorldBank_API_real_supplementary,2026-04-29
+MYS,Malaysia,2018,NY.GDP.PCAP.CD,gdp_per_capita_usd,10901.8019954421,WorldBank_API_real_supplementary,2026-04-29
+MYS,Malaysia,2017,NY.GDP.PCAP.CD,gdp_per_capita_usd,9862.54806612235,WorldBank_API_real_supplementary,2026-04-29
+MYS,Malaysia,2016,NY.GDP.PCAP.CD,gdp_per_capita_usd,9476.53409809923,WorldBank_API_real_supplementary,2026-04-29
+MYS,Malaysia,2015,NY.GDP.PCAP.CD,gdp_per_capita_usd,9648.6797937523,WorldBank_API_real_supplementary,2026-04-29
+MYS,Malaysia,2014,NY.GDP.PCAP.CD,gdp_per_capita_usd,11013.3107334403,WorldBank_API_real_supplementary,2026-04-29
+SGP,Singapore,2024,NY.GDP.PCAP.CD,gdp_per_capita_usd,90674.066632628,WorldBank_API_real_supplementary,2026-04-29
+SGP,Singapore,2023,NY.GDP.PCAP.CD,gdp_per_capita_usd,85412.230345235,WorldBank_API_real_supplementary,2026-04-29
+SGP,Singapore,2022,NY.GDP.PCAP.CD,gdp_per_capita_usd,90299.0694637269,WorldBank_API_real_supplementary,2026-04-29
+SGP,Singapore,2021,NY.GDP.PCAP.CD,gdp_per_capita_usd,80056.1288247844,WorldBank_API_real_supplementary,2026-04-29
+SGP,Singapore,2020,NY.GDP.PCAP.CD,gdp_per_capita_usd,61410.0792630788,WorldBank_API_real_supplementary,2026-04-29
+SGP,Singapore,2019,NY.GDP.PCAP.CD,gdp_per_capita_usd,65952.0378959293,WorldBank_API_real_supplementary,2026-04-29
+SGP,Singapore,2018,NY.GDP.PCAP.CD,gdp_per_capita_usd,66881.6067035265,WorldBank_API_real_supplementary,2026-04-29
+SGP,Singapore,2017,NY.GDP.PCAP.CD,gdp_per_capita_usd,61236.251270627,WorldBank_API_real_supplementary,2026-04-29
+SGP,Singapore,2016,NY.GDP.PCAP.CD,gdp_per_capita_usd,57005.5887176547,WorldBank_API_real_supplementary,2026-04-29
+SGP,Singapore,2015,NY.GDP.PCAP.CD,gdp_per_capita_usd,55645.6068614606,WorldBank_API_real_supplementary,2026-04-29
+SGP,Singapore,2014,NY.GDP.PCAP.CD,gdp_per_capita_usd,57564.8023114977,WorldBank_API_real_supplementary,2026-04-29
+THA,Thailand,2024,NY.GDP.PCAP.CD,gdp_per_capita_usd,7346.62022142185,WorldBank_API_real_supplementary,2026-04-29
+THA,Thailand,2023,NY.GDP.PCAP.CD,gdp_per_capita_usd,7195.10130919449,WorldBank_API_real_supplementary,2026-04-29
+THA,Thailand,2022,NY.GDP.PCAP.CD,gdp_per_capita_usd,6909.35281815827,WorldBank_API_real_supplementary,2026-04-29
+THA,Thailand,2021,NY.GDP.PCAP.CD,gdp_per_capita_usd,7057.20754802279,WorldBank_API_real_supplementary,2026-04-29
+THA,Thailand,2020,NY.GDP.PCAP.CD,gdp_per_capita_usd,6985.64393892574,WorldBank_API_real_supplementary,2026-04-29
+THA,Thailand,2019,NY.GDP.PCAP.CD,gdp_per_capita_usd,7605.69657797759,WorldBank_API_real_supplementary,2026-04-29
+THA,Thailand,2018,NY.GDP.PCAP.CD,gdp_per_capita_usd,7099.77650081458,WorldBank_API_real_supplementary,2026-04-29
+THA,Thailand,2017,NY.GDP.PCAP.CD,gdp_per_capita_usd,6413.09182530343,WorldBank_API_real_supplementary,2026-04-29
+THA,Thailand,2016,NY.GDP.PCAP.CD,gdp_per_capita_usd,5833.57715617098,WorldBank_API_real_supplementary,2026-04-29
+THA,Thailand,2015,NY.GDP.PCAP.CD,gdp_per_capita_usd,5688.85335397884,WorldBank_API_real_supplementary,2026-04-29
+THA,Thailand,2014,NY.GDP.PCAP.CD,gdp_per_capita_usd,5801.1978916205,WorldBank_API_real_supplementary,2026-04-29
+USA,United States,2024,NY.GDP.PCAP.CD,gdp_per_capita_usd,84534.0407841548,WorldBank_API_real_supplementary,2026-04-29
+USA,United States,2023,NY.GDP.PCAP.CD,gdp_per_capita_usd,81032.262117545,WorldBank_API_real_supplementary,2026-04-29
+USA,United States,2022,NY.GDP.PCAP.CD,gdp_per_capita_usd,76657.2488844403,WorldBank_API_real_supplementary,2026-04-29
+USA,United States,2021,NY.GDP.PCAP.CD,gdp_per_capita_usd,70205.050916026,WorldBank_API_real_supplementary,2026-04-29
+USA,United States,2020,NY.GDP.PCAP.CD,gdp_per_capita_usd,63515.9491807833,WorldBank_API_real_supplementary,2026-04-29
+USA,United States,2019,NY.GDP.PCAP.CD,gdp_per_capita_usd,64746.4506778863,WorldBank_API_real_supplementary,2026-04-29
+USA,United States,2018,NY.GDP.PCAP.CD,gdp_per_capita_usd,62499.8744390068,WorldBank_API_real_supplementary,2026-04-29
+USA,United States,2017,NY.GDP.PCAP.CD,gdp_per_capita_usd,59635.0984397965,WorldBank_API_real_supplementary,2026-04-29
+USA,United States,2016,NY.GDP.PCAP.CD,gdp_per_capita_usd,57638.1018367192,WorldBank_API_real_supplementary,2026-04-29
+USA,United States,2015,NY.GDP.PCAP.CD,gdp_per_capita_usd,56572.9188996063,WorldBank_API_real_supplementary,2026-04-29
+USA,United States,2014,NY.GDP.PCAP.CD,gdp_per_capita_usd,54973.4207515712,WorldBank_API_real_supplementary,2026-04-29
+VNM,Viet Nam,2024,NY.GDP.PCAP.CD,gdp_per_capita_usd,4717.29028732449,WorldBank_API_real_supplementary,2026-04-29
+VNM,Viet Nam,2023,NY.GDP.PCAP.CD,gdp_per_capita_usd,4323.35031982451,WorldBank_API_real_supplementary,2026-04-29
+VNM,Viet Nam,2022,NY.GDP.PCAP.CD,gdp_per_capita_usd,4147.69777213621,WorldBank_API_real_supplementary,2026-04-29
+VNM,Viet Nam,2021,NY.GDP.PCAP.CD,gdp_per_capita_usd,3704.1935590038,WorldBank_API_real_supplementary,2026-04-29
+VNM,Viet Nam,2020,NY.GDP.PCAP.CD,gdp_per_capita_usd,3534.03953482647,WorldBank_API_real_supplementary,2026-04-29
+VNM,Viet Nam,2019,NY.GDP.PCAP.CD,gdp_per_capita_usd,3440.90025375434,WorldBank_API_real_supplementary,2026-04-29
+VNM,Viet Nam,2018,NY.GDP.PCAP.CD,gdp_per_capita_usd,3222.31003125366,WorldBank_API_real_supplementary,2026-04-29
+VNM,Viet Nam,2017,NY.GDP.PCAP.CD,gdp_per_capita_usd,2956.10992127753,WorldBank_API_real_supplementary,2026-04-29
+VNM,Viet Nam,2016,NY.GDP.PCAP.CD,gdp_per_capita_usd,2735.0604380416,WorldBank_API_real_supplementary,2026-04-29
+VNM,Viet Nam,2015,NY.GDP.PCAP.CD,gdp_per_capita_usd,2577.56885340113,WorldBank_API_real_supplementary,2026-04-29
+VNM,Viet Nam,2014,NY.GDP.PCAP.CD,gdp_per_capita_usd,2546.38464459903,WorldBank_API_real_supplementary,2026-04-29
