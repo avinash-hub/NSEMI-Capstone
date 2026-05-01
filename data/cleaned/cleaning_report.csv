@@ -1,33 +1,38 @@
-filename,rq,original_rows,original_cols,cleaned_rows,cleaned_cols,rows_changed,cols_changed,operations_applied,columns_dropped,rows_filtered_reason,flags,cleaning_date
-rq1_dgft_tradestat.csv,RQ1,26,8,26,10,0,2,column_standardization; iso3_standardization; year_month_creation,,,,2026-04-28 11:57:40
-rq1_comtrade_crosscountry.csv,RQ1,2818,10,2818,11,0,1,column_standardization; iso3_for_reporter_name,,,,2026-04-28 11:58:09
-rq1_mospi_iip_div26.csv,RQ1,6,8,6,8,0,0,column_standardization,,,Division 26 filter could not be applied — no NIC code column found; Only 6 rows after Division 26 filter — investigate,2026-04-28 11:58:28
-rq1_meity_electronics.csv,RQ1,14,19,14,17,0,-2,column_standardization,,,,2026-04-28 12:09:18
-ism_projects.csv,RQ2/Shared,7,13,7,13,0,0,column_standardization; state_name_standardization,,,,2026-04-28 12:09:57
-rq2_cea_power_raw.csv,RQ2,53,21,53,8,0,-13,column_standardization,year; electricity_production_from_fossil_fuel_coal_mu; electricity_production_from_fossil_fuel_diesel_mu; electricity_production_from_fossil_fuel_lignite_mu; electricity_production_from_fossil_fuel_napth_a_mu; electricity_production_from_fossil_fuel_natural_gas_mu; electricity_production_from_fossil_fuel_total_thermal_mu; electricity_production_from_non_fossil_fuel_nuclear_mu; electricity_production_from_non_fossil_fuel_hydro_large_mu; electricity_production_from_non_fossil_fuel_other_renewable_energy_sources_mu; total_electricity_production_from_non_fossil_fuel_mu; total_electricity_production_from_fossil_non_fossil_fuel_mu; share_of_non_fossil_fuel_in_total_electricity_production,,No state column found — investigate column structure,2026-04-28 12:10:04
-rq2_serc_tariffs.csv,RQ2,42,10,42,6,0,-4,column_standardization; state_name_standardization,year; generation_million_units; revenue_from_operations_rs_in_crore; average_tariff_rs_per_unit,,,2026-04-28 12:39:09
-rq2_powermin_sector_glance.csv,RQ2,53,22,53,9,0,-13,column_standardization,year; electricity_production_from_fossil_fuel_coal_mu; electricity_production_from_fossil_fuel_diesel_mu; electricity_production_from_fossil_fuel_lignite_mu; electricity_production_from_fossil_fuel_napth_a_mu; electricity_production_from_fossil_fuel_natural_gas_mu; electricity_production_from_fossil_fuel_total_thermal_mu; electricity_production_from_non_fossil_fuel_nuclear_mu; electricity_production_from_non_fossil_fuel_hydro_large_mu; electricity_production_from_non_fossil_fuel_other_renewable_energy_sources_mu; total_electricity_production_from_non_fossil_fuel_mu; total_electricity_production_from_fossil_non_fossil_fuel_mu; share_of_non_fossil_fuel_in_total_electricity_production,,,2026-04-28 12:39:14
-rq2_imd_weather.csv,RQ2,1,4,1,4,0,0,column_standardization,,,,2026-04-28 12:39:19
-rq2_semiconductor_facility_locations.csv,RQ2,7,6,7,6,0,0,column_standardization; state_name_standardization,,,,2026-04-28 12:39:23
-rq3_unesco_graduates.csv,RQ3,48,7,48,7,0,0,column_standardization,,,,2026-04-28 12:39:28
-rq3_worldbank_talent_indicators.csv,RQ3,271,7,271,7,0,0,column_standardization; rename_iso3_to_country_iso3,,,,2026-04-28 12:39:32
-rq3_worldbank_workforce_indicators.csv,RQ3,210,7,210,7,0,0,column_standardization; rename_iso3_to_country_iso3,,,,2026-04-28 12:39:37
-rq3_aicte_intake.csv,RQ3,6,11,6,11,0,0,column_standardization,,,,2026-04-28 12:39:41
-rq3_aicte_electronics_skilled_talent.csv,RQ3,39,22,39,18,0,-4,column_standardization,sl_no; academic_year; number_of_government_engineering_institutes; approved_seats_in_government_engineering_institutes,,,2026-04-28 12:39:45
-rq3_plfs_employment.csv,RQ3,78,45,31,34,-47,-11,column_standardization; filter_to_NIC_26,survey_year; labour_force_participation_rate_lfpr_female_in_percentage; labour_force_participation_rate_lfpr_all_persons_in_percentage; sl_no; fy; enrolment; trained; certified; states_uts; 2022_23,Filtered to rows with NIC 26 data (n=31),,2026-04-28 12:39:49
-rq3_nasscom_gcc_supply.csv,RQ3,8,9,8,9,0,0,column_standardization,,,,2026-04-28 12:39:54
-rq3_electronics_production_exports.csv,RQ3,21,21,21,21,0,0,column_standardization,,,,2026-04-28 12:39:57
-rq3_ism_iesa_demand_projections.csv,RQ3,3,7,3,7,0,0,column_standardization; compiled_reference_minimal_cleaning,,,,2026-04-28 12:40:00
-rq3_semiconductor_workforce_compiled.csv,RQ3,7,6,7,6,0,0,column_standardization; compiled_reference_minimal_cleaning,,,,2026-04-28 12:40:03
-rq4_worldbank_cost.csv,RQ4,80,9,80,9,0,0,column_standardization; rename_economy_to_country_iso3,,,,2026-04-28 12:40:08
-rq4_worldbank_electricity_indicators.csv,RQ4,200,7,200,7,0,0,column_standardization; rename_iso3_to_country_iso3,,,,2026-04-28 12:40:11
-rq4_rbi_lending.csv,RQ4,8,14,8,16,0,2,column_standardization; extract_year_from_date; extract_year_from_retrieval_date,,,,2026-04-28 12:40:15
-rq4_dpiit_fdi.csv,RQ4,7,5,7,5,0,0,column_standardization,,,,2026-04-28 12:40:20
-rq4_corporate_tax_rates_comparison.csv,RQ4,10,9,10,10,0,1,column_standardization; iso3_from_country,,,,2026-04-28 12:40:24
-rq4_india_power_tariffs.csv,RQ4,93,14,93,12,0,-2,column_standardization,,,,2026-04-28 12:40:27
-rq4_ism_project_subsidies.csv,RQ4,6,7,6,7,0,0,column_standardization,,,,2026-04-28 12:40:30
-rq4_ism_scheme_parameters.csv,RQ4,6,8,6,8,0,0,column_standardization; compiled_reference_minimal_cleaning,,,,2026-04-28 12:40:33
-rq4_global_subsidy_comparison.csv,RQ4,6,8,6,8,0,0,column_standardization; compiled_reference_minimal_cleaning,,,,2026-04-28 12:40:36
-source07_fdi_sectorwise_api.csv,RQ4,122,13,122,13,0,0,column_standardization,,,,2026-04-28 12:40:40
-rq2_pfc_atc_losses.csv,RQ2,32,9,32,10,0,1,column_standardization; state_name_standardization; ism_approved_flag_added,,,,2026-04-28 12:52:13
-rq4_worldbank_cost.csv,RQ4,76,4,76,4,0,0,PCA_readiness_diagnostic,,,KMO=0.375; Bartlett p=nan; PCA_marginal_consider_equal_weights,2026-04-28 13:05:01
+filename,rq,original_rows,original_cols,cleaned_rows,cleaned_cols,rows_changed,cols_changed,operations_applied,columns_dropped,rows_filtered_reason,flags,cleaning_date,extraction_date,rationale,logged_at
+rq1_dgft_tradestat.csv,RQ1,26,8,26,10,0,2,column_standardization; iso3_standardization; year_month_creation,,,,2026-04-28 11:57:40,,,
+rq1_comtrade_crosscountry.csv,RQ1,2818,10,2818,11,0,1,column_standardization; iso3_for_reporter_name,,,,2026-04-28 11:58:09,,,
+rq1_mospi_iip_div26.csv,RQ1,6,8,6,8,0,0,column_standardization,,,Division 26 filter could not be applied — no NIC code column found; Only 6 rows after Division 26 filter — investigate,2026-04-28 11:58:28,,,
+rq1_meity_electronics.csv,RQ1,14,19,14,17,0,-2,column_standardization,,,,2026-04-28 12:09:18,,,
+ism_projects.csv,RQ2/Shared,7,13,7,13,0,0,column_standardization; state_name_standardization,,,,2026-04-28 12:09:57,,,
+rq2_cea_power_raw.csv,RQ2,53,21,53,8,0,-13,column_standardization,year; electricity_production_from_fossil_fuel_coal_mu; electricity_production_from_fossil_fuel_diesel_mu; electricity_production_from_fossil_fuel_lignite_mu; electricity_production_from_fossil_fuel_napth_a_mu; electricity_production_from_fossil_fuel_natural_gas_mu; electricity_production_from_fossil_fuel_total_thermal_mu; electricity_production_from_non_fossil_fuel_nuclear_mu; electricity_production_from_non_fossil_fuel_hydro_large_mu; electricity_production_from_non_fossil_fuel_other_renewable_energy_sources_mu; total_electricity_production_from_non_fossil_fuel_mu; total_electricity_production_from_fossil_non_fossil_fuel_mu; share_of_non_fossil_fuel_in_total_electricity_production,,No state column found — investigate column structure,2026-04-28 12:10:04,,,
+rq2_serc_tariffs.csv,RQ2,42,10,42,6,0,-4,column_standardization; state_name_standardization,year; generation_million_units; revenue_from_operations_rs_in_crore; average_tariff_rs_per_unit,,,2026-04-28 12:39:09,,,
+rq2_powermin_sector_glance.csv,RQ2,53,22,53,9,0,-13,column_standardization,year; electricity_production_from_fossil_fuel_coal_mu; electricity_production_from_fossil_fuel_diesel_mu; electricity_production_from_fossil_fuel_lignite_mu; electricity_production_from_fossil_fuel_napth_a_mu; electricity_production_from_fossil_fuel_natural_gas_mu; electricity_production_from_fossil_fuel_total_thermal_mu; electricity_production_from_non_fossil_fuel_nuclear_mu; electricity_production_from_non_fossil_fuel_hydro_large_mu; electricity_production_from_non_fossil_fuel_other_renewable_energy_sources_mu; total_electricity_production_from_non_fossil_fuel_mu; total_electricity_production_from_fossil_non_fossil_fuel_mu; share_of_non_fossil_fuel_in_total_electricity_production,,,2026-04-28 12:39:14,,,
+rq2_imd_weather.csv,RQ2,1,4,1,4,0,0,column_standardization,,,,2026-04-28 12:39:19,,,
+rq2_semiconductor_facility_locations.csv,RQ2,7,6,7,6,0,0,column_standardization; state_name_standardization,,,,2026-04-28 12:39:23,,,
+rq3_unesco_graduates.csv,RQ3,48,7,48,7,0,0,column_standardization,,,,2026-04-28 12:39:28,,,
+rq3_worldbank_talent_indicators.csv,RQ3,271,7,271,7,0,0,column_standardization; rename_iso3_to_country_iso3,,,,2026-04-28 12:39:32,,,
+rq3_worldbank_workforce_indicators.csv,RQ3,210,7,210,7,0,0,column_standardization; rename_iso3_to_country_iso3,,,,2026-04-28 12:39:37,,,
+rq3_aicte_intake.csv,RQ3,6,11,6,11,0,0,column_standardization,,,,2026-04-28 12:39:41,,,
+rq3_aicte_electronics_skilled_talent.csv,RQ3,39,22,39,18,0,-4,column_standardization,sl_no; academic_year; number_of_government_engineering_institutes; approved_seats_in_government_engineering_institutes,,,2026-04-28 12:39:45,,,
+rq3_plfs_employment.csv,RQ3,78,45,31,34,-47,-11,column_standardization; filter_to_NIC_26,survey_year; labour_force_participation_rate_lfpr_female_in_percentage; labour_force_participation_rate_lfpr_all_persons_in_percentage; sl_no; fy; enrolment; trained; certified; states_uts; 2022_23,Filtered to rows with NIC 26 data (n=31),,2026-04-28 12:39:49,,,
+rq3_nasscom_gcc_supply.csv,RQ3,8,9,8,9,0,0,column_standardization,,,,2026-04-28 12:39:54,,,
+rq3_electronics_production_exports.csv,RQ3,21,21,21,21,0,0,column_standardization,,,,2026-04-28 12:39:57,,,
+rq3_ism_iesa_demand_projections.csv,RQ3,3,7,3,7,0,0,column_standardization; compiled_reference_minimal_cleaning,,,,2026-04-28 12:40:00,,,
+rq3_semiconductor_workforce_compiled.csv,RQ3,7,6,7,6,0,0,column_standardization; compiled_reference_minimal_cleaning,,,,2026-04-28 12:40:03,,,
+rq4_worldbank_cost.csv,RQ4,80,9,80,9,0,0,column_standardization; rename_economy_to_country_iso3,,,,2026-04-28 12:40:08,,,
+rq4_worldbank_electricity_indicators.csv,RQ4,200,7,200,7,0,0,column_standardization; rename_iso3_to_country_iso3,,,,2026-04-28 12:40:11,,,
+rq4_rbi_lending.csv,RQ4,8,14,8,16,0,2,column_standardization; extract_year_from_date; extract_year_from_retrieval_date,,,,2026-04-28 12:40:15,,,
+rq4_dpiit_fdi.csv,RQ4,7,5,7,5,0,0,column_standardization,,,,2026-04-28 12:40:20,,,
+rq4_corporate_tax_rates_comparison.csv,RQ4,10,9,10,10,0,1,column_standardization; iso3_from_country,,,,2026-04-28 12:40:24,,,
+rq4_india_power_tariffs.csv,RQ4,93,14,93,12,0,-2,column_standardization,,,,2026-04-28 12:40:27,,,
+rq4_ism_project_subsidies.csv,RQ4,6,7,6,7,0,0,column_standardization,,,,2026-04-28 12:40:30,,,
+rq4_ism_scheme_parameters.csv,RQ4,6,8,6,8,0,0,column_standardization; compiled_reference_minimal_cleaning,,,,2026-04-28 12:40:33,,,
+rq4_global_subsidy_comparison.csv,RQ4,6,8,6,8,0,0,column_standardization; compiled_reference_minimal_cleaning,,,,2026-04-28 12:40:36,,,
+source07_fdi_sectorwise_api.csv,RQ4,122,13,122,13,0,0,column_standardization,,,,2026-04-28 12:40:40,,,
+rq2_pfc_atc_losses.csv,RQ2,32,9,32,10,0,1,column_standardization; state_name_standardization; ism_approved_flag_added,,,,2026-04-28 12:52:13,,,
+rq4_worldbank_cost.csv,RQ4,76,4,76,4,0,0,PCA_readiness_diagnostic,,,KMO=0.375; Bartlett p=nan; PCA_marginal_consider_equal_weights,2026-04-28 13:05:01,,,
+rq1_mospi_iip_div26_monthly.csv,,111,5,111,8,,,"Lowercase snake_case columns; rename index→iip_div26_index, growth_rate→iip_div26_growth_pct; numeric coercion; year_month construction; chronological sort",,,,,2026-05-01,"Replaces deprecated rq1_mospi_iip.csv (which had Division 26 product weights table, not monthly time series). RQ1 dependent variable.",2026-05-01T07:42:34.687223
+rq1_dgft_country_level.csv,,22630,253,20754,11,,,Extract single-month value from per-query date columns; standardize country names; drop Total/aggregator rows; preserve country-level granularity,,,,,2026-05-01,Replaces deprecated rq1_dgft_tradestat.csv (26 rows from 2023 only). Source for HHI computation and country-level analysis.,2026-05-01T07:42:34.687223
+rq1_dgft_imports_panel.csv,,9149,11,360,11,,,"Aggregate country-level → year_month × hs_code panel; compute total imports, HHI, top-3 share, partner count",,,,,2026-05-01,RQ1 regression input panel. 432 rows (108 months × 4 HS codes) ready for IDR computation when joined with MOSPI IIP and MeitY production.,2026-05-01T07:42:34.687223
+rq1_comtrade_india_reporter.csv,,1490,51,1462,24,,,Drop World aggregate rows; convert primaryValue to USD millions; standardize partner names; select 21 essential columns from 51-column raw,,,,,2026-05-01,Replaces deprecated rq1_comtrade.csv (partner-side data with 0 India-as-reporter records). Cross-validation source for DGFT.,2026-05-01T07:42:34.687223
+rq4_corporate_tax_rates.csv,,443,6,443,7,,,"Filter to non-null rate rows (drops GDP forecast rows 2024-2032); rename iso_3→country_iso3, rate→corporate_tax_rate_pct",,,,,2026-05-01,Adds 4th CCI dimension (corporate tax) to RQ4. May enable PCA-weighted CCI if KMO improves above 0.6 threshold (was 0.375 with 3 dimensions).,2026-05-01T07:42:34.687223

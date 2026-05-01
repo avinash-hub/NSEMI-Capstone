@@ -1,0 +1,18 @@
+{
+  "data_source": "DPIIT_FDI_Factsheet",
+  "retrieval_timestamp": "2026-05-01T07:03:14.074306",
+  "factsheets": [
+    {
+      "label": "Q1_FY2025-26",
+      "status": "OK",
+      "path": "/content/drive/MyDrive/Walsh_Masters/Term-2_Capstone/raw/dpiit_pdfs/dpiit_fdi_factsheet_Q1_FY2025-26.pdf",
+      "size_kb": 161.7353515625
+    },
+    {
+      "label": "Q4_FY2024-25",
+      "status": "OK",
+      "path": "/content/drive/MyDrive/Walsh_Masters/Term-2_Capstone/raw/dpiit_pdfs/dpiit_fdi_factsheet_Q4_FY2024-25.pdf",
+      "size_kb": 281.0693359375
+    }
+  ]
+}

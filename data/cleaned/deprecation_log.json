@@ -1,0 +1,8 @@
+[
+  {
+    "old_filename": "rq1_dgft_tradestat.csv",
+    "new_filename": "rq1_dgft_tradestat_DEPRECATED_2023_only.csv",
+    "deprecation_reason": "26 monthly observations from 2023 only; replaced by 108-month panel in rq1_dgft_imports_panel.csv (May 1, 2026)",
+    "deprecation_date": "2026-05-01"
+  }
+]

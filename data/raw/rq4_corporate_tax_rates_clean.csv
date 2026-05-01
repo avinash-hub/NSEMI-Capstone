@@ -1,0 +1,444 @@
+country_iso3,country,year,corporate_tax_rate_pct,data_source,retrieval_date
+CHN,China,1980,55.2,TaxFoundation_worldwide_corporate_tax_rates,2026-05-01
+CHN,China,1981,55.2,TaxFoundation_worldwide_corporate_tax_rates,2026-05-01
+CHN,China,1982,55.2,TaxFoundation_worldwide_corporate_tax_rates,2026-05-01
+CHN,China,1983,40.0,TaxFoundation_worldwide_corporate_tax_rates,2026-05-01
+CHN,China,1984,40.0,TaxFoundation_worldwide_corporate_tax_rates,2026-05-01
+CHN,China,1985,40.0,TaxFoundation_worldwide_corporate_tax_rates,2026-05-01
+CHN,China,1986,40.0,TaxFoundation_worldwide_corporate_tax_rates,2026-05-01
+CHN,China,1987,40.0,TaxFoundation_worldwide_corporate_tax_rates,2026-05-01
+CHN,China,1988,40.0,TaxFoundation_worldwide_corporate_tax_rates,2026-05-01
+CHN,China,1989,40.0,TaxFoundation_worldwide_corporate_tax_rates,2026-05-01
+CHN,China,1990,40.0,TaxFoundation_worldwide_corporate_tax_rates,2026-05-01
+CHN,China,1991,40.0,TaxFoundation_worldwide_corporate_tax_rates,2026-05-01
+CHN,China,1992,30.0,TaxFoundation_worldwide_corporate_tax_rates,2026-05-01
+CHN,China,1993,30.0,TaxFoundation_worldwide_corporate_tax_rates,2026-05-01
+CHN,China,1994,33.0,TaxFoundation_worldwide_corporate_tax_rates,2026-05-01
+CHN,China,1995,33.0,TaxFoundation_worldwide_corporate_tax_rates,2026-05-01
+CHN,China,1996,33.0,TaxFoundation_worldwide_corporate_tax_rates,2026-05-01
+CHN,China,1997,33.0,TaxFoundation_worldwide_corporate_tax_rates,2026-05-01
+CHN,China,1998,33.0,TaxFoundation_worldwide_corporate_tax_rates,2026-05-01
+CHN,China,1999,33.0,TaxFoundation_worldwide_corporate_tax_rates,2026-05-01
+CHN,China,2000,33.0,TaxFoundation_worldwide_corporate_tax_rates,2026-05-01
+CHN,China,2001,33.0,TaxFoundation_worldwide_corporate_tax_rates,2026-05-01
+CHN,China,2002,33.0,TaxFoundation_worldwide_corporate_tax_rates,2026-05-01
+CHN,China,2003,33.0,TaxFoundation_worldwide_corporate_tax_rates,2026-05-01
+CHN,China,2004,33.0,TaxFoundation_worldwide_corporate_tax_rates,2026-05-01
+CHN,China,2005,33.0,TaxFoundation_worldwide_corporate_tax_rates,2026-05-01
+CHN,China,2006,33.0,TaxFoundation_worldwide_corporate_tax_rates,2026-05-01
+CHN,China,2007,33.0,TaxFoundation_worldwide_corporate_tax_rates,2026-05-01
+CHN,China,2008,25.0,TaxFoundation_worldwide_corporate_tax_rates,2026-05-01
+CHN,China,2009,25.0,TaxFoundation_worldwide_corporate_tax_rates,2026-05-01
+CHN,China,2010,25.0,TaxFoundation_worldwide_corporate_tax_rates,2026-05-01
+CHN,China,2011,25.0,TaxFoundation_worldwide_corporate_tax_rates,2026-05-01
+CHN,China,2012,25.0,TaxFoundation_worldwide_corporate_tax_rates,2026-05-01
+CHN,China,2013,25.0,TaxFoundation_worldwide_corporate_tax_rates,2026-05-01
+CHN,China,2014,25.0,TaxFoundation_worldwide_corporate_tax_rates,2026-05-01
+CHN,China,2015,25.0,TaxFoundation_worldwide_corporate_tax_rates,2026-05-01
+CHN,China,2016,25.0,TaxFoundation_worldwide_corporate_tax_rates,2026-05-01
+CHN,China,2017,25.0,TaxFoundation_worldwide_corporate_tax_rates,2026-05-01
+CHN,China,2018,25.0,TaxFoundation_worldwide_corporate_tax_rates,2026-05-01
+CHN,China,2019,25.0,TaxFoundation_worldwide_corporate_tax_rates,2026-05-01
+CHN,China,2020,25.0,TaxFoundation_worldwide_corporate_tax_rates,2026-05-01
+CHN,China,2021,25.0,TaxFoundation_worldwide_corporate_tax_rates,2026-05-01
+CHN,China,2022,25.0,TaxFoundation_worldwide_corporate_tax_rates,2026-05-01
+CHN,China,2023,25.0,TaxFoundation_worldwide_corporate_tax_rates,2026-05-01
+DEU,Germany,1981,60.0,TaxFoundation_worldwide_corporate_tax_rates,2026-05-01
+DEU,Germany,1982,60.0,TaxFoundation_worldwide_corporate_tax_rates,2026-05-01
+DEU,Germany,1983,60.0,TaxFoundation_worldwide_corporate_tax_rates,2026-05-01
+DEU,Germany,1984,60.0,TaxFoundation_worldwide_corporate_tax_rates,2026-05-01
+DEU,Germany,1985,60.0,TaxFoundation_worldwide_corporate_tax_rates,2026-05-01
+DEU,Germany,1986,60.0,TaxFoundation_worldwide_corporate_tax_rates,2026-05-01
+DEU,Germany,1987,60.0,TaxFoundation_worldwide_corporate_tax_rates,2026-05-01
+DEU,Germany,1988,60.0,TaxFoundation_worldwide_corporate_tax_rates,2026-05-01
+DEU,Germany,1989,60.0,TaxFoundation_worldwide_corporate_tax_rates,2026-05-01
+DEU,Germany,1990,54.54545455,TaxFoundation_worldwide_corporate_tax_rates,2026-05-01
+DEU,Germany,1991,56.25,TaxFoundation_worldwide_corporate_tax_rates,2026-05-01
+DEU,Germany,1992,58.15217391,TaxFoundation_worldwide_corporate_tax_rates,2026-05-01
+DEU,Germany,1993,56.52173913,TaxFoundation_worldwide_corporate_tax_rates,2026-05-01
+DEU,Germany,1994,52.17391304,TaxFoundation_worldwide_corporate_tax_rates,2026-05-01
+DEU,Germany,1995,55.10869565,TaxFoundation_worldwide_corporate_tax_rates,2026-05-01
+DEU,Germany,1996,55.87606838,TaxFoundation_worldwide_corporate_tax_rates,2026-05-01
+DEU,Germany,1997,56.79916318,TaxFoundation_worldwide_corporate_tax_rates,2026-05-01
+DEU,Germany,1998,56.0460251,TaxFoundation_worldwide_corporate_tax_rates,2026-05-01
+DEU,Germany,1999,52.03319502,TaxFoundation_worldwide_corporate_tax_rates,2026-05-01
+DEU,Germany,2000,52.03,TaxFoundation_worldwide_corporate_tax_rates,2026-05-01
+DEU,Germany,2001,38.9,TaxFoundation_worldwide_corporate_tax_rates,2026-05-01
+DEU,Germany,2002,38.9,TaxFoundation_worldwide_corporate_tax_rates,2026-05-01
+DEU,Germany,2003,40.215768,TaxFoundation_worldwide_corporate_tax_rates,2026-05-01
+DEU,Germany,2004,38.900415,TaxFoundation_worldwide_corporate_tax_rates,2026-05-01
+DEU,Germany,2005,38.900415,TaxFoundation_worldwide_corporate_tax_rates,2026-05-01
+DEU,Germany,2006,38.900415,TaxFoundation_worldwide_corporate_tax_rates,2026-05-01
+DEU,Germany,2007,38.900415,TaxFoundation_worldwide_corporate_tax_rates,2026-05-01
+DEU,Germany,2008,30.175,TaxFoundation_worldwide_corporate_tax_rates,2026-05-01
+DEU,Germany,2009,30.175,TaxFoundation_worldwide_corporate_tax_rates,2026-05-01
+DEU,Germany,2010,30.175,TaxFoundation_worldwide_corporate_tax_rates,2026-05-01
+DEU,Germany,2011,30.175,TaxFoundation_worldwide_corporate_tax_rates,2026-05-01
+DEU,Germany,2012,30.175,TaxFoundation_worldwide_corporate_tax_rates,2026-05-01
+DEU,Germany,2013,30.175,TaxFoundation_worldwide_corporate_tax_rates,2026-05-01
+DEU,Germany,2014,30.175,TaxFoundation_worldwide_corporate_tax_rates,2026-05-01
+DEU,Germany,2015,30.175,TaxFoundation_worldwide_corporate_tax_rates,2026-05-01
+DEU,Germany,2016,30.175,TaxFoundation_worldwide_corporate_tax_rates,2026-05-01
+DEU,Germany,2017,30.175,TaxFoundation_worldwide_corporate_tax_rates,2026-05-01
+DEU,Germany,2018,29.825,TaxFoundation_worldwide_corporate_tax_rates,2026-05-01
+DEU,Germany,2019,29.897059,TaxFoundation_worldwide_corporate_tax_rates,2026-05-01
+DEU,Germany,2020,29.897059,TaxFoundation_worldwide_corporate_tax_rates,2026-05-01
+DEU,Germany,2021,29.937781,TaxFoundation_worldwide_corporate_tax_rates,2026-05-01
+DEU,Germany,2022,29.83,TaxFoundation_worldwide_corporate_tax_rates,2026-05-01
+DEU,Germany,2023,29.941,TaxFoundation_worldwide_corporate_tax_rates,2026-05-01
+IND,India,1980,60.0,TaxFoundation_worldwide_corporate_tax_rates,2026-05-01
+IND,India,1981,59.1,TaxFoundation_worldwide_corporate_tax_rates,2026-05-01
+IND,India,1982,56.4,TaxFoundation_worldwide_corporate_tax_rates,2026-05-01
+IND,India,1983,56.4,TaxFoundation_worldwide_corporate_tax_rates,2026-05-01
+IND,India,1984,55.0,TaxFoundation_worldwide_corporate_tax_rates,2026-05-01
+IND,India,1985,55.0,TaxFoundation_worldwide_corporate_tax_rates,2026-05-01
+IND,India,1986,50.0,TaxFoundation_worldwide_corporate_tax_rates,2026-05-01
+IND,India,1987,50.0,TaxFoundation_worldwide_corporate_tax_rates,2026-05-01
+IND,India,1988,50.0,TaxFoundation_worldwide_corporate_tax_rates,2026-05-01
+IND,India,1989,50.0,TaxFoundation_worldwide_corporate_tax_rates,2026-05-01
+IND,India,1990,50.0,TaxFoundation_worldwide_corporate_tax_rates,2026-05-01
+IND,India,1991,40.0,TaxFoundation_worldwide_corporate_tax_rates,2026-05-01
+IND,India,1992,45.0,TaxFoundation_worldwide_corporate_tax_rates,2026-05-01
+IND,India,1993,45.0,TaxFoundation_worldwide_corporate_tax_rates,2026-05-01
+IND,India,1994,45.0,TaxFoundation_worldwide_corporate_tax_rates,2026-05-01
+IND,India,1995,40.0,TaxFoundation_worldwide_corporate_tax_rates,2026-05-01
+IND,India,1996,40.0,TaxFoundation_worldwide_corporate_tax_rates,2026-05-01
+IND,India,1997,35.0,TaxFoundation_worldwide_corporate_tax_rates,2026-05-01
+IND,India,1998,35.0,TaxFoundation_worldwide_corporate_tax_rates,2026-05-01
+IND,India,1999,35.0,TaxFoundation_worldwide_corporate_tax_rates,2026-05-01
+IND,India,2000,38.5,TaxFoundation_worldwide_corporate_tax_rates,2026-05-01
+IND,India,2001,39.55,TaxFoundation_worldwide_corporate_tax_rates,2026-05-01
+IND,India,2002,35.7,TaxFoundation_worldwide_corporate_tax_rates,2026-05-01
+IND,India,2003,36.75,TaxFoundation_worldwide_corporate_tax_rates,2026-05-01
+IND,India,2004,35.875,TaxFoundation_worldwide_corporate_tax_rates,2026-05-01
+IND,India,2005,36.5935,TaxFoundation_worldwide_corporate_tax_rates,2026-05-01
+IND,India,2006,33.66,TaxFoundation_worldwide_corporate_tax_rates,2026-05-01
+IND,India,2007,33.99,TaxFoundation_worldwide_corporate_tax_rates,2026-05-01
+IND,India,2008,33.99,TaxFoundation_worldwide_corporate_tax_rates,2026-05-01
+IND,India,2009,33.99,TaxFoundation_worldwide_corporate_tax_rates,2026-05-01
+IND,India,2010,33.99,TaxFoundation_worldwide_corporate_tax_rates,2026-05-01
+IND,India,2011,32.44,TaxFoundation_worldwide_corporate_tax_rates,2026-05-01
+IND,India,2012,32.45,TaxFoundation_worldwide_corporate_tax_rates,2026-05-01
+IND,India,2013,33.99,TaxFoundation_worldwide_corporate_tax_rates,2026-05-01
+IND,India,2014,33.99,TaxFoundation_worldwide_corporate_tax_rates,2026-05-01
+IND,India,2015,34.61,TaxFoundation_worldwide_corporate_tax_rates,2026-05-01
+IND,India,2016,34.61,TaxFoundation_worldwide_corporate_tax_rates,2026-05-01
+IND,India,2017,34.61,TaxFoundation_worldwide_corporate_tax_rates,2026-05-01
+IND,India,2018,35.0,TaxFoundation_worldwide_corporate_tax_rates,2026-05-01
+IND,India,2019,30.0,TaxFoundation_worldwide_corporate_tax_rates,2026-05-01
+IND,India,2020,30.0,TaxFoundation_worldwide_corporate_tax_rates,2026-05-01
+IND,India,2021,30.0,TaxFoundation_worldwide_corporate_tax_rates,2026-05-01
+IND,India,2022,30.0,TaxFoundation_worldwide_corporate_tax_rates,2026-05-01
+IND,India,2023,30.0,TaxFoundation_worldwide_corporate_tax_rates,2026-05-01
+JPN,Japan,1990,49.98,TaxFoundation_worldwide_corporate_tax_rates,2026-05-01
+JPN,Japan,1991,49.98,TaxFoundation_worldwide_corporate_tax_rates,2026-05-01
+JPN,Japan,1992,49.98,TaxFoundation_worldwide_corporate_tax_rates,2026-05-01
+JPN,Japan,1993,49.98,TaxFoundation_worldwide_corporate_tax_rates,2026-05-01
+JPN,Japan,1994,49.98,TaxFoundation_worldwide_corporate_tax_rates,2026-05-01
+JPN,Japan,1995,49.98,TaxFoundation_worldwide_corporate_tax_rates,2026-05-01
+JPN,Japan,1996,49.98,TaxFoundation_worldwide_corporate_tax_rates,2026-05-01
+JPN,Japan,1997,49.98,TaxFoundation_worldwide_corporate_tax_rates,2026-05-01
+JPN,Japan,1998,46.36,TaxFoundation_worldwide_corporate_tax_rates,2026-05-01
+JPN,Japan,1999,48.0,TaxFoundation_worldwide_corporate_tax_rates,2026-05-01
+JPN,Japan,2000,40.87,TaxFoundation_worldwide_corporate_tax_rates,2026-05-01
+JPN,Japan,2001,40.87,TaxFoundation_worldwide_corporate_tax_rates,2026-05-01
+JPN,Japan,2002,40.87,TaxFoundation_worldwide_corporate_tax_rates,2026-05-01
+JPN,Japan,2003,40.87,TaxFoundation_worldwide_corporate_tax_rates,2026-05-01
+JPN,Japan,2004,39.54,TaxFoundation_worldwide_corporate_tax_rates,2026-05-01
+JPN,Japan,2005,39.54,TaxFoundation_worldwide_corporate_tax_rates,2026-05-01
+JPN,Japan,2006,39.54,TaxFoundation_worldwide_corporate_tax_rates,2026-05-01
+JPN,Japan,2007,39.54,TaxFoundation_worldwide_corporate_tax_rates,2026-05-01
+JPN,Japan,2008,39.54,TaxFoundation_worldwide_corporate_tax_rates,2026-05-01
+JPN,Japan,2009,39.54,TaxFoundation_worldwide_corporate_tax_rates,2026-05-01
+JPN,Japan,2010,39.54,TaxFoundation_worldwide_corporate_tax_rates,2026-05-01
+JPN,Japan,2011,39.54,TaxFoundation_worldwide_corporate_tax_rates,2026-05-01
+JPN,Japan,2012,39.54,TaxFoundation_worldwide_corporate_tax_rates,2026-05-01
+JPN,Japan,2013,36.99,TaxFoundation_worldwide_corporate_tax_rates,2026-05-01
+JPN,Japan,2014,36.99,TaxFoundation_worldwide_corporate_tax_rates,2026-05-01
+JPN,Japan,2015,32.11,TaxFoundation_worldwide_corporate_tax_rates,2026-05-01
+JPN,Japan,2016,29.97,TaxFoundation_worldwide_corporate_tax_rates,2026-05-01
+JPN,Japan,2017,29.97,TaxFoundation_worldwide_corporate_tax_rates,2026-05-01
+JPN,Japan,2018,29.74,TaxFoundation_worldwide_corporate_tax_rates,2026-05-01
+JPN,Japan,2019,29.74,TaxFoundation_worldwide_corporate_tax_rates,2026-05-01
+JPN,Japan,2020,29.74,TaxFoundation_worldwide_corporate_tax_rates,2026-05-01
+JPN,Japan,2021,29.74,TaxFoundation_worldwide_corporate_tax_rates,2026-05-01
+JPN,Japan,2022,29.74,TaxFoundation_worldwide_corporate_tax_rates,2026-05-01
+JPN,Japan,2023,29.74,TaxFoundation_worldwide_corporate_tax_rates,2026-05-01
+KOR,Republic of Korea,1997,30.8,TaxFoundation_worldwide_corporate_tax_rates,2026-05-01
+KOR,Republic of Korea,1998,30.8,TaxFoundation_worldwide_corporate_tax_rates,2026-05-01
+KOR,Republic of Korea,1999,30.8,TaxFoundation_worldwide_corporate_tax_rates,2026-05-01
+KOR,Republic of Korea,2000,30.8,TaxFoundation_worldwide_corporate_tax_rates,2026-05-01
+KOR,Republic of Korea,2001,30.8,TaxFoundation_worldwide_corporate_tax_rates,2026-05-01
+KOR,Republic of Korea,2002,29.7,TaxFoundation_worldwide_corporate_tax_rates,2026-05-01
+KOR,Republic of Korea,2003,29.7,TaxFoundation_worldwide_corporate_tax_rates,2026-05-01
+KOR,Republic of Korea,2004,29.7,TaxFoundation_worldwide_corporate_tax_rates,2026-05-01
+KOR,Republic of Korea,2005,27.5,TaxFoundation_worldwide_corporate_tax_rates,2026-05-01
+KOR,Republic of Korea,2006,27.5,TaxFoundation_worldwide_corporate_tax_rates,2026-05-01
+KOR,Republic of Korea,2007,27.5,TaxFoundation_worldwide_corporate_tax_rates,2026-05-01
+KOR,Republic of Korea,2008,27.5,TaxFoundation_worldwide_corporate_tax_rates,2026-05-01
+KOR,Republic of Korea,2009,24.2,TaxFoundation_worldwide_corporate_tax_rates,2026-05-01
+KOR,Republic of Korea,2010,24.2,TaxFoundation_worldwide_corporate_tax_rates,2026-05-01
+KOR,Republic of Korea,2011,24.2,TaxFoundation_worldwide_corporate_tax_rates,2026-05-01
+KOR,Republic of Korea,2012,24.2,TaxFoundation_worldwide_corporate_tax_rates,2026-05-01
+KOR,Republic of Korea,2013,24.2,TaxFoundation_worldwide_corporate_tax_rates,2026-05-01
+KOR,Republic of Korea,2014,24.2,TaxFoundation_worldwide_corporate_tax_rates,2026-05-01
+KOR,Republic of Korea,2015,24.2,TaxFoundation_worldwide_corporate_tax_rates,2026-05-01
+KOR,Republic of Korea,2016,24.2,TaxFoundation_worldwide_corporate_tax_rates,2026-05-01
+KOR,Republic of Korea,2017,24.2,TaxFoundation_worldwide_corporate_tax_rates,2026-05-01
+KOR,Republic of Korea,2018,27.5,TaxFoundation_worldwide_corporate_tax_rates,2026-05-01
+KOR,Republic of Korea,2019,27.5,TaxFoundation_worldwide_corporate_tax_rates,2026-05-01
+KOR,Republic of Korea,2020,27.5,TaxFoundation_worldwide_corporate_tax_rates,2026-05-01
+KOR,Republic of Korea,2021,27.5,TaxFoundation_worldwide_corporate_tax_rates,2026-05-01
+KOR,Republic of Korea,2022,27.5,TaxFoundation_worldwide_corporate_tax_rates,2026-05-01
+KOR,Republic of Korea,2023,26.5,TaxFoundation_worldwide_corporate_tax_rates,2026-05-01
+MYS,Malaysia,1980,40.0,TaxFoundation_worldwide_corporate_tax_rates,2026-05-01
+MYS,Malaysia,1981,40.0,TaxFoundation_worldwide_corporate_tax_rates,2026-05-01
+MYS,Malaysia,1982,40.0,TaxFoundation_worldwide_corporate_tax_rates,2026-05-01
+MYS,Malaysia,1983,40.0,TaxFoundation_worldwide_corporate_tax_rates,2026-05-01
+MYS,Malaysia,1984,40.0,TaxFoundation_worldwide_corporate_tax_rates,2026-05-01
+MYS,Malaysia,1985,40.0,TaxFoundation_worldwide_corporate_tax_rates,2026-05-01
+MYS,Malaysia,1986,40.0,TaxFoundation_worldwide_corporate_tax_rates,2026-05-01
+MYS,Malaysia,1987,40.0,TaxFoundation_worldwide_corporate_tax_rates,2026-05-01
+MYS,Malaysia,1988,40.0,TaxFoundation_worldwide_corporate_tax_rates,2026-05-01
+MYS,Malaysia,1989,35.0,TaxFoundation_worldwide_corporate_tax_rates,2026-05-01
+MYS,Malaysia,1990,35.0,TaxFoundation_worldwide_corporate_tax_rates,2026-05-01
+MYS,Malaysia,1991,35.0,TaxFoundation_worldwide_corporate_tax_rates,2026-05-01
+MYS,Malaysia,1992,35.0,TaxFoundation_worldwide_corporate_tax_rates,2026-05-01
+MYS,Malaysia,1993,34.0,TaxFoundation_worldwide_corporate_tax_rates,2026-05-01
+MYS,Malaysia,1994,32.0,TaxFoundation_worldwide_corporate_tax_rates,2026-05-01
+MYS,Malaysia,1995,30.0,TaxFoundation_worldwide_corporate_tax_rates,2026-05-01
+MYS,Malaysia,1996,30.0,TaxFoundation_worldwide_corporate_tax_rates,2026-05-01
+MYS,Malaysia,1997,30.0,TaxFoundation_worldwide_corporate_tax_rates,2026-05-01
+MYS,Malaysia,1998,28.0,TaxFoundation_worldwide_corporate_tax_rates,2026-05-01
+MYS,Malaysia,1999,28.0,TaxFoundation_worldwide_corporate_tax_rates,2026-05-01
+MYS,Malaysia,2000,28.0,TaxFoundation_worldwide_corporate_tax_rates,2026-05-01
+MYS,Malaysia,2001,28.0,TaxFoundation_worldwide_corporate_tax_rates,2026-05-01
+MYS,Malaysia,2002,28.0,TaxFoundation_worldwide_corporate_tax_rates,2026-05-01
+MYS,Malaysia,2003,28.0,TaxFoundation_worldwide_corporate_tax_rates,2026-05-01
+MYS,Malaysia,2004,28.0,TaxFoundation_worldwide_corporate_tax_rates,2026-05-01
+MYS,Malaysia,2005,28.0,TaxFoundation_worldwide_corporate_tax_rates,2026-05-01
+MYS,Malaysia,2006,28.0,TaxFoundation_worldwide_corporate_tax_rates,2026-05-01
+MYS,Malaysia,2007,27.0,TaxFoundation_worldwide_corporate_tax_rates,2026-05-01
+MYS,Malaysia,2008,26.0,TaxFoundation_worldwide_corporate_tax_rates,2026-05-01
+MYS,Malaysia,2009,25.0,TaxFoundation_worldwide_corporate_tax_rates,2026-05-01
+MYS,Malaysia,2010,25.0,TaxFoundation_worldwide_corporate_tax_rates,2026-05-01
+MYS,Malaysia,2011,25.0,TaxFoundation_worldwide_corporate_tax_rates,2026-05-01
+MYS,Malaysia,2012,25.0,TaxFoundation_worldwide_corporate_tax_rates,2026-05-01
+MYS,Malaysia,2013,25.0,TaxFoundation_worldwide_corporate_tax_rates,2026-05-01
+MYS,Malaysia,2014,25.0,TaxFoundation_worldwide_corporate_tax_rates,2026-05-01
+MYS,Malaysia,2015,25.0,TaxFoundation_worldwide_corporate_tax_rates,2026-05-01
+MYS,Malaysia,2016,24.0,TaxFoundation_worldwide_corporate_tax_rates,2026-05-01
+MYS,Malaysia,2017,24.0,TaxFoundation_worldwide_corporate_tax_rates,2026-05-01
+MYS,Malaysia,2018,24.0,TaxFoundation_worldwide_corporate_tax_rates,2026-05-01
+MYS,Malaysia,2019,24.0,TaxFoundation_worldwide_corporate_tax_rates,2026-05-01
+MYS,Malaysia,2020,24.0,TaxFoundation_worldwide_corporate_tax_rates,2026-05-01
+MYS,Malaysia,2021,24.0,TaxFoundation_worldwide_corporate_tax_rates,2026-05-01
+MYS,Malaysia,2022,24.0,TaxFoundation_worldwide_corporate_tax_rates,2026-05-01
+MYS,Malaysia,2023,24.0,TaxFoundation_worldwide_corporate_tax_rates,2026-05-01
+SGP,Singapore,1980,40.0,TaxFoundation_worldwide_corporate_tax_rates,2026-05-01
+SGP,Singapore,1981,40.0,TaxFoundation_worldwide_corporate_tax_rates,2026-05-01
+SGP,Singapore,1982,40.0,TaxFoundation_worldwide_corporate_tax_rates,2026-05-01
+SGP,Singapore,1983,40.0,TaxFoundation_worldwide_corporate_tax_rates,2026-05-01
+SGP,Singapore,1984,40.0,TaxFoundation_worldwide_corporate_tax_rates,2026-05-01
+SGP,Singapore,1985,40.0,TaxFoundation_worldwide_corporate_tax_rates,2026-05-01
+SGP,Singapore,1986,40.0,TaxFoundation_worldwide_corporate_tax_rates,2026-05-01
+SGP,Singapore,1987,33.0,TaxFoundation_worldwide_corporate_tax_rates,2026-05-01
+SGP,Singapore,1988,33.0,TaxFoundation_worldwide_corporate_tax_rates,2026-05-01
+SGP,Singapore,1989,33.0,TaxFoundation_worldwide_corporate_tax_rates,2026-05-01
+SGP,Singapore,1990,32.0,TaxFoundation_worldwide_corporate_tax_rates,2026-05-01
+SGP,Singapore,1991,31.0,TaxFoundation_worldwide_corporate_tax_rates,2026-05-01
+SGP,Singapore,1992,31.0,TaxFoundation_worldwide_corporate_tax_rates,2026-05-01
+SGP,Singapore,1993,30.0,TaxFoundation_worldwide_corporate_tax_rates,2026-05-01
+SGP,Singapore,1994,27.0,TaxFoundation_worldwide_corporate_tax_rates,2026-05-01
+SGP,Singapore,1995,27.0,TaxFoundation_worldwide_corporate_tax_rates,2026-05-01
+SGP,Singapore,1996,26.0,TaxFoundation_worldwide_corporate_tax_rates,2026-05-01
+SGP,Singapore,1997,26.0,TaxFoundation_worldwide_corporate_tax_rates,2026-05-01
+SGP,Singapore,1998,26.0,TaxFoundation_worldwide_corporate_tax_rates,2026-05-01
+SGP,Singapore,1999,26.0,TaxFoundation_worldwide_corporate_tax_rates,2026-05-01
+SGP,Singapore,2000,26.0,TaxFoundation_worldwide_corporate_tax_rates,2026-05-01
+SGP,Singapore,2001,25.5,TaxFoundation_worldwide_corporate_tax_rates,2026-05-01
+SGP,Singapore,2002,24.5,TaxFoundation_worldwide_corporate_tax_rates,2026-05-01
+SGP,Singapore,2003,22.0,TaxFoundation_worldwide_corporate_tax_rates,2026-05-01
+SGP,Singapore,2004,22.0,TaxFoundation_worldwide_corporate_tax_rates,2026-05-01
+SGP,Singapore,2005,20.0,TaxFoundation_worldwide_corporate_tax_rates,2026-05-01
+SGP,Singapore,2006,20.0,TaxFoundation_worldwide_corporate_tax_rates,2026-05-01
+SGP,Singapore,2007,20.0,TaxFoundation_worldwide_corporate_tax_rates,2026-05-01
+SGP,Singapore,2008,18.0,TaxFoundation_worldwide_corporate_tax_rates,2026-05-01
+SGP,Singapore,2009,18.0,TaxFoundation_worldwide_corporate_tax_rates,2026-05-01
+SGP,Singapore,2010,17.0,TaxFoundation_worldwide_corporate_tax_rates,2026-05-01
+SGP,Singapore,2011,17.0,TaxFoundation_worldwide_corporate_tax_rates,2026-05-01
+SGP,Singapore,2012,17.0,TaxFoundation_worldwide_corporate_tax_rates,2026-05-01
+SGP,Singapore,2013,17.0,TaxFoundation_worldwide_corporate_tax_rates,2026-05-01
+SGP,Singapore,2014,17.0,TaxFoundation_worldwide_corporate_tax_rates,2026-05-01
+SGP,Singapore,2015,17.0,TaxFoundation_worldwide_corporate_tax_rates,2026-05-01
+SGP,Singapore,2016,17.0,TaxFoundation_worldwide_corporate_tax_rates,2026-05-01
+SGP,Singapore,2017,17.0,TaxFoundation_worldwide_corporate_tax_rates,2026-05-01
+SGP,Singapore,2018,17.0,TaxFoundation_worldwide_corporate_tax_rates,2026-05-01
+SGP,Singapore,2019,17.0,TaxFoundation_worldwide_corporate_tax_rates,2026-05-01
+SGP,Singapore,2020,17.0,TaxFoundation_worldwide_corporate_tax_rates,2026-05-01
+SGP,Singapore,2021,17.0,TaxFoundation_worldwide_corporate_tax_rates,2026-05-01
+SGP,Singapore,2022,17.0,TaxFoundation_worldwide_corporate_tax_rates,2026-05-01
+SGP,Singapore,2023,17.0,TaxFoundation_worldwide_corporate_tax_rates,2026-05-01
+THA,Thailand,1980,35.0,TaxFoundation_worldwide_corporate_tax_rates,2026-05-01
+THA,Thailand,1981,35.0,TaxFoundation_worldwide_corporate_tax_rates,2026-05-01
+THA,Thailand,1982,30.0,TaxFoundation_worldwide_corporate_tax_rates,2026-05-01
+THA,Thailand,1983,30.0,TaxFoundation_worldwide_corporate_tax_rates,2026-05-01
+THA,Thailand,1984,30.0,TaxFoundation_worldwide_corporate_tax_rates,2026-05-01
+THA,Thailand,1985,30.0,TaxFoundation_worldwide_corporate_tax_rates,2026-05-01
+THA,Thailand,1986,30.0,TaxFoundation_worldwide_corporate_tax_rates,2026-05-01
+THA,Thailand,1987,30.0,TaxFoundation_worldwide_corporate_tax_rates,2026-05-01
+THA,Thailand,1988,30.0,TaxFoundation_worldwide_corporate_tax_rates,2026-05-01
+THA,Thailand,1989,30.0,TaxFoundation_worldwide_corporate_tax_rates,2026-05-01
+THA,Thailand,1990,30.0,TaxFoundation_worldwide_corporate_tax_rates,2026-05-01
+THA,Thailand,1991,30.0,TaxFoundation_worldwide_corporate_tax_rates,2026-05-01
+THA,Thailand,1992,30.0,TaxFoundation_worldwide_corporate_tax_rates,2026-05-01
+THA,Thailand,1993,30.0,TaxFoundation_worldwide_corporate_tax_rates,2026-05-01
+THA,Thailand,1994,30.0,TaxFoundation_worldwide_corporate_tax_rates,2026-05-01
+THA,Thailand,1995,30.0,TaxFoundation_worldwide_corporate_tax_rates,2026-05-01
+THA,Thailand,1996,30.0,TaxFoundation_worldwide_corporate_tax_rates,2026-05-01
+THA,Thailand,1997,30.0,TaxFoundation_worldwide_corporate_tax_rates,2026-05-01
+THA,Thailand,1998,30.0,TaxFoundation_worldwide_corporate_tax_rates,2026-05-01
+THA,Thailand,1999,30.0,TaxFoundation_worldwide_corporate_tax_rates,2026-05-01
+THA,Thailand,2000,30.0,TaxFoundation_worldwide_corporate_tax_rates,2026-05-01
+THA,Thailand,2001,30.0,TaxFoundation_worldwide_corporate_tax_rates,2026-05-01
+THA,Thailand,2002,30.0,TaxFoundation_worldwide_corporate_tax_rates,2026-05-01
+THA,Thailand,2003,30.0,TaxFoundation_worldwide_corporate_tax_rates,2026-05-01
+THA,Thailand,2004,30.0,TaxFoundation_worldwide_corporate_tax_rates,2026-05-01
+THA,Thailand,2005,30.0,TaxFoundation_worldwide_corporate_tax_rates,2026-05-01
+THA,Thailand,2006,30.0,TaxFoundation_worldwide_corporate_tax_rates,2026-05-01
+THA,Thailand,2007,30.0,TaxFoundation_worldwide_corporate_tax_rates,2026-05-01
+THA,Thailand,2008,30.0,TaxFoundation_worldwide_corporate_tax_rates,2026-05-01
+THA,Thailand,2009,30.0,TaxFoundation_worldwide_corporate_tax_rates,2026-05-01
+THA,Thailand,2010,30.0,TaxFoundation_worldwide_corporate_tax_rates,2026-05-01
+THA,Thailand,2011,30.0,TaxFoundation_worldwide_corporate_tax_rates,2026-05-01
+THA,Thailand,2012,23.0,TaxFoundation_worldwide_corporate_tax_rates,2026-05-01
+THA,Thailand,2013,20.0,TaxFoundation_worldwide_corporate_tax_rates,2026-05-01
+THA,Thailand,2014,20.0,TaxFoundation_worldwide_corporate_tax_rates,2026-05-01
+THA,Thailand,2015,20.0,TaxFoundation_worldwide_corporate_tax_rates,2026-05-01
+THA,Thailand,2016,20.0,TaxFoundation_worldwide_corporate_tax_rates,2026-05-01
+THA,Thailand,2017,20.0,TaxFoundation_worldwide_corporate_tax_rates,2026-05-01
+THA,Thailand,2018,20.0,TaxFoundation_worldwide_corporate_tax_rates,2026-05-01
+THA,Thailand,2019,20.0,TaxFoundation_worldwide_corporate_tax_rates,2026-05-01
+THA,Thailand,2020,20.0,TaxFoundation_worldwide_corporate_tax_rates,2026-05-01
+THA,Thailand,2021,20.0,TaxFoundation_worldwide_corporate_tax_rates,2026-05-01
+THA,Thailand,2022,20.0,TaxFoundation_worldwide_corporate_tax_rates,2026-05-01
+THA,Thailand,2023,20.0,TaxFoundation_worldwide_corporate_tax_rates,2026-05-01
+TWN,Taiwan,1980,35.0,TaxFoundation_worldwide_corporate_tax_rates,2026-05-01
+TWN,Taiwan,1981,35.0,TaxFoundation_worldwide_corporate_tax_rates,2026-05-01
+TWN,Taiwan,1982,35.0,TaxFoundation_worldwide_corporate_tax_rates,2026-05-01
+TWN,Taiwan,1983,35.0,TaxFoundation_worldwide_corporate_tax_rates,2026-05-01
+TWN,Taiwan,1984,35.0,TaxFoundation_worldwide_corporate_tax_rates,2026-05-01
+TWN,Taiwan,1985,30.0,TaxFoundation_worldwide_corporate_tax_rates,2026-05-01
+TWN,Taiwan,1986,25.0,TaxFoundation_worldwide_corporate_tax_rates,2026-05-01
+TWN,Taiwan,1987,25.0,TaxFoundation_worldwide_corporate_tax_rates,2026-05-01
+TWN,Taiwan,1988,25.0,TaxFoundation_worldwide_corporate_tax_rates,2026-05-01
+TWN,Taiwan,1989,25.0,TaxFoundation_worldwide_corporate_tax_rates,2026-05-01
+TWN,Taiwan,1990,25.0,TaxFoundation_worldwide_corporate_tax_rates,2026-05-01
+TWN,Taiwan,1991,25.0,TaxFoundation_worldwide_corporate_tax_rates,2026-05-01
+TWN,Taiwan,1992,25.0,TaxFoundation_worldwide_corporate_tax_rates,2026-05-01
+TWN,Taiwan,1993,25.0,TaxFoundation_worldwide_corporate_tax_rates,2026-05-01
+TWN,Taiwan,1994,25.0,TaxFoundation_worldwide_corporate_tax_rates,2026-05-01
+TWN,Taiwan,1995,25.0,TaxFoundation_worldwide_corporate_tax_rates,2026-05-01
+TWN,Taiwan,1996,25.0,TaxFoundation_worldwide_corporate_tax_rates,2026-05-01
+TWN,Taiwan,1997,25.0,TaxFoundation_worldwide_corporate_tax_rates,2026-05-01
+TWN,Taiwan,1998,25.0,TaxFoundation_worldwide_corporate_tax_rates,2026-05-01
+TWN,Taiwan,1999,25.0,TaxFoundation_worldwide_corporate_tax_rates,2026-05-01
+TWN,Taiwan,2000,25.0,TaxFoundation_worldwide_corporate_tax_rates,2026-05-01
+TWN,Taiwan,2001,25.0,TaxFoundation_worldwide_corporate_tax_rates,2026-05-01
+TWN,Taiwan,2002,25.0,TaxFoundation_worldwide_corporate_tax_rates,2026-05-01
+TWN,Taiwan,2003,25.0,TaxFoundation_worldwide_corporate_tax_rates,2026-05-01
+TWN,Taiwan,2004,25.0,TaxFoundation_worldwide_corporate_tax_rates,2026-05-01
+TWN,Taiwan,2005,25.0,TaxFoundation_worldwide_corporate_tax_rates,2026-05-01
+TWN,Taiwan,2006,25.0,TaxFoundation_worldwide_corporate_tax_rates,2026-05-01
+TWN,Taiwan,2007,25.0,TaxFoundation_worldwide_corporate_tax_rates,2026-05-01
+TWN,Taiwan,2008,25.0,TaxFoundation_worldwide_corporate_tax_rates,2026-05-01
+TWN,Taiwan,2009,25.0,TaxFoundation_worldwide_corporate_tax_rates,2026-05-01
+TWN,Taiwan,2010,17.0,TaxFoundation_worldwide_corporate_tax_rates,2026-05-01
+TWN,Taiwan,2011,17.0,TaxFoundation_worldwide_corporate_tax_rates,2026-05-01
+TWN,Taiwan,2012,17.0,TaxFoundation_worldwide_corporate_tax_rates,2026-05-01
+TWN,Taiwan,2013,17.0,TaxFoundation_worldwide_corporate_tax_rates,2026-05-01
+TWN,Taiwan,2014,17.0,TaxFoundation_worldwide_corporate_tax_rates,2026-05-01
+TWN,Taiwan,2015,17.0,TaxFoundation_worldwide_corporate_tax_rates,2026-05-01
+TWN,Taiwan,2016,17.0,TaxFoundation_worldwide_corporate_tax_rates,2026-05-01
+TWN,Taiwan,2017,17.0,TaxFoundation_worldwide_corporate_tax_rates,2026-05-01
+TWN,Taiwan,2018,20.0,TaxFoundation_worldwide_corporate_tax_rates,2026-05-01
+TWN,Taiwan,2019,20.0,TaxFoundation_worldwide_corporate_tax_rates,2026-05-01
+TWN,Taiwan,2020,20.0,TaxFoundation_worldwide_corporate_tax_rates,2026-05-01
+TWN,Taiwan,2021,20.0,TaxFoundation_worldwide_corporate_tax_rates,2026-05-01
+TWN,Taiwan,2022,20.0,TaxFoundation_worldwide_corporate_tax_rates,2026-05-01
+TWN,Taiwan,2023,20.0,TaxFoundation_worldwide_corporate_tax_rates,2026-05-01
+USA,United States of America,1980,49.699,TaxFoundation_worldwide_corporate_tax_rates,2026-05-01
+USA,United States of America,1981,49.699,TaxFoundation_worldwide_corporate_tax_rates,2026-05-01
+USA,United States of America,1982,49.699,TaxFoundation_worldwide_corporate_tax_rates,2026-05-01
+USA,United States of America,1983,49.834,TaxFoundation_worldwide_corporate_tax_rates,2026-05-01
+USA,United States of America,1984,49.7854,TaxFoundation_worldwide_corporate_tax_rates,2026-05-01
+USA,United States of America,1985,49.7854,TaxFoundation_worldwide_corporate_tax_rates,2026-05-01
+USA,United States of America,1986,49.8232,TaxFoundation_worldwide_corporate_tax_rates,2026-05-01
+USA,United States of America,1987,44.176,TaxFoundation_worldwide_corporate_tax_rates,2026-05-01
+USA,United States of America,1988,38.5936,TaxFoundation_worldwide_corporate_tax_rates,2026-05-01
+USA,United States of America,1989,38.6662,TaxFoundation_worldwide_corporate_tax_rates,2026-05-01
+USA,United States of America,1990,38.653,TaxFoundation_worldwide_corporate_tax_rates,2026-05-01
+USA,United States of America,1991,38.851,TaxFoundation_worldwide_corporate_tax_rates,2026-05-01
+USA,United States of America,1992,38.8642,TaxFoundation_worldwide_corporate_tax_rates,2026-05-01
+USA,United States of America,1993,39.7515,TaxFoundation_worldwide_corporate_tax_rates,2026-05-01
+USA,United States of America,1994,39.6865,TaxFoundation_worldwide_corporate_tax_rates,2026-05-01
+USA,United States of America,1995,39.6085,TaxFoundation_worldwide_corporate_tax_rates,2026-05-01
+USA,United States of America,1996,39.5305,TaxFoundation_worldwide_corporate_tax_rates,2026-05-01
+USA,United States of America,1997,39.4525,TaxFoundation_worldwide_corporate_tax_rates,2026-05-01
+USA,United States of America,1998,39.4395,TaxFoundation_worldwide_corporate_tax_rates,2026-05-01
+USA,United States of America,1999,39.394,TaxFoundation_worldwide_corporate_tax_rates,2026-05-01
+USA,United States of America,2000,39.34,TaxFoundation_worldwide_corporate_tax_rates,2026-05-01
+USA,United States of America,2001,39.27,TaxFoundation_worldwide_corporate_tax_rates,2026-05-01
+USA,United States of America,2002,39.3,TaxFoundation_worldwide_corporate_tax_rates,2026-05-01
+USA,United States of America,2003,39.3225,TaxFoundation_worldwide_corporate_tax_rates,2026-05-01
+USA,United States of America,2004,39.316,TaxFoundation_worldwide_corporate_tax_rates,2026-05-01
+USA,United States of America,2005,39.29,TaxFoundation_worldwide_corporate_tax_rates,2026-05-01
+USA,United States of America,2006,39.303,TaxFoundation_worldwide_corporate_tax_rates,2026-05-01
+USA,United States of America,2007,39.2705,TaxFoundation_worldwide_corporate_tax_rates,2026-05-01
+USA,United States of America,2008,39.251,TaxFoundation_worldwide_corporate_tax_rates,2026-05-01
+USA,United States of America,2009,39.16,TaxFoundation_worldwide_corporate_tax_rates,2026-05-01
+USA,United States of America,2010,39.2055,TaxFoundation_worldwide_corporate_tax_rates,2026-05-01
+USA,United States of America,2011,39.1925,TaxFoundation_worldwide_corporate_tax_rates,2026-05-01
+USA,United States of America,2012,39.134,TaxFoundation_worldwide_corporate_tax_rates,2026-05-01
+USA,United States of America,2013,39.0495,TaxFoundation_worldwide_corporate_tax_rates,2026-05-01
+USA,United States of America,2014,39.0755,TaxFoundation_worldwide_corporate_tax_rates,2026-05-01
+USA,United States of America,2015,38.9975,TaxFoundation_worldwide_corporate_tax_rates,2026-05-01
+USA,United States of America,2016,38.923934,TaxFoundation_worldwide_corporate_tax_rates,2026-05-01
+USA,United States of America,2017,38.906474,TaxFoundation_worldwide_corporate_tax_rates,2026-05-01
+USA,United States of America,2018,25.83858,TaxFoundation_worldwide_corporate_tax_rates,2026-05-01
+USA,United States of America,2019,25.886141,TaxFoundation_worldwide_corporate_tax_rates,2026-05-01
+USA,United States of America,2020,25.766571,TaxFoundation_worldwide_corporate_tax_rates,2026-05-01
+USA,United States of America,2021,25.754568,TaxFoundation_worldwide_corporate_tax_rates,2026-05-01
+USA,United States of America,2022,25.808,TaxFoundation_worldwide_corporate_tax_rates,2026-05-01
+USA,United States of America,2023,25.768,TaxFoundation_worldwide_corporate_tax_rates,2026-05-01
+VNM,Viet Nam,1993,25.0,TaxFoundation_worldwide_corporate_tax_rates,2026-05-01
+VNM,Viet Nam,1994,25.0,TaxFoundation_worldwide_corporate_tax_rates,2026-05-01
+VNM,Viet Nam,1995,25.0,TaxFoundation_worldwide_corporate_tax_rates,2026-05-01
+VNM,Viet Nam,1996,25.0,TaxFoundation_worldwide_corporate_tax_rates,2026-05-01
+VNM,Viet Nam,1997,25.0,TaxFoundation_worldwide_corporate_tax_rates,2026-05-01
+VNM,Viet Nam,1998,25.0,TaxFoundation_worldwide_corporate_tax_rates,2026-05-01
+VNM,Viet Nam,1999,32.0,TaxFoundation_worldwide_corporate_tax_rates,2026-05-01
+VNM,Viet Nam,2000,32.0,TaxFoundation_worldwide_corporate_tax_rates,2026-05-01
+VNM,Viet Nam,2001,32.0,TaxFoundation_worldwide_corporate_tax_rates,2026-05-01
+VNM,Viet Nam,2002,32.0,TaxFoundation_worldwide_corporate_tax_rates,2026-05-01
+VNM,Viet Nam,2003,32.0,TaxFoundation_worldwide_corporate_tax_rates,2026-05-01
+VNM,Viet Nam,2004,28.0,TaxFoundation_worldwide_corporate_tax_rates,2026-05-01
+VNM,Viet Nam,2005,28.0,TaxFoundation_worldwide_corporate_tax_rates,2026-05-01
+VNM,Viet Nam,2006,28.0,TaxFoundation_worldwide_corporate_tax_rates,2026-05-01
+VNM,Viet Nam,2007,28.0,TaxFoundation_worldwide_corporate_tax_rates,2026-05-01
+VNM,Viet Nam,2008,28.0,TaxFoundation_worldwide_corporate_tax_rates,2026-05-01
+VNM,Viet Nam,2009,25.0,TaxFoundation_worldwide_corporate_tax_rates,2026-05-01
+VNM,Viet Nam,2010,25.0,TaxFoundation_worldwide_corporate_tax_rates,2026-05-01
+VNM,Viet Nam,2011,25.0,TaxFoundation_worldwide_corporate_tax_rates,2026-05-01
+VNM,Viet Nam,2012,25.0,TaxFoundation_worldwide_corporate_tax_rates,2026-05-01
+VNM,Viet Nam,2013,25.0,TaxFoundation_worldwide_corporate_tax_rates,2026-05-01
+VNM,Viet Nam,2014,22.0,TaxFoundation_worldwide_corporate_tax_rates,2026-05-01
+VNM,Viet Nam,2015,22.0,TaxFoundation_worldwide_corporate_tax_rates,2026-05-01
+VNM,Viet Nam,2016,22.0,TaxFoundation_worldwide_corporate_tax_rates,2026-05-01
+VNM,Viet Nam,2017,20.0,TaxFoundation_worldwide_corporate_tax_rates,2026-05-01
+VNM,Viet Nam,2018,20.0,TaxFoundation_worldwide_corporate_tax_rates,2026-05-01
+VNM,Viet Nam,2019,20.0,TaxFoundation_worldwide_corporate_tax_rates,2026-05-01
+VNM,Viet Nam,2020,20.0,TaxFoundation_worldwide_corporate_tax_rates,2026-05-01
+VNM,Viet Nam,2021,20.0,TaxFoundation_worldwide_corporate_tax_rates,2026-05-01
+VNM,Viet Nam,2022,20.0,TaxFoundation_worldwide_corporate_tax_rates,2026-05-01
+VNM,Viet Nam,2023,20.0,TaxFoundation_worldwide_corporate_tax_rates,2026-05-01
