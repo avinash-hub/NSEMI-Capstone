@@ -1,0 +1,12 @@
+state_name,facility_count,total_investment_inr_cr,lead_companies,project_types,earliest_approval,latest_approval,ism_maturity_tier,pib_prids,ism_approved,tier_1_rationale,data_source,retrieval_date,analysis_cutoff
+Gujarat,4,124423,CG Power;Kaynes Technology;Micron Technology;Tata Electronics + PSMC (Taiwan),ATMP;Fab;OSAT;OSAT_ATMP,2023-06-15,2024-09-02,4,1983128;2010132;2050859,1,,NSEMI_Script1c_compiled_from_PIB,2026-05-01,2026-05-01
+Assam,1,27000,Tata Electronics,OSAT_ATMP,2024-02-29,2024-02-29,3,2010132,1,,NSEMI_Script1c_compiled_from_PIB,2026-05-01,2026-05-01
+Odisha,2,4011,3D Glass Solutions Inc. + HIPSPL;SiCSem (Archean Chemicals + Clas-SiC UK),3D_Glass_Packaging;Compound_SiC_Fab_ATMP,2025-08-12,2025-08-12,3,2155456,1,,NSEMI_Script1c_compiled_from_PIB,2026-05-01,2026-05-01
+Uttar Pradesh,1,3706,HCL Group + Foxconn,OSAT,2025-05-14,2025-05-14,3,2128605,1,,NSEMI_Script1c_compiled_from_PIB,2026-05-01,2026-05-01
+Andhra Pradesh,1,468,ASIP Technologies + APACT (Korea),OSAT_SiP,2025-08-12,2025-08-12,2,2155456,1,,NSEMI_Script1c_compiled_from_PIB,2026-05-01,2026-05-01
+Punjab,1,117,Continental Device India Ltd (CDIL),Discrete_Semiconductors,2025-08-12,2025-08-12,2,2155456,1,,NSEMI_Script1c_compiled_from_PIB,2026-05-01,2026-05-01
+Karnataka,0,0,,,,,1,,0,Largest design GCC concentration; Lam Research Feb 2025 commitment; no ISM fab/OSAT,NSEMI_Script1c_compiled_from_PIB,2026-05-01,2026-05-01
+Kerala,0,0,,,,,1,,0,Design / GCC presence only; no ISM unit,NSEMI_Script1c_compiled_from_PIB,2026-05-01,2026-05-01
+Maharashtra,0,0,,,,,1,,0,Vedanta-Foxconn JV collapsed; data centre policy; no ISM unit,NSEMI_Script1c_compiled_from_PIB,2026-05-01,2026-05-01
+Tamil Nadu,0,0,,,,,1,,0,State policy with ≤50% capex top-up; Foxconn/Samsung assembly; no ISM unit,NSEMI_Script1c_compiled_from_PIB,2026-05-01,2026-05-01
+Telangana,0,0,,,,,1,,0,Design ecosystem; no ISM-approved manufacturing,NSEMI_Script1c_compiled_from_PIB,2026-05-01,2026-05-01

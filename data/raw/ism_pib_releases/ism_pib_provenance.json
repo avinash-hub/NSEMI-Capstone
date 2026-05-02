@@ -1,0 +1,115 @@
+{
+  "data_source": "PIB_press_releases_ISM_approvals",
+  "collection_method": "Manual browser print-to-PDF (Akamai bot protection blocks automated downloads)",
+  "collection_date": "2026-05-02",
+  "consolidation_timestamp": "2026-05-02T01:15:01.737179",
+  "rendering_engine": "Browser native print (Chrome/Firefox Save as PDF)",
+  "canonical_summary": {
+    "total_ism_approved_projects": 10,
+    "total_ism_approved_states": 6,
+    "cumulative_investment_inr_crore": 159725,
+    "cumulative_investment_usd_billion_approx": 18.2,
+    "authoritative_count_source": "PIB PRID 2155456 (12 Aug 2025)",
+    "analysis_cutoff_date": "2026-05-01"
+  },
+  "sources": [
+    {
+      "prid": "1983128",
+      "date": "2023-12-06",
+      "topic": "Micron Sanand status update",
+      "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=1983128",
+      "local_file": "PIB_PRID_1983128.pdf",
+      "present": true
+    },
+    {
+      "prid": "2010132",
+      "date": "2024-02-29",
+      "topic": "Tata Dholera + Tata Assam + CG Semi (3 units)",
+      "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2010132",
+      "local_file": "PIB_PRID_2010132.pdf",
+      "present": true
+    },
+    {
+      "prid": "2050859",
+      "date": "2024-09-02",
+      "topic": "Kaynes Semicon Sanand",
+      "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2050859",
+      "local_file": "PIB_PRID_2050859.pdf",
+      "present": true
+    },
+    {
+      "prid": "2128605",
+      "date": "2025-05-14",
+      "topic": "HCL-Foxconn JV in Uttar Pradesh",
+      "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2128605",
+      "local_file": "PIB_PRID_2128605.pdf",
+      "present": true
+    },
+    {
+      "prid": "2155456",
+      "date": "2025-08-12",
+      "topic": "Odisha + Punjab + Andhra Pradesh (4 units, total reaches 10)",
+      "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2155456",
+      "local_file": "PIB_PRID_2155456.pdf",
+      "present": true
+    }
+  ],
+  "rename_log": [
+    {
+      "original_name": "Press Release Page _ Press Information Bureau.pdf",
+      "final_name": "PIB_PRID_1983128.pdf",
+      "prid": "1983128",
+      "topic": "Micron Sanand status update",
+      "date": "2023-12-06",
+      "size_kb": 116.5,
+      "identified_by": "PRID_from_URL",
+      "keyword_match_score": "4/4",
+      "status": "RENAMED"
+    },
+    {
+      "original_name": "Press Release Page _ Press Information Bureau_2.pdf",
+      "final_name": "PIB_PRID_2010132.pdf",
+      "prid": "2010132",
+      "topic": "Tata Dholera + Tata Assam + CG Semi (3 units)",
+      "date": "2024-02-29",
+      "size_kb": 150.8,
+      "identified_by": "PRID_from_URL",
+      "keyword_match_score": "4/4",
+      "status": "RENAMED"
+    },
+    {
+      "original_name": "Press Release Page _ Press Information Bureau_4.pdf",
+      "final_name": "PIB_PRID_2128605.pdf",
+      "prid": "2128605",
+      "topic": "HCL-Foxconn JV in Uttar Pradesh",
+      "date": "2025-05-14",
+      "size_kb": 119.2,
+      "identified_by": "PRID_from_URL",
+      "keyword_match_score": "3/4",
+      "status": "RENAMED"
+    },
+    {
+      "original_name": "Press Release Page _ Press Information Bureau_5.pdf",
+      "final_name": "PIB_PRID_2155456.pdf",
+      "prid": "2155456",
+      "topic": "Odisha + Punjab + Andhra Pradesh (4 units, total reaches 10)",
+      "date": "2025-08-12",
+      "size_kb": 132.5,
+      "identified_by": "PRID_from_URL",
+      "keyword_match_score": "5/5",
+      "status": "RENAMED"
+    },
+    {
+      "original_name": "Press Release_Press Information Bureau_3.pdf",
+      "final_name": "PIB_PRID_2050859.pdf",
+      "prid": "2050859",
+      "topic": "Kaynes Semicon Sanand",
+      "date": "2024-09-02",
+      "size_kb": 122.2,
+      "identified_by": "PRID_from_URL",
+      "keyword_match_score": "3/3",
+      "status": "RENAMED"
+    }
+  ],
+  "completion_status": "COMPLETE"
+}
