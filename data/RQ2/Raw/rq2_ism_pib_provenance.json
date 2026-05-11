@@ -1,0 +1,304 @@
+{
+  "data_source": "PIB_press_releases_ISM_approvals_n6_locked",
+  "collection_method": "Manual browser print-to-PDF + pdfplumber audit",
+  "collection_date": "2026-05-09",
+  "consolidation_timestamp": "2026-05-09T08:03:54.405327",
+  "rendering_engine": "Browser native print + pdfplumber audit",
+  "specification_locked": {
+    "n1": 6,
+    "n2": 22,
+    "total_N": 28,
+    "approved_states": [
+      "Andhra Pradesh",
+      "Assam",
+      "Gujarat",
+      "Odisha",
+      "Punjab",
+      "Uttar Pradesh"
+    ],
+    "authoritative_source": "PIB PRID 2258119 (5 May 2026) — 12 projects, 6 states, ₹1.64 lakh cr",
+    "snapshot_date": "2026-05-05"
+  },
+  "canonical_summary": {
+    "total_ism_approved_projects": 12,
+    "total_ism_approved_states": 6,
+    "cumulative_investment_inr_crore": 163652,
+    "cumulative_investment_lakh_crore": 1.64,
+    "cumulative_investment_usd_billion_approx": 19.72,
+    "authoritative_count_source": "PIB PRID 2258119 (5 May 2026)",
+    "analysis_cutoff_date": "2026-05-09"
+  },
+  "sources": [
+    {
+      "prid": "1983128",
+      "date": "2023-12-06",
+      "topic": "Micron Sanand status (refs Jun 2023 approval)",
+      "projects_listed": 1,
+      "cumulative_state_count_after_release": 1,
+      "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=1983128",
+      "local_file": "PIB_PRID_1983128.pdf",
+      "present": true,
+      "pdf_size_kb": 116.5,
+      "prid_verified_in_text": true
+    },
+    {
+      "prid": "2010132",
+      "date": "2024-02-29",
+      "topic": "Tata-PSMC Dholera + Tata Assam + CG Power Sanand",
+      "projects_listed": 3,
+      "cumulative_state_count_after_release": 2,
+      "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2010132",
+      "local_file": "PIB_PRID_2010132.pdf",
+      "present": true,
+      "pdf_size_kb": 150.8,
+      "prid_verified_in_text": true
+    },
+    {
+      "prid": "2050859",
+      "date": "2024-09-02",
+      "topic": "Kaynes Semicon Sanand",
+      "projects_listed": 1,
+      "cumulative_state_count_after_release": 2,
+      "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2050859",
+      "local_file": "PIB_PRID_2050859.pdf",
+      "present": true,
+      "pdf_size_kb": 122.2,
+      "prid_verified_in_text": true
+    },
+    {
+      "prid": "2128605",
+      "date": "2025-05-14",
+      "topic": "HCL-Foxconn UP YEIDA",
+      "projects_listed": 1,
+      "cumulative_state_count_after_release": 3,
+      "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2128605",
+      "local_file": "PIB_PRID_2128605.pdf",
+      "present": true,
+      "pdf_size_kb": 119.2,
+      "prid_verified_in_text": true
+    },
+    {
+      "prid": "2155456",
+      "date": "2025-08-12",
+      "topic": "Odisha + Punjab + AP (4 units, total reaches 10)",
+      "projects_listed": 4,
+      "cumulative_state_count_after_release": 6,
+      "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2155456",
+      "local_file": "PIB_PRID_2155456.pdf",
+      "present": true,
+      "pdf_size_kb": 132.5,
+      "prid_verified_in_text": true
+    },
+    {
+      "prid": "2258119",
+      "date": "2026-05-05",
+      "topic": "Crystal Matrix + Suchi Semicon GJ (2 units, total reaches 12)",
+      "projects_listed": 2,
+      "cumulative_state_count_after_release": 6,
+      "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2258119",
+      "local_file": "PIB_PRID_2258119.pdf",
+      "present": true,
+      "pdf_size_kb": 129.9,
+      "prid_verified_in_text": true
+    }
+  ],
+  "projects_detail": [
+    {
+      "project_id": 1,
+      "company": "Micron Technology",
+      "state_name": "Gujarat",
+      "city": "Sanand",
+      "facility_type": "OSAT_ATMP",
+      "investment_inr_cr": 22516,
+      "approval_date": "2023-06-15",
+      "pib_prid": "1983128",
+      "project_status": "Operational",
+      "technology_partner": ""
+    },
+    {
+      "project_id": 2,
+      "company": "Tata Electronics + PSMC (Taiwan)",
+      "state_name": "Gujarat",
+      "city": "Dholera",
+      "facility_type": "Fab_28nm",
+      "investment_inr_cr": 91000,
+      "approval_date": "2024-02-29",
+      "pib_prid": "2010132",
+      "project_status": "Construction",
+      "technology_partner": "PSMC Taiwan (28nm logic+memory, 50K WSPM)"
+    },
+    {
+      "project_id": 3,
+      "company": "Tata Semiconductor (TSAT)",
+      "state_name": "Assam",
+      "city": "Morigaon",
+      "facility_type": "ATMP",
+      "investment_inr_cr": 27000,
+      "approval_date": "2024-02-29",
+      "pib_prid": "2010132",
+      "project_status": "Construction",
+      "technology_partner": ""
+    },
+    {
+      "project_id": 4,
+      "company": "CG Power + Renesas Japan",
+      "state_name": "Gujarat",
+      "city": "Sanand",
+      "facility_type": "ATMP_Specialized",
+      "investment_inr_cr": 7600,
+      "approval_date": "2024-02-29",
+      "pib_prid": "2010132",
+      "project_status": "Construction",
+      "technology_partner": "Renesas Japan + Stars Microelectronics Thailand"
+    },
+    {
+      "project_id": 5,
+      "company": "Kaynes Semicon",
+      "state_name": "Gujarat",
+      "city": "Sanand",
+      "facility_type": "OSAT",
+      "investment_inr_cr": 3300,
+      "approval_date": "2024-09-02",
+      "pib_prid": "2050859",
+      "project_status": "Operational",
+      "technology_partner": ""
+    },
+    {
+      "project_id": 6,
+      "company": "HCL + Foxconn",
+      "state_name": "Uttar Pradesh",
+      "city": "Jewar (YEIDA)",
+      "facility_type": "OSAT_Display_Driver",
+      "investment_inr_cr": 3700,
+      "approval_date": "2025-05-14",
+      "pib_prid": "2128605",
+      "project_status": "Approved",
+      "technology_partner": "Foxconn Taiwan (display drivers, 20K WSPM)"
+    },
+    {
+      "project_id": 7,
+      "company": "SiCSem + Clas-SiC UK",
+      "state_name": "Odisha",
+      "city": "Bhubaneshwar (Info Valley)",
+      "facility_type": "Compound_SiC_Fab_ATMP",
+      "investment_inr_cr": 2010,
+      "approval_date": "2025-08-12",
+      "pib_prid": "2155456",
+      "project_status": "Approved",
+      "technology_partner": "Clas-SiC Wafer Fab UK (1st commercial SiC compound fab)"
+    },
+    {
+      "project_id": 8,
+      "company": "3D Glass Solutions Inc. + HIPSPL",
+      "state_name": "Odisha",
+      "city": "Bhubaneshwar (Info Valley)",
+      "facility_type": "3D_Glass_Packaging",
+      "investment_inr_cr": 2001,
+      "approval_date": "2025-08-12",
+      "pib_prid": "2155456",
+      "project_status": "Approved",
+      "technology_partner": "3D Glass Solutions Inc. (US, advanced packaging)"
+    },
+    {
+      "project_id": 9,
+      "company": "Continental Device India Ltd (CDIL)",
+      "state_name": "Punjab",
+      "city": "Mohali",
+      "facility_type": "Discrete_Semiconductors",
+      "investment_inr_cr": 117,
+      "approval_date": "2025-08-12",
+      "pib_prid": "2155456",
+      "project_status": "Approved",
+      "technology_partner": ""
+    },
+    {
+      "project_id": 10,
+      "company": "ASIP Technologies + APACT Korea",
+      "state_name": "Andhra Pradesh",
+      "city": "(state-level)",
+      "facility_type": "OSAT_SiP",
+      "investment_inr_cr": 472,
+      "approval_date": "2025-08-12",
+      "pib_prid": "2155456",
+      "project_status": "Approved",
+      "technology_partner": "APACT Korea (system-in-package)"
+    },
+    {
+      "project_id": 11,
+      "company": "Crystal Matrix Limited (CML)",
+      "state_name": "Gujarat",
+      "city": "Dholera",
+      "facility_type": "Compound_Mini_Micro_LED_GaN_Fab_ATMP",
+      "investment_inr_cr": 2000,
+      "approval_date": "2026-05-05",
+      "pib_prid": "2258119",
+      "project_status": "Approved",
+      "technology_partner": "GaN technology, Mini/Micro-LED display"
+    },
+    {
+      "project_id": 12,
+      "company": "Suchi Semicon Private Limited (SSPL)",
+      "state_name": "Gujarat",
+      "city": "Surat",
+      "facility_type": "OSAT_Discrete",
+      "investment_inr_cr": 1936,
+      "approval_date": "2026-05-05",
+      "pib_prid": "2258119",
+      "project_status": "Approved",
+      "technology_partner": ""
+    }
+  ],
+  "synopsis_audits": [
+    {
+      "check": "28-state census",
+      "passed": true,
+      "detail": "28 states (expected 28-state census)"
+    },
+    {
+      "check": "ISM-approved n₁=6",
+      "passed": true,
+      "detail": "6 states (locked spec: 6 PIB-verified states)"
+    },
+    {
+      "check": "Non-approved n₂=22",
+      "passed": true,
+      "detail": "22 states"
+    },
+    {
+      "check": "Approved states match PIB list",
+      "passed": true,
+      "detail": "Andhra Pradesh, Assam, Gujarat, Odisha, Punjab, Uttar Pradesh"
+    },
+    {
+      "check": "Total projects (PIB-verified)",
+      "passed": true,
+      "detail": "12 projects (PRID 2258119 confirms 12)"
+    },
+    {
+      "check": "Total investment ≥ ₹1.6 lakh cr",
+      "passed": true,
+      "detail": "₹163,652 cr (PRID 2258119: ₹1.64 lakh cr)"
+    },
+    {
+      "check": "PIB PRIDs unique & 7-digit",
+      "passed": true,
+      "detail": "6 unique PRIDs: 1983128, 2010132, 2050859, 2128605, 2155456, 2258119"
+    },
+    {
+      "check": "PIB PDFs available in Drive",
+      "passed": true,
+      "detail": "6/6 PDFs verified"
+    },
+    {
+      "check": "All states valid (no UT contamination)",
+      "passed": true,
+      "detail": "All 28-state census names valid"
+    },
+    {
+      "check": "Tier-status consistency",
+      "passed": true,
+      "detail": "Tier 2-4 ↔ approved=1; Tier 0-1 ↔ approved=0"
+    }
+  ],
+  "completion_status": "COMPLETE"
+}

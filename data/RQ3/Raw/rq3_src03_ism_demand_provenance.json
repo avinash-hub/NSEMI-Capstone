@@ -1,0 +1,61 @@
+{
+  "script_name": "rq3_src03_ism_demand",
+  "research_question": "RQ3",
+  "data_source": "IESA_PIB_compiled_workforce_demand",
+  "extraction_start": "2026-05-09T11:06:09.288523+00:00",
+  "extraction_end": "2026-05-09T11:06:10.047556+00:00",
+  "total_api_calls": 1,
+  "total_errors": 0,
+  "errors": [],
+  "output": {
+    "csv_path": "/content/drive/MyDrive/Walsh_Masters/Term-2_Capstone/RQ3/Raw/rq3_ism_demand_projections.csv",
+    "total_rows": 3,
+    "total_columns": 14,
+    "null_cell_count": 0,
+    "null_percentage": 0.0,
+    "column_names": [
+      "projection_year",
+      "metric",
+      "value",
+      "unit",
+      "source",
+      "primary_source_url",
+      "pib_prid_cited",
+      "category",
+      "notes",
+      "period_granularity",
+      "synopsis_aligned",
+      "source_priority",
+      "data_source",
+      "retrieval_date"
+    ]
+  },
+  "environment": {
+    "python_version": "3.12.13 (main, Mar  4 2026, 09:23:07) [GCC 11.4.0]",
+    "platform": "Linux-6.6.122+-x86_64-with-glibc2.35",
+    "execute_flag": true
+  },
+  "entries_count": 2,
+  "errors_count": 0,
+  "first_entry": {
+    "timestamp": "2026-05-09T11:06:09.291579+00:00",
+    "type": "api_call",
+    "url": "compiled://IESA_PIB_workforce_demand",
+    "params": {
+      "milestone_years": [
+        2025,
+        2027,
+        2030
+      ],
+      "sources_cited": [
+        "IESA Semicon India Report 2024",
+        "PIB ISM Press Releases (cumulative across approved fabs/OSATs)",
+        "IESA \"1.5M by 2030\" Projection"
+      ],
+      "audits_passed": 5
+    },
+    "http_status": 200,
+    "rows_returned": 3,
+    "notes": "Headline figures from IESA Semicon India Report + PIB ISM cumulative"
+  }
+}

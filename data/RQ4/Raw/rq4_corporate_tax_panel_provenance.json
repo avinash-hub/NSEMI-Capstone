@@ -1,0 +1,160 @@
+{
+  "script_name": "rq4_src02_corporate_tax",
+  "research_question": "RQ4",
+  "data_source": "TaxFoundation_GitHub_with_OECD_SDMX_patch",
+  "extraction_start": "2026-05-09T11:20:04.584546+00:00",
+  "extraction_end": "2026-05-09T11:20:19.760139+00:00",
+  "total_api_calls": 9,
+  "total_errors": 0,
+  "errors": [],
+  "transform_log": [
+    {
+      "timestamp": "2026-05-09T11:20:04.729510+00:00",
+      "type": "api_call",
+      "url": "https://raw.githubusercontent.com/TaxFoundation/worldwide-corporate-tax-rates/master/final_data/final_data_long.csv",
+      "params": {},
+      "http_status": 200,
+      "rows_returned": 0,
+      "notes": "final_data_long.csv (1980-2023, long format)"
+    },
+    {
+      "timestamp": "2026-05-09T11:20:07.299384+00:00",
+      "type": "api_call",
+      "url": "https://sdmx.oecd.org/public/rest/data/OECD.CTP.TPS,DSD_TAX_CIT@DF_CIT,1.0/CHN.A.CIT_RATE.....?startPeriod=2015&endPeriod=2024&dimensionAtObservation=AllDimensions&format=csvfilewithlabels",
+      "params": {
+        "country": "CHN"
+      },
+      "http_status": 404,
+      "rows_returned": 0,
+      "notes": "OECD CTS CIT_RATE for CHN"
+    },
+    {
+      "timestamp": "2026-05-09T11:20:09.926718+00:00",
+      "type": "api_call",
+      "url": "https://sdmx.oecd.org/public/rest/data/OECD.CTP.TPS,DSD_TAX_CIT@DF_CIT,1.0/DEU.A.CIT_RATE.....?startPeriod=2015&endPeriod=2024&dimensionAtObservation=AllDimensions&format=csvfilewithlabels",
+      "params": {
+        "country": "DEU"
+      },
+      "http_status": 404,
+      "rows_returned": 0,
+      "notes": "OECD CTS CIT_RATE for DEU"
+    },
+    {
+      "timestamp": "2026-05-09T11:20:11.860795+00:00",
+      "type": "api_call",
+      "url": "https://sdmx.oecd.org/public/rest/data/OECD.CTP.TPS,DSD_TAX_CIT@DF_CIT,1.0/IND.A.CIT_RATE.....?startPeriod=2015&endPeriod=2024&dimensionAtObservation=AllDimensions&format=csvfilewithlabels",
+      "params": {
+        "country": "IND"
+      },
+      "http_status": 404,
+      "rows_returned": 0,
+      "notes": "OECD CTS CIT_RATE for IND"
+    },
+    {
+      "timestamp": "2026-05-09T11:20:13.114130+00:00",
+      "type": "api_call",
+      "url": "https://sdmx.oecd.org/public/rest/data/OECD.CTP.TPS,DSD_TAX_CIT@DF_CIT,1.0/JPN.A.CIT_RATE.....?startPeriod=2015&endPeriod=2024&dimensionAtObservation=AllDimensions&format=csvfilewithlabels",
+      "params": {
+        "country": "JPN"
+      },
+      "http_status": 404,
+      "rows_returned": 0,
+      "notes": "OECD CTS CIT_RATE for JPN"
+    },
+    {
+      "timestamp": "2026-05-09T11:20:14.187231+00:00",
+      "type": "api_call",
+      "url": "https://sdmx.oecd.org/public/rest/data/OECD.CTP.TPS,DSD_TAX_CIT@DF_CIT,1.0/KOR.A.CIT_RATE.....?startPeriod=2015&endPeriod=2024&dimensionAtObservation=AllDimensions&format=csvfilewithlabels",
+      "params": {
+        "country": "KOR"
+      },
+      "http_status": 404,
+      "rows_returned": 0,
+      "notes": "OECD CTS CIT_RATE for KOR"
+    },
+    {
+      "timestamp": "2026-05-09T11:20:16.043364+00:00",
+      "type": "api_call",
+      "url": "https://sdmx.oecd.org/public/rest/data/OECD.CTP.TPS,DSD_TAX_CIT@DF_CIT,1.0/MYS.A.CIT_RATE.....?startPeriod=2015&endPeriod=2024&dimensionAtObservation=AllDimensions&format=csvfilewithlabels",
+      "params": {
+        "country": "MYS"
+      },
+      "http_status": 404,
+      "rows_returned": 0,
+      "notes": "OECD CTS CIT_RATE for MYS"
+    },
+    {
+      "timestamp": "2026-05-09T11:20:17.754158+00:00",
+      "type": "api_call",
+      "url": "https://sdmx.oecd.org/public/rest/data/OECD.CTP.TPS,DSD_TAX_CIT@DF_CIT,1.0/USA.A.CIT_RATE.....?startPeriod=2015&endPeriod=2024&dimensionAtObservation=AllDimensions&format=csvfilewithlabels",
+      "params": {
+        "country": "USA"
+      },
+      "http_status": 404,
+      "rows_returned": 0,
+      "notes": "OECD CTS CIT_RATE for USA"
+    },
+    {
+      "timestamp": "2026-05-09T11:20:19.485073+00:00",
+      "type": "api_call",
+      "url": "https://sdmx.oecd.org/public/rest/data/OECD.CTP.TPS,DSD_TAX_CIT@DF_CIT,1.0/VNM.A.CIT_RATE.....?startPeriod=2015&endPeriod=2024&dimensionAtObservation=AllDimensions&format=csvfilewithlabels",
+      "params": {
+        "country": "VNM"
+      },
+      "http_status": 404,
+      "rows_returned": 0,
+      "notes": "OECD CTS CIT_RATE for VNM"
+    },
+    {
+      "timestamp": "2026-05-09T11:20:19.513207+00:00",
+      "type": "transform",
+      "operation": "taxfoundation_github_with_oecd_sdmx_fallback",
+      "input_rows": 0,
+      "output_rows": 80,
+      "columns": [
+        "country_iso3",
+        "country_name",
+        "year",
+        "indicator_code",
+        "indicator",
+        "corporate_tax_rate_pct",
+        "carry_forward",
+        "carry_forward_from",
+        "source_tier",
+        "period_granularity",
+        "synopsis_aligned",
+        "source_priority"
+      ],
+      "notes": "TF source URL: https://raw.githubusercontent.com/TaxFoundation/worldwide-corporate-tax-rates/master/final_data/final_data_long.csv; OECD CTS DSD_TAX_CIT@DF_CIT for 8 gap cells"
+    }
+  ],
+  "output": {
+    "csv_path": "/content/drive/MyDrive/Walsh_Masters/Term-2_Capstone/RQ4/Raw/rq4_corporate_tax_panel.csv",
+    "total_rows": 80,
+    "total_columns": 14,
+    "null_cell_count": 72,
+    "null_percentage": 6.43,
+    "column_names": [
+      "country_iso3",
+      "country_name",
+      "year",
+      "indicator_code",
+      "indicator",
+      "corporate_tax_rate_pct",
+      "carry_forward",
+      "carry_forward_from",
+      "source_tier",
+      "period_granularity",
+      "synopsis_aligned",
+      "source_priority",
+      "data_source",
+      "retrieval_date"
+    ]
+  },
+  "environment": {
+    "python_version": "3.12.13",
+    "platform": "Linux-6.6.122+-x86_64-with-glibc2.35",
+    "pandas_version": "2.2.2",
+    "numpy_version": "2.0.2"
+  }
+}

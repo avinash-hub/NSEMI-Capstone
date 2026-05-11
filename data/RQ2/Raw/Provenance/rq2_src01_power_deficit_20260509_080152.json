@@ -1,0 +1,78 @@
+{
+  "script_name": "rq2_src01_power_deficit",
+  "research_question": "RQ2",
+  "data_source": "CEA_LGBR_priority_with_ES_fallback",
+  "extraction_start": "2026-05-09T08:00:56.909710+00:00",
+  "extraction_end": "2026-05-09T08:01:52.402530+00:00",
+  "total_api_calls": 1,
+  "total_errors": 0,
+  "entries": [
+    {
+      "timestamp": "2026-05-09T08:01:52.378178+00:00",
+      "type": "api_call",
+      "url": "priority_hierarchy://['LOAD_GENERATION_BALANCE_REPORT_2024_25.pdf', 'LOAD_GENERATION_BALANCE_REPORT_2025_26.pdf', 'CEA_Executive_Summary_April_2024.pdf']",
+      "params": {
+        "chosen_priority": "P1",
+        "coverage_score": 100,
+        "extracted_what": [
+          "state-level FY 2023-24 deficit % for 28/28 states (from LOAD_GENERATION_BALANCE_REPORT_2024_25.pdf)"
+        ],
+        "missing_what": []
+      },
+      "http_status": 200,
+      "rows_returned": 28,
+      "notes": "Source-priority cascade; merged-cell-aware LGBR extraction"
+    },
+    {
+      "timestamp": "2026-05-09T08:01:52.378238+00:00",
+      "type": "transform",
+      "operation": "extract_P1",
+      "input_rows": 28,
+      "output_rows": 28,
+      "columns": [
+        "state",
+        "fy",
+        "energy_requirement_mu",
+        "energy_supplied_mu",
+        "energy_not_supplied_mu",
+        "energy_deficit_pct",
+        "period_granularity",
+        "synopsis_aligned",
+        "source_priority",
+        "source_pdf",
+        "source_page",
+        "source_description"
+      ],
+      "notes": "Coverage=100/100"
+    }
+  ],
+  "errors": [],
+  "output": {
+    "csv_path": "/content/drive/MyDrive/Walsh_Masters/Term-2_Capstone/RQ2/Raw/rq2_cea_deficit.csv",
+    "total_rows": 28,
+    "total_columns": 14,
+    "null_cell_count": 0,
+    "null_percentage": 0.0,
+    "column_names": [
+      "state",
+      "fy",
+      "energy_requirement_mu",
+      "energy_supplied_mu",
+      "energy_not_supplied_mu",
+      "energy_deficit_pct",
+      "period_granularity",
+      "synopsis_aligned",
+      "source_priority",
+      "source_pdf",
+      "source_page",
+      "source_description",
+      "data_source",
+      "retrieval_date"
+    ]
+  },
+  "environment": {
+    "python_version": "3.12.13 (main, Mar  4 2026, 09:23:07) [GCC 11.4.0]",
+    "platform": "Linux-6.6.122+-x86_64-with-glibc2.35",
+    "execute_flag": true
+  }
+}

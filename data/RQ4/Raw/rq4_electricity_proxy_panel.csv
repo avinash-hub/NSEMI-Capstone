@@ -1,0 +1,77 @@
+country_iso3,country_name,year,indicator_code,indicator,electricity_kwh_per_capita,proxy_for,period_granularity,synopsis_aligned,source_priority,data_source,retrieval_date
+CHN,China,2015,EG.USE.ELEC.KH.PC,electricity_kwh_per_capita,4017.07781948893,industrial_electricity_price (IEA gated),annual,True,P1,WorldBank_API_EG_USE_ELEC_KH_PC,2026-05-09
+CHN,China,2016,EG.USE.ELEC.KH.PC,electricity_kwh_per_capita,4237.54530584599,industrial_electricity_price (IEA gated),annual,True,P1,WorldBank_API_EG_USE_ELEC_KH_PC,2026-05-09
+CHN,China,2017,EG.USE.ELEC.KH.PC,electricity_kwh_per_capita,4571.04242541442,industrial_electricity_price (IEA gated),annual,True,P1,WorldBank_API_EG_USE_ELEC_KH_PC,2026-05-09
+CHN,China,2018,EG.USE.ELEC.KH.PC,electricity_kwh_per_capita,4842.2067923237,industrial_electricity_price (IEA gated),annual,True,P1,WorldBank_API_EG_USE_ELEC_KH_PC,2026-05-09
+CHN,China,2019,EG.USE.ELEC.KH.PC,electricity_kwh_per_capita,5082.38779040238,industrial_electricity_price (IEA gated),annual,True,P1,WorldBank_API_EG_USE_ELEC_KH_PC,2026-05-09
+CHN,China,2020,EG.USE.ELEC.KH.PC,electricity_kwh_per_capita,5261.94103890582,industrial_electricity_price (IEA gated),annual,True,P1,WorldBank_API_EG_USE_ELEC_KH_PC,2026-05-09
+CHN,China,2021,EG.USE.ELEC.KH.PC,electricity_kwh_per_capita,5847.80226004701,industrial_electricity_price (IEA gated),annual,True,P1,WorldBank_API_EG_USE_ELEC_KH_PC,2026-05-09
+CHN,China,2022,EG.USE.ELEC.KH.PC,electricity_kwh_per_capita,6112.13553560996,industrial_electricity_price (IEA gated),annual,True,P1,WorldBank_API_EG_USE_ELEC_KH_PC,2026-05-09
+CHN,China,2023,EG.USE.ELEC.KH.PC,electricity_kwh_per_capita,6523.71926193193,industrial_electricity_price (IEA gated),annual,True,P1,WorldBank_API_EG_USE_ELEC_KH_PC,2026-05-09
+DEU,Germany,2015,EG.USE.ELEC.KH.PC,electricity_kwh_per_capita,7032.02144106578,industrial_electricity_price (IEA gated),annual,True,P1,WorldBank_API_EG_USE_ELEC_KH_PC,2026-05-09
+DEU,Germany,2016,EG.USE.ELEC.KH.PC,electricity_kwh_per_capita,6972.36527283762,industrial_electricity_price (IEA gated),annual,True,P1,WorldBank_API_EG_USE_ELEC_KH_PC,2026-05-09
+DEU,Germany,2017,EG.USE.ELEC.KH.PC,electricity_kwh_per_capita,6947.26382648139,industrial_electricity_price (IEA gated),annual,True,P1,WorldBank_API_EG_USE_ELEC_KH_PC,2026-05-09
+DEU,Germany,2018,EG.USE.ELEC.KH.PC,electricity_kwh_per_capita,6815.82136213371,industrial_electricity_price (IEA gated),annual,True,P1,WorldBank_API_EG_USE_ELEC_KH_PC,2026-05-09
+DEU,Germany,2019,EG.USE.ELEC.KH.PC,electricity_kwh_per_capita,6580.29256436905,industrial_electricity_price (IEA gated),annual,True,P1,WorldBank_API_EG_USE_ELEC_KH_PC,2026-05-09
+DEU,Germany,2020,EG.USE.ELEC.KH.PC,electricity_kwh_per_capita,6367.10502947955,industrial_electricity_price (IEA gated),annual,True,P1,WorldBank_API_EG_USE_ELEC_KH_PC,2026-05-09
+DEU,Germany,2021,EG.USE.ELEC.KH.PC,electricity_kwh_per_capita,6582.54587433797,industrial_electricity_price (IEA gated),annual,True,P1,WorldBank_API_EG_USE_ELEC_KH_PC,2026-05-09
+DEU,Germany,2022,EG.USE.ELEC.KH.PC,electricity_kwh_per_capita,6316.27571164921,industrial_electricity_price (IEA gated),annual,True,P1,WorldBank_API_EG_USE_ELEC_KH_PC,2026-05-09
+DEU,Germany,2023,EG.USE.ELEC.KH.PC,electricity_kwh_per_capita,5947.27119952649,industrial_electricity_price (IEA gated),annual,True,P1,WorldBank_API_EG_USE_ELEC_KH_PC,2026-05-09
+DEU,Germany,2024,EG.USE.ELEC.KH.PC,electricity_kwh_per_capita,6109.08541252395,industrial_electricity_price (IEA gated),annual,True,P1,WorldBank_API_EG_USE_ELEC_KH_PC,2026-05-09
+IND,India,2015,EG.USE.ELEC.KH.PC,electricity_kwh_per_capita,841.085387869102,industrial_electricity_price (IEA gated),annual,True,P1,WorldBank_API_EG_USE_ELEC_KH_PC,2026-05-09
+IND,India,2016,EG.USE.ELEC.KH.PC,electricity_kwh_per_capita,879.945696796945,industrial_electricity_price (IEA gated),annual,True,P1,WorldBank_API_EG_USE_ELEC_KH_PC,2026-05-09
+IND,India,2017,EG.USE.ELEC.KH.PC,electricity_kwh_per_capita,918.313686962613,industrial_electricity_price (IEA gated),annual,True,P1,WorldBank_API_EG_USE_ELEC_KH_PC,2026-05-09
+IND,India,2018,EG.USE.ELEC.KH.PC,electricity_kwh_per_capita,970.834176233242,industrial_electricity_price (IEA gated),annual,True,P1,WorldBank_API_EG_USE_ELEC_KH_PC,2026-05-09
+IND,India,2019,EG.USE.ELEC.KH.PC,electricity_kwh_per_capita,988.272169542114,industrial_electricity_price (IEA gated),annual,True,P1,WorldBank_API_EG_USE_ELEC_KH_PC,2026-05-09
+IND,India,2020,EG.USE.ELEC.KH.PC,electricity_kwh_per_capita,901.399579163301,industrial_electricity_price (IEA gated),annual,True,P1,WorldBank_API_EG_USE_ELEC_KH_PC,2026-05-09
+IND,India,2021,EG.USE.ELEC.KH.PC,electricity_kwh_per_capita,963.363913685612,industrial_electricity_price (IEA gated),annual,True,P1,WorldBank_API_EG_USE_ELEC_KH_PC,2026-05-09
+IND,India,2022,EG.USE.ELEC.KH.PC,electricity_kwh_per_capita,1085.33520920382,industrial_electricity_price (IEA gated),annual,True,P1,WorldBank_API_EG_USE_ELEC_KH_PC,2026-05-09
+IND,India,2023,EG.USE.ELEC.KH.PC,electricity_kwh_per_capita,1181.63126786529,industrial_electricity_price (IEA gated),annual,True,P1,WorldBank_API_EG_USE_ELEC_KH_PC,2026-05-09
+JPN,Japan,2015,EG.USE.ELEC.KH.PC,electricity_kwh_per_capita,8007.09448564979,industrial_electricity_price (IEA gated),annual,True,P1,WorldBank_API_EG_USE_ELEC_KH_PC,2026-05-09
+JPN,Japan,2016,EG.USE.ELEC.KH.PC,electricity_kwh_per_capita,8066.01561270421,industrial_electricity_price (IEA gated),annual,True,P1,WorldBank_API_EG_USE_ELEC_KH_PC,2026-05-09
+JPN,Japan,2017,EG.USE.ELEC.KH.PC,electricity_kwh_per_capita,8190.60107740289,industrial_electricity_price (IEA gated),annual,True,P1,WorldBank_API_EG_USE_ELEC_KH_PC,2026-05-09
+JPN,Japan,2018,EG.USE.ELEC.KH.PC,electricity_kwh_per_capita,8058.01547184393,industrial_electricity_price (IEA gated),annual,True,P1,WorldBank_API_EG_USE_ELEC_KH_PC,2026-05-09
+JPN,Japan,2019,EG.USE.ELEC.KH.PC,electricity_kwh_per_capita,7853.03988691731,industrial_electricity_price (IEA gated),annual,True,P1,WorldBank_API_EG_USE_ELEC_KH_PC,2026-05-09
+JPN,Japan,2020,EG.USE.ELEC.KH.PC,electricity_kwh_per_capita,7687.25893189504,industrial_electricity_price (IEA gated),annual,True,P1,WorldBank_API_EG_USE_ELEC_KH_PC,2026-05-09
+JPN,Japan,2021,EG.USE.ELEC.KH.PC,electricity_kwh_per_capita,7960.01209182637,industrial_electricity_price (IEA gated),annual,True,P1,WorldBank_API_EG_USE_ELEC_KH_PC,2026-05-09
+JPN,Japan,2022,EG.USE.ELEC.KH.PC,electricity_kwh_per_capita,7800.08060580129,industrial_electricity_price (IEA gated),annual,True,P1,WorldBank_API_EG_USE_ELEC_KH_PC,2026-05-09
+JPN,Japan,2023,EG.USE.ELEC.KH.PC,electricity_kwh_per_capita,7655.01641748312,industrial_electricity_price (IEA gated),annual,True,P1,WorldBank_API_EG_USE_ELEC_KH_PC,2026-05-09
+JPN,Japan,2024,EG.USE.ELEC.KH.PC,electricity_kwh_per_capita,7530.06014396198,industrial_electricity_price (IEA gated),annual,True,P1,WorldBank_API_EG_USE_ELEC_KH_PC,2026-05-09
+KOR,"Korea, Rep.",2015,EG.USE.ELEC.KH.PC,electricity_kwh_per_capita,10429.080716285,industrial_electricity_price (IEA gated),annual,True,P1,WorldBank_API_EG_USE_ELEC_KH_PC,2026-05-09
+KOR,"Korea, Rep.",2016,EG.USE.ELEC.KH.PC,electricity_kwh_per_capita,10609.8069063993,industrial_electricity_price (IEA gated),annual,True,P1,WorldBank_API_EG_USE_ELEC_KH_PC,2026-05-09
+KOR,"Korea, Rep.",2017,EG.USE.ELEC.KH.PC,electricity_kwh_per_capita,10811.7667195054,industrial_electricity_price (IEA gated),annual,True,P1,WorldBank_API_EG_USE_ELEC_KH_PC,2026-05-09
+KOR,"Korea, Rep.",2018,EG.USE.ELEC.KH.PC,electricity_kwh_per_capita,11161.8174394609,industrial_electricity_price (IEA gated),annual,True,P1,WorldBank_API_EG_USE_ELEC_KH_PC,2026-05-09
+KOR,"Korea, Rep.",2019,EG.USE.ELEC.KH.PC,electricity_kwh_per_capita,10943.203861495,industrial_electricity_price (IEA gated),annual,True,P1,WorldBank_API_EG_USE_ELEC_KH_PC,2026-05-09
+KOR,"Korea, Rep.",2020,EG.USE.ELEC.KH.PC,electricity_kwh_per_capita,11104.6636697543,industrial_electricity_price (IEA gated),annual,True,P1,WorldBank_API_EG_USE_ELEC_KH_PC,2026-05-09
+KOR,"Korea, Rep.",2021,EG.USE.ELEC.KH.PC,electricity_kwh_per_capita,11726.219930218,industrial_electricity_price (IEA gated),annual,True,P1,WorldBank_API_EG_USE_ELEC_KH_PC,2026-05-09
+KOR,"Korea, Rep.",2022,EG.USE.ELEC.KH.PC,electricity_kwh_per_capita,11705.6305058105,industrial_electricity_price (IEA gated),annual,True,P1,WorldBank_API_EG_USE_ELEC_KH_PC,2026-05-09
+KOR,"Korea, Rep.",2023,EG.USE.ELEC.KH.PC,electricity_kwh_per_capita,11426.0699114852,industrial_electricity_price (IEA gated),annual,True,P1,WorldBank_API_EG_USE_ELEC_KH_PC,2026-05-09
+KOR,"Korea, Rep.",2024,EG.USE.ELEC.KH.PC,electricity_kwh_per_capita,11350.1625522103,industrial_electricity_price (IEA gated),annual,True,P1,WorldBank_API_EG_USE_ELEC_KH_PC,2026-05-09
+MYS,Malaysia,2015,EG.USE.ELEC.KH.PC,electricity_kwh_per_capita,4475.45557717884,industrial_electricity_price (IEA gated),annual,True,P1,WorldBank_API_EG_USE_ELEC_KH_PC,2026-05-09
+MYS,Malaysia,2016,EG.USE.ELEC.KH.PC,electricity_kwh_per_capita,4567.39347999202,industrial_electricity_price (IEA gated),annual,True,P1,WorldBank_API_EG_USE_ELEC_KH_PC,2026-05-09
+MYS,Malaysia,2017,EG.USE.ELEC.KH.PC,electricity_kwh_per_capita,4699.08742969233,industrial_electricity_price (IEA gated),annual,True,P1,WorldBank_API_EG_USE_ELEC_KH_PC,2026-05-09
+MYS,Malaysia,2018,EG.USE.ELEC.KH.PC,electricity_kwh_per_capita,4778.80215430923,industrial_electricity_price (IEA gated),annual,True,P1,WorldBank_API_EG_USE_ELEC_KH_PC,2026-05-09
+MYS,Malaysia,2019,EG.USE.ELEC.KH.PC,electricity_kwh_per_capita,4916.27003298625,industrial_electricity_price (IEA gated),annual,True,P1,WorldBank_API_EG_USE_ELEC_KH_PC,2026-05-09
+MYS,Malaysia,2020,EG.USE.ELEC.KH.PC,electricity_kwh_per_capita,4738.24415178268,industrial_electricity_price (IEA gated),annual,True,P1,WorldBank_API_EG_USE_ELEC_KH_PC,2026-05-09
+MYS,Malaysia,2021,EG.USE.ELEC.KH.PC,electricity_kwh_per_capita,4860.54082737909,industrial_electricity_price (IEA gated),annual,True,P1,WorldBank_API_EG_USE_ELEC_KH_PC,2026-05-09
+MYS,Malaysia,2022,EG.USE.ELEC.KH.PC,electricity_kwh_per_capita,5240.96890624958,industrial_electricity_price (IEA gated),annual,True,P1,WorldBank_API_EG_USE_ELEC_KH_PC,2026-05-09
+MYS,Malaysia,2023,EG.USE.ELEC.KH.PC,electricity_kwh_per_capita,5083.71249369916,industrial_electricity_price (IEA gated),annual,True,P1,WorldBank_API_EG_USE_ELEC_KH_PC,2026-05-09
+USA,United States,2015,EG.USE.ELEC.KH.PC,electricity_kwh_per_capita,12828.8160828838,industrial_electricity_price (IEA gated),annual,True,P1,WorldBank_API_EG_USE_ELEC_KH_PC,2026-05-09
+USA,United States,2016,EG.USE.ELEC.KH.PC,electricity_kwh_per_capita,12806.1977101885,industrial_electricity_price (IEA gated),annual,True,P1,WorldBank_API_EG_USE_ELEC_KH_PC,2026-05-09
+USA,United States,2017,EG.USE.ELEC.KH.PC,electricity_kwh_per_capita,12604.1625559233,industrial_electricity_price (IEA gated),annual,True,P1,WorldBank_API_EG_USE_ELEC_KH_PC,2026-05-09
+USA,United States,2018,EG.USE.ELEC.KH.PC,electricity_kwh_per_capita,13054.4045353944,industrial_electricity_price (IEA gated),annual,True,P1,WorldBank_API_EG_USE_ELEC_KH_PC,2026-05-09
+USA,United States,2019,EG.USE.ELEC.KH.PC,electricity_kwh_per_capita,12678.2540503665,industrial_electricity_price (IEA gated),annual,True,P1,WorldBank_API_EG_USE_ELEC_KH_PC,2026-05-09
+USA,United States,2020,EG.USE.ELEC.KH.PC,electricity_kwh_per_capita,12393.4382563461,industrial_electricity_price (IEA gated),annual,True,P1,WorldBank_API_EG_USE_ELEC_KH_PC,2026-05-09
+USA,United States,2021,EG.USE.ELEC.KH.PC,electricity_kwh_per_capita,12556.0915792291,industrial_electricity_price (IEA gated),annual,True,P1,WorldBank_API_EG_USE_ELEC_KH_PC,2026-05-09
+USA,United States,2022,EG.USE.ELEC.KH.PC,electricity_kwh_per_capita,12968.1628097364,industrial_electricity_price (IEA gated),annual,True,P1,WorldBank_API_EG_USE_ELEC_KH_PC,2026-05-09
+USA,United States,2023,EG.USE.ELEC.KH.PC,electricity_kwh_per_capita,12551.2256333524,industrial_electricity_price (IEA gated),annual,True,P1,WorldBank_API_EG_USE_ELEC_KH_PC,2026-05-09
+USA,United States,2024,EG.USE.ELEC.KH.PC,electricity_kwh_per_capita,12835.2954006884,industrial_electricity_price (IEA gated),annual,True,P1,WorldBank_API_EG_USE_ELEC_KH_PC,2026-05-09
+VNM,Viet Nam,2015,EG.USE.ELEC.KH.PC,electricity_kwh_per_capita,1615.48958410788,industrial_electricity_price (IEA gated),annual,True,P1,WorldBank_API_EG_USE_ELEC_KH_PC,2026-05-09
+VNM,Viet Nam,2016,EG.USE.ELEC.KH.PC,electricity_kwh_per_capita,1788.72117786832,industrial_electricity_price (IEA gated),annual,True,P1,WorldBank_API_EG_USE_ELEC_KH_PC,2026-05-09
+VNM,Viet Nam,2017,EG.USE.ELEC.KH.PC,electricity_kwh_per_capita,1918.19498532718,industrial_electricity_price (IEA gated),annual,True,P1,WorldBank_API_EG_USE_ELEC_KH_PC,2026-05-09
+VNM,Viet Nam,2018,EG.USE.ELEC.KH.PC,electricity_kwh_per_capita,2115.35402394159,industrial_electricity_price (IEA gated),annual,True,P1,WorldBank_API_EG_USE_ELEC_KH_PC,2026-05-09
+VNM,Viet Nam,2019,EG.USE.ELEC.KH.PC,electricity_kwh_per_capita,2290.2681069016,industrial_electricity_price (IEA gated),annual,True,P1,WorldBank_API_EG_USE_ELEC_KH_PC,2026-05-09
+VNM,Viet Nam,2020,EG.USE.ELEC.KH.PC,electricity_kwh_per_capita,2303.70986644863,industrial_electricity_price (IEA gated),annual,True,P1,WorldBank_API_EG_USE_ELEC_KH_PC,2026-05-09
+VNM,Viet Nam,2021,EG.USE.ELEC.KH.PC,electricity_kwh_per_capita,2403.54540306818,industrial_electricity_price (IEA gated),annual,True,P1,WorldBank_API_EG_USE_ELEC_KH_PC,2026-05-09
+VNM,Viet Nam,2022,EG.USE.ELEC.KH.PC,electricity_kwh_per_capita,2624.40089303185,industrial_electricity_price (IEA gated),annual,True,P1,WorldBank_API_EG_USE_ELEC_KH_PC,2026-05-09
+VNM,Viet Nam,2023,EG.USE.ELEC.KH.PC,electricity_kwh_per_capita,2585.49409663119,industrial_electricity_price (IEA gated),annual,True,P1,WorldBank_API_EG_USE_ELEC_KH_PC,2026-05-09

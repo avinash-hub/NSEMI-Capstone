@@ -1,0 +1,87 @@
+{
+  "script_name": "rq2_src05_ism_approved_states",
+  "research_question": "RQ2",
+  "data_source": "PIB_n6_verified_12projects_2026_05",
+  "extraction_start": "2026-05-09T08:03:47.521224+00:00",
+  "extraction_end": "2026-05-09T08:03:54.623645+00:00",
+  "total_api_calls": 1,
+  "total_errors": 0,
+  "entries": [
+    {
+      "timestamp": "2026-05-09T08:03:54.610355+00:00",
+      "type": "api_call",
+      "url": "compiled://PIB_press_releases",
+      "params": {
+        "pib_prids": [
+          "1983128",
+          "2010132",
+          "2050859",
+          "2128605",
+          "2155456",
+          "2258119"
+        ],
+        "n1_approved": 6,
+        "n2_nonapproved": 22,
+        "n_projects": 12,
+        "audits_passed": 10,
+        "audits_total": 10
+      },
+      "http_status": 200,
+      "rows_returned": 28,
+      "notes": "PIB-verified n=6 compilation; 12 projects across 6 states"
+    },
+    {
+      "timestamp": "2026-05-09T08:03:54.610417+00:00",
+      "type": "transform",
+      "operation": "compile_pib_n6_locked",
+      "input_rows": 12,
+      "output_rows": 28,
+      "columns": [
+        "state_name",
+        "ism_approved",
+        "facility_count",
+        "total_investment_inr_cr",
+        "lead_companies",
+        "project_types",
+        "earliest_approval",
+        "latest_approval",
+        "ism_maturity_tier",
+        "pib_prids",
+        "tier_1_rationale",
+        "data_source",
+        "retrieval_date",
+        "analysis_cutoff"
+      ],
+      "notes": "6 PRIDs cross-referenced; 10 audits run"
+    }
+  ],
+  "errors": [],
+  "output": {
+    "csv_path": "/content/drive/MyDrive/Walsh_Masters/Term-2_Capstone/RQ2/Raw/rq2_ism_approved_states_n6_verified_2026_05.csv",
+    "total_rows": 28,
+    "total_columns": 14,
+    "null_cell_count": 0,
+    "null_percentage": 0.0,
+    "column_names": [
+      "state_name",
+      "ism_approved",
+      "facility_count",
+      "total_investment_inr_cr",
+      "lead_companies",
+      "project_types",
+      "earliest_approval",
+      "latest_approval",
+      "ism_maturity_tier",
+      "pib_prids",
+      "tier_1_rationale",
+      "data_source",
+      "retrieval_date",
+      "analysis_cutoff"
+    ]
+  },
+  "environment": {
+    "python_version": "3.12.13 (main, Mar  4 2026, 09:23:07) [GCC 11.4.0]",
+    "platform": "Linux-6.6.122+-x86_64-with-glibc2.35",
+    "execute_flag": true
+  }
+}

@@ -1,0 +1,62 @@
+{
+  "script_name": "rq3_src02_aicte_offline_csv",
+  "research_question": "RQ3",
+  "data_source": "AICTE_Handbook_offline_mirror_of_datagov_57cf415f",
+  "extraction_start": "2026-05-09T11:06:03.758320+00:00",
+  "extraction_end": "2026-05-09T11:06:05.518035+00:00",
+  "total_api_calls": 1,
+  "total_errors": 0,
+  "errors": [],
+  "output": {
+    "csv_path": "/content/drive/MyDrive/Walsh_Masters/Term-2_Capstone/RQ3/Raw/rq3_aicte_intake_long.csv",
+    "total_rows": 112,
+    "total_columns": 15,
+    "null_cell_count": 0,
+    "null_percentage": 0.0,
+    "column_names": [
+      "state",
+      "academic_year",
+      "year",
+      "institutions",
+      "approved_intake",
+      "enrollment",
+      "vacancy_pct",
+      "fill_rate_pct",
+      "period_granularity",
+      "synopsis_aligned",
+      "source_priority",
+      "data_gov_in_resource_id",
+      "offline_csv_used",
+      "data_source",
+      "retrieval_date"
+    ]
+  },
+  "environment": {
+    "python_version": "3.12.13 (main, Mar  4 2026, 09:23:07) [GCC 11.4.0]",
+    "platform": "Linux-6.6.122+-x86_64-with-glibc2.35",
+    "execute_flag": true
+  },
+  "entries_count": 2,
+  "errors_count": 0,
+  "first_entry": {
+    "timestamp": "2026-05-09T11:06:04.435233+00:00",
+    "type": "api_call",
+    "url": "file:///content/drive/MyDrive/Walsh_Masters/Term-2_Capstone/RQ3/Raw/rq3_aicte_datagov_57cf415f_offline.csv",
+    "params": {
+      "csv_path": "/content/drive/MyDrive/Walsh_Masters/Term-2_Capstone/RQ3/Raw/rq3_aicte_datagov_57cf415f_offline.csv",
+      "records_in_csv": 37,
+      "states_kept": 28,
+      "years_kept": [
+        2013,
+        2014,
+        2015,
+        2016
+      ],
+      "reason_offline": "data.gov.in API HTTP 502 / timeout — using offline CSV mirror",
+      "mirror_resource_id": "57cf415f-00d7-4ef0-94d5-62b7e5743b1c"
+    },
+    "http_status": 200,
+    "rows_returned": 112,
+    "notes": "Offline CSV mirror of AICTE Handbook data (same as data.gov.in publishes)"
+  }
+}

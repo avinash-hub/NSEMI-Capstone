@@ -1,0 +1,81 @@
+country_iso3,country_name,year,indicator_code,indicator,corporate_tax_rate_pct,carry_forward,carry_forward_from,source_tier,period_granularity,synopsis_aligned,source_priority,data_source,retrieval_date
+CHN,China,2015,TF_CIT_long_csv,corporate_tax_rate_pct,25.0,False,,TaxFoundation_GitHub,annual,True,P1,TaxFoundation_GitHub_long_with_OECD_SDMX_2024_patch,2026-05-09
+CHN,China,2016,TF_CIT_long_csv,corporate_tax_rate_pct,25.0,False,,TaxFoundation_GitHub,annual,True,P1,TaxFoundation_GitHub_long_with_OECD_SDMX_2024_patch,2026-05-09
+CHN,China,2017,TF_CIT_long_csv,corporate_tax_rate_pct,25.0,False,,TaxFoundation_GitHub,annual,True,P1,TaxFoundation_GitHub_long_with_OECD_SDMX_2024_patch,2026-05-09
+CHN,China,2018,TF_CIT_long_csv,corporate_tax_rate_pct,25.0,False,,TaxFoundation_GitHub,annual,True,P1,TaxFoundation_GitHub_long_with_OECD_SDMX_2024_patch,2026-05-09
+CHN,China,2019,TF_CIT_long_csv,corporate_tax_rate_pct,25.0,False,,TaxFoundation_GitHub,annual,True,P1,TaxFoundation_GitHub_long_with_OECD_SDMX_2024_patch,2026-05-09
+CHN,China,2020,TF_CIT_long_csv,corporate_tax_rate_pct,25.0,False,,TaxFoundation_GitHub,annual,True,P1,TaxFoundation_GitHub_long_with_OECD_SDMX_2024_patch,2026-05-09
+CHN,China,2021,TF_CIT_long_csv,corporate_tax_rate_pct,25.0,False,,TaxFoundation_GitHub,annual,True,P1,TaxFoundation_GitHub_long_with_OECD_SDMX_2024_patch,2026-05-09
+CHN,China,2022,TF_CIT_long_csv,corporate_tax_rate_pct,25.0,False,,TaxFoundation_GitHub,annual,True,P1,TaxFoundation_GitHub_long_with_OECD_SDMX_2024_patch,2026-05-09
+CHN,China,2023,TF_CIT_long_csv,corporate_tax_rate_pct,25.0,False,,TaxFoundation_GitHub,annual,True,P1,TaxFoundation_GitHub_long_with_OECD_SDMX_2024_patch,2026-05-09
+CHN,China,2024,TF_CIT_carry_fwd_from_latest,corporate_tax_rate_pct,25.0,True,2023.0,TaxFoundation_carry_forward,annual,True,P3,TaxFoundation_GitHub_long_with_OECD_SDMX_2024_patch,2026-05-09
+DEU,Germany,2015,TF_CIT_long_csv,corporate_tax_rate_pct,30.175,False,,TaxFoundation_GitHub,annual,True,P1,TaxFoundation_GitHub_long_with_OECD_SDMX_2024_patch,2026-05-09
+DEU,Germany,2016,TF_CIT_long_csv,corporate_tax_rate_pct,30.175,False,,TaxFoundation_GitHub,annual,True,P1,TaxFoundation_GitHub_long_with_OECD_SDMX_2024_patch,2026-05-09
+DEU,Germany,2017,TF_CIT_long_csv,corporate_tax_rate_pct,30.175,False,,TaxFoundation_GitHub,annual,True,P1,TaxFoundation_GitHub_long_with_OECD_SDMX_2024_patch,2026-05-09
+DEU,Germany,2018,TF_CIT_long_csv,corporate_tax_rate_pct,29.825,False,,TaxFoundation_GitHub,annual,True,P1,TaxFoundation_GitHub_long_with_OECD_SDMX_2024_patch,2026-05-09
+DEU,Germany,2019,TF_CIT_long_csv,corporate_tax_rate_pct,29.897059,False,,TaxFoundation_GitHub,annual,True,P1,TaxFoundation_GitHub_long_with_OECD_SDMX_2024_patch,2026-05-09
+DEU,Germany,2020,TF_CIT_long_csv,corporate_tax_rate_pct,29.897059,False,,TaxFoundation_GitHub,annual,True,P1,TaxFoundation_GitHub_long_with_OECD_SDMX_2024_patch,2026-05-09
+DEU,Germany,2021,TF_CIT_long_csv,corporate_tax_rate_pct,29.937781,False,,TaxFoundation_GitHub,annual,True,P1,TaxFoundation_GitHub_long_with_OECD_SDMX_2024_patch,2026-05-09
+DEU,Germany,2022,TF_CIT_long_csv,corporate_tax_rate_pct,29.83,False,,TaxFoundation_GitHub,annual,True,P1,TaxFoundation_GitHub_long_with_OECD_SDMX_2024_patch,2026-05-09
+DEU,Germany,2023,TF_CIT_long_csv,corporate_tax_rate_pct,29.941,False,,TaxFoundation_GitHub,annual,True,P1,TaxFoundation_GitHub_long_with_OECD_SDMX_2024_patch,2026-05-09
+DEU,Germany,2024,TF_CIT_carry_fwd_from_latest,corporate_tax_rate_pct,29.941,True,2023.0,TaxFoundation_carry_forward,annual,True,P3,TaxFoundation_GitHub_long_with_OECD_SDMX_2024_patch,2026-05-09
+IND,India,2015,TF_CIT_long_csv,corporate_tax_rate_pct,34.61,False,,TaxFoundation_GitHub,annual,True,P1,TaxFoundation_GitHub_long_with_OECD_SDMX_2024_patch,2026-05-09
+IND,India,2016,TF_CIT_long_csv,corporate_tax_rate_pct,34.61,False,,TaxFoundation_GitHub,annual,True,P1,TaxFoundation_GitHub_long_with_OECD_SDMX_2024_patch,2026-05-09
+IND,India,2017,TF_CIT_long_csv,corporate_tax_rate_pct,34.61,False,,TaxFoundation_GitHub,annual,True,P1,TaxFoundation_GitHub_long_with_OECD_SDMX_2024_patch,2026-05-09
+IND,India,2018,TF_CIT_long_csv,corporate_tax_rate_pct,35.0,False,,TaxFoundation_GitHub,annual,True,P1,TaxFoundation_GitHub_long_with_OECD_SDMX_2024_patch,2026-05-09
+IND,India,2019,TF_CIT_long_csv,corporate_tax_rate_pct,30.0,False,,TaxFoundation_GitHub,annual,True,P1,TaxFoundation_GitHub_long_with_OECD_SDMX_2024_patch,2026-05-09
+IND,India,2020,TF_CIT_long_csv,corporate_tax_rate_pct,30.0,False,,TaxFoundation_GitHub,annual,True,P1,TaxFoundation_GitHub_long_with_OECD_SDMX_2024_patch,2026-05-09
+IND,India,2021,TF_CIT_long_csv,corporate_tax_rate_pct,30.0,False,,TaxFoundation_GitHub,annual,True,P1,TaxFoundation_GitHub_long_with_OECD_SDMX_2024_patch,2026-05-09
+IND,India,2022,TF_CIT_long_csv,corporate_tax_rate_pct,30.0,False,,TaxFoundation_GitHub,annual,True,P1,TaxFoundation_GitHub_long_with_OECD_SDMX_2024_patch,2026-05-09
+IND,India,2023,TF_CIT_long_csv,corporate_tax_rate_pct,30.0,False,,TaxFoundation_GitHub,annual,True,P1,TaxFoundation_GitHub_long_with_OECD_SDMX_2024_patch,2026-05-09
+IND,India,2024,TF_CIT_carry_fwd_from_latest,corporate_tax_rate_pct,30.0,True,2023.0,TaxFoundation_carry_forward,annual,True,P3,TaxFoundation_GitHub_long_with_OECD_SDMX_2024_patch,2026-05-09
+JPN,Japan,2015,TF_CIT_long_csv,corporate_tax_rate_pct,32.11,False,,TaxFoundation_GitHub,annual,True,P1,TaxFoundation_GitHub_long_with_OECD_SDMX_2024_patch,2026-05-09
+JPN,Japan,2016,TF_CIT_long_csv,corporate_tax_rate_pct,29.97,False,,TaxFoundation_GitHub,annual,True,P1,TaxFoundation_GitHub_long_with_OECD_SDMX_2024_patch,2026-05-09
+JPN,Japan,2017,TF_CIT_long_csv,corporate_tax_rate_pct,29.97,False,,TaxFoundation_GitHub,annual,True,P1,TaxFoundation_GitHub_long_with_OECD_SDMX_2024_patch,2026-05-09
+JPN,Japan,2018,TF_CIT_long_csv,corporate_tax_rate_pct,29.74,False,,TaxFoundation_GitHub,annual,True,P1,TaxFoundation_GitHub_long_with_OECD_SDMX_2024_patch,2026-05-09
+JPN,Japan,2019,TF_CIT_long_csv,corporate_tax_rate_pct,29.74,False,,TaxFoundation_GitHub,annual,True,P1,TaxFoundation_GitHub_long_with_OECD_SDMX_2024_patch,2026-05-09
+JPN,Japan,2020,TF_CIT_long_csv,corporate_tax_rate_pct,29.74,False,,TaxFoundation_GitHub,annual,True,P1,TaxFoundation_GitHub_long_with_OECD_SDMX_2024_patch,2026-05-09
+JPN,Japan,2021,TF_CIT_long_csv,corporate_tax_rate_pct,29.74,False,,TaxFoundation_GitHub,annual,True,P1,TaxFoundation_GitHub_long_with_OECD_SDMX_2024_patch,2026-05-09
+JPN,Japan,2022,TF_CIT_long_csv,corporate_tax_rate_pct,29.74,False,,TaxFoundation_GitHub,annual,True,P1,TaxFoundation_GitHub_long_with_OECD_SDMX_2024_patch,2026-05-09
+JPN,Japan,2023,TF_CIT_long_csv,corporate_tax_rate_pct,29.74,False,,TaxFoundation_GitHub,annual,True,P1,TaxFoundation_GitHub_long_with_OECD_SDMX_2024_patch,2026-05-09
+JPN,Japan,2024,TF_CIT_carry_fwd_from_latest,corporate_tax_rate_pct,29.74,True,2023.0,TaxFoundation_carry_forward,annual,True,P3,TaxFoundation_GitHub_long_with_OECD_SDMX_2024_patch,2026-05-09
+KOR,South Korea,2015,TF_CIT_long_csv,corporate_tax_rate_pct,24.2,False,,TaxFoundation_GitHub,annual,True,P1,TaxFoundation_GitHub_long_with_OECD_SDMX_2024_patch,2026-05-09
+KOR,South Korea,2016,TF_CIT_long_csv,corporate_tax_rate_pct,24.2,False,,TaxFoundation_GitHub,annual,True,P1,TaxFoundation_GitHub_long_with_OECD_SDMX_2024_patch,2026-05-09
+KOR,South Korea,2017,TF_CIT_long_csv,corporate_tax_rate_pct,24.2,False,,TaxFoundation_GitHub,annual,True,P1,TaxFoundation_GitHub_long_with_OECD_SDMX_2024_patch,2026-05-09
+KOR,South Korea,2018,TF_CIT_long_csv,corporate_tax_rate_pct,27.5,False,,TaxFoundation_GitHub,annual,True,P1,TaxFoundation_GitHub_long_with_OECD_SDMX_2024_patch,2026-05-09
+KOR,South Korea,2019,TF_CIT_long_csv,corporate_tax_rate_pct,27.5,False,,TaxFoundation_GitHub,annual,True,P1,TaxFoundation_GitHub_long_with_OECD_SDMX_2024_patch,2026-05-09
+KOR,South Korea,2020,TF_CIT_long_csv,corporate_tax_rate_pct,27.5,False,,TaxFoundation_GitHub,annual,True,P1,TaxFoundation_GitHub_long_with_OECD_SDMX_2024_patch,2026-05-09
+KOR,South Korea,2021,TF_CIT_long_csv,corporate_tax_rate_pct,27.5,False,,TaxFoundation_GitHub,annual,True,P1,TaxFoundation_GitHub_long_with_OECD_SDMX_2024_patch,2026-05-09
+KOR,South Korea,2022,TF_CIT_long_csv,corporate_tax_rate_pct,27.5,False,,TaxFoundation_GitHub,annual,True,P1,TaxFoundation_GitHub_long_with_OECD_SDMX_2024_patch,2026-05-09
+KOR,South Korea,2023,TF_CIT_long_csv,corporate_tax_rate_pct,26.5,False,,TaxFoundation_GitHub,annual,True,P1,TaxFoundation_GitHub_long_with_OECD_SDMX_2024_patch,2026-05-09
+KOR,South Korea,2024,TF_CIT_carry_fwd_from_latest,corporate_tax_rate_pct,26.5,True,2023.0,TaxFoundation_carry_forward,annual,True,P3,TaxFoundation_GitHub_long_with_OECD_SDMX_2024_patch,2026-05-09
+MYS,Malaysia,2015,TF_CIT_long_csv,corporate_tax_rate_pct,25.0,False,,TaxFoundation_GitHub,annual,True,P1,TaxFoundation_GitHub_long_with_OECD_SDMX_2024_patch,2026-05-09
+MYS,Malaysia,2016,TF_CIT_long_csv,corporate_tax_rate_pct,24.0,False,,TaxFoundation_GitHub,annual,True,P1,TaxFoundation_GitHub_long_with_OECD_SDMX_2024_patch,2026-05-09
+MYS,Malaysia,2017,TF_CIT_long_csv,corporate_tax_rate_pct,24.0,False,,TaxFoundation_GitHub,annual,True,P1,TaxFoundation_GitHub_long_with_OECD_SDMX_2024_patch,2026-05-09
+MYS,Malaysia,2018,TF_CIT_long_csv,corporate_tax_rate_pct,24.0,False,,TaxFoundation_GitHub,annual,True,P1,TaxFoundation_GitHub_long_with_OECD_SDMX_2024_patch,2026-05-09
+MYS,Malaysia,2019,TF_CIT_long_csv,corporate_tax_rate_pct,24.0,False,,TaxFoundation_GitHub,annual,True,P1,TaxFoundation_GitHub_long_with_OECD_SDMX_2024_patch,2026-05-09
+MYS,Malaysia,2020,TF_CIT_long_csv,corporate_tax_rate_pct,24.0,False,,TaxFoundation_GitHub,annual,True,P1,TaxFoundation_GitHub_long_with_OECD_SDMX_2024_patch,2026-05-09
+MYS,Malaysia,2021,TF_CIT_long_csv,corporate_tax_rate_pct,24.0,False,,TaxFoundation_GitHub,annual,True,P1,TaxFoundation_GitHub_long_with_OECD_SDMX_2024_patch,2026-05-09
+MYS,Malaysia,2022,TF_CIT_long_csv,corporate_tax_rate_pct,24.0,False,,TaxFoundation_GitHub,annual,True,P1,TaxFoundation_GitHub_long_with_OECD_SDMX_2024_patch,2026-05-09
+MYS,Malaysia,2023,TF_CIT_long_csv,corporate_tax_rate_pct,24.0,False,,TaxFoundation_GitHub,annual,True,P1,TaxFoundation_GitHub_long_with_OECD_SDMX_2024_patch,2026-05-09
+MYS,Malaysia,2024,TF_CIT_carry_fwd_from_latest,corporate_tax_rate_pct,24.0,True,2023.0,TaxFoundation_carry_forward,annual,True,P3,TaxFoundation_GitHub_long_with_OECD_SDMX_2024_patch,2026-05-09
+USA,United States,2015,TF_CIT_long_csv,corporate_tax_rate_pct,38.9975,False,,TaxFoundation_GitHub,annual,True,P1,TaxFoundation_GitHub_long_with_OECD_SDMX_2024_patch,2026-05-09
+USA,United States,2016,TF_CIT_long_csv,corporate_tax_rate_pct,38.923934,False,,TaxFoundation_GitHub,annual,True,P1,TaxFoundation_GitHub_long_with_OECD_SDMX_2024_patch,2026-05-09
+USA,United States,2017,TF_CIT_long_csv,corporate_tax_rate_pct,38.906474,False,,TaxFoundation_GitHub,annual,True,P1,TaxFoundation_GitHub_long_with_OECD_SDMX_2024_patch,2026-05-09
+USA,United States,2018,TF_CIT_long_csv,corporate_tax_rate_pct,25.83858,False,,TaxFoundation_GitHub,annual,True,P1,TaxFoundation_GitHub_long_with_OECD_SDMX_2024_patch,2026-05-09
+USA,United States,2019,TF_CIT_long_csv,corporate_tax_rate_pct,25.886141,False,,TaxFoundation_GitHub,annual,True,P1,TaxFoundation_GitHub_long_with_OECD_SDMX_2024_patch,2026-05-09
+USA,United States,2020,TF_CIT_long_csv,corporate_tax_rate_pct,25.766571,False,,TaxFoundation_GitHub,annual,True,P1,TaxFoundation_GitHub_long_with_OECD_SDMX_2024_patch,2026-05-09
+USA,United States,2021,TF_CIT_long_csv,corporate_tax_rate_pct,25.754568,False,,TaxFoundation_GitHub,annual,True,P1,TaxFoundation_GitHub_long_with_OECD_SDMX_2024_patch,2026-05-09
+USA,United States,2022,TF_CIT_long_csv,corporate_tax_rate_pct,25.808,False,,TaxFoundation_GitHub,annual,True,P1,TaxFoundation_GitHub_long_with_OECD_SDMX_2024_patch,2026-05-09
+USA,United States,2023,TF_CIT_long_csv,corporate_tax_rate_pct,25.768,False,,TaxFoundation_GitHub,annual,True,P1,TaxFoundation_GitHub_long_with_OECD_SDMX_2024_patch,2026-05-09
+USA,United States,2024,TF_CIT_carry_fwd_from_latest,corporate_tax_rate_pct,25.768,True,2023.0,TaxFoundation_carry_forward,annual,True,P3,TaxFoundation_GitHub_long_with_OECD_SDMX_2024_patch,2026-05-09
+VNM,Vietnam,2015,TF_CIT_long_csv,corporate_tax_rate_pct,22.0,False,,TaxFoundation_GitHub,annual,True,P1,TaxFoundation_GitHub_long_with_OECD_SDMX_2024_patch,2026-05-09
+VNM,Vietnam,2016,TF_CIT_long_csv,corporate_tax_rate_pct,22.0,False,,TaxFoundation_GitHub,annual,True,P1,TaxFoundation_GitHub_long_with_OECD_SDMX_2024_patch,2026-05-09
+VNM,Vietnam,2017,TF_CIT_long_csv,corporate_tax_rate_pct,20.0,False,,TaxFoundation_GitHub,annual,True,P1,TaxFoundation_GitHub_long_with_OECD_SDMX_2024_patch,2026-05-09
+VNM,Vietnam,2018,TF_CIT_long_csv,corporate_tax_rate_pct,20.0,False,,TaxFoundation_GitHub,annual,True,P1,TaxFoundation_GitHub_long_with_OECD_SDMX_2024_patch,2026-05-09
+VNM,Vietnam,2019,TF_CIT_long_csv,corporate_tax_rate_pct,20.0,False,,TaxFoundation_GitHub,annual,True,P1,TaxFoundation_GitHub_long_with_OECD_SDMX_2024_patch,2026-05-09
+VNM,Vietnam,2020,TF_CIT_long_csv,corporate_tax_rate_pct,20.0,False,,TaxFoundation_GitHub,annual,True,P1,TaxFoundation_GitHub_long_with_OECD_SDMX_2024_patch,2026-05-09
+VNM,Vietnam,2021,TF_CIT_long_csv,corporate_tax_rate_pct,20.0,False,,TaxFoundation_GitHub,annual,True,P1,TaxFoundation_GitHub_long_with_OECD_SDMX_2024_patch,2026-05-09
+VNM,Vietnam,2022,TF_CIT_long_csv,corporate_tax_rate_pct,20.0,False,,TaxFoundation_GitHub,annual,True,P1,TaxFoundation_GitHub_long_with_OECD_SDMX_2024_patch,2026-05-09
+VNM,Vietnam,2023,TF_CIT_long_csv,corporate_tax_rate_pct,20.0,False,,TaxFoundation_GitHub,annual,True,P1,TaxFoundation_GitHub_long_with_OECD_SDMX_2024_patch,2026-05-09
+VNM,Vietnam,2024,TF_CIT_carry_fwd_from_latest,corporate_tax_rate_pct,20.0,True,2023.0,TaxFoundation_carry_forward,annual,True,P3,TaxFoundation_GitHub_long_with_OECD_SDMX_2024_patch,2026-05-09

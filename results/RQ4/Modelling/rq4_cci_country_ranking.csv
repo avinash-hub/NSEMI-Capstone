@@ -1,0 +1,9 @@
+rank,country_iso3,country_name,mean_cci_2015_2024
+1,IND,India,0.4743
+2,USA,United States,0.3168
+3,CHN,China,0.2773
+4,DEU,Germany,0.0801
+5,JPN,Japan,-0.0117
+6,KOR,South Korea,-0.1341
+7,MYS,Malaysia,-0.4623
+8,VNM,Vietnam,-0.5404

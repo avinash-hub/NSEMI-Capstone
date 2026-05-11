@@ -1,0 +1,80 @@
+{
+  "script_name": "rq2_src02_cea_general_review_td",
+  "research_question": "RQ2",
+  "data_source": "CEA_GR_priority_cascade",
+  "extraction_start": "2026-05-09T08:02:42.297093+00:00",
+  "extraction_end": "2026-05-09T08:03:23.605158+00:00",
+  "total_api_calls": 1,
+  "total_errors": 0,
+  "entries": [
+    {
+      "timestamp": "2026-05-09T08:03:23.593305+00:00",
+      "type": "api_call",
+      "url": "priority_hierarchy://['General_Review_2025.pdf', 'General_Review_2024.pdf', 'General_Review_2023.pdf', 'General_Review_2022.pdf']",
+      "params": {
+        "chosen_priority": "P1",
+        "coverage_score": 100,
+        "extracted_what": [
+          "state-level T&D loss % FY 2023-24 for 28/28 states (from General_Review_2025.pdf)"
+        ],
+        "missing_what": []
+      },
+      "http_status": 200,
+      "rows_returned": 28,
+      "notes": "GR priority cascade; line-by-line text parsing of Table 6.4"
+    },
+    {
+      "timestamp": "2026-05-09T08:03:23.593340+00:00",
+      "type": "transform",
+      "operation": "extract_gr_P1",
+      "input_rows": 28,
+      "output_rows": 28,
+      "columns": [
+        "state",
+        "td_loss_pct",
+        "td_loss_pct_prior_year",
+        "energy_available_gwh",
+        "energy_consumed_gwh",
+        "energy_losses_gwh",
+        "fy",
+        "period_granularity",
+        "synopsis_aligned",
+        "source_priority",
+        "source_pdf",
+        "source_page",
+        "source_description"
+      ],
+      "notes": "Coverage=100/100"
+    }
+  ],
+  "errors": [],
+  "output": {
+    "csv_path": "/content/drive/MyDrive/Walsh_Masters/Term-2_Capstone/RQ2/Raw/rq2_cea_general_review_td.csv",
+    "total_rows": 28,
+    "total_columns": 15,
+    "null_cell_count": 0,
+    "null_percentage": 0.0,
+    "column_names": [
+      "state",
+      "td_loss_pct",
+      "td_loss_pct_prior_year",
+      "energy_available_gwh",
+      "energy_consumed_gwh",
+      "energy_losses_gwh",
+      "fy",
+      "period_granularity",
+      "synopsis_aligned",
+      "source_priority",
+      "source_pdf",
+      "source_page",
+      "source_description",
+      "data_source",
+      "retrieval_date"
+    ]
+  },
+  "environment": {
+    "python_version": "3.12.13 (main, Mar  4 2026, 09:23:07) [GCC 11.4.0]",
+    "platform": "Linux-6.6.122+-x86_64-with-glibc2.35",
+    "execute_flag": true
+  }
+}

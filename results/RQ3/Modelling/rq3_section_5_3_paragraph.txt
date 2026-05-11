@@ -1,0 +1,19 @@
+Section 5.3 — RQ3 Result Summary (auto-generated)
+
+A Welch's t-test was performed on tertiary enrollment ratios for India
+(n₁ = 10) versus comparator economies — South Korea, Malaysia,
+Vietnam, and China (n₂ = 38) — using UNESCO UIS / World Bank
+data covering 2015-2024. India's mean enrollment ratio was 30.28%,
+significantly below the comparator mean of 59.87%
+(t = -6.7439, p < 0.001, Cohen's d = -1.2430,
+effect size: large). H₀ is REJECTED at α=0.05, supporting the
+structural workforce-readiness gap hypothesised in synopsis §5.3.
+
+A linear trend regression on India's all-India AICTE engineering intake
+(n = 4 years, 2013-2016) yielded slope
+β = -47,884 seats/year with R² = 0.8888.
+Projection to ISM milestone years gives forecasted graduate supply of approximately
+1,091,525 (2027) and 947,871 (2030),
+against IESA-projected demand of 85,000 (ISM-driven, 2027) and 1,500,000 (total, 2030).
+The Workforce Gap Index exceeds 1.0 at the 2030 milestone, quantifying the structural
+demand-supply mismatch.

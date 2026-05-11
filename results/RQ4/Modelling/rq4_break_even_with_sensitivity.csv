@@ -1,0 +1,5 @@
+scenario,subsidy_pct,india_effective_cci,hub_median_cci,cheapest_hub_cci,cheapest_hub_iso,delta_vs_hub_median,delta_vs_cheapest_hub,india_rank_of_8,cheaper_than_median,cheaper_than_cheapest,within_statutory_50pct
+break_even,18.5351,-0.540353,-0.451479,-0.540353,VNM,-0.088873,0.0,0,True,False,True
+s=30%,30.0,-1.167976,-0.451479,-0.540353,VNM,-0.716497,-0.627623,1,True,True,True
+s=50%,50.0,-2.26284,-0.451479,-0.540353,VNM,-1.811361,-1.722487,1,True,True,True
+s=70%,70.0,-3.357704,-0.451479,-0.540353,VNM,-2.906225,-2.817351,1,True,True,False

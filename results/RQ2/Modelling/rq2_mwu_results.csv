@@ -1,0 +1,3 @@
+variable,n_ism,n_non_ism,ism_median,non_ism_median,ism_mean,non_ism_mean,U_scipy,R1_synopsis_formula,U_synopsis_formula,p_value_one_tailed,rank_biserial_r,effect_magnitude,reject_H0_at_0_05,reject_H0_at_0_10
+Power Deficit %,6,22,0.1,0.15,0.233,0.882,59.5,80.5,72.5,0.364225,0.0985,negligible,NO,NO
+T&D Loss %,6,22,16.595,18.79,16.723,19.603,41.0,62.0,91.0,0.085043,0.3788,medium,NO,YES

@@ -1,0 +1,29 @@
+state_name,ism_approved,facility_count,total_investment_inr_cr,lead_companies,project_types,earliest_approval,latest_approval,ism_maturity_tier,pib_prids,tier_1_rationale,data_source,retrieval_date,analysis_cutoff
+Gujarat,1,6,128352,Micron Technology;Tata Electronics + PSMC (Taiwan);CG Power + Renesas Japan;Kaynes Semicon;Crystal Matrix Limited (CML);Suchi Semicon Private Limited (SSPL),OSAT_ATMP;Fab_28nm;ATMP_Specialized;OSAT;Compound_Mini_Micro_LED_GaN_Fab_ATMP;OSAT_Discrete,2023-06-15,2026-05-05,4,1983128;2010132;2050859;2258119,,PIB_n6_locked,2026-05-09,2026-05-09
+Assam,1,1,27000,Tata Semiconductor (TSAT),ATMP,2024-02-29,2024-02-29,3,2010132,,PIB_n6_locked,2026-05-09,2026-05-09
+Uttar Pradesh,1,1,3700,HCL + Foxconn,OSAT_Display_Driver,2025-05-14,2025-05-14,2,2128605,,PIB_n6_locked,2026-05-09,2026-05-09
+Odisha,1,2,4011,SiCSem + Clas-SiC UK;3D Glass Solutions Inc. + HIPSPL,Compound_SiC_Fab_ATMP;3D_Glass_Packaging,2025-08-12,2025-08-12,2,2155456,,PIB_n6_locked,2026-05-09,2026-05-09
+Punjab,1,1,117,Continental Device India Ltd (CDIL),Discrete_Semiconductors,2025-08-12,2025-08-12,2,2155456,,PIB_n6_locked,2026-05-09,2026-05-09
+Andhra Pradesh,1,1,472,ASIP Technologies + APACT Korea,OSAT_SiP,2025-08-12,2025-08-12,2,2155456,,PIB_n6_locked,2026-05-09,2026-05-09
+Karnataka,0,0,0,,,,,1,,Largest design GCC concentration; Lam Research Feb 2025 commitment; no ISM unit,PIB_n6_locked,2026-05-09,2026-05-09
+Kerala,0,0,0,,,,,1,,Design / GCC presence only; no ISM unit,PIB_n6_locked,2026-05-09,2026-05-09
+Maharashtra,0,0,0,,,,,1,,Vedanta-Foxconn JV collapsed; data centre policy; no ISM unit,PIB_n6_locked,2026-05-09,2026-05-09
+Tamil Nadu,0,0,0,,,,,1,,State policy with ≤50% capex top-up; Foxconn/Samsung assembly; no ISM unit,PIB_n6_locked,2026-05-09,2026-05-09
+Telangana,0,0,0,,,,,1,,Design ecosystem; no ISM-approved manufacturing,PIB_n6_locked,2026-05-09,2026-05-09
+Arunachal Pradesh,0,0,0,,,,,0,,,PIB_n6_locked,2026-05-09,2026-05-09
+Bihar,0,0,0,,,,,0,,,PIB_n6_locked,2026-05-09,2026-05-09
+Chhattisgarh,0,0,0,,,,,0,,,PIB_n6_locked,2026-05-09,2026-05-09
+Goa,0,0,0,,,,,0,,,PIB_n6_locked,2026-05-09,2026-05-09
+Haryana,0,0,0,,,,,0,,,PIB_n6_locked,2026-05-09,2026-05-09
+Himachal Pradesh,0,0,0,,,,,0,,,PIB_n6_locked,2026-05-09,2026-05-09
+Jharkhand,0,0,0,,,,,0,,,PIB_n6_locked,2026-05-09,2026-05-09
+Madhya Pradesh,0,0,0,,,,,0,,,PIB_n6_locked,2026-05-09,2026-05-09
+Manipur,0,0,0,,,,,0,,,PIB_n6_locked,2026-05-09,2026-05-09
+Meghalaya,0,0,0,,,,,0,,,PIB_n6_locked,2026-05-09,2026-05-09
+Mizoram,0,0,0,,,,,0,,,PIB_n6_locked,2026-05-09,2026-05-09
+Nagaland,0,0,0,,,,,0,,,PIB_n6_locked,2026-05-09,2026-05-09
+Rajasthan,0,0,0,,,,,0,,,PIB_n6_locked,2026-05-09,2026-05-09
+Sikkim,0,0,0,,,,,0,,,PIB_n6_locked,2026-05-09,2026-05-09
+Tripura,0,0,0,,,,,0,,,PIB_n6_locked,2026-05-09,2026-05-09
+Uttarakhand,0,0,0,,,,,0,,,PIB_n6_locked,2026-05-09,2026-05-09
+West Bengal,0,0,0,,,,,0,,,PIB_n6_locked,2026-05-09,2026-05-09

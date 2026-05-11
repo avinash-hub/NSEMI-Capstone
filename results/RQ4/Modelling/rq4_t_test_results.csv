@@ -1,0 +1,2 @@
+spec_section,test_used,n_india_obs,n_hub_years,hub_set,taiwan_status,india_mean_cci,india_std_cci,hub_median_benchmark,mean_difference,shapiro_W,shapiro_p,shapiro_normal,test_statistic,p_value,alpha,cohens_d,effect_magnitude,decision,h1_supported,direction
+Synopsis §5.4 (RQ4 H₀ test),Wilcoxon signed-rank (fallback),10,10,"KOR,MYS,VNM",absent (Deviation C: 1980 IMF/WB expulsion per UN Res 2758),0.47432,0.279318,-0.451479,0.925799,0.772053,0.006624,False,55.0,0.0009765625,0.05,3.314501,large,REJECT H₀,True,India significantly MORE EXPENSIVE than hub median

@@ -1,0 +1,2 @@
+cci_method,use_pca,pc1_var_explained,kmo_overall,bartlett_chi2,bartlett_p,weight_lending,weight_corp_tax,weight_total_tax,weight_electricity,oecd_handbook_ref
+Equal-weighted (fallback),False,,0.3725,83.0611,7.771561172376096e-16,0.25,0.25,0.25,0.25,Nardo et al. 2008 §6 (equal-weighted endorsed when KMO<0.6)

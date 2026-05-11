@@ -1,0 +1,126 @@
+{
+  "script_name": "rq4_src01_lending_rate",
+  "research_question": "RQ4",
+  "data_source": "WorldBank_API_FR_INR_LEND",
+  "extraction_start": "2026-05-09T11:19:51.981478+00:00",
+  "extraction_end": "2026-05-09T11:19:53.462211+00:00",
+  "total_api_calls": 3,
+  "total_errors": 0,
+  "errors": [],
+  "transform_log": [
+    {
+      "timestamp": "2026-05-09T11:19:52.108128+00:00",
+      "type": "api_call",
+      "url": "https://api.worldbank.org/v2/country/{cc}/indicator/FR.INR.LEND",
+      "params": {
+        "countries": [
+          "IND",
+          "CHN",
+          "DEU",
+          "JPN",
+          "KOR",
+          "MYS",
+          "USA",
+          "VNM"
+        ],
+        "years": [
+          2015,
+          2016,
+          2017,
+          2018,
+          2019,
+          2020,
+          2021,
+          2022,
+          2023,
+          2024
+        ]
+      },
+      "http_status": 200,
+      "rows_returned": 8,
+      "notes": "WB v2 REST via wbgapi"
+    },
+    {
+      "timestamp": "2026-05-09T11:19:52.273124+00:00",
+      "type": "api_call",
+      "url": "https://api.worldbank.org/v2/country/DEU/indicator/FR.INR.RINR",
+      "params": {
+        "years": [
+          2015,
+          2016,
+          2017,
+          2018,
+          2019,
+          2020,
+          2021,
+          2022,
+          2023,
+          2024
+        ]
+      },
+      "http_status": 200,
+      "rows_returned": 0,
+      "notes": "Germany Tier 2a substitute attempt"
+    },
+    {
+      "timestamp": "2026-05-09T11:19:52.835368+00:00",
+      "type": "api_call",
+      "url": "https://data-api.ecb.europa.eu/service/data/MIR/M.DE.B.A2I.AM.R.A.2240.EUR.N?startPeriod=2015&endPeriod=2024&format=csvdata",
+      "params": {
+        "series": "MIR/M.DE.B.A2I.AM.R.A.2240.EUR.N"
+      },
+      "http_status": 200,
+      "rows_returned": 0,
+      "notes": "ECB Tier 2b \u2014 NFC composite cost of borrowing (new business, all amounts)"
+    },
+    {
+      "timestamp": "2026-05-09T11:19:52.856738+00:00",
+      "type": "transform",
+      "operation": "wb_api_extract_with_ecb_fallback",
+      "input_rows": 80,
+      "output_rows": 67,
+      "columns": [
+        "country_iso3",
+        "country_name",
+        "year",
+        "indicator_code",
+        "indicator",
+        "lending_rate_pct",
+        "source_tier",
+        "period_granularity",
+        "synopsis_aligned",
+        "source_priority",
+        "notes"
+      ],
+      "notes": "8 countries \u00d7 10 years; Germany via tiered fallback (FR.INR.LEND \u2192 FR.INR.RINR \u2192 ECB SDMX)"
+    }
+  ],
+  "output": {
+    "csv_path": "/content/drive/MyDrive/Walsh_Masters/Term-2_Capstone/RQ4/Raw/rq4_lending_rate_panel.csv",
+    "total_rows": 67,
+    "total_columns": 13,
+    "null_cell_count": 0,
+    "null_percentage": 0.0,
+    "column_names": [
+      "country_iso3",
+      "country_name",
+      "year",
+      "indicator_code",
+      "indicator",
+      "lending_rate_pct",
+      "source_tier",
+      "period_granularity",
+      "synopsis_aligned",
+      "source_priority",
+      "notes",
+      "data_source",
+      "retrieval_date"
+    ]
+  },
+  "environment": {
+    "python_version": "3.12.13",
+    "platform": "Linux-6.6.122+-x86_64-with-glibc2.35",
+    "pandas_version": "2.2.2",
+    "numpy_version": "2.0.2"
+  }
+}

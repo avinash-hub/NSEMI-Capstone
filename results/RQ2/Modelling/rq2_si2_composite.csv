@@ -1,0 +1,29 @@
+state,is_ism_approved,energy_deficit_pct,td_loss_pct,td_loss_source,tariff_status,rank_neg_deficit,rank_neg_td,si2_raw,SI2_score,SI2_rank,SI2_dimensions
+Goa,0,0.0,10.48,cea_general_review,deferred_to_final_report,23.0,28.0,25.5,100.0,1,2
+Gujarat,1,0.0,12.84,cea_general_review,deferred_to_final_report,23.0,27.0,25.0,97.5609756097561,2,2
+Telangana,0,0.0,12.92,cea_general_review,deferred_to_final_report,23.0,26.0,24.5,95.1219512195122,3,2
+Punjab,1,0.0,14.03,cea_general_review,deferred_to_final_report,23.0,25.0,24.0,92.6829268292683,4,2
+Kerala,0,0.0,15.55,cea_general_review,deferred_to_final_report,23.0,23.0,23.0,87.8048780487805,5,2
+Maharashtra,0,0.1,15.38,cea_general_review,deferred_to_final_report,15.5,24.0,19.75,71.95121951219512,6,2
+Tamil Nadu,0,0.0,17.71,cea_general_review,deferred_to_final_report,23.0,16.0,19.5,70.73170731707317,7,2
+Andhra Pradesh,1,0.1,15.59,cea_general_review,deferred_to_final_report,15.5,22.0,18.75,67.07317073170732,8,2
+West Bengal,0,0.1,17.18,cea_general_review,deferred_to_final_report,15.5,19.0,17.25,59.75609756097561,9,2
+Nagaland,0,0.0,19.41,cea_general_review,deferred_to_final_report,23.0,11.0,17.0,58.53658536585366,10,2
+Chhattisgarh,0,0.2,17.04,cea_general_review,deferred_to_final_report,12.5,20.0,16.25,54.8780487804878,11,2
+Himachal Pradesh,0,0.3,15.63,cea_general_review,deferred_to_final_report,10.5,21.0,15.75,52.4390243902439,12,2
+Mizoram,0,0.0,22.65,cea_general_review,deferred_to_final_report,23.0,6.0,14.5,46.34146341463415,13,2
+Sikkim,0,0.0,24.16,cea_general_review,deferred_to_final_report,23.0,3.0,13.0,39.02439024390244,14,2
+Tripura,0,0.0,28.7,cea_general_review,deferred_to_final_report,23.0,2.0,12.5,36.58536585365854,15,2
+Arunachal Pradesh,0,0.0,34.28,cea_general_review,deferred_to_final_report,23.0,1.0,12.0,34.146341463414636,16,2
+Haryana,0,0.6,17.96,cea_general_review,deferred_to_final_report,8.5,15.0,11.75,32.926829268292686,17,2
+Uttar Pradesh,1,0.3,19.02,cea_general_review,deferred_to_final_report,10.5,13.0,11.75,32.926829268292686,17,2
+Odisha,1,0.1,21.26,cea_general_review,deferred_to_final_report,15.5,8.0,11.75,32.926829268292686,17,2
+Assam,1,0.9,17.6,cea_general_review,deferred_to_final_report,6.0,17.0,11.5,31.70731707317073,20,2
+Karnataka,0,1.1,17.33,cea_general_review,deferred_to_final_report,5.0,18.0,11.5,31.70731707317073,20,2
+Uttarakhand,0,0.8,18.31,cea_general_review,deferred_to_final_report,7.0,14.0,10.5,26.829268292682926,22,2
+Madhya Pradesh,0,0.2,22.85,cea_general_review,deferred_to_final_report,12.5,4.5,8.5,17.073170731707318,23,2
+Jharkhand,0,4.0,19.27,cea_general_review,deferred_to_final_report,2.0,12.0,7.0,9.75609756097561,24,2
+Rajasthan,0,0.6,22.85,cea_general_review,deferred_to_final_report,8.5,4.5,6.5,7.317073170731708,25,2
+Manipur,0,1.6,19.43,cea_general_review,deferred_to_final_report,3.0,10.0,6.5,7.317073170731708,25,2
+Bihar,0,1.5,21.54,cea_general_review,deferred_to_final_report,4.0,7.0,5.5,2.4390243902439024,27,2
+Meghalaya,0,8.3,20.63,cea_general_review,deferred_to_final_report,1.0,9.0,5.0,0.0,28,2

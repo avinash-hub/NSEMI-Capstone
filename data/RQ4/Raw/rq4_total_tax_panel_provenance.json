@@ -1,0 +1,70 @@
+{
+  "script_name": "rq4_src03_total_tax_archive",
+  "research_question": "RQ4",
+  "data_source": "WB_DoingBusiness_Archive_DB04_DB20_xlsx",
+  "extraction_start": "2026-05-09T11:20:28.549445+00:00",
+  "extraction_end": "2026-05-09T11:21:22.422625+00:00",
+  "total_api_calls": 1,
+  "total_errors": 0,
+  "errors": [],
+  "transform_log": [
+    {
+      "timestamp": "2026-05-09T11:20:31.146038+00:00",
+      "type": "api_call",
+      "url": "https://archive.doingbusiness.org/content/dam/doingBusiness/excel/db-2021/Historical-Data--DB04-DB20-.xlsx",
+      "params": {},
+      "http_status": 200,
+      "rows_returned": 0,
+      "notes": "cached"
+    },
+    {
+      "timestamp": "2026-05-09T11:21:22.160349+00:00",
+      "type": "transform",
+      "operation": "parse_archive_xlsx_with_carry_forward",
+      "input_rows": 88,
+      "output_rows": 80,
+      "columns": [
+        "country_iso3",
+        "country_name",
+        "year",
+        "indicator_code",
+        "indicator",
+        "total_tax_rate_pct",
+        "carry_forward",
+        "carry_forward_from",
+        "period_granularity",
+        "synopsis_aligned",
+        "source_priority"
+      ],
+      "notes": "32 native + 48 carry-forward"
+    }
+  ],
+  "output": {
+    "csv_path": "/content/drive/MyDrive/Walsh_Masters/Term-2_Capstone/RQ4/Raw/rq4_total_tax_panel.csv",
+    "total_rows": 80,
+    "total_columns": 13,
+    "null_cell_count": 32,
+    "null_percentage": 3.08,
+    "column_names": [
+      "country_iso3",
+      "country_name",
+      "year",
+      "indicator_code",
+      "indicator",
+      "total_tax_rate_pct",
+      "carry_forward",
+      "carry_forward_from",
+      "period_granularity",
+      "synopsis_aligned",
+      "source_priority",
+      "data_source",
+      "retrieval_date"
+    ]
+  },
+  "environment": {
+    "python_version": "3.12.13",
+    "platform": "Linux-6.6.122+-x86_64-with-glibc2.35",
+    "pandas_version": "2.2.2",
+    "numpy_version": "2.0.2"
+  }
+}

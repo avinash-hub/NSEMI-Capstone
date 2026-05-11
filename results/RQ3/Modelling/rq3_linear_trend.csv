@@ -1,0 +1,2 @@
+method,spec_section,n_years,year_range,intercept,slope_per_year,r_squared,p_value_slope,std_error,projection_2027,projection_2030
+OLS linear trend (India AICTE intake),Synopsis §5.3 (auxiliary),4,2013-2016,98153406.5,-47884.5,0.8888,0.0573,11979.53,1091525,947871

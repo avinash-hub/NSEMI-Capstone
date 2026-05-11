@@ -1,0 +1,2 @@
+method,spec_section,n_india,n_comparators,mean_india_pct,mean_comparators_pct,t_statistic,p_value_two_tailed,cohens_d,effect_magnitude,wilcoxon_z,wilcoxon_p,reject_H0_alpha_05,shapiro_W_india,shapiro_p_india,shapiro_W_comp,shapiro_p_comp
+Welch's t-test (synopsis primary),Synopsis §5.3,10,38,30.277,59.874,-6.7439,0.0,-1.2430285440132358,large,-4.1634,3.1e-05,YES,0.8884,0.1626,0.8763,0.0006

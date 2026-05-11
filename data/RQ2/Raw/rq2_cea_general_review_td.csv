@@ -1,0 +1,29 @@
+state,td_loss_pct,td_loss_pct_prior_year,energy_available_gwh,energy_consumed_gwh,energy_losses_gwh,fy,period_granularity,synopsis_aligned,source_priority,source_pdf,source_page,source_description,data_source,retrieval_date
+Haryana,17.96,18.8,67933.74,55733.68,12200.06,2023-24,annual,True,P1,General_Review_2025.pdf,106,"CEA General Review 2025, Table 6.4 (FY 2023-24 actuals)",TD_Loss_P1,2026-05-09
+Himachal Pradesh,15.63,14.21,13457.1,11353.84,2103.26,2023-24,annual,True,P1,General_Review_2025.pdf,106,"CEA General Review 2025, Table 6.4 (FY 2023-24 actuals)",TD_Loss_P1,2026-05-09
+Punjab,14.03,14.24,69455.53,59711.54,9743.99,2023-24,annual,True,P1,General_Review_2025.pdf,106,"CEA General Review 2025, Table 6.4 (FY 2023-24 actuals)",TD_Loss_P1,2026-05-09
+Rajasthan,22.85,20.29,108605.83,83788.71,24817.12,2023-24,annual,True,P1,General_Review_2025.pdf,106,"CEA General Review 2025, Table 6.4 (FY 2023-24 actuals)",TD_Loss_P1,2026-05-09
+Uttar Pradesh,19.02,20.88,149561.97,121122.16,28439.81,2023-24,annual,True,P1,General_Review_2025.pdf,106,"CEA General Review 2025, Table 6.4 (FY 2023-24 actuals)",TD_Loss_P1,2026-05-09
+Uttarakhand,18.31,18.42,16984.53,13874.71,3109.82,2023-24,annual,True,P1,General_Review_2025.pdf,106,"CEA General Review 2025, Table 6.4 (FY 2023-24 actuals)",TD_Loss_P1,2026-05-09
+Chhattisgarh,17.04,22.23,40373.63,33495.67,6877.96,2023-24,annual,True,P1,General_Review_2025.pdf,106,"CEA General Review 2025, Table 6.4 (FY 2023-24 actuals)",TD_Loss_P1,2026-05-09
+Gujarat,12.84,14.93,147796.82,128816.09,18980.73,2023-24,annual,True,P1,General_Review_2025.pdf,106,"CEA General Review 2025, Table 6.4 (FY 2023-24 actuals)",TD_Loss_P1,2026-05-09
+Madhya Pradesh,22.85,22.39,96653.29,74567.75,22085.54,2023-24,annual,True,P1,General_Review_2025.pdf,106,"CEA General Review 2025, Table 6.4 (FY 2023-24 actuals)",TD_Loss_P1,2026-05-09
+Maharashtra,15.38,14.75,197773.63,167347.14,30426.49,2023-24,annual,True,P1,General_Review_2025.pdf,106,"CEA General Review 2025, Table 6.4 (FY 2023-24 actuals)",TD_Loss_P1,2026-05-09
+Goa,10.48,7.05,5364.07,4802.06,562.01,2023-24,annual,True,P1,General_Review_2025.pdf,106,"CEA General Review 2025, Table 6.4 (FY 2023-24 actuals)",TD_Loss_P1,2026-05-09
+Andhra Pradesh,15.59,14.2,81304.84,68626.45,12678.38,2023-24,annual,True,P1,General_Review_2025.pdf,106,"CEA General Review 2025, Table 6.4 (FY 2023-24 actuals)",TD_Loss_P1,2026-05-09
+Telangana,12.92,12.21,86288.08,75140.09,11147.99,2023-24,annual,True,P1,General_Review_2025.pdf,106,"CEA General Review 2025, Table 6.4 (FY 2023-24 actuals)",TD_Loss_P1,2026-05-09
+Karnataka,17.33,16.32,95512.63,78964.05,16548.58,2023-24,annual,True,P1,General_Review_2025.pdf,106,"CEA General Review 2025, Table 6.4 (FY 2023-24 actuals)",TD_Loss_P1,2026-05-09
+Kerala,15.55,13.51,32657.42,27580.69,5076.72,2023-24,annual,True,P1,General_Review_2025.pdf,106,"CEA General Review 2025, Table 6.4 (FY 2023-24 actuals)",TD_Loss_P1,2026-05-09
+Tamil Nadu,17.71,15.25,135671.39,111646.65,24024.74,2023-24,annual,True,P1,General_Review_2025.pdf,106,"CEA General Review 2025, Table 6.4 (FY 2023-24 actuals)",TD_Loss_P1,2026-05-09
+Bihar,21.54,25.81,50062.51,39278.0,10784.52,2023-24,annual,True,P1,General_Review_2025.pdf,106,"CEA General Review 2025, Table 6.4 (FY 2023-24 actuals)",TD_Loss_P1,2026-05-09
+Jharkhand,19.27,22.96,32619.73,26333.32,6286.42,2023-24,annual,True,P1,General_Review_2025.pdf,106,"CEA General Review 2025, Table 6.4 (FY 2023-24 actuals)",TD_Loss_P1,2026-05-09
+Odisha,21.26,21.31,36776.83,28956.27,7820.56,2023-24,annual,True,P1,General_Review_2025.pdf,106,"CEA General Review 2025, Table 6.4 (FY 2023-24 actuals)",TD_Loss_P1,2026-05-09
+West Bengal,17.18,18.23,77770.28,64409.53,13360.75,2023-24,annual,True,P1,General_Review_2025.pdf,106,"CEA General Review 2025, Table 6.4 (FY 2023-24 actuals)",TD_Loss_P1,2026-05-09
+Sikkim,24.16,27.73,636.14,482.43,153.71,2023-24,annual,True,P1,General_Review_2025.pdf,106,"CEA General Review 2025, Table 6.4 (FY 2023-24 actuals)",TD_Loss_P1,2026-05-09
+Arunachal Pradesh,34.28,42.95,1025.27,673.78,351.49,2023-24,annual,True,P1,General_Review_2025.pdf,106,"CEA General Review 2025, Table 6.4 (FY 2023-24 actuals)",TD_Loss_P1,2026-05-09
+Assam,17.6,17.62,12289.55,10126.05,2163.5,2023-24,annual,True,P1,General_Review_2025.pdf,106,"CEA General Review 2025, Table 6.4 (FY 2023-24 actuals)",TD_Loss_P1,2026-05-09
+Manipur,19.43,21.39,1054.52,849.64,204.89,2023-24,annual,True,P1,General_Review_2025.pdf,106,"CEA General Review 2025, Table 6.4 (FY 2023-24 actuals)",TD_Loss_P1,2026-05-09
+Meghalaya,20.63,22.14,2130.3,1690.88,439.42,2023-24,annual,True,P1,General_Review_2025.pdf,106,"CEA General Review 2025, Table 6.4 (FY 2023-24 actuals)",TD_Loss_P1,2026-05-09
+Mizoram,22.65,18.66,650.8,503.4,147.4,2023-24,annual,True,P1,General_Review_2025.pdf,106,"CEA General Review 2025, Table 6.4 (FY 2023-24 actuals)",TD_Loss_P1,2026-05-09
+Nagaland,19.41,20.52,1020.79,822.7,198.09,2023-24,annual,True,P1,General_Review_2025.pdf,106,"CEA General Review 2025, Table 6.4 (FY 2023-24 actuals)",TD_Loss_P1,2026-05-09
+Tripura,28.7,28.84,1737.74,1239.0,498.74,2023-24,annual,True,P1,General_Review_2025.pdf,106,"CEA General Review 2025, Table 6.4 (FY 2023-24 actuals)",TD_Loss_P1,2026-05-09

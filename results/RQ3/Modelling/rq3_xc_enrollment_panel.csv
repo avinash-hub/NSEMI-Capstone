@@ -1,0 +1,49 @@
+country_iso3,country_name,year,enrollment_ratio,indicator,indicator_name,source_authority,period_granularity,synopsis_aligned,source_priority,data_source,retrieval_date,is_india,group
+CHN,China,2015,47.119,SE.TER.ENRR,"School enrollment, tertiary (% gross)",World Bank Open Data + UNESCO UIS,annual,True,P1,WorldBank_API_SE_TER_ENRR,2026-05-09,0,Comparators
+CHN,China,2016,49.309,SE.TER.ENRR,"School enrollment, tertiary (% gross)",World Bank Open Data + UNESCO UIS,annual,True,P1,WorldBank_API_SE_TER_ENRR,2026-05-09,0,Comparators
+CHN,China,2017,51.068,SE.TER.ENRR,"School enrollment, tertiary (% gross)",World Bank Open Data + UNESCO UIS,annual,True,P1,WorldBank_API_SE_TER_ENRR,2026-05-09,0,Comparators
+CHN,China,2018,53.399,SE.TER.ENRR,"School enrollment, tertiary (% gross)",World Bank Open Data + UNESCO UIS,annual,True,P1,WorldBank_API_SE_TER_ENRR,2026-05-09,0,Comparators
+CHN,China,2019,56.605,SE.TER.ENRR,"School enrollment, tertiary (% gross)",World Bank Open Data + UNESCO UIS,annual,True,P1,WorldBank_API_SE_TER_ENRR,2026-05-09,0,Comparators
+CHN,China,2020,61.612,SE.TER.ENRR,"School enrollment, tertiary (% gross)",World Bank Open Data + UNESCO UIS,annual,True,P1,WorldBank_API_SE_TER_ENRR,2026-05-09,0,Comparators
+CHN,China,2021,66.819,SE.TER.ENRR,"School enrollment, tertiary (% gross)",World Bank Open Data + UNESCO UIS,annual,True,P1,WorldBank_API_SE_TER_ENRR,2026-05-09,0,Comparators
+CHN,China,2022,71.58,SE.TER.ENRR,"School enrollment, tertiary (% gross)",World Bank Open Data + UNESCO UIS,annual,True,P1,WorldBank_API_SE_TER_ENRR,2026-05-09,0,Comparators
+CHN,China,2023,74.593,SE.TER.ENRR,"School enrollment, tertiary (% gross)",World Bank Open Data + UNESCO UIS,annual,True,P1,WorldBank_API_SE_TER_ENRR,2026-05-09,0,Comparators
+CHN,China,2024,76.876,SE.TER.ENRR,"School enrollment, tertiary (% gross)",World Bank Open Data + UNESCO UIS,annual,True,P1,WorldBank_API_SE_TER_ENRR,2026-05-09,0,Comparators
+IND,India,2015,27.285,SE.TER.ENRR,"School enrollment, tertiary (% gross)",World Bank Open Data + UNESCO UIS,annual,True,P1,WorldBank_API_SE_TER_ENRR,2026-05-09,1,India
+IND,India,2016,27.304,SE.TER.ENRR,"School enrollment, tertiary (% gross)",World Bank Open Data + UNESCO UIS,annual,True,P1,WorldBank_API_SE_TER_ENRR,2026-05-09,1,India
+IND,India,2017,27.909,SE.TER.ENRR,"School enrollment, tertiary (% gross)",World Bank Open Data + UNESCO UIS,annual,True,P1,WorldBank_API_SE_TER_ENRR,2026-05-09,1,India
+IND,India,2018,28.532,SE.TER.ENRR,"School enrollment, tertiary (% gross)",World Bank Open Data + UNESCO UIS,annual,True,P1,WorldBank_API_SE_TER_ENRR,2026-05-09,1,India
+IND,India,2019,29.023,SE.TER.ENRR,"School enrollment, tertiary (% gross)",World Bank Open Data + UNESCO UIS,annual,True,P1,WorldBank_API_SE_TER_ENRR,2026-05-09,1,India
+IND,India,2020,29.82,SE.TER.ENRR,"School enrollment, tertiary (% gross)",World Bank Open Data + UNESCO UIS,annual,True,P1,WorldBank_API_SE_TER_ENRR,2026-05-09,1,India
+IND,India,2021,31.574,SE.TER.ENRR,"School enrollment, tertiary (% gross)",World Bank Open Data + UNESCO UIS,annual,True,P1,WorldBank_API_SE_TER_ENRR,2026-05-09,1,India
+IND,India,2022,32.67,SE.TER.ENRR,"School enrollment, tertiary (% gross)",World Bank Open Data + UNESCO UIS,annual,True,P1,WorldBank_API_SE_TER_ENRR,2026-05-09,1,India
+IND,India,2023,34.239,SE.TER.ENRR,"School enrollment, tertiary (% gross)",World Bank Open Data + UNESCO UIS,annual,True,P1,WorldBank_API_SE_TER_ENRR,2026-05-09,1,India
+IND,India,2024,34.418,SE.TER.ENRR,"School enrollment, tertiary (% gross)",World Bank Open Data + UNESCO UIS,annual,True,P1,WorldBank_API_SE_TER_ENRR,2026-05-09,1,India
+KOR,South Korea,2015,93.968,SE.TER.ENRR,"School enrollment, tertiary (% gross)",World Bank Open Data + UNESCO UIS,annual,True,P1,WorldBank_API_SE_TER_ENRR,2026-05-09,0,Comparators
+KOR,South Korea,2016,93.658,SE.TER.ENRR,"School enrollment, tertiary (% gross)",World Bank Open Data + UNESCO UIS,annual,True,P1,WorldBank_API_SE_TER_ENRR,2026-05-09,0,Comparators
+KOR,South Korea,2017,93.723,SE.TER.ENRR,"School enrollment, tertiary (% gross)",World Bank Open Data + UNESCO UIS,annual,True,P1,WorldBank_API_SE_TER_ENRR,2026-05-09,0,Comparators
+KOR,South Korea,2018,93.328,SE.TER.ENRR,"School enrollment, tertiary (% gross)",World Bank Open Data + UNESCO UIS,annual,True,P1,WorldBank_API_SE_TER_ENRR,2026-05-09,0,Comparators
+KOR,South Korea,2019,93.999,SE.TER.ENRR,"School enrollment, tertiary (% gross)",World Bank Open Data + UNESCO UIS,annual,True,P1,WorldBank_API_SE_TER_ENRR,2026-05-09,0,Comparators
+KOR,South Korea,2020,96.877,SE.TER.ENRR,"School enrollment, tertiary (% gross)",World Bank Open Data + UNESCO UIS,annual,True,P1,WorldBank_API_SE_TER_ENRR,2026-05-09,0,Comparators
+KOR,South Korea,2021,100.36,SE.TER.ENRR,"School enrollment, tertiary (% gross)",World Bank Open Data + UNESCO UIS,annual,True,P1,WorldBank_API_SE_TER_ENRR,2026-05-09,0,Comparators
+KOR,South Korea,2022,102.813,SE.TER.ENRR,"School enrollment, tertiary (% gross)",World Bank Open Data + UNESCO UIS,annual,True,P1,WorldBank_API_SE_TER_ENRR,2026-05-09,0,Comparators
+KOR,South Korea,2023,106.709,SE.TER.ENRR,"School enrollment, tertiary (% gross)",World Bank Open Data + UNESCO UIS,annual,True,P1,WorldBank_API_SE_TER_ENRR,2026-05-09,0,Comparators
+KOR,South Korea,2024,111.853,SE.TER.ENRR,"School enrollment, tertiary (% gross)",World Bank Open Data + UNESCO UIS,annual,True,P1,WorldBank_API_SE_TER_ENRR,2026-05-09,0,Comparators
+MYS,Malaysia,2015,44.29,SE.TER.ENRR,"School enrollment, tertiary (% gross)",World Bank Open Data + UNESCO UIS,annual,True,P1,WorldBank_API_SE_TER_ENRR,2026-05-09,0,Comparators
+MYS,Malaysia,2016,45.403,SE.TER.ENRR,"School enrollment, tertiary (% gross)",World Bank Open Data + UNESCO UIS,annual,True,P1,WorldBank_API_SE_TER_ENRR,2026-05-09,0,Comparators
+MYS,Malaysia,2017,42.293,SE.TER.ENRR,"School enrollment, tertiary (% gross)",World Bank Open Data + UNESCO UIS,annual,True,P1,WorldBank_API_SE_TER_ENRR,2026-05-09,0,Comparators
+MYS,Malaysia,2018,43.31,SE.TER.ENRR,"School enrollment, tertiary (% gross)",World Bank Open Data + UNESCO UIS,annual,True,P1,WorldBank_API_SE_TER_ENRR,2026-05-09,0,Comparators
+MYS,Malaysia,2019,40.808,SE.TER.ENRR,"School enrollment, tertiary (% gross)",World Bank Open Data + UNESCO UIS,annual,True,P1,WorldBank_API_SE_TER_ENRR,2026-05-09,0,Comparators
+MYS,Malaysia,2020,39.745,SE.TER.ENRR,"School enrollment, tertiary (% gross)",World Bank Open Data + UNESCO UIS,annual,True,P1,WorldBank_API_SE_TER_ENRR,2026-05-09,0,Comparators
+MYS,Malaysia,2021,38.19,SE.TER.ENRR,"School enrollment, tertiary (% gross)",World Bank Open Data + UNESCO UIS,annual,True,P1,WorldBank_API_SE_TER_ENRR,2026-05-09,0,Comparators
+MYS,Malaysia,2022,36.985,SE.TER.ENRR,"School enrollment, tertiary (% gross)",World Bank Open Data + UNESCO UIS,annual,True,P1,WorldBank_API_SE_TER_ENRR,2026-05-09,0,Comparators
+MYS,Malaysia,2023,37.275,SE.TER.ENRR,"School enrollment, tertiary (% gross)",World Bank Open Data + UNESCO UIS,annual,True,P1,WorldBank_API_SE_TER_ENRR,2026-05-09,0,Comparators
+MYS,Malaysia,2024,38.501,SE.TER.ENRR,"School enrollment, tertiary (% gross)",World Bank Open Data + UNESCO UIS,annual,True,P1,WorldBank_API_SE_TER_ENRR,2026-05-09,0,Comparators
+VNM,Vietnam,2015,29.725,SE.TER.ENRR,"School enrollment, tertiary (% gross)",World Bank Open Data + UNESCO UIS,annual,True,P1,WorldBank_API_SE_TER_ENRR,2026-05-09,0,Comparators
+VNM,Vietnam,2016,29.081,SE.TER.ENRR,"School enrollment, tertiary (% gross)",World Bank Open Data + UNESCO UIS,annual,True,P1,WorldBank_API_SE_TER_ENRR,2026-05-09,0,Comparators
+VNM,Vietnam,2017,25.953,SE.TER.ENRR,"School enrollment, tertiary (% gross)",World Bank Open Data + UNESCO UIS,annual,True,P1,WorldBank_API_SE_TER_ENRR,2026-05-09,0,Comparators
+VNM,Vietnam,2019,30.224,SE.TER.ENRR,"School enrollment, tertiary (% gross)",World Bank Open Data + UNESCO UIS,annual,True,P1,WorldBank_API_SE_TER_ENRR,2026-05-09,0,Comparators
+VNM,Vietnam,2021,41.955,SE.TER.ENRR,"School enrollment, tertiary (% gross)",World Bank Open Data + UNESCO UIS,annual,True,P1,WorldBank_API_SE_TER_ENRR,2026-05-09,0,Comparators
+VNM,Vietnam,2022,44.754,SE.TER.ENRR,"School enrollment, tertiary (% gross)",World Bank Open Data + UNESCO UIS,annual,True,P1,WorldBank_API_SE_TER_ENRR,2026-05-09,0,Comparators
+VNM,Vietnam,2023,32.842,SE.TER.ENRR,"School enrollment, tertiary (% gross)",World Bank Open Data + UNESCO UIS,annual,True,P1,WorldBank_API_SE_TER_ENRR,2026-05-09,0,Comparators
+VNM,Vietnam,2024,37.592,SE.TER.ENRR,"School enrollment, tertiary (% gross)",World Bank Open Data + UNESCO UIS,annual,True,P1,WorldBank_API_SE_TER_ENRR,2026-05-09,0,Comparators

@@ -1,0 +1,29 @@
+state,is_ism_approved,energy_deficit_pct,td_loss_pct,td_loss_source,tariff_status,pfc_atc_status
+Gujarat,1,0.0,12.84,cea_general_review,deferred_to_final_report,deferred_to_final_report
+Assam,1,0.9,17.6,cea_general_review,deferred_to_final_report,deferred_to_final_report
+Uttar Pradesh,1,0.3,19.02,cea_general_review,deferred_to_final_report,deferred_to_final_report
+Odisha,1,0.1,21.26,cea_general_review,deferred_to_final_report,deferred_to_final_report
+Punjab,1,0.0,14.03,cea_general_review,deferred_to_final_report,deferred_to_final_report
+Andhra Pradesh,1,0.1,15.59,cea_general_review,deferred_to_final_report,deferred_to_final_report
+Karnataka,0,1.1,17.33,cea_general_review,deferred_to_final_report,deferred_to_final_report
+Kerala,0,0.0,15.55,cea_general_review,deferred_to_final_report,deferred_to_final_report
+Maharashtra,0,0.1,15.38,cea_general_review,deferred_to_final_report,deferred_to_final_report
+Tamil Nadu,0,0.0,17.71,cea_general_review,deferred_to_final_report,deferred_to_final_report
+Telangana,0,0.0,12.92,cea_general_review,deferred_to_final_report,deferred_to_final_report
+Arunachal Pradesh,0,0.0,34.28,cea_general_review,deferred_to_final_report,deferred_to_final_report
+Bihar,0,1.5,21.54,cea_general_review,deferred_to_final_report,deferred_to_final_report
+Chhattisgarh,0,0.2,17.04,cea_general_review,deferred_to_final_report,deferred_to_final_report
+Goa,0,0.0,10.48,cea_general_review,deferred_to_final_report,deferred_to_final_report
+Haryana,0,0.6,17.96,cea_general_review,deferred_to_final_report,deferred_to_final_report
+Himachal Pradesh,0,0.3,15.63,cea_general_review,deferred_to_final_report,deferred_to_final_report
+Jharkhand,0,4.0,19.27,cea_general_review,deferred_to_final_report,deferred_to_final_report
+Madhya Pradesh,0,0.2,22.85,cea_general_review,deferred_to_final_report,deferred_to_final_report
+Manipur,0,1.6,19.43,cea_general_review,deferred_to_final_report,deferred_to_final_report
+Meghalaya,0,8.3,20.63,cea_general_review,deferred_to_final_report,deferred_to_final_report
+Mizoram,0,0.0,22.65,cea_general_review,deferred_to_final_report,deferred_to_final_report
+Nagaland,0,0.0,19.41,cea_general_review,deferred_to_final_report,deferred_to_final_report
+Rajasthan,0,0.6,22.85,cea_general_review,deferred_to_final_report,deferred_to_final_report
+Sikkim,0,0.0,24.16,cea_general_review,deferred_to_final_report,deferred_to_final_report
+Tripura,0,0.0,28.7,cea_general_review,deferred_to_final_report,deferred_to_final_report
+Uttarakhand,0,0.8,18.31,cea_general_review,deferred_to_final_report,deferred_to_final_report
+West Bengal,0,0.1,17.18,cea_general_review,deferred_to_final_report,deferred_to_final_report

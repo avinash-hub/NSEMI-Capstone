@@ -1,0 +1,91 @@
+{
+  "script_name": "rq4_src04_electricity_proxy",
+  "research_question": "RQ4",
+  "data_source": "WorldBank_API_EG_USE_ELEC_KH_PC",
+  "extraction_start": "2026-05-09T11:22:07.490303+00:00",
+  "extraction_end": "2026-05-09T11:22:07.900912+00:00",
+  "total_api_calls": 1,
+  "total_errors": 0,
+  "errors": [],
+  "transform_log": [
+    {
+      "timestamp": "2026-05-09T11:22:07.663430+00:00",
+      "type": "api_call",
+      "url": "https://api.worldbank.org/v2/country/{cc}/indicator/EG.USE.ELEC.KH.PC",
+      "params": {
+        "countries": [
+          "IND",
+          "CHN",
+          "DEU",
+          "JPN",
+          "KOR",
+          "MYS",
+          "USA",
+          "VNM"
+        ],
+        "years": [
+          2015,
+          2016,
+          2017,
+          2018,
+          2019,
+          2020,
+          2021,
+          2022,
+          2023,
+          2024
+        ]
+      },
+      "http_status": 200,
+      "rows_returned": 8,
+      "notes": "WB v2 REST via wbgapi"
+    },
+    {
+      "timestamp": "2026-05-09T11:22:07.679087+00:00",
+      "type": "transform",
+      "operation": "wb_api_extract_electricity_consumption",
+      "input_rows": 80,
+      "output_rows": 76,
+      "columns": [
+        "country_iso3",
+        "country_name",
+        "year",
+        "indicator_code",
+        "indicator",
+        "electricity_kwh_per_capita",
+        "proxy_for",
+        "period_granularity",
+        "synopsis_aligned",
+        "source_priority"
+      ],
+      "notes": "Per-capita consumption proxy for industrial price"
+    }
+  ],
+  "output": {
+    "csv_path": "/content/drive/MyDrive/Walsh_Masters/Term-2_Capstone/RQ4/Raw/rq4_electricity_proxy_panel.csv",
+    "total_rows": 76,
+    "total_columns": 12,
+    "null_cell_count": 0,
+    "null_percentage": 0.0,
+    "column_names": [
+      "country_iso3",
+      "country_name",
+      "year",
+      "indicator_code",
+      "indicator",
+      "electricity_kwh_per_capita",
+      "proxy_for",
+      "period_granularity",
+      "synopsis_aligned",
+      "source_priority",
+      "data_source",
+      "retrieval_date"
+    ]
+  },
+  "environment": {
+    "python_version": "3.12.13",
+    "platform": "Linux-6.6.122+-x86_64-with-glibc2.35",
+    "pandas_version": "2.2.2",
+    "numpy_version": "2.0.2"
+  }
+}

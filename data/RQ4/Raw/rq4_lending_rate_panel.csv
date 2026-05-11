@@ -1,0 +1,68 @@
+country_iso3,country_name,year,indicator_code,indicator,lending_rate_pct,source_tier,period_granularity,synopsis_aligned,source_priority,notes,data_source,retrieval_date
+CHN,China,2015,FR.INR.LEND,lending_rate_pct,4.35,WB_FR_INR_LEND,annual,True,P1,,WorldBank_API_FR_INR_LEND_with_ECB_fallback,2026-05-09
+CHN,China,2016,FR.INR.LEND,lending_rate_pct,4.35,WB_FR_INR_LEND,annual,True,P1,,WorldBank_API_FR_INR_LEND_with_ECB_fallback,2026-05-09
+CHN,China,2017,FR.INR.LEND,lending_rate_pct,4.35,WB_FR_INR_LEND,annual,True,P1,,WorldBank_API_FR_INR_LEND_with_ECB_fallback,2026-05-09
+CHN,China,2018,FR.INR.LEND,lending_rate_pct,4.35,WB_FR_INR_LEND,annual,True,P1,,WorldBank_API_FR_INR_LEND_with_ECB_fallback,2026-05-09
+CHN,China,2019,FR.INR.LEND,lending_rate_pct,4.35,WB_FR_INR_LEND,annual,True,P1,,WorldBank_API_FR_INR_LEND_with_ECB_fallback,2026-05-09
+CHN,China,2020,FR.INR.LEND,lending_rate_pct,4.35,WB_FR_INR_LEND,annual,True,P1,,WorldBank_API_FR_INR_LEND_with_ECB_fallback,2026-05-09
+CHN,China,2021,FR.INR.LEND,lending_rate_pct,4.35,WB_FR_INR_LEND,annual,True,P1,,WorldBank_API_FR_INR_LEND_with_ECB_fallback,2026-05-09
+CHN,China,2022,FR.INR.LEND,lending_rate_pct,4.35,WB_FR_INR_LEND,annual,True,P1,,WorldBank_API_FR_INR_LEND_with_ECB_fallback,2026-05-09
+CHN,China,2023,FR.INR.LEND,lending_rate_pct,4.35,WB_FR_INR_LEND,annual,True,P1,,WorldBank_API_FR_INR_LEND_with_ECB_fallback,2026-05-09
+CHN,China,2024,FR.INR.LEND,lending_rate_pct,4.35,WB_FR_INR_LEND,annual,True,P1,,WorldBank_API_FR_INR_LEND_with_ECB_fallback,2026-05-09
+DEU,Germany,2015,ECB.MIR.M.DE.B.A2I.AM.R.A.2240.EUR.N,lending_rate_pct,2.09,ECB_SDMX_MIR,annual,True,P2,"Tier 2b — ECB SDMX live (series MIR/M.DE.B.A2I.AM.R.A.2240.EUR.N): monthly→annual mean of NFC composite cost of borrowing (new business, all amounts)",WorldBank_API_FR_INR_LEND_with_ECB_fallback,2026-05-09
+DEU,Germany,2016,ECB.MIR.M.DE.B.A2I.AM.R.A.2240.EUR.N,lending_rate_pct,1.8783333333333332,ECB_SDMX_MIR,annual,True,P2,"Tier 2b — ECB SDMX live (series MIR/M.DE.B.A2I.AM.R.A.2240.EUR.N): monthly→annual mean of NFC composite cost of borrowing (new business, all amounts)",WorldBank_API_FR_INR_LEND_with_ECB_fallback,2026-05-09
+DEU,Germany,2017,ECB.MIR.M.DE.B.A2I.AM.R.A.2240.EUR.N,lending_rate_pct,1.7441666666666666,ECB_SDMX_MIR,annual,True,P2,"Tier 2b — ECB SDMX live (series MIR/M.DE.B.A2I.AM.R.A.2240.EUR.N): monthly→annual mean of NFC composite cost of borrowing (new business, all amounts)",WorldBank_API_FR_INR_LEND_with_ECB_fallback,2026-05-09
+DEU,Germany,2018,ECB.MIR.M.DE.B.A2I.AM.R.A.2240.EUR.N,lending_rate_pct,1.6341666666666665,ECB_SDMX_MIR,annual,True,P2,"Tier 2b — ECB SDMX live (series MIR/M.DE.B.A2I.AM.R.A.2240.EUR.N): monthly→annual mean of NFC composite cost of borrowing (new business, all amounts)",WorldBank_API_FR_INR_LEND_with_ECB_fallback,2026-05-09
+DEU,Germany,2019,ECB.MIR.M.DE.B.A2I.AM.R.A.2240.EUR.N,lending_rate_pct,1.5433333333333332,ECB_SDMX_MIR,annual,True,P2,"Tier 2b — ECB SDMX live (series MIR/M.DE.B.A2I.AM.R.A.2240.EUR.N): monthly→annual mean of NFC composite cost of borrowing (new business, all amounts)",WorldBank_API_FR_INR_LEND_with_ECB_fallback,2026-05-09
+DEU,Germany,2020,ECB.MIR.M.DE.B.A2I.AM.R.A.2240.EUR.N,lending_rate_pct,1.59,ECB_SDMX_MIR,annual,True,P2,"Tier 2b — ECB SDMX live (series MIR/M.DE.B.A2I.AM.R.A.2240.EUR.N): monthly→annual mean of NFC composite cost of borrowing (new business, all amounts)",WorldBank_API_FR_INR_LEND_with_ECB_fallback,2026-05-09
+DEU,Germany,2021,ECB.MIR.M.DE.B.A2I.AM.R.A.2240.EUR.N,lending_rate_pct,1.5316666666666665,ECB_SDMX_MIR,annual,True,P2,"Tier 2b — ECB SDMX live (series MIR/M.DE.B.A2I.AM.R.A.2240.EUR.N): monthly→annual mean of NFC composite cost of borrowing (new business, all amounts)",WorldBank_API_FR_INR_LEND_with_ECB_fallback,2026-05-09
+DEU,Germany,2022,ECB.MIR.M.DE.B.A2I.AM.R.A.2240.EUR.N,lending_rate_pct,2.2708333333333335,ECB_SDMX_MIR,annual,True,P2,"Tier 2b — ECB SDMX live (series MIR/M.DE.B.A2I.AM.R.A.2240.EUR.N): monthly→annual mean of NFC composite cost of borrowing (new business, all amounts)",WorldBank_API_FR_INR_LEND_with_ECB_fallback,2026-05-09
+DEU,Germany,2023,ECB.MIR.M.DE.B.A2I.AM.R.A.2240.EUR.N,lending_rate_pct,4.910833333333334,ECB_SDMX_MIR,annual,True,P2,"Tier 2b — ECB SDMX live (series MIR/M.DE.B.A2I.AM.R.A.2240.EUR.N): monthly→annual mean of NFC composite cost of borrowing (new business, all amounts)",WorldBank_API_FR_INR_LEND_with_ECB_fallback,2026-05-09
+DEU,Germany,2024,ECB.MIR.M.DE.B.A2I.AM.R.A.2240.EUR.N,lending_rate_pct,5.163333333333333,ECB_SDMX_MIR,annual,True,P2,"Tier 2b — ECB SDMX live (series MIR/M.DE.B.A2I.AM.R.A.2240.EUR.N): monthly→annual mean of NFC composite cost of borrowing (new business, all amounts)",WorldBank_API_FR_INR_LEND_with_ECB_fallback,2026-05-09
+IND,India,2015,FR.INR.LEND,lending_rate_pct,10.0083333333333,WB_FR_INR_LEND,annual,True,P1,,WorldBank_API_FR_INR_LEND_with_ECB_fallback,2026-05-09
+IND,India,2016,FR.INR.LEND,lending_rate_pct,9.6725,WB_FR_INR_LEND,annual,True,P1,,WorldBank_API_FR_INR_LEND_with_ECB_fallback,2026-05-09
+IND,India,2017,FR.INR.LEND,lending_rate_pct,9.50833333333333,WB_FR_INR_LEND,annual,True,P1,,WorldBank_API_FR_INR_LEND_with_ECB_fallback,2026-05-09
+IND,India,2018,FR.INR.LEND,lending_rate_pct,9.45416666666667,WB_FR_INR_LEND,annual,True,P1,,WorldBank_API_FR_INR_LEND_with_ECB_fallback,2026-05-09
+IND,India,2019,FR.INR.LEND,lending_rate_pct,9.46625,WB_FR_INR_LEND,annual,True,P1,,WorldBank_API_FR_INR_LEND_with_ECB_fallback,2026-05-09
+IND,India,2020,FR.INR.LEND,lending_rate_pct,9.15,WB_FR_INR_LEND,annual,True,P1,,WorldBank_API_FR_INR_LEND_with_ECB_fallback,2026-05-09
+IND,India,2021,FR.INR.LEND,lending_rate_pct,8.69833333333333,WB_FR_INR_LEND,annual,True,P1,,WorldBank_API_FR_INR_LEND_with_ECB_fallback,2026-05-09
+IND,India,2022,FR.INR.LEND,lending_rate_pct,8.56714285714286,WB_FR_INR_LEND,annual,True,P1,,WorldBank_API_FR_INR_LEND_with_ECB_fallback,2026-05-09
+JPN,Japan,2015,FR.INR.LEND,lending_rate_pct,1.14283333333333,WB_FR_INR_LEND,annual,True,P1,,WorldBank_API_FR_INR_LEND_with_ECB_fallback,2026-05-09
+JPN,Japan,2016,FR.INR.LEND,lending_rate_pct,1.04475,WB_FR_INR_LEND,annual,True,P1,,WorldBank_API_FR_INR_LEND_with_ECB_fallback,2026-05-09
+JPN,Japan,2017,FR.INR.LEND,lending_rate_pct,0.994,WB_FR_INR_LEND,annual,True,P1,,WorldBank_API_FR_INR_LEND_with_ECB_fallback,2026-05-09
+KOR,"Korea, Rep.",2015,FR.INR.LEND,lending_rate_pct,3.53333333333333,WB_FR_INR_LEND,annual,True,P1,,WorldBank_API_FR_INR_LEND_with_ECB_fallback,2026-05-09
+KOR,"Korea, Rep.",2016,FR.INR.LEND,lending_rate_pct,3.3675,WB_FR_INR_LEND,annual,True,P1,,WorldBank_API_FR_INR_LEND_with_ECB_fallback,2026-05-09
+KOR,"Korea, Rep.",2017,FR.INR.LEND,lending_rate_pct,3.47666666666666,WB_FR_INR_LEND,annual,True,P1,,WorldBank_API_FR_INR_LEND_with_ECB_fallback,2026-05-09
+KOR,"Korea, Rep.",2018,FR.INR.LEND,lending_rate_pct,3.6625,WB_FR_INR_LEND,annual,True,P1,,WorldBank_API_FR_INR_LEND_with_ECB_fallback,2026-05-09
+KOR,"Korea, Rep.",2019,FR.INR.LEND,lending_rate_pct,3.44583333333333,WB_FR_INR_LEND,annual,True,P1,,WorldBank_API_FR_INR_LEND_with_ECB_fallback,2026-05-09
+KOR,"Korea, Rep.",2020,FR.INR.LEND,lending_rate_pct,2.80166666666667,WB_FR_INR_LEND,annual,True,P1,,WorldBank_API_FR_INR_LEND_with_ECB_fallback,2026-05-09
+KOR,"Korea, Rep.",2021,FR.INR.LEND,lending_rate_pct,2.88416666666667,WB_FR_INR_LEND,annual,True,P1,,WorldBank_API_FR_INR_LEND_with_ECB_fallback,2026-05-09
+KOR,"Korea, Rep.",2022,FR.INR.LEND,lending_rate_pct,4.2925,WB_FR_INR_LEND,annual,True,P1,,WorldBank_API_FR_INR_LEND_with_ECB_fallback,2026-05-09
+KOR,"Korea, Rep.",2023,FR.INR.LEND,lending_rate_pct,5.18916666666667,WB_FR_INR_LEND,annual,True,P1,,WorldBank_API_FR_INR_LEND_with_ECB_fallback,2026-05-09
+KOR,"Korea, Rep.",2024,FR.INR.LEND,lending_rate_pct,4.72666666666667,WB_FR_INR_LEND,annual,True,P1,,WorldBank_API_FR_INR_LEND_with_ECB_fallback,2026-05-09
+MYS,Malaysia,2015,FR.INR.LEND,lending_rate_pct,4.565375,WB_FR_INR_LEND,annual,True,P1,,WorldBank_API_FR_INR_LEND_with_ECB_fallback,2026-05-09
+MYS,Malaysia,2016,FR.INR.LEND,lending_rate_pct,4.53106666666667,WB_FR_INR_LEND,annual,True,P1,,WorldBank_API_FR_INR_LEND_with_ECB_fallback,2026-05-09
+MYS,Malaysia,2017,FR.INR.LEND,lending_rate_pct,4.60807808641975,WB_FR_INR_LEND,annual,True,P1,,WorldBank_API_FR_INR_LEND_with_ECB_fallback,2026-05-09
+MYS,Malaysia,2018,FR.INR.LEND,lending_rate_pct,4.92844038461538,WB_FR_INR_LEND,annual,True,P1,,WorldBank_API_FR_INR_LEND_with_ECB_fallback,2026-05-09
+MYS,Malaysia,2019,FR.INR.LEND,lending_rate_pct,4.87689294871795,WB_FR_INR_LEND,annual,True,P1,,WorldBank_API_FR_INR_LEND_with_ECB_fallback,2026-05-09
+MYS,Malaysia,2020,FR.INR.LEND,lending_rate_pct,3.94420769234615,WB_FR_INR_LEND,annual,True,P1,,WorldBank_API_FR_INR_LEND_with_ECB_fallback,2026-05-09
+MYS,Malaysia,2021,FR.INR.LEND,lending_rate_pct,3.44410640384615,WB_FR_INR_LEND,annual,True,P1,,WorldBank_API_FR_INR_LEND_with_ECB_fallback,2026-05-09
+MYS,Malaysia,2022,FR.INR.LEND,lending_rate_pct,3.90802666666667,WB_FR_INR_LEND,annual,True,P1,,WorldBank_API_FR_INR_LEND_with_ECB_fallback,2026-05-09
+MYS,Malaysia,2023,FR.INR.LEND,lending_rate_pct,5.31737500641025,WB_FR_INR_LEND,annual,True,P1,,WorldBank_API_FR_INR_LEND_with_ECB_fallback,2026-05-09
+MYS,Malaysia,2024,FR.INR.LEND,lending_rate_pct,5.282681,WB_FR_INR_LEND,annual,True,P1,,WorldBank_API_FR_INR_LEND_with_ECB_fallback,2026-05-09
+USA,United States,2015,FR.INR.LEND,lending_rate_pct,3.26,WB_FR_INR_LEND,annual,True,P1,,WorldBank_API_FR_INR_LEND_with_ECB_fallback,2026-05-09
+USA,United States,2016,FR.INR.LEND,lending_rate_pct,3.51166666666667,WB_FR_INR_LEND,annual,True,P1,,WorldBank_API_FR_INR_LEND_with_ECB_fallback,2026-05-09
+USA,United States,2017,FR.INR.LEND,lending_rate_pct,4.09666666666667,WB_FR_INR_LEND,annual,True,P1,,WorldBank_API_FR_INR_LEND_with_ECB_fallback,2026-05-09
+USA,United States,2018,FR.INR.LEND,lending_rate_pct,4.90416666666667,WB_FR_INR_LEND,annual,True,P1,,WorldBank_API_FR_INR_LEND_with_ECB_fallback,2026-05-09
+USA,United States,2019,FR.INR.LEND,lending_rate_pct,5.2825,WB_FR_INR_LEND,annual,True,P1,,WorldBank_API_FR_INR_LEND_with_ECB_fallback,2026-05-09
+USA,United States,2020,FR.INR.LEND,lending_rate_pct,3.54416666666667,WB_FR_INR_LEND,annual,True,P1,,WorldBank_API_FR_INR_LEND_with_ECB_fallback,2026-05-09
+USA,United States,2021,FR.INR.LEND,lending_rate_pct,3.25,WB_FR_INR_LEND,annual,True,P1,,WorldBank_API_FR_INR_LEND_with_ECB_fallback,2026-05-09
+VNM,Viet Nam,2015,FR.INR.LEND,lending_rate_pct,7.1175,WB_FR_INR_LEND,annual,True,P1,,WorldBank_API_FR_INR_LEND_with_ECB_fallback,2026-05-09
+VNM,Viet Nam,2016,FR.INR.LEND,lending_rate_pct,6.96,WB_FR_INR_LEND,annual,True,P1,,WorldBank_API_FR_INR_LEND_with_ECB_fallback,2026-05-09
+VNM,Viet Nam,2017,FR.INR.LEND,lending_rate_pct,7.0675,WB_FR_INR_LEND,annual,True,P1,,WorldBank_API_FR_INR_LEND_with_ECB_fallback,2026-05-09
+VNM,Viet Nam,2018,FR.INR.LEND,lending_rate_pct,7.371875,WB_FR_INR_LEND,annual,True,P1,,WorldBank_API_FR_INR_LEND_with_ECB_fallback,2026-05-09
+VNM,Viet Nam,2019,FR.INR.LEND,lending_rate_pct,7.7075,WB_FR_INR_LEND,annual,True,P1,,WorldBank_API_FR_INR_LEND_with_ECB_fallback,2026-05-09
+VNM,Viet Nam,2020,FR.INR.LEND,lending_rate_pct,7.6475,WB_FR_INR_LEND,annual,True,P1,,WorldBank_API_FR_INR_LEND_with_ECB_fallback,2026-05-09
+VNM,Viet Nam,2021,FR.INR.LEND,lending_rate_pct,7.811,WB_FR_INR_LEND,annual,True,P1,,WorldBank_API_FR_INR_LEND_with_ECB_fallback,2026-05-09
+VNM,Viet Nam,2022,FR.INR.LEND,lending_rate_pct,8.01333333333333,WB_FR_INR_LEND,annual,True,P1,,WorldBank_API_FR_INR_LEND_with_ECB_fallback,2026-05-09
+VNM,Viet Nam,2023,FR.INR.LEND,lending_rate_pct,9.323,WB_FR_INR_LEND,annual,True,P1,,WorldBank_API_FR_INR_LEND_with_ECB_fallback,2026-05-09

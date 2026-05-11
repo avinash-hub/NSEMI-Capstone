@@ -1,0 +1,81 @@
+country_iso3,country_name,year,indicator_code,indicator,total_tax_rate_pct,carry_forward,carry_forward_from,period_granularity,synopsis_aligned,source_priority,data_source,retrieval_date
+CHN,China,2015,IC.TAX.TOTL.CP.ZS,total_tax_rate_pct,68.156016562584,False,,annual,True,P1,WB_DoingBusiness_Archive_DB04_DB20_xlsx,2026-05-09
+CHN,China,2016,IC.TAX.TOTL.CP.ZS,total_tax_rate_pct,66.480573991058,False,,annual,True,P1,WB_DoingBusiness_Archive_DB04_DB20_xlsx,2026-05-09
+CHN,China,2017,IC.TAX.TOTL.CP.ZS,total_tax_rate_pct,63.760451488348,False,,annual,True,P1,WB_DoingBusiness_Archive_DB04_DB20_xlsx,2026-05-09
+CHN,China,2018,IC.TAX.TOTL.CP.ZS,total_tax_rate_pct,60.576511993526,False,,annual,True,P1,WB_DoingBusiness_Archive_DB04_DB20_xlsx,2026-05-09
+CHN,China,2019,IC.TAX.TOTL.CP.ZS,total_tax_rate_pct,60.576511993526,True,2018,annual,True,P1,WB_DoingBusiness_Archive_DB04_DB20_xlsx,2026-05-09
+CHN,China,2020,IC.TAX.TOTL.CP.ZS,total_tax_rate_pct,60.576511993526,True,2018,annual,True,P1,WB_DoingBusiness_Archive_DB04_DB20_xlsx,2026-05-09
+CHN,China,2021,IC.TAX.TOTL.CP.ZS,total_tax_rate_pct,60.576511993526,True,2018,annual,True,P1,WB_DoingBusiness_Archive_DB04_DB20_xlsx,2026-05-09
+CHN,China,2022,IC.TAX.TOTL.CP.ZS,total_tax_rate_pct,60.576511993526,True,2018,annual,True,P1,WB_DoingBusiness_Archive_DB04_DB20_xlsx,2026-05-09
+CHN,China,2023,IC.TAX.TOTL.CP.ZS,total_tax_rate_pct,60.576511993526,True,2018,annual,True,P1,WB_DoingBusiness_Archive_DB04_DB20_xlsx,2026-05-09
+CHN,China,2024,IC.TAX.TOTL.CP.ZS,total_tax_rate_pct,60.576511993526,True,2018,annual,True,P1,WB_DoingBusiness_Archive_DB04_DB20_xlsx,2026-05-09
+DEU,Germany,2015,IC.TAX.TOTL.CP.ZS,total_tax_rate_pct,48.852466131233,False,,annual,True,P1,WB_DoingBusiness_Archive_DB04_DB20_xlsx,2026-05-09
+DEU,Germany,2016,IC.TAX.TOTL.CP.ZS,total_tax_rate_pct,48.89650602201,False,,annual,True,P1,WB_DoingBusiness_Archive_DB04_DB20_xlsx,2026-05-09
+DEU,Germany,2017,IC.TAX.TOTL.CP.ZS,total_tax_rate_pct,48.988972044455,False,,annual,True,P1,WB_DoingBusiness_Archive_DB04_DB20_xlsx,2026-05-09
+DEU,Germany,2018,IC.TAX.TOTL.CP.ZS,total_tax_rate_pct,48.400402159109,False,,annual,True,P1,WB_DoingBusiness_Archive_DB04_DB20_xlsx,2026-05-09
+DEU,Germany,2019,IC.TAX.TOTL.CP.ZS,total_tax_rate_pct,48.400402159109,True,2018,annual,True,P1,WB_DoingBusiness_Archive_DB04_DB20_xlsx,2026-05-09
+DEU,Germany,2020,IC.TAX.TOTL.CP.ZS,total_tax_rate_pct,48.400402159109,True,2018,annual,True,P1,WB_DoingBusiness_Archive_DB04_DB20_xlsx,2026-05-09
+DEU,Germany,2021,IC.TAX.TOTL.CP.ZS,total_tax_rate_pct,48.400402159109,True,2018,annual,True,P1,WB_DoingBusiness_Archive_DB04_DB20_xlsx,2026-05-09
+DEU,Germany,2022,IC.TAX.TOTL.CP.ZS,total_tax_rate_pct,48.400402159109,True,2018,annual,True,P1,WB_DoingBusiness_Archive_DB04_DB20_xlsx,2026-05-09
+DEU,Germany,2023,IC.TAX.TOTL.CP.ZS,total_tax_rate_pct,48.400402159109,True,2018,annual,True,P1,WB_DoingBusiness_Archive_DB04_DB20_xlsx,2026-05-09
+DEU,Germany,2024,IC.TAX.TOTL.CP.ZS,total_tax_rate_pct,48.400402159109,True,2018,annual,True,P1,WB_DoingBusiness_Archive_DB04_DB20_xlsx,2026-05-09
+IND,India,2015,IC.TAX.TOTL.CP.ZS,total_tax_rate_pct,55.687902755447,False,,annual,True,P1,WB_DoingBusiness_Archive_DB04_DB20_xlsx,2026-05-09
+IND,India,2016,IC.TAX.TOTL.CP.ZS,total_tax_rate_pct,56.167215173705,False,,annual,True,P1,WB_DoingBusiness_Archive_DB04_DB20_xlsx,2026-05-09
+IND,India,2017,IC.TAX.TOTL.CP.ZS,total_tax_rate_pct,52.030353594498,False,,annual,True,P1,WB_DoingBusiness_Archive_DB04_DB20_xlsx,2026-05-09
+IND,India,2018,IC.TAX.TOTL.CP.ZS,total_tax_rate_pct,46.209958799022,False,,annual,True,P1,WB_DoingBusiness_Archive_DB04_DB20_xlsx,2026-05-09
+IND,India,2019,IC.TAX.TOTL.CP.ZS,total_tax_rate_pct,46.209958799022,True,2018,annual,True,P1,WB_DoingBusiness_Archive_DB04_DB20_xlsx,2026-05-09
+IND,India,2020,IC.TAX.TOTL.CP.ZS,total_tax_rate_pct,46.209958799022,True,2018,annual,True,P1,WB_DoingBusiness_Archive_DB04_DB20_xlsx,2026-05-09
+IND,India,2021,IC.TAX.TOTL.CP.ZS,total_tax_rate_pct,46.209958799022,True,2018,annual,True,P1,WB_DoingBusiness_Archive_DB04_DB20_xlsx,2026-05-09
+IND,India,2022,IC.TAX.TOTL.CP.ZS,total_tax_rate_pct,46.209958799022,True,2018,annual,True,P1,WB_DoingBusiness_Archive_DB04_DB20_xlsx,2026-05-09
+IND,India,2023,IC.TAX.TOTL.CP.ZS,total_tax_rate_pct,46.209958799022,True,2018,annual,True,P1,WB_DoingBusiness_Archive_DB04_DB20_xlsx,2026-05-09
+IND,India,2024,IC.TAX.TOTL.CP.ZS,total_tax_rate_pct,46.209958799022,True,2018,annual,True,P1,WB_DoingBusiness_Archive_DB04_DB20_xlsx,2026-05-09
+JPN,Japan,2015,IC.TAX.TOTL.CP.ZS,total_tax_rate_pct,48.84515846279,False,,annual,True,P1,WB_DoingBusiness_Archive_DB04_DB20_xlsx,2026-05-09
+JPN,Japan,2016,IC.TAX.TOTL.CP.ZS,total_tax_rate_pct,47.372004092986,False,,annual,True,P1,WB_DoingBusiness_Archive_DB04_DB20_xlsx,2026-05-09
+JPN,Japan,2017,IC.TAX.TOTL.CP.ZS,total_tax_rate_pct,46.744975041614,False,,annual,True,P1,WB_DoingBusiness_Archive_DB04_DB20_xlsx,2026-05-09
+JPN,Japan,2018,IC.TAX.TOTL.CP.ZS,total_tax_rate_pct,46.685424410263,False,,annual,True,P1,WB_DoingBusiness_Archive_DB04_DB20_xlsx,2026-05-09
+JPN,Japan,2019,IC.TAX.TOTL.CP.ZS,total_tax_rate_pct,46.685424410263,True,2018,annual,True,P1,WB_DoingBusiness_Archive_DB04_DB20_xlsx,2026-05-09
+JPN,Japan,2020,IC.TAX.TOTL.CP.ZS,total_tax_rate_pct,46.685424410263,True,2018,annual,True,P1,WB_DoingBusiness_Archive_DB04_DB20_xlsx,2026-05-09
+JPN,Japan,2021,IC.TAX.TOTL.CP.ZS,total_tax_rate_pct,46.685424410263,True,2018,annual,True,P1,WB_DoingBusiness_Archive_DB04_DB20_xlsx,2026-05-09
+JPN,Japan,2022,IC.TAX.TOTL.CP.ZS,total_tax_rate_pct,46.685424410263,True,2018,annual,True,P1,WB_DoingBusiness_Archive_DB04_DB20_xlsx,2026-05-09
+JPN,Japan,2023,IC.TAX.TOTL.CP.ZS,total_tax_rate_pct,46.685424410263,True,2018,annual,True,P1,WB_DoingBusiness_Archive_DB04_DB20_xlsx,2026-05-09
+JPN,Japan,2024,IC.TAX.TOTL.CP.ZS,total_tax_rate_pct,46.685424410263,True,2018,annual,True,P1,WB_DoingBusiness_Archive_DB04_DB20_xlsx,2026-05-09
+KOR,South Korea,2015,IC.TAX.TOTL.CP.ZS,total_tax_rate_pct,33.142633263098,False,,annual,True,P1,WB_DoingBusiness_Archive_DB04_DB20_xlsx,2026-05-09
+KOR,South Korea,2016,IC.TAX.TOTL.CP.ZS,total_tax_rate_pct,33.092499401189,False,,annual,True,P1,WB_DoingBusiness_Archive_DB04_DB20_xlsx,2026-05-09
+KOR,South Korea,2017,IC.TAX.TOTL.CP.ZS,total_tax_rate_pct,33.108020839718,False,,annual,True,P1,WB_DoingBusiness_Archive_DB04_DB20_xlsx,2026-05-09
+KOR,South Korea,2018,IC.TAX.TOTL.CP.ZS,total_tax_rate_pct,33.430067778211,False,,annual,True,P1,WB_DoingBusiness_Archive_DB04_DB20_xlsx,2026-05-09
+KOR,South Korea,2019,IC.TAX.TOTL.CP.ZS,total_tax_rate_pct,33.430067778211,True,2018,annual,True,P1,WB_DoingBusiness_Archive_DB04_DB20_xlsx,2026-05-09
+KOR,South Korea,2020,IC.TAX.TOTL.CP.ZS,total_tax_rate_pct,33.430067778211,True,2018,annual,True,P1,WB_DoingBusiness_Archive_DB04_DB20_xlsx,2026-05-09
+KOR,South Korea,2021,IC.TAX.TOTL.CP.ZS,total_tax_rate_pct,33.430067778211,True,2018,annual,True,P1,WB_DoingBusiness_Archive_DB04_DB20_xlsx,2026-05-09
+KOR,South Korea,2022,IC.TAX.TOTL.CP.ZS,total_tax_rate_pct,33.430067778211,True,2018,annual,True,P1,WB_DoingBusiness_Archive_DB04_DB20_xlsx,2026-05-09
+KOR,South Korea,2023,IC.TAX.TOTL.CP.ZS,total_tax_rate_pct,33.430067778211,True,2018,annual,True,P1,WB_DoingBusiness_Archive_DB04_DB20_xlsx,2026-05-09
+KOR,South Korea,2024,IC.TAX.TOTL.CP.ZS,total_tax_rate_pct,33.430067778211,True,2018,annual,True,P1,WB_DoingBusiness_Archive_DB04_DB20_xlsx,2026-05-09
+MYS,Malaysia,2015,IC.TAX.TOTL.CP.ZS,total_tax_rate_pct,39.287449350922,False,,annual,True,P1,WB_DoingBusiness_Archive_DB04_DB20_xlsx,2026-05-09
+MYS,Malaysia,2016,IC.TAX.TOTL.CP.ZS,total_tax_rate_pct,38.501743095297,False,,annual,True,P1,WB_DoingBusiness_Archive_DB04_DB20_xlsx,2026-05-09
+MYS,Malaysia,2017,IC.TAX.TOTL.CP.ZS,total_tax_rate_pct,38.524747372647,False,,annual,True,P1,WB_DoingBusiness_Archive_DB04_DB20_xlsx,2026-05-09
+MYS,Malaysia,2018,IC.TAX.TOTL.CP.ZS,total_tax_rate_pct,37.852485172531,False,,annual,True,P1,WB_DoingBusiness_Archive_DB04_DB20_xlsx,2026-05-09
+MYS,Malaysia,2019,IC.TAX.TOTL.CP.ZS,total_tax_rate_pct,37.852485172531,True,2018,annual,True,P1,WB_DoingBusiness_Archive_DB04_DB20_xlsx,2026-05-09
+MYS,Malaysia,2020,IC.TAX.TOTL.CP.ZS,total_tax_rate_pct,37.852485172531,True,2018,annual,True,P1,WB_DoingBusiness_Archive_DB04_DB20_xlsx,2026-05-09
+MYS,Malaysia,2021,IC.TAX.TOTL.CP.ZS,total_tax_rate_pct,37.852485172531,True,2018,annual,True,P1,WB_DoingBusiness_Archive_DB04_DB20_xlsx,2026-05-09
+MYS,Malaysia,2022,IC.TAX.TOTL.CP.ZS,total_tax_rate_pct,37.852485172531,True,2018,annual,True,P1,WB_DoingBusiness_Archive_DB04_DB20_xlsx,2026-05-09
+MYS,Malaysia,2023,IC.TAX.TOTL.CP.ZS,total_tax_rate_pct,37.852485172531,True,2018,annual,True,P1,WB_DoingBusiness_Archive_DB04_DB20_xlsx,2026-05-09
+MYS,Malaysia,2024,IC.TAX.TOTL.CP.ZS,total_tax_rate_pct,37.852485172531,True,2018,annual,True,P1,WB_DoingBusiness_Archive_DB04_DB20_xlsx,2026-05-09
+USA,United States,2015,IC.TAX.TOTL.CP.ZS,total_tax_rate_pct,43.838833301099,False,,annual,True,P1,WB_DoingBusiness_Archive_DB04_DB20_xlsx,2026-05-09
+USA,United States,2016,IC.TAX.TOTL.CP.ZS,total_tax_rate_pct,43.68484774867,False,,annual,True,P1,WB_DoingBusiness_Archive_DB04_DB20_xlsx,2026-05-09
+USA,United States,2017,IC.TAX.TOTL.CP.ZS,total_tax_rate_pct,43.676499185874,False,,annual,True,P1,WB_DoingBusiness_Archive_DB04_DB20_xlsx,2026-05-09
+USA,United States,2018,IC.TAX.TOTL.CP.ZS,total_tax_rate_pct,36.318072982563,False,,annual,True,P1,WB_DoingBusiness_Archive_DB04_DB20_xlsx,2026-05-09
+USA,United States,2019,IC.TAX.TOTL.CP.ZS,total_tax_rate_pct,36.318072982563,True,2018,annual,True,P1,WB_DoingBusiness_Archive_DB04_DB20_xlsx,2026-05-09
+USA,United States,2020,IC.TAX.TOTL.CP.ZS,total_tax_rate_pct,36.318072982563,True,2018,annual,True,P1,WB_DoingBusiness_Archive_DB04_DB20_xlsx,2026-05-09
+USA,United States,2021,IC.TAX.TOTL.CP.ZS,total_tax_rate_pct,36.318072982563,True,2018,annual,True,P1,WB_DoingBusiness_Archive_DB04_DB20_xlsx,2026-05-09
+USA,United States,2022,IC.TAX.TOTL.CP.ZS,total_tax_rate_pct,36.318072982563,True,2018,annual,True,P1,WB_DoingBusiness_Archive_DB04_DB20_xlsx,2026-05-09
+USA,United States,2023,IC.TAX.TOTL.CP.ZS,total_tax_rate_pct,36.318072982563,True,2018,annual,True,P1,WB_DoingBusiness_Archive_DB04_DB20_xlsx,2026-05-09
+USA,United States,2024,IC.TAX.TOTL.CP.ZS,total_tax_rate_pct,36.318072982563,True,2018,annual,True,P1,WB_DoingBusiness_Archive_DB04_DB20_xlsx,2026-05-09
+VNM,Vietnam,2015,IC.TAX.TOTL.CP.ZS,total_tax_rate_pct,39.39655719009,False,,annual,True,P1,WB_DoingBusiness_Archive_DB04_DB20_xlsx,2026-05-09
+VNM,Vietnam,2016,IC.TAX.TOTL.CP.ZS,total_tax_rate_pct,38.063176539087,False,,annual,True,P1,WB_DoingBusiness_Archive_DB04_DB20_xlsx,2026-05-09
+VNM,Vietnam,2017,IC.TAX.TOTL.CP.ZS,total_tax_rate_pct,37.821349930425,False,,annual,True,P1,WB_DoingBusiness_Archive_DB04_DB20_xlsx,2026-05-09
+VNM,Vietnam,2018,IC.TAX.TOTL.CP.ZS,total_tax_rate_pct,37.565706292518,False,,annual,True,P1,WB_DoingBusiness_Archive_DB04_DB20_xlsx,2026-05-09
+VNM,Vietnam,2019,IC.TAX.TOTL.CP.ZS,total_tax_rate_pct,37.565706292518,True,2018,annual,True,P1,WB_DoingBusiness_Archive_DB04_DB20_xlsx,2026-05-09
+VNM,Vietnam,2020,IC.TAX.TOTL.CP.ZS,total_tax_rate_pct,37.565706292518,True,2018,annual,True,P1,WB_DoingBusiness_Archive_DB04_DB20_xlsx,2026-05-09
+VNM,Vietnam,2021,IC.TAX.TOTL.CP.ZS,total_tax_rate_pct,37.565706292518,True,2018,annual,True,P1,WB_DoingBusiness_Archive_DB04_DB20_xlsx,2026-05-09
+VNM,Vietnam,2022,IC.TAX.TOTL.CP.ZS,total_tax_rate_pct,37.565706292518,True,2018,annual,True,P1,WB_DoingBusiness_Archive_DB04_DB20_xlsx,2026-05-09
+VNM,Vietnam,2023,IC.TAX.TOTL.CP.ZS,total_tax_rate_pct,37.565706292518,True,2018,annual,True,P1,WB_DoingBusiness_Archive_DB04_DB20_xlsx,2026-05-09
+VNM,Vietnam,2024,IC.TAX.TOTL.CP.ZS,total_tax_rate_pct,37.565706292518,True,2018,annual,True,P1,WB_DoingBusiness_Archive_DB04_DB20_xlsx,2026-05-09

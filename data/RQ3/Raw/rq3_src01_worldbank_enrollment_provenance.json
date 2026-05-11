@@ -1,0 +1,90 @@
+{
+  "script_name": "rq3_src01_worldbank_enrollment",
+  "research_question": "RQ3",
+  "data_source": "WorldBank_API_SE_TER_ENRR_synopsis_5countries",
+  "extraction_start": "2026-05-09T11:02:58.497755+00:00",
+  "extraction_end": "2026-05-09T11:03:00.167861+00:00",
+  "total_api_calls": 1,
+  "total_errors": 0,
+  "errors": [],
+  "output": {
+    "csv_path": "/content/drive/MyDrive/Walsh_Masters/Term-2_Capstone/RQ3/Raw/rq3_unesco_enrollment_panel.csv",
+    "total_rows": 48,
+    "total_columns": 12,
+    "null_cell_count": 0,
+    "null_percentage": 0.0,
+    "column_names": [
+      "country_iso3",
+      "country_name",
+      "year",
+      "enrollment_ratio",
+      "indicator",
+      "indicator_name",
+      "source_authority",
+      "period_granularity",
+      "synopsis_aligned",
+      "source_priority",
+      "data_source",
+      "retrieval_date"
+    ]
+  },
+  "environment": {
+    "python_version": "3.12.13 (main, Mar  4 2026, 09:23:07) [GCC 11.4.0]",
+    "platform": "Linux-6.6.122+-x86_64-with-glibc2.35",
+    "execute_flag": true
+  },
+  "entries_count": 2,
+  "errors_count": 0,
+  "first_entry": {
+    "timestamp": "2026-05-09T11:02:59.389352+00:00",
+    "type": "api_call",
+    "url": "https://api.worldbank.org/v2/country/IND;KOR;MYS;VNM;CHN/indicator/SE.TER.ENRR",
+    "params": {
+      "indicator": "SE.TER.ENRR",
+      "iso3": [
+        "IND",
+        "KOR",
+        "MYS",
+        "VNM",
+        "CHN"
+      ],
+      "year_start": 2015,
+      "year_end": 2024,
+      "audit_by_country": {
+        "IND": {
+          "n_obs": 10,
+          "year_range": "2015-2024",
+          "min_pct": 27.285,
+          "max_pct": 34.418
+        },
+        "KOR": {
+          "n_obs": 10,
+          "year_range": "2015-2024",
+          "min_pct": 93.328,
+          "max_pct": 111.853
+        },
+        "MYS": {
+          "n_obs": 10,
+          "year_range": "2015-2024",
+          "min_pct": 36.985,
+          "max_pct": 45.403
+        },
+        "VNM": {
+          "n_obs": 8,
+          "year_range": "2015-2024",
+          "min_pct": 25.953,
+          "max_pct": 44.754
+        },
+        "CHN": {
+          "n_obs": 10,
+          "year_range": "2015-2024",
+          "min_pct": 47.119,
+          "max_pct": 76.876
+        }
+      }
+    },
+    "http_status": 200,
+    "rows_returned": 48,
+    "notes": "World Bank Open Data + UNESCO UIS mirror; live API call"
+  }
+}

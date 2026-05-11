@@ -1,0 +1,29 @@
+state,fy,energy_requirement_mu,energy_supplied_mu,energy_not_supplied_mu,energy_deficit_pct,period_granularity,synopsis_aligned,source_priority,source_pdf,source_page,source_description,data_source,retrieval_date
+Haryana,2023-24,64488.0,64106.0,382.0,0.6,annual,True,P1,LOAD_GENERATION_BALANCE_REPORT_2024_25.pdf,46,LGBR 2024-25 Annex-II actual review of FY 2023-24,Power_Deficit_P1,2026-05-09
+Himachal Pradesh,2023-24,12808.0,12770.0,39.0,0.3,annual,True,P1,LOAD_GENERATION_BALANCE_REPORT_2024_25.pdf,46,LGBR 2024-25 Annex-II actual review of FY 2023-24,Power_Deficit_P1,2026-05-09
+Punjab,2023-24,69914.0,69908.0,6.0,0.0,annual,True,P1,LOAD_GENERATION_BALANCE_REPORT_2024_25.pdf,46,LGBR 2024-25 Annex-II actual review of FY 2023-24,Power_Deficit_P1,2026-05-09
+Rajasthan,2023-24,108319.0,107641.0,678.0,0.6,annual,True,P1,LOAD_GENERATION_BALANCE_REPORT_2024_25.pdf,46,LGBR 2024-25 Annex-II actual review of FY 2023-24,Power_Deficit_P1,2026-05-09
+Uttar Pradesh,2023-24,150961.0,150441.0,520.0,0.3,annual,True,P1,LOAD_GENERATION_BALANCE_REPORT_2024_25.pdf,46,LGBR 2024-25 Annex-II actual review of FY 2023-24,Power_Deficit_P1,2026-05-09
+Uttarakhand,2023-24,15665.0,15543.0,122.0,0.8,annual,True,P1,LOAD_GENERATION_BALANCE_REPORT_2024_25.pdf,46,LGBR 2024-25 Annex-II actual review of FY 2023-24,Power_Deficit_P1,2026-05-09
+Chhattisgarh,2023-24,39160.0,39097.0,63.0,0.2,annual,True,P1,LOAD_GENERATION_BALANCE_REPORT_2024_25.pdf,46,LGBR 2024-25 Annex-II actual review of FY 2023-24,Power_Deficit_P1,2026-05-09
+Gujarat,2023-24,145998.0,145968.0,30.0,0.0,annual,True,P1,LOAD_GENERATION_BALANCE_REPORT_2024_25.pdf,46,LGBR 2024-25 Annex-II actual review of FY 2023-24,Power_Deficit_P1,2026-05-09
+Madhya Pradesh,2023-24,99328.0,99162.0,166.0,0.2,annual,True,P1,LOAD_GENERATION_BALANCE_REPORT_2024_25.pdf,46,LGBR 2024-25 Annex-II actual review of FY 2023-24,Power_Deficit_P1,2026-05-09
+Maharashtra,2023-24,205829.0,205636.0,193.0,0.1,annual,True,P1,LOAD_GENERATION_BALANCE_REPORT_2024_25.pdf,46,LGBR 2024-25 Annex-II actual review of FY 2023-24,Power_Deficit_P1,2026-05-09
+Goa,2023-24,5059.0,5059.0,0.0,0.0,annual,True,P1,LOAD_GENERATION_BALANCE_REPORT_2024_25.pdf,46,LGBR 2024-25 Annex-II actual review of FY 2023-24,Power_Deficit_P1,2026-05-09
+Andhra Pradesh,2023-24,81367.0,81305.0,62.0,0.1,annual,True,P1,LOAD_GENERATION_BALANCE_REPORT_2024_25.pdf,46,LGBR 2024-25 Annex-II actual review of FY 2023-24,Power_Deficit_P1,2026-05-09
+Karnataka,2023-24,93615.0,92564.0,1051.0,1.1,annual,True,P1,LOAD_GENERATION_BALANCE_REPORT_2024_25.pdf,46,LGBR 2024-25 Annex-II actual review of FY 2023-24,Power_Deficit_P1,2026-05-09
+Kerala,2023-24,30885.0,30880.0,5.0,0.0,annual,True,P1,LOAD_GENERATION_BALANCE_REPORT_2024_25.pdf,46,LGBR 2024-25 Annex-II actual review of FY 2023-24,Power_Deficit_P1,2026-05-09
+Tamil Nadu,2023-24,125889.0,125876.0,12.0,0.0,annual,True,P1,LOAD_GENERATION_BALANCE_REPORT_2024_25.pdf,46,LGBR 2024-25 Annex-II actual review of FY 2023-24,Power_Deficit_P1,2026-05-09
+Telangana,2023-24,86076.0,86066.0,9.0,0.0,annual,True,P1,LOAD_GENERATION_BALANCE_REPORT_2024_25.pdf,46,LGBR 2024-25 Annex-II actual review of FY 2023-24,Power_Deficit_P1,2026-05-09
+Bihar,2023-24,41917.0,41271.0,646.0,1.5,annual,True,P1,LOAD_GENERATION_BALANCE_REPORT_2024_25.pdf,46,LGBR 2024-25 Annex-II actual review of FY 2023-24,Power_Deficit_P1,2026-05-09
+Jharkhand,2023-24,14202.0,13627.0,575.0,4.0,annual,True,P1,LOAD_GENERATION_BALANCE_REPORT_2024_25.pdf,46,LGBR 2024-25 Annex-II actual review of FY 2023-24,Power_Deficit_P1,2026-05-09
+Odisha,2023-24,40993.0,40968.0,25.0,0.1,annual,True,P1,LOAD_GENERATION_BALANCE_REPORT_2024_25.pdf,46,LGBR 2024-25 Annex-II actual review of FY 2023-24,Power_Deficit_P1,2026-05-09
+West Bengal,2023-24,68182.0,68098.0,84.0,0.1,annual,True,P1,LOAD_GENERATION_BALANCE_REPORT_2024_25.pdf,46,LGBR 2024-25 Annex-II actual review of FY 2023-24,Power_Deficit_P1,2026-05-09
+Sikkim,2023-24,547.0,547.0,0.0,0.0,annual,True,P1,LOAD_GENERATION_BALANCE_REPORT_2024_25.pdf,46,LGBR 2024-25 Annex-II actual review of FY 2023-24,Power_Deficit_P1,2026-05-09
+Arunachal Pradesh,2023-24,1005.0,1005.0,0.0,0.0,annual,True,P1,LOAD_GENERATION_BALANCE_REPORT_2024_25.pdf,46,LGBR 2024-25 Annex-II actual review of FY 2023-24,Power_Deficit_P1,2026-05-09
+Assam,2023-24,12499.0,12385.0,115.0,0.9,annual,True,P1,LOAD_GENERATION_BALANCE_REPORT_2024_25.pdf,46,LGBR 2024-25 Annex-II actual review of FY 2023-24,Power_Deficit_P1,2026-05-09
+Manipur,2023-24,1013.0,996.0,17.0,1.6,annual,True,P1,LOAD_GENERATION_BALANCE_REPORT_2024_25.pdf,46,LGBR 2024-25 Annex-II actual review of FY 2023-24,Power_Deficit_P1,2026-05-09
+Meghalaya,2023-24,2265.0,2078.0,187.0,8.3,annual,True,P1,LOAD_GENERATION_BALANCE_REPORT_2024_25.pdf,46,LGBR 2024-25 Annex-II actual review of FY 2023-24,Power_Deficit_P1,2026-05-09
+Mizoram,2023-24,687.0,687.0,0.0,0.0,annual,True,P1,LOAD_GENERATION_BALANCE_REPORT_2024_25.pdf,46,LGBR 2024-25 Annex-II actual review of FY 2023-24,Power_Deficit_P1,2026-05-09
+Nagaland,2023-24,924.0,924.0,0.0,0.0,annual,True,P1,LOAD_GENERATION_BALANCE_REPORT_2024_25.pdf,46,LGBR 2024-25 Annex-II actual review of FY 2023-24,Power_Deficit_P1,2026-05-09
+Tripura,2023-24,1695.0,1695.0,0.0,0.0,annual,True,P1,LOAD_GENERATION_BALANCE_REPORT_2024_25.pdf,46,LGBR 2024-25 Annex-II actual review of FY 2023-24,Power_Deficit_P1,2026-05-09

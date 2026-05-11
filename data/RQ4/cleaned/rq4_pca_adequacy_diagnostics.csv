@@ -1,0 +1,2 @@
+kmo_overall,kmo_lending,kmo_corp_tax,kmo_total_tax,kmo_electricity,bartlett_chi2,bartlett_p,kmo_threshold,bartlett_threshold,pca_adequate,aggregation_method,n_obs,n_dimensions
+0.3725,0.4173,0.3946,0.2468,0.3994,83.0611,7.771561172376096e-16,0.6,0.05,False,equal_weighted_OECD_§6_fallback,80,4

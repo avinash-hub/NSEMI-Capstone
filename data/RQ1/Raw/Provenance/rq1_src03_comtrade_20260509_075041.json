@@ -1,0 +1,502 @@
+{
+  "script_name": "rq1_src03_comtrade",
+  "research_question": "RQ1",
+  "data_source": "UN_Comtrade_API",
+  "extraction_start": "2026-05-09T07:47:16.945529+00:00",
+  "extraction_end": "2026-05-09T07:50:41.642549+00:00",
+  "total_api_calls": 32,
+  "total_errors": 0,
+  "entries": [
+    {
+      "timestamp": "2026-05-09T07:47:18.257295+00:00",
+      "type": "api_call",
+      "url": "https://comtradeapi.un.org/data/v1/get/C/A/356/0/3818",
+      "params": {
+        "reporter": "India",
+        "hs": "3818",
+        "years": "2016,2017,2018,2019,2020,2021,2022,2023,2024",
+        "flow": "M"
+      },
+      "http_status": 200,
+      "rows_returned": 0,
+      "notes": "India HS 3818 Raw_Materials"
+    },
+    {
+      "timestamp": "2026-05-09T07:47:20.353564+00:00",
+      "type": "api_call",
+      "url": "https://comtradeapi.un.org/data/v1/get/C/A/356/0/8486",
+      "params": {
+        "reporter": "India",
+        "hs": "8486",
+        "years": "2016,2017,2018,2019,2020,2021,2022,2023,2024",
+        "flow": "M"
+      },
+      "http_status": 200,
+      "rows_returned": 0,
+      "notes": "India HS 8486 Equipment"
+    },
+    {
+      "timestamp": "2026-05-09T07:47:22.946398+00:00",
+      "type": "api_call",
+      "url": "https://comtradeapi.un.org/data/v1/get/C/A/356/0/8541",
+      "params": {
+        "reporter": "India",
+        "hs": "8541",
+        "years": "2016,2017,2018,2019,2020,2021,2022,2023,2024",
+        "flow": "M"
+      },
+      "http_status": 200,
+      "rows_returned": 0,
+      "notes": "India HS 8541 Devices"
+    },
+    {
+      "timestamp": "2026-05-09T07:47:25.030315+00:00",
+      "type": "api_call",
+      "url": "https://comtradeapi.un.org/data/v1/get/C/A/356/0/8542",
+      "params": {
+        "reporter": "India",
+        "hs": "8542",
+        "years": "2016,2017,2018,2019,2020,2021,2022,2023,2024",
+        "flow": "M"
+      },
+      "http_status": 200,
+      "rows_returned": 0,
+      "notes": "India HS 8542 ICs"
+    },
+    {
+      "timestamp": "2026-05-09T07:47:33.463748+00:00",
+      "type": "api_call",
+      "url": "https://comtradeapi.un.org/data/v1/get/C/A/410/0/3818",
+      "params": {
+        "reporter": "South Korea",
+        "hs": "3818",
+        "years": "2016,2017,2018,2019,2020,2021,2022,2023,2024",
+        "flow": "M"
+      },
+      "http_status": 200,
+      "rows_returned": 9,
+      "notes": "South Korea HS 3818 Raw_Materials"
+    },
+    {
+      "timestamp": "2026-05-09T07:47:43.481360+00:00",
+      "type": "api_call",
+      "url": "https://comtradeapi.un.org/data/v1/get/C/A/410/0/8486",
+      "params": {
+        "reporter": "South Korea",
+        "hs": "8486",
+        "years": "2016,2017,2018,2019,2020,2021,2022,2023,2024",
+        "flow": "M"
+      },
+      "http_status": 200,
+      "rows_returned": 9,
+      "notes": "South Korea HS 8486 Equipment"
+    },
+    {
+      "timestamp": "2026-05-09T07:47:52.545576+00:00",
+      "type": "api_call",
+      "url": "https://comtradeapi.un.org/data/v1/get/C/A/410/0/8541",
+      "params": {
+        "reporter": "South Korea",
+        "hs": "8541",
+        "years": "2016,2017,2018,2019,2020,2021,2022,2023,2024",
+        "flow": "M"
+      },
+      "http_status": 200,
+      "rows_returned": 9,
+      "notes": "South Korea HS 8541 Devices"
+    },
+    {
+      "timestamp": "2026-05-09T07:48:00.968385+00:00",
+      "type": "api_call",
+      "url": "https://comtradeapi.un.org/data/v1/get/C/A/410/0/8542",
+      "params": {
+        "reporter": "South Korea",
+        "hs": "8542",
+        "years": "2016,2017,2018,2019,2020,2021,2022,2023,2024",
+        "flow": "M"
+      },
+      "http_status": 200,
+      "rows_returned": 9,
+      "notes": "South Korea HS 8542 ICs"
+    },
+    {
+      "timestamp": "2026-05-09T07:48:11.385468+00:00",
+      "type": "api_call",
+      "url": "https://comtradeapi.un.org/data/v1/get/C/A/156/0/3818",
+      "params": {
+        "reporter": "China",
+        "hs": "3818",
+        "years": "2016,2017,2018,2019,2020,2021,2022,2023,2024",
+        "flow": "M"
+      },
+      "http_status": 200,
+      "rows_returned": 85,
+      "notes": "China HS 3818 Raw_Materials"
+    },
+    {
+      "timestamp": "2026-05-09T07:48:22.146800+00:00",
+      "type": "api_call",
+      "url": "https://comtradeapi.un.org/data/v1/get/C/A/156/0/8486",
+      "params": {
+        "reporter": "China",
+        "hs": "8486",
+        "years": "2016,2017,2018,2019,2020,2021,2022,2023,2024",
+        "flow": "M"
+      },
+      "http_status": 200,
+      "rows_returned": 99,
+      "notes": "China HS 8486 Equipment"
+    },
+    {
+      "timestamp": "2026-05-09T07:48:30.407547+00:00",
+      "type": "api_call",
+      "url": "https://comtradeapi.un.org/data/v1/get/C/A/156/0/8541",
+      "params": {
+        "reporter": "China",
+        "hs": "8541",
+        "years": "2016,2017,2018,2019,2020,2021,2022,2023,2024",
+        "flow": "M"
+      },
+      "http_status": 200,
+      "rows_returned": 161,
+      "notes": "China HS 8541 Devices"
+    },
+    {
+      "timestamp": "2026-05-09T07:48:37.094469+00:00",
+      "type": "api_call",
+      "url": "https://comtradeapi.un.org/data/v1/get/C/A/156/0/8542",
+      "params": {
+        "reporter": "China",
+        "hs": "8542",
+        "years": "2016,2017,2018,2019,2020,2021,2022,2023,2024",
+        "flow": "M"
+      },
+      "http_status": 200,
+      "rows_returned": 171,
+      "notes": "China HS 8542 ICs"
+    },
+    {
+      "timestamp": "2026-05-09T07:48:46.231981+00:00",
+      "type": "api_call",
+      "url": "https://comtradeapi.un.org/data/v1/get/C/A/842/0/3818",
+      "params": {
+        "reporter": "USA",
+        "hs": "3818",
+        "years": "2016,2017,2018,2019,2020,2021,2022,2023,2024",
+        "flow": "M"
+      },
+      "http_status": 200,
+      "rows_returned": 9,
+      "notes": "USA HS 3818 Raw_Materials"
+    },
+    {
+      "timestamp": "2026-05-09T07:48:56.505393+00:00",
+      "type": "api_call",
+      "url": "https://comtradeapi.un.org/data/v1/get/C/A/842/0/8486",
+      "params": {
+        "reporter": "USA",
+        "hs": "8486",
+        "years": "2016,2017,2018,2019,2020,2021,2022,2023,2024",
+        "flow": "M"
+      },
+      "http_status": 200,
+      "rows_returned": 9,
+      "notes": "USA HS 8486 Equipment"
+    },
+    {
+      "timestamp": "2026-05-09T07:49:06.023210+00:00",
+      "type": "api_call",
+      "url": "https://comtradeapi.un.org/data/v1/get/C/A/842/0/8541",
+      "params": {
+        "reporter": "USA",
+        "hs": "8541",
+        "years": "2016,2017,2018,2019,2020,2021,2022,2023,2024",
+        "flow": "M"
+      },
+      "http_status": 200,
+      "rows_returned": 9,
+      "notes": "USA HS 8541 Devices"
+    },
+    {
+      "timestamp": "2026-05-09T07:49:13.540708+00:00",
+      "type": "api_call",
+      "url": "https://comtradeapi.un.org/data/v1/get/C/A/842/0/8542",
+      "params": {
+        "reporter": "USA",
+        "hs": "8542",
+        "years": "2016,2017,2018,2019,2020,2021,2022,2023,2024",
+        "flow": "M"
+      },
+      "http_status": 200,
+      "rows_returned": 9,
+      "notes": "USA HS 8542 ICs"
+    },
+    {
+      "timestamp": "2026-05-09T07:49:19.277571+00:00",
+      "type": "api_call",
+      "url": "https://comtradeapi.un.org/data/v1/get/C/A/458/0/3818",
+      "params": {
+        "reporter": "Malaysia",
+        "hs": "3818",
+        "years": "2016,2017,2018,2019,2020,2021,2022,2023,2024",
+        "flow": "M"
+      },
+      "http_status": 200,
+      "rows_returned": 33,
+      "notes": "Malaysia HS 3818 Raw_Materials"
+    },
+    {
+      "timestamp": "2026-05-09T07:49:25.667829+00:00",
+      "type": "api_call",
+      "url": "https://comtradeapi.un.org/data/v1/get/C/A/458/0/8486",
+      "params": {
+        "reporter": "Malaysia",
+        "hs": "8486",
+        "years": "2016,2017,2018,2019,2020,2021,2022,2023,2024",
+        "flow": "M"
+      },
+      "http_status": 200,
+      "rows_returned": 33,
+      "notes": "Malaysia HS 8486 Equipment"
+    },
+    {
+      "timestamp": "2026-05-09T07:49:29.944001+00:00",
+      "type": "api_call",
+      "url": "https://comtradeapi.un.org/data/v1/get/C/A/458/0/8541",
+      "params": {
+        "reporter": "Malaysia",
+        "hs": "8541",
+        "years": "2016,2017,2018,2019,2020,2021,2022,2023,2024",
+        "flow": "M"
+      },
+      "http_status": 200,
+      "rows_returned": 33,
+      "notes": "Malaysia HS 8541 Devices"
+    },
+    {
+      "timestamp": "2026-05-09T07:49:33.931267+00:00",
+      "type": "api_call",
+      "url": "https://comtradeapi.un.org/data/v1/get/C/A/458/0/8542",
+      "params": {
+        "reporter": "Malaysia",
+        "hs": "8542",
+        "years": "2016,2017,2018,2019,2020,2021,2022,2023,2024",
+        "flow": "M"
+      },
+      "http_status": 200,
+      "rows_returned": 33,
+      "notes": "Malaysia HS 8542 ICs"
+    },
+    {
+      "timestamp": "2026-05-09T07:49:39.703978+00:00",
+      "type": "api_call",
+      "url": "https://comtradeapi.un.org/data/v1/get/C/A/704/0/3818",
+      "params": {
+        "reporter": "Vietnam",
+        "hs": "3818",
+        "years": "2016,2017,2018,2019,2020,2021,2022,2023,2024",
+        "flow": "M"
+      },
+      "http_status": 200,
+      "rows_returned": 14,
+      "notes": "Vietnam HS 3818 Raw_Materials"
+    },
+    {
+      "timestamp": "2026-05-09T07:49:44.773450+00:00",
+      "type": "api_call",
+      "url": "https://comtradeapi.un.org/data/v1/get/C/A/704/0/8486",
+      "params": {
+        "reporter": "Vietnam",
+        "hs": "8486",
+        "years": "2016,2017,2018,2019,2020,2021,2022,2023,2024",
+        "flow": "M"
+      },
+      "http_status": 200,
+      "rows_returned": 16,
+      "notes": "Vietnam HS 8486 Equipment"
+    },
+    {
+      "timestamp": "2026-05-09T07:49:52.614748+00:00",
+      "type": "api_call",
+      "url": "https://comtradeapi.un.org/data/v1/get/C/A/704/0/8541",
+      "params": {
+        "reporter": "Vietnam",
+        "hs": "8541",
+        "years": "2016,2017,2018,2019,2020,2021,2022,2023,2024",
+        "flow": "M"
+      },
+      "http_status": 200,
+      "rows_returned": 16,
+      "notes": "Vietnam HS 8541 Devices"
+    },
+    {
+      "timestamp": "2026-05-09T07:49:58.122795+00:00",
+      "type": "api_call",
+      "url": "https://comtradeapi.un.org/data/v1/get/C/A/704/0/8542",
+      "params": {
+        "reporter": "Vietnam",
+        "hs": "8542",
+        "years": "2016,2017,2018,2019,2020,2021,2022,2023,2024",
+        "flow": "M"
+      },
+      "http_status": 200,
+      "rows_returned": 16,
+      "notes": "Vietnam HS 8542 ICs"
+    },
+    {
+      "timestamp": "2026-05-09T07:50:05.124742+00:00",
+      "type": "api_call",
+      "url": "https://comtradeapi.un.org/data/v1/get/C/A/276/0/3818",
+      "params": {
+        "reporter": "Germany",
+        "hs": "3818",
+        "years": "2016,2017,2018,2019,2020,2021,2022,2023,2024",
+        "flow": "M"
+      },
+      "http_status": 200,
+      "rows_returned": 500,
+      "notes": "Germany HS 3818 Raw_Materials"
+    },
+    {
+      "timestamp": "2026-05-09T07:50:13.798281+00:00",
+      "type": "api_call",
+      "url": "https://comtradeapi.un.org/data/v1/get/C/A/276/0/8486",
+      "params": {
+        "reporter": "Germany",
+        "hs": "8486",
+        "years": "2016,2017,2018,2019,2020,2021,2022,2023,2024",
+        "flow": "M"
+      },
+      "http_status": 200,
+      "rows_returned": 500,
+      "notes": "Germany HS 8486 Equipment"
+    },
+    {
+      "timestamp": "2026-05-09T07:50:19.241770+00:00",
+      "type": "api_call",
+      "url": "https://comtradeapi.un.org/data/v1/get/C/A/276/0/8541",
+      "params": {
+        "reporter": "Germany",
+        "hs": "8541",
+        "years": "2016,2017,2018,2019,2020,2021,2022,2023,2024",
+        "flow": "M"
+      },
+      "http_status": 200,
+      "rows_returned": 500,
+      "notes": "Germany HS 8541 Devices"
+    },
+    {
+      "timestamp": "2026-05-09T07:50:24.471755+00:00",
+      "type": "api_call",
+      "url": "https://comtradeapi.un.org/data/v1/get/C/A/276/0/8542",
+      "params": {
+        "reporter": "Germany",
+        "hs": "8542",
+        "years": "2016,2017,2018,2019,2020,2021,2022,2023,2024",
+        "flow": "M"
+      },
+      "http_status": 200,
+      "rows_returned": 500,
+      "notes": "Germany HS 8542 ICs"
+    },
+    {
+      "timestamp": "2026-05-09T07:50:28.298654+00:00",
+      "type": "api_call",
+      "url": "https://comtradeapi.un.org/data/v1/get/C/A/392/0/3818",
+      "params": {
+        "reporter": "Japan",
+        "hs": "3818",
+        "years": "2016,2017,2018,2019,2020,2021,2022,2023,2024",
+        "flow": "M"
+      },
+      "http_status": 200,
+      "rows_returned": 9,
+      "notes": "Japan HS 3818 Raw_Materials"
+    },
+    {
+      "timestamp": "2026-05-09T07:50:32.119133+00:00",
+      "type": "api_call",
+      "url": "https://comtradeapi.un.org/data/v1/get/C/A/392/0/8486",
+      "params": {
+        "reporter": "Japan",
+        "hs": "8486",
+        "years": "2016,2017,2018,2019,2020,2021,2022,2023,2024",
+        "flow": "M"
+      },
+      "http_status": 200,
+      "rows_returned": 9,
+      "notes": "Japan HS 8486 Equipment"
+    },
+    {
+      "timestamp": "2026-05-09T07:50:35.923536+00:00",
+      "type": "api_call",
+      "url": "https://comtradeapi.un.org/data/v1/get/C/A/392/0/8541",
+      "params": {
+        "reporter": "Japan",
+        "hs": "8541",
+        "years": "2016,2017,2018,2019,2020,2021,2022,2023,2024",
+        "flow": "M"
+      },
+      "http_status": 200,
+      "rows_returned": 9,
+      "notes": "Japan HS 8541 Devices"
+    },
+    {
+      "timestamp": "2026-05-09T07:50:40.078643+00:00",
+      "type": "api_call",
+      "url": "https://comtradeapi.un.org/data/v1/get/C/A/392/0/8542",
+      "params": {
+        "reporter": "Japan",
+        "hs": "8542",
+        "years": "2016,2017,2018,2019,2020,2021,2022,2023,2024",
+        "flow": "M"
+      },
+      "http_status": 200,
+      "rows_returned": 9,
+      "notes": "Japan HS 8542 ICs"
+    },
+    {
+      "timestamp": "2026-05-09T07:50:41.587907+00:00",
+      "type": "transform",
+      "operation": "compile_comtrade",
+      "input_rows": 2818,
+      "output_rows": 2818,
+      "columns": [
+        "reporter_code",
+        "reporter_name",
+        "year",
+        "hs_code",
+        "segment",
+        "flow",
+        "trade_value_usd",
+        "quantity"
+      ],
+      "notes": "UN Comtrade Annual Imports \u2014 8 reporters \u00d7 4 HS \u00d7 9 years"
+    }
+  ],
+  "errors": [],
+  "output": {
+    "csv_path": "/content/drive/MyDrive/Walsh_Masters/Term-2_Capstone/RQ1/Raw/rq1_comtrade_crosscountry.csv",
+    "total_rows": 2818,
+    "total_columns": 10,
+    "null_cell_count": 9,
+    "null_percentage": 0.03,
+    "column_names": [
+      "reporter_code",
+      "reporter_name",
+      "year",
+      "hs_code",
+      "segment",
+      "flow",
+      "trade_value_usd",
+      "quantity",
+      "data_source",
+      "retrieval_date"
+    ]
+  },
+  "environment": {
+    "python_version": "3.12.13 (main, Mar  4 2026, 09:23:07) [GCC 11.4.0]",
+    "platform": "Linux-6.6.122+-x86_64-with-glibc2.35",
+    "execute_flag": true
+  }
+}

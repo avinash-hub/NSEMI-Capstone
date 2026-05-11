@@ -1,0 +1,147 @@
+{
+  "script_name": "rq4_src05_ism_pdf_extraction",
+  "research_question": "RQ4",
+  "data_source": "PIB_ISM_PDFs_live_parse",
+  "extraction_start": "2026-05-09T11:22:25.787184+00:00",
+  "extraction_end": "2026-05-09T11:22:33.467083+00:00",
+  "total_api_calls": 6,
+  "total_errors": 0,
+  "errors": [],
+  "transform_log": [
+    {
+      "timestamp": "2026-05-09T11:22:26.865556+00:00",
+      "type": "api_call",
+      "url": "file:///content/drive/MyDrive/Walsh_Masters/Term-2_Capstone/RQ4/PDFs/ism_pib_releases/PIB_PRID_1983128.pdf",
+      "params": {
+        "prid": "1983128",
+        "lib": "pdfplumber"
+      },
+      "http_status": 200,
+      "rows_returned": 2392,
+      "notes": "PDF text extraction"
+    },
+    {
+      "timestamp": "2026-05-09T11:22:27.955418+00:00",
+      "type": "api_call",
+      "url": "file:///content/drive/MyDrive/Walsh_Masters/Term-2_Capstone/RQ4/PDFs/ism_pib_releases/PIB_PRID_2010132.pdf",
+      "params": {
+        "prid": "2010132",
+        "lib": "pdfplumber"
+      },
+      "http_status": 200,
+      "rows_returned": 4230,
+      "notes": "PDF text extraction"
+    },
+    {
+      "timestamp": "2026-05-09T11:22:29.247671+00:00",
+      "type": "api_call",
+      "url": "file:///content/drive/MyDrive/Walsh_Masters/Term-2_Capstone/RQ4/PDFs/ism_pib_releases/PIB_PRID_2050859.pdf",
+      "params": {
+        "prid": "2050859",
+        "lib": "pdfplumber"
+      },
+      "http_status": 200,
+      "rows_returned": 2088,
+      "notes": "PDF text extraction"
+    },
+    {
+      "timestamp": "2026-05-09T11:22:30.635814+00:00",
+      "type": "api_call",
+      "url": "file:///content/drive/MyDrive/Walsh_Masters/Term-2_Capstone/RQ4/PDFs/ism_pib_releases/PIB_PRID_2128605.pdf",
+      "params": {
+        "prid": "2128605",
+        "lib": "pdfplumber"
+      },
+      "http_status": 200,
+      "rows_returned": 2722,
+      "notes": "PDF text extraction"
+    },
+    {
+      "timestamp": "2026-05-09T11:22:32.183927+00:00",
+      "type": "api_call",
+      "url": "file:///content/drive/MyDrive/Walsh_Masters/Term-2_Capstone/RQ4/PDFs/ism_pib_releases/PIB_PRID_2155456.pdf",
+      "params": {
+        "prid": "2155456",
+        "lib": "pdfplumber"
+      },
+      "http_status": 200,
+      "rows_returned": 5106,
+      "notes": "PDF text extraction"
+    },
+    {
+      "timestamp": "2026-05-09T11:22:33.205937+00:00",
+      "type": "api_call",
+      "url": "file:///content/drive/MyDrive/Walsh_Masters/Term-2_Capstone/RQ4/PDFs/ism_pib_releases/PIB_PRID_2258119.pdf",
+      "params": {
+        "prid": "2258119",
+        "lib": "pdfplumber"
+      },
+      "http_status": 200,
+      "rows_returned": 3204,
+      "notes": "PDF text extraction"
+    },
+    {
+      "timestamp": "2026-05-09T11:22:33.238807+00:00",
+      "type": "transform",
+      "operation": "parse_pib_pdfs_nearest_match",
+      "input_rows": 6,
+      "output_rows": 12,
+      "columns": [
+        "project_id",
+        "company",
+        "canonical_company",
+        "state",
+        "project_type",
+        "total_investment_inr_cr",
+        "subsidy_amount_inr_cr",
+        "subsidy_intensity_pct",
+        "scheme_ceiling_pct",
+        "scheme",
+        "investment_method",
+        "pib_prid",
+        "pib_url",
+        "posted_date",
+        "cumulative_investment_in_press_release_inr_cr",
+        "projects_announced_in_press_release",
+        "source_pdf",
+        "text_excerpt"
+      ],
+      "notes": "Live extraction with nearest-match investment finder + 4-step post-processing"
+    }
+  ],
+  "output": {
+    "csv_path": "/content/drive/MyDrive/Walsh_Masters/Term-2_Capstone/RQ4/Raw/rq4_ism_subsidy_parameters.csv",
+    "total_rows": 12,
+    "total_columns": 20,
+    "null_cell_count": 16,
+    "null_percentage": 6.67,
+    "column_names": [
+      "project_id",
+      "company",
+      "canonical_company",
+      "state",
+      "project_type",
+      "total_investment_inr_cr",
+      "subsidy_amount_inr_cr",
+      "subsidy_intensity_pct",
+      "scheme_ceiling_pct",
+      "scheme",
+      "investment_method",
+      "pib_prid",
+      "pib_url",
+      "posted_date",
+      "cumulative_investment_in_press_release_inr_cr",
+      "projects_announced_in_press_release",
+      "source_pdf",
+      "text_excerpt",
+      "data_source",
+      "retrieval_date"
+    ]
+  },
+  "environment": {
+    "python_version": "3.12.13",
+    "platform": "Linux-6.6.122+-x86_64-with-glibc2.35",
+    "pandas_version": "2.2.2",
+    "numpy_version": "2.0.2"
+  }
+}
